@@ -1,6 +1,6 @@
 {
-  "fetched_at_utc": "2026-04-17T08:16:06.787579+00:00",
-  "fetched_at_shanghai": "2026-04-17 16:16:06 UTC+8",
+  "fetched_at_utc": "2026-04-17T08:29:54.772739+00:00",
+  "fetched_at_shanghai": "2026-04-17 16:29:54 UTC+8",
   "query": "topic:ai archived:false is:public created:>=2026-03-18 stars:>10",
   "total_count": 410,
   "top_n": 20,
@@ -10,11 +10,11 @@
       "html_url": "https://github.com/MemPalace/mempalace",
       "description": "The best-benchmarked open-source AI memory system. And it's free.",
       "language": "Python",
-      "stargazers_count": 47269,
+      "stargazers_count": 47272,
       "forks_count": 6174,
       "open_issues_count": 383,
       "created_at": "2026-04-05T01:12:07Z",
-      "updated_at": "2026-04-17T08:15:14Z",
+      "updated_at": "2026-04-17T08:26:37Z",
       "topics": [
         "ai",
         "chromadb",
@@ -24,18 +24,18 @@
         "python"
       ],
       "owner": "MemPalace",
-      "growth": 47269
+      "growth": 47272
     },
     {
       "full_name": "JuliusBrussee/caveman",
       "html_url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "language": "Python",
-      "stargazers_count": 35692,
-      "forks_count": 1690,
-      "open_issues_count": 98,
+      "stargazers_count": 35721,
+      "forks_count": 1691,
+      "open_issues_count": 97,
       "created_at": "2026-04-04T10:03:00Z",
-      "updated_at": "2026-04-17T08:15:49Z",
+      "updated_at": "2026-04-17T08:29:37Z",
       "topics": [
         "ai",
         "anthropic",
@@ -49,18 +49,18 @@
         "tokens"
       ],
       "owner": "JuliusBrussee",
-      "growth": 35692
+      "growth": 35721
     },
     {
       "full_name": "rohitg00/ai-engineering-from-scratch",
       "html_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stargazers_count": 3382,
-      "forks_count": 704,
+      "stargazers_count": 3389,
+      "forks_count": 708,
       "open_issues_count": 3,
       "created_at": "2026-03-18T18:38:02Z",
-      "updated_at": "2026-04-17T08:15:25Z",
+      "updated_at": "2026-04-17T08:26:52Z",
       "topics": [
         "agents",
         "ai",
@@ -84,18 +84,18 @@
         "typescript"
       ],
       "owner": "rohitg00",
-      "growth": 3382
+      "growth": 3389
     },
     {
       "full_name": "holaboss-ai/holaOS",
       "html_url": "https://github.com/holaboss-ai/holaOS",
       "description": "The agent environment for long-horizon work, continuity, and self-evolution.",
       "language": "TypeScript",
-      "stargazers_count": 2737,
+      "stargazers_count": 2739,
       "forks_count": 235,
       "open_issues_count": 6,
       "created_at": "2026-03-22T07:36:16Z",
-      "updated_at": "2026-04-17T08:10:16Z",
+      "updated_at": "2026-04-17T08:19:17Z",
       "topics": [
         "agent",
         "agent-harness",
@@ -119,7 +119,7 @@
         "workspace"
       ],
       "owner": "holaboss-ai",
-      "growth": 2737
+      "growth": 2739
     },
     {
       "full_name": "alvinreal/awesome-opensource-ai",
@@ -128,9 +128,9 @@
       "language": "Python",
       "stargazers_count": 2632,
       "forks_count": 243,
-      "open_issues_count": 30,
+      "open_issues_count": 14,
       "created_at": "2026-03-24T15:58:22Z",
-      "updated_at": "2026-04-17T08:07:44Z",
+      "updated_at": "2026-04-17T08:24:43Z",
       "topics": [
         "agents",
         "ai",
@@ -153,11 +153,11 @@
       "html_url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stargazers_count": 2430,
+      "stargazers_count": 2435,
       "forks_count": 446,
       "open_issues_count": 13,
       "created_at": "2026-03-29T15:23:22Z",
-      "updated_at": "2026-04-17T08:11:55Z",
+      "updated_at": "2026-04-17T08:27:48Z",
       "topics": [
         "agent",
         "agentic-ai",
@@ -180,7 +180,7 @@
         "video-production"
       ],
       "owner": "calesthio",
-      "growth": 2430
+      "growth": 2435
     },
     {
       "full_name": "CoderLuii/HolyClaude",
@@ -492,7 +492,7 @@
       "description": "Build your own Claude Code from scratch.  🔍 Claude Code 开源了 50 万行代码，读不动？用 ~4000 行 TypeScript / Python 从零复现核心架构，11 章分步教程带你理解 coding agent 精髓",
       "language": "Python",
       "stargazers_count": 937,
-      "forks_count": 322,
+      "forks_count": 323,
       "open_issues_count": 0,
       "created_at": "2026-03-31T12:26:06Z",
       "updated_at": "2026-04-17T07:22:25Z",
@@ -516,11 +516,11 @@
       "html_url": "https://github.com/Houseofmvps/codesight",
       "description": "Universal AI context generator. Saves thousands of tokens per conversation in Claude Code, Cursor, Copilot, Codex, and more.",
       "language": "TypeScript",
-      "stargazers_count": 915,
+      "stargazers_count": 916,
       "forks_count": 89,
       "open_issues_count": 0,
       "created_at": "2026-04-04T18:10:16Z",
-      "updated_at": "2026-04-17T08:11:16Z",
+      "updated_at": "2026-04-17T08:16:49Z",
       "topics": [
         "ai",
         "claude",
@@ -538,7 +538,7 @@
         "token-savings"
       ],
       "owner": "Houseofmvps",
-      "growth": 915
+      "growth": 916
     },
     {
       "full_name": "austin-weeks/miasma",
@@ -589,18 +589,18 @@
       "html_url": "https://github.com/Tencent-Hunyuan/HY-World-2.0",
       "description": "HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds",
       "language": "Python",
-      "stargazers_count": 889,
+      "stargazers_count": 891,
       "forks_count": 53,
       "open_issues_count": 5,
       "created_at": "2026-04-10T07:09:43Z",
-      "updated_at": "2026-04-17T08:15:46Z",
+      "updated_at": "2026-04-17T08:23:11Z",
       "topics": [
         "3d",
         "ai",
         "worldmodel"
       ],
       "owner": "Tencent-Hunyuan",
-      "growth": 889
+      "growth": 891
     },
     {
       "full_name": "griffinmartin/opencode-claude-auth",
@@ -633,18 +633,18 @@
       "html_url": "https://github.com/BuilderPulse/BuilderPulse",
       "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
       "language": "Unknown",
-      "stargazers_count": 809,
+      "stargazers_count": 811,
       "forks_count": 58,
       "open_issues_count": 2,
       "created_at": "2026-04-14T11:48:05Z",
-      "updated_at": "2026-04-17T08:12:22Z",
+      "updated_at": "2026-04-17T08:26:07Z",
       "topics": [
         "ai",
         "builders",
         "indiehackers"
       ],
       "owner": "BuilderPulse",
-      "growth": 809
+      "growth": 811
     },
     {
       "full_name": "yaojingang/GEOFlow",
@@ -725,11 +725,11 @@
       "html_url": "https://github.com/Manavarya09/design-extract",
       "description": "Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin.",
       "language": "JavaScript",
-      "stargazers_count": 729,
+      "stargazers_count": 730,
       "forks_count": 61,
       "open_issues_count": 11,
       "created_at": "2026-04-15T10:11:22Z",
-      "updated_at": "2026-04-17T08:11:00Z",
+      "updated_at": "2026-04-17T08:26:31Z",
       "topics": [
         "agent-skill",
         "agent-skills",
@@ -748,18 +748,18 @@
         "web-scraping"
       ],
       "owner": "Manavarya09",
-      "growth": 729
+      "growth": 730
     },
     {
       "full_name": "kessler/gemma-gem",
       "html_url": "https://github.com/kessler/gemma-gem",
       "description": "Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine.",
       "language": "TypeScript",
-      "stargazers_count": 723,
+      "stargazers_count": 724,
       "forks_count": 75,
       "open_issues_count": 4,
       "created_at": "2026-04-05T20:07:56Z",
-      "updated_at": "2026-04-17T02:02:38Z",
+      "updated_at": "2026-04-17T08:17:41Z",
       "topics": [
         "ai",
         "chrome-extension",
@@ -769,7 +769,7 @@
         "llm"
       ],
       "owner": "kessler",
-      "growth": 723
+      "growth": 724
     },
     {
       "full_name": "rasbt/mini-coding-agent",
@@ -800,7 +800,7 @@
       "forks_count": 78,
       "open_issues_count": 5,
       "created_at": "2026-03-23T19:48:59Z",
-      "updated_at": "2026-04-17T08:15:50Z",
+      "updated_at": "2026-04-17T08:25:51Z",
       "topics": [
         "agentic-coding",
         "ai",
@@ -827,7 +827,7 @@
       "description": "你的端侧 AI 助手，她可以操作终端，也可以完成 Android 世界的广泛任务 || Your on-device AI assistant, capable of operating terminals and performing a wide range of tasks in the Android world",
       "language": "Kotlin",
       "stargazers_count": 632,
-      "forks_count": 27,
+      "forks_count": 28,
       "open_issues_count": 20,
       "created_at": "2026-03-18T15:18:51Z",
       "updated_at": "2026-04-17T07:29:02Z",
@@ -921,11 +921,11 @@
       "html_url": "https://github.com/mohi-devhub/antivibe",
       "description": "Learn what AI writes, not just accept it. A Claude Code skill that turns AI-generated code into educational deep dives.",
       "language": "Shell",
-      "stargazers_count": 512,
+      "stargazers_count": 513,
       "forks_count": 32,
       "open_issues_count": 3,
       "created_at": "2026-04-10T18:07:20Z",
-      "updated_at": "2026-04-17T08:16:03Z",
+      "updated_at": "2026-04-17T08:22:31Z",
       "topics": [
         "ai",
         "claude-code",
@@ -936,18 +936,18 @@
         "vibecoding"
       ],
       "owner": "mohi-devhub",
-      "growth": 512
+      "growth": 513
     },
     {
       "full_name": "elirantutia/vibeyard",
       "html_url": "https://github.com/elirantutia/vibeyard",
       "description": "The IDE built for AI coding agents.",
       "language": "TypeScript",
-      "stargazers_count": 484,
+      "stargazers_count": 485,
       "forks_count": 66,
       "open_issues_count": 26,
       "created_at": "2026-03-19T12:10:31Z",
-      "updated_at": "2026-04-17T05:59:05Z",
+      "updated_at": "2026-04-17T08:24:03Z",
       "topics": [
         "ai",
         "cc",
@@ -962,7 +962,7 @@
         "xterm"
       ],
       "owner": "elirantutia",
-      "growth": 484
+      "growth": 485
     },
     {
       "full_name": "AQBot-Desktop/AQBot",
@@ -1013,11 +1013,11 @@
       "html_url": "https://github.com/F-R-L/forge-film",
       "description": "Multi-model DAG-driven parallel AI film generation — parallel speedup scales with scene independence; Generate film scenes simultaneously instead of one by one;  \"把影视生成的执行图从拓扑序变成关键路径最优调度\" ; 唯一把场景叙事依赖建模为 DAG、以 CPM    算法驱动并行调度的影视生成引擎",
       "language": "Python",
-      "stargazers_count": 448,
+      "stargazers_count": 449,
       "forks_count": 9,
       "open_issues_count": 0,
       "created_at": "2026-03-24T14:45:44Z",
-      "updated_at": "2026-04-17T06:37:21Z",
+      "updated_at": "2026-04-17T08:21:00Z",
       "topics": [
         "ai",
         "ai-cinematography",
@@ -1037,7 +1037,7 @@
         "workflow-automation"
       ],
       "owner": "F-R-L",
-      "growth": 448
+      "growth": 449
     },
     {
       "full_name": "openmemind/memind",
@@ -1184,11 +1184,11 @@
       "html_url": "https://github.com/bergside/design-md-chrome",
       "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
       "language": "JavaScript",
-      "stargazers_count": 324,
-      "forks_count": 42,
+      "stargazers_count": 326,
+      "forks_count": 43,
       "open_issues_count": 0,
       "created_at": "2026-04-14T14:10:22Z",
-      "updated_at": "2026-04-17T08:06:08Z",
+      "updated_at": "2026-04-17T08:24:16Z",
       "topics": [
         "ai",
         "chrome",
@@ -1202,7 +1202,7 @@
         "typeui"
       ],
       "owner": "bergside",
-      "growth": 324
+      "growth": 326
     },
     {
       "full_name": "timwuhaotian/the-pair",
@@ -1443,11 +1443,11 @@
       "html_url": "https://github.com/debpalash/OmniVoice-Studio",
       "description": "A Cinematic audio dubbing, Cloning and voice generation studio",
       "language": "Python",
-      "stargazers_count": 217,
+      "stargazers_count": 218,
       "forks_count": 17,
       "open_issues_count": 1,
       "created_at": "2026-04-09T21:40:26Z",
-      "updated_at": "2026-04-17T08:15:13Z",
+      "updated_at": "2026-04-17T08:29:50Z",
       "topics": [
         "600-langs",
         "ai",
@@ -1462,18 +1462,18 @@
         "youtube-video"
       ],
       "owner": "debpalash",
-      "growth": 217
+      "growth": 218
     },
     {
       "full_name": "bug0inc/passmark",
       "html_url": "https://github.com/bug0inc/passmark",
       "description": "The open-source Playwright library for AI browser regression testing with intelligent caching, auto-healing, and multi-model verification.",
       "language": "TypeScript",
-      "stargazers_count": 215,
+      "stargazers_count": 216,
       "forks_count": 27,
       "open_issues_count": 8,
       "created_at": "2026-03-29T18:22:06Z",
-      "updated_at": "2026-04-17T08:10:32Z",
+      "updated_at": "2026-04-17T08:29:49Z",
       "topics": [
         "ai",
         "ai-agents",
@@ -1492,7 +1492,7 @@
         "vercel"
       ],
       "owner": "bug0inc",
-      "growth": 215
+      "growth": 216
     },
     {
       "full_name": "veyliss/ai-localbase",
@@ -1964,7 +1964,7 @@
       "forks_count": 25,
       "open_issues_count": 2,
       "created_at": "2026-04-08T11:59:19Z",
-      "updated_at": "2026-04-17T07:59:59Z",
+      "updated_at": "2026-04-17T08:29:18Z",
       "topics": [
         "ai",
         "anthropic",
@@ -2010,11 +2010,11 @@
       "html_url": "https://github.com/opencroc/cube-pets-office",
       "description": "Multi-agent OS with 3D office visualization, dynamic org generation, and real Docker execution",
       "language": "TypeScript",
-      "stargazers_count": 116,
+      "stargazers_count": 117,
       "forks_count": 20,
       "open_issues_count": 0,
       "created_at": "2026-03-25T14:38:34Z",
-      "updated_at": "2026-04-17T06:32:22Z",
+      "updated_at": "2026-04-17T08:19:24Z",
       "topics": [
         "agent-framework",
         "ai",
@@ -2030,7 +2030,7 @@
         "typescript"
       ],
       "owner": "opencroc",
-      "growth": 116
+      "growth": 117
     },
     {
       "full_name": "crisnahine/rails-ai-context",
@@ -2072,11 +2072,11 @@
       "html_url": "https://github.com/nexscope-ai/eCommerce-Skills",
       "description": "E-commerce skills for AI agents — product research, marketing automation, supply chain optimization, and business analytics for online sellers across Amazon, Shopify, Etsy, TikTok Shop, and all platforms.",
       "language": "Python",
-      "stargazers_count": 109,
-      "forks_count": 12,
+      "stargazers_count": 110,
+      "forks_count": 13,
       "open_issues_count": 1,
       "created_at": "2026-03-18T06:42:32Z",
-      "updated_at": "2026-04-17T03:07:48Z",
+      "updated_at": "2026-04-17T08:16:35Z",
       "topics": [
         "agent-skills",
         "ai",
@@ -2091,7 +2091,7 @@
         "tiktok-shop-automation"
       ],
       "owner": "nexscope-ai",
-      "growth": 109
+      "growth": 110
     },
     {
       "full_name": "luongnv89/sleek-ui",
@@ -2423,7 +2423,7 @@
       "forks_count": 5,
       "open_issues_count": 0,
       "created_at": "2026-03-23T03:28:17Z",
-      "updated_at": "2026-04-17T08:07:10Z",
+      "updated_at": "2026-04-17T08:22:09Z",
       "topics": [
         "ai",
         "api",
