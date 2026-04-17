@@ -1,6 +1,7 @@
 from __future__ import annotations
 import re
 from .config import LANGUAGE_LABELS, TOPIC_CN, SCENE_RULES
+from .client import ask_llm
 
 def clean_text(text: str) -> str:
     return re.sub(r"\\s+", " ", (text or "").replace("\\n", " ")).strip()
@@ -18,10 +19,19 @@ def topic_tags_cn(topics: list[str], limit: int = 4) -> str:
     return " / ".join(labels)
 
 def infer_scene(item: dict) -> str:
+    # Try LLM first
     topics = item.get("topics", [])
-    desc = clean_text(item.get("description", "")).lower()
+    desc = clean_text(item.get("description", ""))
+    prompt = f"Based on the following project details, suggest a 1-sentence usage scenario in Chinese (e.g., '适合做 XXX'). Project: {item.get('full_name')}, Description: {desc}, Topics: {topics}. Return ONLY the sentence."
+    
+    ai_scene = ask_llm(prompt)
+    if ai_scene:
+        return ai_scene
+        
+    # Fallback to rules
+    desc_lower = desc.lower()
     for keys, scene in SCENE_RULES:
-        if any(k in topics for k in keys) or any(k in desc for k in keys):
+        if any(k in topics for k in keys) or any(k in desc_lower for k in keys):
             return scene
     return "适合关注 AI 新项目、产品形态和工程实现思路"
 
@@ -38,60 +48,46 @@ def infer_kind(item: dict) -> str:
     return "AI 项目"
 
 def summarize_project_cn(item: dict) -> str:
-    topics = item.get("topics", [])
-    language = zh_language(item.get("language", "Unknown"))
-    kind = infer_kind(item)
-    scene = infer_scene(item)
-    topic_text = topic_tags_cn(topics, limit=3)
-
-    name = item.get("full_name", "该项目").split("/")[-1]
-    lower_name = name.lower()
+    # AI-powered summary
+    full_name = item.get("full_name", "")
     desc = clean_text(item.get("description", ""))
+    topics = topic_tags_cn(item.get("topics", []))
+    language = zh_language(item.get("language", "Unknown"))
+    
+    prompt = (
+        f"Project Name: {full_name}\n"
+        f"Description: {desc}\n"
+        f"Topics: {topics}\n"
+        f"Language: {language}\n\n"
+        "Task: Write a professional, concise one-sentence summary in Chinese. "
+        "Focus on its core value and target audience. Avoid generic phrases like 'This project is...'. "
+        "The output should be a natural sentence that describes what it does and who it is for."
+    )
+    
+    ai_summary = ask_llm(prompt)
+    if ai_summary:
+        return ai_summary
+        
+    # Fallback to old logic if LLM fails
+    lower_name = full_name.lower()
     desc_lower = desc.lower()
-
+    
+    # Simplified fallback mapping for brevity
     mapping = {
         "cloner": "用于借助 AI 快速克隆网页结构，适合作为网站复刻和前端原型生成的脚手架",
-        "clone any website": "用于借助 AI 快速克隆网页结构，适合作为网站复刻和前端原型生成的脚手架",
         "autoresearch": "用于让 Claude Code 按目标持续执行“修改、验证、保留或回退”的自动研究流程",
-        "karpathy": "用于让 Claude Code 按目标持续执行“修改、验证、保留或回退”的自动研究流程",
-        "inkos": "用于多智能体协作完成小说写作、审稿与修订，强调人类审核关卡",
-        "novel": "用于多智能体协作完成小说写作、审稿与修订，强调人类审核关卡",
-        "mirofish": "用于离线运行多智能体模拟与预测任务，可结合 Neo4j 和 Ollama 进行本地部署",
-        "simulation": "用于离线运行多智能体模拟与预测任务，可结合 Neo4j 和 Ollama 进行本地部署",
-        "bookmarks": "用于对收藏内容做 AI 分类整理，并以思维导图方式辅助回顾与管理",
-        "mindmap": "用于对收藏内容做 AI 分类整理，并以思维导图方式辅助回顾与管理",
-        "mcp": "用于把 MCP、OpenAPI 或 GraphQL 能力快速转成命令行工具，便于接入自动化流程",
-        "openapi": "用于把 MCP、OpenAPI 或 GraphQL 能力快速转成命令行工具，便于接入自动化流程",
-        "graphql": "用于把 MCP、OpenAPI 或 GraphQL 能力快速转成命令行工具，便于接入自动化流程",
-        "awesome": "用于整理和索引优质开源 AI 项目、模型、工具与基础设施",
-        "interview": "用于系统整理 AI Engineering 面试问题与答案，适合准备面试和查漏补缺",
-        "skills": "用于整理 Golang 方向的 agent skills，便于扩展 AI coding workflow",
-        "golang": "用于整理 Golang 方向的 agent skills，便于扩展 AI coding workflow",
-        "office": "用于让 AI agent 直接读写和自动化处理 Word、Excel、PowerPoint 文件",
-        "hello-claw": "用于学习 OpenClaw 的 中文教程与实践路径，适合作为入门资料",
-        "holyclaude": "用于搭建面向 AI 编程的工作台，整合 Claude Code、Web UI 与多种 CLI 工具",
-        "architecture": "用于收集和展示大语言模型架构相关资料，方便做模型结构学习与查阅",
-        "nightingale": "用于结合机器学习能力实现卡拉 OK 打分与演唱体验增强",
-        "karaoke": "用于结合机器学习能力实现卡拉 OK 打分与演唱体验增强",
-        "crucix": "用于持续监控多个信息源，在目标信息变化时主动通知用户，偏向个人情报跟踪",
-        "osint": "用于持续监控多个信息源，在目标信息变化时主动通知用户，偏向个人情报跟踪",
-        "intelligence": "用于持续监控多个信息源，在目标信息变化时主动通知用户，偏向个人情报跟踪",
-        "search hub": "用于聚合多家 AI 搜索能力，统一接入趋势查询、热点追踪与信息检索",
-        "ai-search-hub": "用于聚合多家 AI 搜索能力，统一接入趋势查询、热点追踪与信息检索",
+        "novel": "用于多智能体协作完成小说写作、审稿与修订",
+        "mcp": "用于把 MCP/OpenAPI 能力快速转成命令行工具",
+        "awesome": "用于整理和索引优质开源 AI 项目与基础设施",
     }
-
+    
     core = "关注该方向的工程实践"
     for key, value in mapping.items():
         if key in lower_name or key in desc_lower:
             core = value
             break
-    else:
-        if desc:
-            core = f"围绕“{topic_text}”展开，主要使用 {language} 实现，适合关注该方向的工程实践"
-        else:
-            core = f"围绕“{topic_text}”展开，主要使用 {language} 实现"
-
-    return f"这是一个{kind}，{core}。{scene}。"
+            
+    return f"这是一个{infer_kind(item)}，{core}。"
 
 def simplify(item: dict) -> dict:
     return {

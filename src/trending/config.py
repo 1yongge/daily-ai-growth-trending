@@ -9,11 +9,16 @@ README = ROOT / "README.md"
 # Search Settings
 SEARCH_DAYS = int(os.environ.get("SEARCH_DAYS", "30"))
 TOP_N = int(os.environ.get("TOP_N", "20"))
-PER_PAGE = min(max(TOP_N, 100), 100) # Get more for growth calculation
+PER_PAGE = min(max(TOP_N, 100), 100)
 API_URL = "https://api.github.com/search/repositories"
 GROWTH_WINDOW_DAYS = 30
 
-# Mapping Tables (Reused from previous project)
+# LLM Settings
+LLM_API_KEY = os.environ.get("LLM_API_KEY")
+LLM_API_URL = os.environ.get("LLM_API_URL", "https://api.openai.com/v1/chat/completions")
+LLM_MODEL = os.environ.get("LLM_MODEL", "gpt-4o-mini")
+
+# Mapping Tables (Still kept as fallback)
 LANGUAGE_LABELS = {
     "JavaScript": "JavaScript", "TypeScript": "TypeScript", "Python": "Python",
     "Go": "Go", "Rust": "Rust", "Shell": "Shell", "Swift": "Swift",
