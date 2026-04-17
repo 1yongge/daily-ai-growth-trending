@@ -1,6 +1,6 @@
 {
-  "fetched_at_utc": "2026-04-17T08:02:22.609929+00:00",
-  "fetched_at_shanghai": "2026-04-17 16:02:22 UTC+8",
+  "fetched_at_utc": "2026-04-17T08:16:06.787579+00:00",
+  "fetched_at_shanghai": "2026-04-17 16:16:06 UTC+8",
   "query": "topic:ai archived:false is:public created:>=2026-03-18 stars:>10",
   "total_count": 410,
   "top_n": 20,
@@ -10,11 +10,11 @@
       "html_url": "https://github.com/MemPalace/mempalace",
       "description": "The best-benchmarked open-source AI memory system. And it's free.",
       "language": "Python",
-      "stargazers_count": 47262,
-      "forks_count": 6173,
+      "stargazers_count": 47269,
+      "forks_count": 6174,
       "open_issues_count": 383,
       "created_at": "2026-04-05T01:12:07Z",
-      "updated_at": "2026-04-17T08:01:06Z",
+      "updated_at": "2026-04-17T08:15:14Z",
       "topics": [
         "ai",
         "chromadb",
@@ -24,18 +24,18 @@
         "python"
       ],
       "owner": "MemPalace",
-      "growth": 47262
+      "growth": 47269
     },
     {
       "full_name": "JuliusBrussee/caveman",
       "html_url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "language": "Python",
-      "stargazers_count": 35668,
-      "forks_count": 1688,
+      "stargazers_count": 35692,
+      "forks_count": 1690,
       "open_issues_count": 98,
       "created_at": "2026-04-04T10:03:00Z",
-      "updated_at": "2026-04-17T08:01:55Z",
+      "updated_at": "2026-04-17T08:15:49Z",
       "topics": [
         "ai",
         "anthropic",
@@ -49,18 +49,18 @@
         "tokens"
       ],
       "owner": "JuliusBrussee",
-      "growth": 35668
+      "growth": 35692
     },
     {
       "full_name": "rohitg00/ai-engineering-from-scratch",
       "html_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stargazers_count": 3367,
-      "forks_count": 701,
+      "stargazers_count": 3382,
+      "forks_count": 704,
       "open_issues_count": 3,
       "created_at": "2026-03-18T18:38:02Z",
-      "updated_at": "2026-04-17T08:01:14Z",
+      "updated_at": "2026-04-17T08:15:25Z",
       "topics": [
         "agents",
         "ai",
@@ -84,18 +84,18 @@
         "typescript"
       ],
       "owner": "rohitg00",
-      "growth": 3367
+      "growth": 3382
     },
     {
       "full_name": "holaboss-ai/holaOS",
       "html_url": "https://github.com/holaboss-ai/holaOS",
       "description": "The agent environment for long-horizon work, continuity, and self-evolution.",
       "language": "TypeScript",
-      "stargazers_count": 2735,
+      "stargazers_count": 2737,
       "forks_count": 235,
       "open_issues_count": 6,
       "created_at": "2026-03-22T07:36:16Z",
-      "updated_at": "2026-04-17T07:57:57Z",
+      "updated_at": "2026-04-17T08:10:16Z",
       "topics": [
         "agent",
         "agent-harness",
@@ -119,18 +119,18 @@
         "workspace"
       ],
       "owner": "holaboss-ai",
-      "growth": 2735
+      "growth": 2737
     },
     {
       "full_name": "alvinreal/awesome-opensource-ai",
       "html_url": "https://github.com/alvinreal/awesome-opensource-ai",
       "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
       "language": "Python",
-      "stargazers_count": 2631,
+      "stargazers_count": 2632,
       "forks_count": 243,
       "open_issues_count": 30,
       "created_at": "2026-03-24T15:58:22Z",
-      "updated_at": "2026-04-17T07:27:31Z",
+      "updated_at": "2026-04-17T08:07:44Z",
       "topics": [
         "agents",
         "ai",
@@ -146,18 +146,18 @@
         "rag"
       ],
       "owner": "alvinreal",
-      "growth": 2631
+      "growth": 2632
     },
     {
       "full_name": "calesthio/OpenMontage",
       "html_url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stargazers_count": 2427,
+      "stargazers_count": 2430,
       "forks_count": 446,
       "open_issues_count": 13,
       "created_at": "2026-03-29T15:23:22Z",
-      "updated_at": "2026-04-17T08:01:54Z",
+      "updated_at": "2026-04-17T08:11:55Z",
       "topics": [
         "agent",
         "agentic-ai",
@@ -180,7 +180,7 @@
         "video-production"
       ],
       "owner": "calesthio",
-      "growth": 2427
+      "growth": 2430
     },
     {
       "full_name": "CoderLuii/HolyClaude",
@@ -242,11 +242,11 @@
       "html_url": "https://github.com/AgriciDaniel/claude-obsidian",
       "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch",
       "language": "Shell",
-      "stargazers_count": 1508,
+      "stargazers_count": 1510,
       "forks_count": 169,
       "open_issues_count": 10,
       "created_at": "2026-04-07T08:59:37Z",
-      "updated_at": "2026-04-17T07:55:02Z",
+      "updated_at": "2026-04-17T08:14:14Z",
       "topics": [
         "ai",
         "claude-code",
@@ -257,7 +257,7 @@
         "second-brain"
       ],
       "owner": "AgriciDaniel",
-      "growth": 1508
+      "growth": 1510
     },
     {
       "full_name": "MiniMax-AI/cli",
@@ -512,35 +512,15 @@
       "growth": 937
     },
     {
-      "full_name": "austin-weeks/miasma",
-      "html_url": "https://github.com/austin-weeks/miasma",
-      "description": "Trap AI web scrapers in an endless poison pit.",
-      "language": "Rust",
-      "stargazers_count": 914,
-      "forks_count": 20,
-      "open_issues_count": 7,
-      "created_at": "2026-03-18T04:12:41Z",
-      "updated_at": "2026-04-17T04:55:12Z",
-      "topics": [
-        "ai",
-        "anti-ai",
-        "anti-spam",
-        "free-software",
-        "web-scraping"
-      ],
-      "owner": "austin-weeks",
-      "growth": 914
-    },
-    {
       "full_name": "Houseofmvps/codesight",
       "html_url": "https://github.com/Houseofmvps/codesight",
       "description": "Universal AI context generator. Saves thousands of tokens per conversation in Claude Code, Cursor, Copilot, Codex, and more.",
       "language": "TypeScript",
-      "stargazers_count": 914,
+      "stargazers_count": 915,
       "forks_count": 89,
       "open_issues_count": 0,
       "created_at": "2026-04-04T18:10:16Z",
-      "updated_at": "2026-04-17T03:22:17Z",
+      "updated_at": "2026-04-17T08:11:16Z",
       "topics": [
         "ai",
         "claude",
@@ -558,6 +538,26 @@
         "token-savings"
       ],
       "owner": "Houseofmvps",
+      "growth": 915
+    },
+    {
+      "full_name": "austin-weeks/miasma",
+      "html_url": "https://github.com/austin-weeks/miasma",
+      "description": "Trap AI web scrapers in an endless poison pit.",
+      "language": "Rust",
+      "stargazers_count": 914,
+      "forks_count": 20,
+      "open_issues_count": 7,
+      "created_at": "2026-03-18T04:12:41Z",
+      "updated_at": "2026-04-17T04:55:12Z",
+      "topics": [
+        "ai",
+        "anti-ai",
+        "anti-spam",
+        "free-software",
+        "web-scraping"
+      ],
+      "owner": "austin-weeks",
       "growth": 914
     },
     {
@@ -589,18 +589,18 @@
       "html_url": "https://github.com/Tencent-Hunyuan/HY-World-2.0",
       "description": "HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds",
       "language": "Python",
-      "stargazers_count": 885,
+      "stargazers_count": 889,
       "forks_count": 53,
       "open_issues_count": 5,
       "created_at": "2026-04-10T07:09:43Z",
-      "updated_at": "2026-04-17T07:58:10Z",
+      "updated_at": "2026-04-17T08:15:46Z",
       "topics": [
         "3d",
         "ai",
         "worldmodel"
       ],
       "owner": "Tencent-Hunyuan",
-      "growth": 885
+      "growth": 889
     },
     {
       "full_name": "griffinmartin/opencode-claude-auth",
@@ -633,29 +633,29 @@
       "html_url": "https://github.com/BuilderPulse/BuilderPulse",
       "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
       "language": "Unknown",
-      "stargazers_count": 807,
+      "stargazers_count": 809,
       "forks_count": 58,
       "open_issues_count": 2,
       "created_at": "2026-04-14T11:48:05Z",
-      "updated_at": "2026-04-17T07:59:08Z",
+      "updated_at": "2026-04-17T08:12:22Z",
       "topics": [
         "ai",
         "builders",
         "indiehackers"
       ],
       "owner": "BuilderPulse",
-      "growth": 807
+      "growth": 809
     },
     {
       "full_name": "yaojingang/GEOFlow",
       "html_url": "https://github.com/yaojingang/GEOFlow",
       "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
       "language": "PHP",
-      "stargazers_count": 777,
+      "stargazers_count": 778,
       "forks_count": 174,
       "open_issues_count": 6,
       "created_at": "2026-04-13T11:42:03Z",
-      "updated_at": "2026-04-17T07:28:56Z",
+      "updated_at": "2026-04-17T08:10:28Z",
       "topics": [
         "ai",
         "cms",
@@ -667,7 +667,7 @@
         "seo"
       ],
       "owner": "yaojingang",
-      "growth": 777
+      "growth": 778
     },
     {
       "full_name": "0Chencc/clawgod",
@@ -725,11 +725,11 @@
       "html_url": "https://github.com/Manavarya09/design-extract",
       "description": "Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin.",
       "language": "JavaScript",
-      "stargazers_count": 728,
+      "stargazers_count": 729,
       "forks_count": 61,
       "open_issues_count": 11,
       "created_at": "2026-04-15T10:11:22Z",
-      "updated_at": "2026-04-17T07:57:25Z",
+      "updated_at": "2026-04-17T08:11:00Z",
       "topics": [
         "agent-skill",
         "agent-skills",
@@ -748,7 +748,7 @@
         "web-scraping"
       ],
       "owner": "Manavarya09",
-      "growth": 728
+      "growth": 729
     },
     {
       "full_name": "kessler/gemma-gem",
@@ -797,10 +797,10 @@
       "description": "Reduce AI coding costs by 99% — MCP Server + Shell Hook for Cursor, Claude Code, Copilot, Windsurf, Gemini CLI & 24 tools. Single Rust binary, zero telemetry.",
       "language": "Rust",
       "stargazers_count": 650,
-      "forks_count": 77,
+      "forks_count": 78,
       "open_issues_count": 5,
       "created_at": "2026-03-23T19:48:59Z",
-      "updated_at": "2026-04-17T07:41:09Z",
+      "updated_at": "2026-04-17T08:15:50Z",
       "topics": [
         "agentic-coding",
         "ai",
@@ -828,7 +828,7 @@
       "language": "Kotlin",
       "stargazers_count": 632,
       "forks_count": 27,
-      "open_issues_count": 19,
+      "open_issues_count": 20,
       "created_at": "2026-03-18T15:18:51Z",
       "updated_at": "2026-04-17T07:29:02Z",
       "topics": [
@@ -921,11 +921,11 @@
       "html_url": "https://github.com/mohi-devhub/antivibe",
       "description": "Learn what AI writes, not just accept it. A Claude Code skill that turns AI-generated code into educational deep dives.",
       "language": "Shell",
-      "stargazers_count": 511,
+      "stargazers_count": 512,
       "forks_count": 32,
       "open_issues_count": 3,
       "created_at": "2026-04-10T18:07:20Z",
-      "updated_at": "2026-04-17T07:49:08Z",
+      "updated_at": "2026-04-17T08:16:03Z",
       "topics": [
         "ai",
         "claude-code",
@@ -936,7 +936,7 @@
         "vibecoding"
       ],
       "owner": "mohi-devhub",
-      "growth": 511
+      "growth": 512
     },
     {
       "full_name": "elirantutia/vibeyard",
@@ -969,11 +969,11 @@
       "html_url": "https://github.com/AQBot-Desktop/AQBot",
       "description": "☁️ 轻量级高性能跨平台AI对话 + AI网关桌面客户端 | Lightweight, high-performance cross-platform AI dialogue + AI gateway desktop client",
       "language": "TypeScript",
-      "stargazers_count": 473,
+      "stargazers_count": 474,
       "forks_count": 49,
       "open_issues_count": 2,
       "created_at": "2026-03-24T13:24:58Z",
-      "updated_at": "2026-04-17T07:50:33Z",
+      "updated_at": "2026-04-17T08:05:31Z",
       "topics": [
         "ai",
         "ai-client",
@@ -985,7 +985,7 @@
         "tauri-app"
       ],
       "owner": "AQBot-Desktop",
-      "growth": 473
+      "growth": 474
     },
     {
       "full_name": "math-ai-org/mathcode",
@@ -1180,6 +1180,31 @@
       "growth": 338
     },
     {
+      "full_name": "bergside/design-md-chrome",
+      "html_url": "https://github.com/bergside/design-md-chrome",
+      "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
+      "language": "JavaScript",
+      "stargazers_count": 324,
+      "forks_count": 42,
+      "open_issues_count": 0,
+      "created_at": "2026-04-14T14:10:22Z",
+      "updated_at": "2026-04-17T08:06:08Z",
+      "topics": [
+        "ai",
+        "chrome",
+        "chrome-extension",
+        "design-md",
+        "design-skills",
+        "extension",
+        "open-source",
+        "skills",
+        "skills-ai",
+        "typeui"
+      ],
+      "owner": "bergside",
+      "growth": 324
+    },
+    {
       "full_name": "timwuhaotian/the-pair",
       "html_url": "https://github.com/timwuhaotian/the-pair",
       "description": "The Pair - Automated pair programming — grab a coffee while two AI agents cross-check each other's work",
@@ -1211,31 +1236,6 @@
       "growth": 323
     },
     {
-      "full_name": "bergside/design-md-chrome",
-      "html_url": "https://github.com/bergside/design-md-chrome",
-      "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
-      "language": "JavaScript",
-      "stargazers_count": 322,
-      "forks_count": 40,
-      "open_issues_count": 0,
-      "created_at": "2026-04-14T14:10:22Z",
-      "updated_at": "2026-04-17T08:01:11Z",
-      "topics": [
-        "ai",
-        "chrome",
-        "chrome-extension",
-        "design-md",
-        "design-skills",
-        "extension",
-        "open-source",
-        "skills",
-        "skills-ai",
-        "typeui"
-      ],
-      "owner": "bergside",
-      "growth": 322
-    },
-    {
       "full_name": "zarazhangrui/personalized-podcast",
       "html_url": "https://github.com/zarazhangrui/personalized-podcast",
       "description": "Turn any content into a personalized AI podcast. NotebookLM-style, except you control the script, voices, and hosts. Listen in Apple Podcasts, Spotify, or any podcast app.",
@@ -1265,7 +1265,7 @@
       "forks_count": 5,
       "open_issues_count": 0,
       "created_at": "2026-04-02T15:29:52Z",
-      "updated_at": "2026-04-17T07:32:24Z",
+      "updated_at": "2026-04-17T08:15:21Z",
       "topics": [
         "ai",
         "ai-gateway",
@@ -1439,15 +1439,41 @@
       "growth": 220
     },
     {
+      "full_name": "debpalash/OmniVoice-Studio",
+      "html_url": "https://github.com/debpalash/OmniVoice-Studio",
+      "description": "A Cinematic audio dubbing, Cloning and voice generation studio",
+      "language": "Python",
+      "stargazers_count": 217,
+      "forks_count": 17,
+      "open_issues_count": 1,
+      "created_at": "2026-04-09T21:40:26Z",
+      "updated_at": "2026-04-17T08:15:13Z",
+      "topics": [
+        "600-langs",
+        "ai",
+        "cuda",
+        "mlx",
+        "omnivoice",
+        "tts",
+        "voice-ai",
+        "voice-cloning",
+        "voice-generation",
+        "whisper",
+        "youtube-video"
+      ],
+      "owner": "debpalash",
+      "growth": 217
+    },
+    {
       "full_name": "bug0inc/passmark",
       "html_url": "https://github.com/bug0inc/passmark",
       "description": "The open-source Playwright library for AI browser regression testing with intelligent caching, auto-healing, and multi-model verification.",
       "language": "TypeScript",
       "stargazers_count": 215,
       "forks_count": 27,
-      "open_issues_count": 9,
+      "open_issues_count": 8,
       "created_at": "2026-03-29T18:22:06Z",
-      "updated_at": "2026-04-17T07:53:43Z",
+      "updated_at": "2026-04-17T08:10:32Z",
       "topics": [
         "ai",
         "ai-agents",
@@ -1467,32 +1493,6 @@
       ],
       "owner": "bug0inc",
       "growth": 215
-    },
-    {
-      "full_name": "debpalash/OmniVoice-Studio",
-      "html_url": "https://github.com/debpalash/OmniVoice-Studio",
-      "description": "A Cinematic audio dubbing, Cloning and voice generation studio",
-      "language": "Python",
-      "stargazers_count": 214,
-      "forks_count": 17,
-      "open_issues_count": 1,
-      "created_at": "2026-04-09T21:40:26Z",
-      "updated_at": "2026-04-17T07:39:48Z",
-      "topics": [
-        "600-langs",
-        "ai",
-        "cuda",
-        "mlx",
-        "omnivoice",
-        "tts",
-        "voice-ai",
-        "voice-cloning",
-        "voice-generation",
-        "whisper",
-        "youtube-video"
-      ],
-      "owner": "debpalash",
-      "growth": 214
     },
     {
       "full_name": "veyliss/ai-localbase",
@@ -1549,18 +1549,18 @@
       "html_url": "https://github.com/DinobaseHQ/dinobase",
       "description": "The agent-first data platform",
       "language": "Python",
-      "stargazers_count": 205,
+      "stargazers_count": 206,
       "forks_count": 7,
       "open_issues_count": 1,
       "created_at": "2026-03-24T10:11:55Z",
-      "updated_at": "2026-04-17T04:50:53Z",
+      "updated_at": "2026-04-17T08:08:22Z",
       "topics": [
         "agents",
         "ai",
         "database"
       ],
       "owner": "DinobaseHQ",
-      "growth": 205
+      "growth": 206
     },
     {
       "full_name": "liyupi/yupi-skill",
@@ -2318,11 +2318,11 @@
       "html_url": "https://github.com/PurpleDoubleD/locally-uncensored",
       "description": "Local AI desktop app — chat, agent mode, image gen, video gen. Supports Ollama, Gemma 4, Llama, Qwen, OpenAI, Anthropic. Single .exe, no Docker.",
       "language": "TypeScript",
-      "stargazers_count": 90,
+      "stargazers_count": 89,
       "forks_count": 11,
       "open_issues_count": 0,
       "created_at": "2026-03-24T21:52:47Z",
-      "updated_at": "2026-04-17T08:02:11Z",
+      "updated_at": "2026-04-17T08:13:51Z",
       "topics": [
         "agent-mode",
         "ai",
@@ -2344,7 +2344,7 @@
         "video-generation"
       ],
       "owner": "PurpleDoubleD",
-      "growth": 90
+      "growth": 89
     },
     {
       "full_name": "416rehman/DeepZero",
@@ -2423,7 +2423,7 @@
       "forks_count": 5,
       "open_issues_count": 0,
       "created_at": "2026-03-23T03:28:17Z",
-      "updated_at": "2026-04-17T07:52:09Z",
+      "updated_at": "2026-04-17T08:07:10Z",
       "topics": [
         "ai",
         "api",
