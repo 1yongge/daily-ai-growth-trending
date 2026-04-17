@@ -1,0 +1,10 @@
+[project]
+name = "daily-ai-growth-trending"
+version = "0.1.0"
+description = "Track AI projects with the fastest star growth on GitHub"
+dependencies = []
+requires-python = ">=3.10"
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
