@@ -12,7 +12,7 @@
 
 | 更新时间 | 榜单数量 | 查询范围 |
 |---|---:|---|
-| `2026-04-21 12:15:06 UTC+8` | **20** | `topic:ai archived:false is:public created:>=2026-03-22 stars:>10` |
+| `2026-04-22 12:10:59 UTC+8` | **20** | `topic:ai archived:false is:public created:>=2026-03-23 stars:>10` |
 
 > [!NOTE]
 > 本榜单通过对比每日快照，计算最近 30 天的星标增长数量 ($\Delta Stars$) 进行排序，旨在发现处于【快速爆发期】的新项目。
@@ -21,7 +21,7 @@
 
 ### 🥇 Top 1 · [MemPalace/mempalace](https://github.com/MemPalace/mempalace)
 
-**本月涨星**: +48525 | **总星数**: 48525 | **Language**: Python | **Updated**: 2026-04-21
+**本月涨星**: +48825 | **总星数**: 48825 | **Language**: Python | **Updated**: 2026-04-22
 
 **项目简介**：这是一个搜索与工具接入项目，关注该方向的工程实践。
 
@@ -31,7 +31,7 @@
 
 ### 🥈 Top 2 · [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
 
-**本月涨星**: +40910 | **总星数**: 40910 | **Language**: Python | **Updated**: 2026-04-21
+**本月涨星**: +42488 | **总星数**: 42488 | **Language**: Python | **Updated**: 2026-04-22
 
 **项目简介**：这是一个AI 项目，关注该方向的工程实践。
 
@@ -41,7 +41,7 @@
 
 ### 🥉 Top 3 · [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)
 
-**本月涨星**: +4542 | **总星数**: 4542 | **Language**: Python | **Updated**: 2026-04-21
+**本月涨星**: +7323 | **总星数**: 7323 | **Language**: Python | **Updated**: 2026-04-22
 
 **项目简介**：这是一个AI 项目，关注该方向的工程实践。
 
@@ -53,36 +53,36 @@
 
 | # | Project | Growth | Total Stars | Language | 项目简介 | Updated |
 |---:|---|---:|---:|---|---|---|
-| 1 | [MemPalace/mempalace](https://github.com/MemPalace/mempalace) | 📈 +48525 | ⭐ 48525 | Python | 这是一个搜索与工具接入项目，关注该方向的工程实践。 | 2026-04-21 |
-| 2 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 📈 +40910 | ⭐ 40910 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-04-21 |
-| 3 | [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos) | 📈 +4542 | ⭐ 4542 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-04-21 |
-| 4 | [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) | 📈 +3138 | ⭐ 3138 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-04-21 |
-| 5 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 📈 +2813 | ⭐ 2813 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-04-21 |
-| 6 | [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) | 📈 +2812 | ⭐ 2812 | Python | 这是一个智能体项目，用于整理和索引优质开源 AI 项目与基础设施。 | 2026-04-21 |
-| 7 | [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | 📈 +2341 | ⭐ 2341 | Shell | 这是一个AI 项目，用于让 Claude Code 按目标持续执行“修改… | 2026-04-21 |
-| 8 | [CoderLuii/HolyClaude](https://github.com/CoderLuii/HolyClaude) | 📈 +2039 | ⭐ 2039 | Dockerfile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-04-21 |
-| 9 | [Windy3f3f3f3f/how-claude-code-works](https://github.com/Windy3f3f3f3f/how-claude-code-works) | 📈 +1950 | ⭐ 1950 | 未识别 | 这是一个智能体项目，关注该方向的工程实践。 | 2026-04-21 |
-| 10 | [MiniMax-AI/cli](https://github.com/MiniMax-AI/cli) | 📈 +1530 | ⭐ 1530 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-04-21 |
-| 11 | [Tencent-Hunyuan/HY-World-2.0](https://github.com/Tencent-Hunyuan/HY-World-2.0) | 📈 +1438 | ⭐ 1438 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-04-21 |
-| 12 | [lorryjovens-hub/claude-code-rust](https://github.com/lorryjovens-hub/claude-code-rust) | 📈 +1410 | ⭐ 1410 | TypeScript | 这是一个搜索与工具接入项目，关注该方向的工程实践。 | 2026-04-21 |
-| 13 | [openedclaude/claude-reviews-claude](https://github.com/openedclaude/claude-reviews-claude) | 📈 +1331 | ⭐ 1331 | 未识别 | 这是一个智能体项目，关注该方向的工程实践。 | 2026-04-21 |
-| 14 | [repowise-dev/repowise](https://github.com/repowise-dev/repowise) | 📈 +1215 | ⭐ 1215 | Python | 这是一个搜索与工具接入项目，用于把 MCP/OpenAPI 能力快速转成… | 2026-04-20 |
-| 15 | [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) | 📈 +1167 | ⭐ 1167 | JavaScript | 这是一个自动化与效率工具项目，用于把 MCP/OpenAPI 能力快速转… | 2026-04-21 |
-| 16 | [BuilderPulse/BuilderPulse](https://github.com/BuilderPulse/BuilderPulse) | 📈 +1023 | ⭐ 1023 | 未识别 | 这是一个AI 项目，关注该方向的工程实践。 | 2026-04-21 |
-| 17 | [oh-my-mermaid/oh-my-mermaid](https://github.com/oh-my-mermaid/oh-my-mermaid) | 📈 +988 | ⭐ 988 | TypeScript | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-04-21 |
-| 18 | [Windy3f3f3f3f/claude-code-from-scratch](https://github.com/Windy3f3f3f3f/claude-code-from-scratch) | 📈 +963 | ⭐ 963 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-04-21 |
-| 19 | [Houseofmvps/codesight](https://github.com/Houseofmvps/codesight) | 📈 +946 | ⭐ 946 | TypeScript | 这是一个搜索与工具接入项目，关注该方向的工程实践。 | 2026-04-21 |
-| 20 | [yaojingang/GEOFlow](https://github.com/yaojingang/GEOFlow) | 📈 +920 | ⭐ 920 | PHP | 这是一个AI 项目，关注该方向的工程实践。 | 2026-04-21 |
+| 1 | [MemPalace/mempalace](https://github.com/MemPalace/mempalace) | 📈 +48825 | ⭐ 48825 | Python | 这是一个搜索与工具接入项目，关注该方向的工程实践。 | 2026-04-22 |
+| 2 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 📈 +42488 | ⭐ 42488 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-04-22 |
+| 3 | [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos) | 📈 +7323 | ⭐ 7323 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-04-22 |
+| 4 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 📈 +2921 | ⭐ 2921 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-04-22 |
+| 5 | [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) | 📈 +2879 | ⭐ 2879 | Python | 这是一个智能体项目，用于整理和索引优质开源 AI 项目与基础设施。 | 2026-04-22 |
+| 6 | [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | 📈 +2716 | ⭐ 2716 | Shell | 这是一个AI 项目，用于让 Claude Code 按目标持续执行“修改… | 2026-04-22 |
+| 7 | [Windy3f3f3f3f/how-claude-code-works](https://github.com/Windy3f3f3f3f/how-claude-code-works) | 📈 +1964 | ⭐ 1964 | 未识别 | 这是一个智能体项目，关注该方向的工程实践。 | 2026-04-22 |
+| 8 | [MiniMax-AI/cli](https://github.com/MiniMax-AI/cli) | 📈 +1545 | ⭐ 1545 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-04-22 |
+| 9 | [Tencent-Hunyuan/HY-World-2.0](https://github.com/Tencent-Hunyuan/HY-World-2.0) | 📈 +1513 | ⭐ 1513 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-04-22 |
+| 10 | [lorryjovens-hub/claude-code-rust](https://github.com/lorryjovens-hub/claude-code-rust) | 📈 +1421 | ⭐ 1421 | TypeScript | 这是一个搜索与工具接入项目，关注该方向的工程实践。 | 2026-04-22 |
+| 11 | [openedclaude/claude-reviews-claude](https://github.com/openedclaude/claude-reviews-claude) | 📈 +1335 | ⭐ 1335 | 未识别 | 这是一个智能体项目，关注该方向的工程实践。 | 2026-04-22 |
+| 12 | [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) | 📈 +1289 | ⭐ 1289 | JavaScript | 这是一个自动化与效率工具项目，用于把 MCP/OpenAPI 能力快速转… | 2026-04-22 |
+| 13 | [repowise-dev/repowise](https://github.com/repowise-dev/repowise) | 📈 +1236 | ⭐ 1236 | Python | 这是一个搜索与工具接入项目，用于把 MCP/OpenAPI 能力快速转成… | 2026-04-22 |
+| 14 | [BuilderPulse/BuilderPulse](https://github.com/BuilderPulse/BuilderPulse) | 📈 +1056 | ⭐ 1056 | 未识别 | 这是一个AI 项目，关注该方向的工程实践。 | 2026-04-22 |
+| 15 | [Windy3f3f3f3f/claude-code-from-scratch](https://github.com/Windy3f3f3f3f/claude-code-from-scratch) | 📈 +977 | ⭐ 977 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-04-21 |
+| 16 | [bergside/design-md-chrome](https://github.com/bergside/design-md-chrome) | 📈 +955 | ⭐ 955 | JavaScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-04-22 |
+| 17 | [Houseofmvps/codesight](https://github.com/Houseofmvps/codesight) | 📈 +948 | ⭐ 948 | TypeScript | 这是一个搜索与工具接入项目，关注该方向的工程实践。 | 2026-04-21 |
+| 18 | [yaojingang/GEOFlow](https://github.com/yaojingang/GEOFlow) | 📈 +947 | ⭐ 947 | PHP | 这是一个AI 项目，关注该方向的工程实践。 | 2026-04-22 |
+| 19 | [777genius/claude-code-source-code](https://github.com/777genius/claude-code-source-code) | 📈 +899 | ⭐ 899 | 未识别 | 这是一个智能体项目，关注该方向的工程实践。 | 2026-04-21 |
+| 20 | [ashim-hq/ashim](https://github.com/ashim-hq/ashim) | 📈 +852 | ⭐ 852 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-04-22 |
 
 ## Project Details
 
 <details>
-<summary><strong>1. MemPalace/mempalace</strong> · 📈 +48525 · ⭐ 48525 · Python</summary>
+<summary><strong>1. MemPalace/mempalace</strong> · 📈 +48825 · ⭐ 48825 · Python</summary>
 
 - **Repository**: https://github.com/MemPalace/mempalace
 - **Owner**: `MemPalace`
 - **Created**: `2026-04-05`
-- **Updated**: `2026-04-21`
+- **Updated**: `2026-04-22`
 - **Topics**: 人工智能 / chromadb / 大语言模型 / MCP / memory / Python
 - **项目简介**: 这是一个搜索与工具接入项目，关注该方向的工程实践。
 - **适用场景**: 适合做搜索增强、知识接入和工具编排
@@ -90,12 +90,12 @@
 </details>
 
 <details>
-<summary><strong>2. JuliusBrussee/caveman</strong> · 📈 +40910 · ⭐ 40910 · Python</summary>
+<summary><strong>2. JuliusBrussee/caveman</strong> · 📈 +42488 · ⭐ 42488 · Python</summary>
 
 - **Repository**: https://github.com/JuliusBrussee/caveman
 - **Owner**: `JuliusBrussee`
 - **Created**: `2026-04-04`
-- **Updated**: `2026-04-21`
+- **Updated**: `2026-04-22`
 - **Topics**: 人工智能 / anthropic / caveman / Claude / Claude Code / 大语言模型
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 编程、项目脚手架和开发工作台
@@ -103,12 +103,12 @@
 </details>
 
 <details>
-<summary><strong>3. kyegomez/OpenMythos</strong> · 📈 +4542 · ⭐ 4542 · Python</summary>
+<summary><strong>3. kyegomez/OpenMythos</strong> · 📈 +7323 · ⭐ 7323 · Python</summary>
 
 - **Repository**: https://github.com/kyegomez/OpenMythos
 - **Owner**: `kyegomez`
 - **Created**: `2026-04-18`
-- **Updated**: `2026-04-21`
+- **Updated**: `2026-04-22`
 - **Topics**: 人工智能 / anthropic / attention / Claude / claude-ai / Claude Code
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合做搜索增强、知识接入和工具编排
@@ -116,25 +116,12 @@
 </details>
 
 <details>
-<summary><strong>4. holaboss-ai/holaOS</strong> · 📈 +3138 · ⭐ 3138 · TypeScript</summary>
-
-- **Repository**: https://github.com/holaboss-ai/holaOS
-- **Owner**: `holaboss-ai`
-- **Created**: `2026-03-22`
-- **Updated**: `2026-04-21`
-- **Topics**: 智能体 / agent-harness / agent-runtime / agentic / 人工智能 / AI 智能体
-- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
-
-</details>
-
-<details>
-<summary><strong>5. calesthio/OpenMontage</strong> · 📈 +2813 · ⭐ 2813 · Python</summary>
+<summary><strong>4. calesthio/OpenMontage</strong> · 📈 +2921 · ⭐ 2921 · Python</summary>
 
 - **Repository**: https://github.com/calesthio/OpenMontage
 - **Owner**: `calesthio`
 - **Created**: `2026-03-29`
-- **Updated**: `2026-04-21`
+- **Updated**: `2026-04-22`
 - **Topics**: 智能体 / agentic-ai / 人工智能 / Claude / copilot / cursor
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -142,12 +129,12 @@
 </details>
 
 <details>
-<summary><strong>6. alvinreal/awesome-opensource-ai</strong> · 📈 +2812 · ⭐ 2812 · Python</summary>
+<summary><strong>5. alvinreal/awesome-opensource-ai</strong> · 📈 +2879 · ⭐ 2879 · Python</summary>
 
 - **Repository**: https://github.com/alvinreal/awesome-opensource-ai
 - **Owner**: `alvinreal`
 - **Created**: `2026-03-24`
-- **Updated**: `2026-04-21`
+- **Updated**: `2026-04-22`
 - **Topics**: 智能体 / 人工智能 / 人工智能 / awesome / awesome-list / 生成式 AI
 - **项目简介**: 这是一个智能体项目，用于整理和索引优质开源 AI 项目与基础设施。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -155,12 +142,12 @@
 </details>
 
 <details>
-<summary><strong>7. AgriciDaniel/claude-obsidian</strong> · 📈 +2341 · ⭐ 2341 · Shell</summary>
+<summary><strong>6. AgriciDaniel/claude-obsidian</strong> · 📈 +2716 · ⭐ 2716 · Shell</summary>
 
 - **Repository**: https://github.com/AgriciDaniel/claude-obsidian
 - **Owner**: `AgriciDaniel`
 - **Created**: `2026-04-07`
-- **Updated**: `2026-04-21`
+- **Updated**: `2026-04-22`
 - **Topics**: 人工智能 / Claude Code / claude-code-skill / knowledge-management / obsidian / 开源
 - **项目简介**: 这是一个AI 项目，用于让 Claude Code 按目标持续执行“修改、验证、保留或回退”的自动研究流程。
 - **适用场景**: 适合做搜索增强、知识接入和工具编排
@@ -168,25 +155,12 @@
 </details>
 
 <details>
-<summary><strong>8. CoderLuii/HolyClaude</strong> · 📈 +2039 · ⭐ 2039 · Dockerfile</summary>
-
-- **Repository**: https://github.com/CoderLuii/HolyClaude
-- **Owner**: `CoderLuii`
-- **Created**: `2026-03-22`
-- **Updated**: `2026-04-21`
-- **Topics**: 人工智能 / ai-coding / anthropic / Claude / Claude Code / 编程智能体
-- **项目简介**: 这是一个自动化与效率工具项目，关注该方向的工程实践。
-- **适用场景**: 适合做自动化流程、命令行工具和研发提效
-
-</details>
-
-<details>
-<summary><strong>9. Windy3f3f3f3f/how-claude-code-works</strong> · 📈 +1950 · ⭐ 1950 · 未识别</summary>
+<summary><strong>7. Windy3f3f3f3f/how-claude-code-works</strong> · 📈 +1964 · ⭐ 1964 · 未识别</summary>
 
 - **Repository**: https://github.com/Windy3f3f3f3f/how-claude-code-works
 - **Owner**: `Windy3f3f3f3f`
 - **Created**: `2026-03-31`
-- **Updated**: `2026-04-21`
+- **Updated**: `2026-04-22`
 - **Topics**: 人工智能 / AI 智能体 / anthropic / architecture / Claude / Claude Code
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -194,12 +168,12 @@
 </details>
 
 <details>
-<summary><strong>10. MiniMax-AI/cli</strong> · 📈 +1530 · ⭐ 1530 · TypeScript</summary>
+<summary><strong>8. MiniMax-AI/cli</strong> · 📈 +1545 · ⭐ 1545 · TypeScript</summary>
 
 - **Repository**: https://github.com/MiniMax-AI/cli
 - **Owner**: `MiniMax-AI`
 - **Created**: `2026-03-25`
-- **Updated**: `2026-04-21`
+- **Updated**: `2026-04-22`
 - **Topics**: 人工智能
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
@@ -207,12 +181,12 @@
 </details>
 
 <details>
-<summary><strong>11. Tencent-Hunyuan/HY-World-2.0</strong> · 📈 +1438 · ⭐ 1438 · Python</summary>
+<summary><strong>9. Tencent-Hunyuan/HY-World-2.0</strong> · 📈 +1513 · ⭐ 1513 · Python</summary>
 
 - **Repository**: https://github.com/Tencent-Hunyuan/HY-World-2.0
 - **Owner**: `Tencent-Hunyuan`
 - **Created**: `2026-04-10`
-- **Updated**: `2026-04-21`
+- **Updated**: `2026-04-22`
 - **Topics**: 3d / 人工智能 / worldmodel
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
@@ -220,12 +194,12 @@
 </details>
 
 <details>
-<summary><strong>12. lorryjovens-hub/claude-code-rust</strong> · 📈 +1410 · ⭐ 1410 · TypeScript</summary>
+<summary><strong>10. lorryjovens-hub/claude-code-rust</strong> · 📈 +1421 · ⭐ 1421 · TypeScript</summary>
 
 - **Repository**: https://github.com/lorryjovens-hub/claude-code-rust
 - **Owner**: `lorryjovens-hub`
 - **Created**: `2026-03-31`
-- **Updated**: `2026-04-21`
+- **Updated**: `2026-04-22`
 - **Topics**: 人工智能 / Claude / 命令行 / MCP / performance / repl
 - **项目简介**: 这是一个搜索与工具接入项目，关注该方向的工程实践。
 - **适用场景**: 适合做搜索增强、知识接入和工具编排
@@ -233,12 +207,12 @@
 </details>
 
 <details>
-<summary><strong>13. openedclaude/claude-reviews-claude</strong> · 📈 +1331 · ⭐ 1331 · 未识别</summary>
+<summary><strong>11. openedclaude/claude-reviews-claude</strong> · 📈 +1335 · ⭐ 1335 · 未识别</summary>
 
 - **Repository**: https://github.com/openedclaude/claude-reviews-claude
 - **Owner**: `openedclaude`
 - **Created**: `2026-03-31`
-- **Updated**: `2026-04-21`
+- **Updated**: `2026-04-22`
 - **Topics**: 智能体 / agentic-ai / 人工智能 / anthropic / architecture / Claude
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -246,25 +220,12 @@
 </details>
 
 <details>
-<summary><strong>14. repowise-dev/repowise</strong> · 📈 +1215 · ⭐ 1215 · Python</summary>
-
-- **Repository**: https://github.com/repowise-dev/repowise
-- **Owner**: `repowise-dev`
-- **Created**: `2026-03-23`
-- **Updated**: `2026-04-20`
-- **Topics**: 人工智能 / Claude / code-intelligence / dead-code / 开发者工具 / documentation
-- **项目简介**: 这是一个搜索与工具接入项目，用于把 MCP/OpenAPI 能力快速转成命令行工具。
-- **适用场景**: 适合做搜索增强、知识接入和工具编排
-
-</details>
-
-<details>
-<summary><strong>15. Manavarya09/design-extract</strong> · 📈 +1167 · ⭐ 1167 · JavaScript</summary>
+<summary><strong>12. Manavarya09/design-extract</strong> · 📈 +1289 · ⭐ 1289 · JavaScript</summary>
 
 - **Repository**: https://github.com/Manavarya09/design-extract
 - **Owner**: `Manavarya09`
 - **Created**: `2026-04-15`
-- **Updated**: `2026-04-21`
+- **Updated**: `2026-04-22`
 - **Topics**: accessibility / agent-skill / 人工智能 / chrome-extension / claude-code-plugin / 命令行
 - **项目简介**: 这是一个自动化与效率工具项目，用于把 MCP/OpenAPI 能力快速转成命令行工具。
 - **适用场景**: 适合做搜索增强、知识接入和工具编排
@@ -272,12 +233,25 @@
 </details>
 
 <details>
-<summary><strong>16. BuilderPulse/BuilderPulse</strong> · 📈 +1023 · ⭐ 1023 · 未识别</summary>
+<summary><strong>13. repowise-dev/repowise</strong> · 📈 +1236 · ⭐ 1236 · Python</summary>
+
+- **Repository**: https://github.com/repowise-dev/repowise
+- **Owner**: `repowise-dev`
+- **Created**: `2026-03-23`
+- **Updated**: `2026-04-22`
+- **Topics**: 人工智能 / Claude / code-intelligence / dead-code / 开发者工具 / documentation
+- **项目简介**: 这是一个搜索与工具接入项目，用于把 MCP/OpenAPI 能力快速转成命令行工具。
+- **适用场景**: 适合做搜索增强、知识接入和工具编排
+
+</details>
+
+<details>
+<summary><strong>14. BuilderPulse/BuilderPulse</strong> · 📈 +1056 · ⭐ 1056 · 未识别</summary>
 
 - **Repository**: https://github.com/BuilderPulse/BuilderPulse
 - **Owner**: `BuilderPulse`
 - **Created**: `2026-04-14`
-- **Updated**: `2026-04-21`
+- **Updated**: `2026-04-22`
 - **Topics**: 人工智能 / builders / indiehackers
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
@@ -285,20 +259,7 @@
 </details>
 
 <details>
-<summary><strong>17. oh-my-mermaid/oh-my-mermaid</strong> · 📈 +988 · ⭐ 988 · TypeScript</summary>
-
-- **Repository**: https://github.com/oh-my-mermaid/oh-my-mermaid
-- **Owner**: `oh-my-mermaid`
-- **Created**: `2026-03-22`
-- **Updated**: `2026-04-21`
-- **Topics**: 人工智能 / architecture / Claude Code / claude-code-skill / 命令行 / codebase-visualization
-- **项目简介**: 这是一个自动化与效率工具项目，关注该方向的工程实践。
-- **适用场景**: 适合做自动化流程、命令行工具和研发提效
-
-</details>
-
-<details>
-<summary><strong>18. Windy3f3f3f3f/claude-code-from-scratch</strong> · 📈 +963 · ⭐ 963 · Python</summary>
+<summary><strong>15. Windy3f3f3f3f/claude-code-from-scratch</strong> · 📈 +977 · ⭐ 977 · Python</summary>
 
 - **Repository**: https://github.com/Windy3f3f3f3f/claude-code-from-scratch
 - **Owner**: `Windy3f3f3f3f`
@@ -311,7 +272,20 @@
 </details>
 
 <details>
-<summary><strong>19. Houseofmvps/codesight</strong> · 📈 +946 · ⭐ 946 · TypeScript</summary>
+<summary><strong>16. bergside/design-md-chrome</strong> · 📈 +955 · ⭐ 955 · JavaScript</summary>
+
+- **Repository**: https://github.com/bergside/design-md-chrome
+- **Owner**: `bergside`
+- **Created**: `2026-04-14`
+- **Updated**: `2026-04-22`
+- **Topics**: 人工智能 / chrome / chrome-extension / Claude / claude-design / codex
+- **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
+- **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
+
+</details>
+
+<details>
+<summary><strong>17. Houseofmvps/codesight</strong> · 📈 +948 · ⭐ 948 · TypeScript</summary>
 
 - **Repository**: https://github.com/Houseofmvps/codesight
 - **Owner**: `Houseofmvps`
@@ -324,13 +298,39 @@
 </details>
 
 <details>
-<summary><strong>20. yaojingang/GEOFlow</strong> · 📈 +920 · ⭐ 920 · PHP</summary>
+<summary><strong>18. yaojingang/GEOFlow</strong> · 📈 +947 · ⭐ 947 · PHP</summary>
 
 - **Repository**: https://github.com/yaojingang/GEOFlow
 - **Owner**: `yaojingang`
 - **Created**: `2026-04-13`
-- **Updated**: `2026-04-21`
+- **Updated**: `2026-04-22`
 - **Topics**: 人工智能 / cms / content-automation / geo / openai-compatible / php
+- **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
+- **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
+
+</details>
+
+<details>
+<summary><strong>19. 777genius/claude-code-source-code</strong> · 📈 +899 · ⭐ 899 · 未识别</summary>
+
+- **Repository**: https://github.com/777genius/claude-code-source-code
+- **Owner**: `777genius`
+- **Created**: `2026-03-31`
+- **Updated**: `2026-04-21`
+- **Topics**: 人工智能 / AI 智能体 / AI 智能体 / anthropic / anthropic-ai / anthropic-claude
+- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
+- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
+
+</details>
+
+<details>
+<summary><strong>20. ashim-hq/ashim</strong> · 📈 +852 · ⭐ 852 · TypeScript</summary>
+
+- **Repository**: https://github.com/ashim-hq/ashim
+- **Owner**: `ashim-hq`
+- **Created**: `2026-03-29`
+- **Updated**: `2026-04-22`
+- **Topics**: 人工智能 / docker / homelab / image-editor / image-processing / 开源
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
 
