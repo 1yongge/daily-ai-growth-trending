@@ -12,7 +12,7 @@
 
 | 更新时间 | 榜单数量 | 查询范围 |
 |---|---:|---|
-| `2026-05-19 13:07:04 UTC+8` | **20** | `topic:ai archived:false is:public created:>=2026-04-19 stars:>10` |
+| `2026-05-20 13:10:21 UTC+8` | **20** | `topic:ai archived:false is:public created:>=2026-04-20 stars:>10` |
 
 > [!NOTE]
 > 本榜单通过对比每日快照，计算最近 30 天的星标增长数量 ($\Delta Stars$) 进行排序，旨在发现处于【快速爆发期】的新项目。
@@ -21,7 +21,7 @@
 
 ### 🥇 Top 1 · [crynta/terax-ai](https://github.com/crynta/terax-ai)
 
-**本月涨星**: +3868 | **总星数**: 3868 | **Language**: TypeScript | **Updated**: 2026-05-19
+**本月涨星**: +4032 | **总星数**: 4032 | **Language**: TypeScript | **Updated**: 2026-05-20
 
 **项目简介**：这是一个智能体项目，关注该方向的工程实践。
 
@@ -31,7 +31,7 @@
 
 ### 🥈 Top 2 · [yaojingang/yao-open-prompts](https://github.com/yaojingang/yao-open-prompts)
 
-**本月涨星**: +2164 | **总星数**: 2164 | **Language**: Python | **Updated**: 2026-05-19
+**本月涨星**: +2183 | **总星数**: 2183 | **Language**: Python | **Updated**: 2026-05-20
 
 **项目简介**：这是一个AI 项目，关注该方向的工程实践。
 
@@ -41,7 +41,7 @@
 
 ### 🥉 Top 3 · [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper)
 
-**本月涨星**: +1657 | **总星数**: 1657 | **Language**: JavaScript | **Updated**: 2026-05-18
+**本月涨星**: +1659 | **总星数**: 1659 | **Language**: JavaScript | **Updated**: 2026-05-20
 
 **项目简介**：这是一个AI 项目，关注该方向的工程实践。
 
@@ -53,36 +53,36 @@
 
 | # | Project | Growth | Total Stars | Language | 项目简介 | Updated |
 |---:|---|---:|---:|---|---|---|
-| 1 | [crynta/terax-ai](https://github.com/crynta/terax-ai) | 📈 +3868 | ⭐ 3868 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-05-19 |
-| 2 | [yaojingang/yao-open-prompts](https://github.com/yaojingang/yao-open-prompts) | 📈 +2164 | ⭐ 2164 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-05-19 |
-| 3 | [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | 📈 +1657 | ⭐ 1657 | JavaScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-05-18 |
-| 4 | [Zafer-Liu/Data-Analysis-Agent](https://github.com/Zafer-Liu/Data-Analysis-Agent) | 📈 +1181 | ⭐ 1181 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-05-19 |
-| 5 | [opensquilla/opensquilla](https://github.com/opensquilla/opensquilla) | 📈 +1062 | ⭐ 1062 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-05-19 |
-| 6 | [oritera/Cairn](https://github.com/oritera/Cairn) | 📈 +1062 | ⭐ 1062 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-05-19 |
-| 7 | [future-agi/future-agi](https://github.com/future-agi/future-agi) | 📈 +985 | ⭐ 985 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-05-19 |
-| 8 | [thClaws/thClaws](https://github.com/thClaws/thClaws) | 📈 +942 | ⭐ 942 | Rust | 这是一个智能体项目，关注该方向的工程实践。 | 2026-05-19 |
-| 9 | [xiaochong/hi-kid](https://github.com/xiaochong/hi-kid) | 📈 +704 | ⭐ 704 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-05-19 |
-| 10 | [alash3al/stash](https://github.com/alash3al/stash) | 📈 +697 | ⭐ 697 | Go | 这是一个智能体项目，用于把 MCP/OpenAPI 能力快速转成命令行工… | 2026-05-19 |
-| 11 | [shefyYuri/grok-animus](https://github.com/shefyYuri/grok-animus) | 📈 +626 | ⭐ 626 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-05-19 |
-| 12 | [KevRojo/Dulus](https://github.com/KevRojo/Dulus) | 📈 +619 | ⭐ 619 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-05-19 |
-| 13 | [antoniolupetti/algebrica](https://github.com/antoniolupetti/algebrica) | 📈 +619 | ⭐ 619 | HTML | 这是一个AI 项目，关注该方向的工程实践。 | 2026-05-18 |
-| 14 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 📈 +422 | ⭐ 422 | Python | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-05-18 |
-| 15 | [r1n7aro/Locus](https://github.com/r1n7aro/Locus) | 📈 +413 | ⭐ 413 | Rust | 这是一个智能体项目，关注该方向的工程实践。 | 2026-05-19 |
-| 16 | [mrslimslim/gpt-image-canvas](https://github.com/mrslimslim/gpt-image-canvas) | 📈 +372 | ⭐ 372 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-05-19 |
-| 17 | [simoncirstoiu/alice](https://github.com/simoncirstoiu/alice) | 📈 +330 | ⭐ 330 | JavaScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-05-17 |
-| 18 | [agentforce314/clawcodex](https://github.com/agentforce314/clawcodex) | 📈 +299 | ⭐ 299 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-05-19 |
-| 19 | [kerlos/pordee](https://github.com/kerlos/pordee) | 📈 +272 | ⭐ 272 | JavaScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-05-19 |
-| 20 | [DioCrafts/OpenFoundry](https://github.com/DioCrafts/OpenFoundry) | 📈 +253 | ⭐ 253 | Go | 这是一个AI 项目，关注该方向的工程实践。 | 2026-05-19 |
+| 1 | [crynta/terax-ai](https://github.com/crynta/terax-ai) | 📈 +4032 | ⭐ 4032 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-05-20 |
+| 2 | [yaojingang/yao-open-prompts](https://github.com/yaojingang/yao-open-prompts) | 📈 +2183 | ⭐ 2183 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-05-20 |
+| 3 | [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | 📈 +1659 | ⭐ 1659 | JavaScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-05-20 |
+| 4 | [Zafer-Liu/Data-Analysis-Agent](https://github.com/Zafer-Liu/Data-Analysis-Agent) | 📈 +1186 | ⭐ 1186 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-05-20 |
+| 5 | [opensquilla/opensquilla](https://github.com/opensquilla/opensquilla) | 📈 +1162 | ⭐ 1162 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-05-20 |
+| 6 | [future-agi/future-agi](https://github.com/future-agi/future-agi) | 📈 +996 | ⭐ 996 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-05-20 |
+| 7 | [thClaws/thClaws](https://github.com/thClaws/thClaws) | 📈 +949 | ⭐ 949 | Rust | 这是一个智能体项目，关注该方向的工程实践。 | 2026-05-20 |
+| 8 | [alash3al/stash](https://github.com/alash3al/stash) | 📈 +697 | ⭐ 697 | Go | 这是一个智能体项目，用于把 MCP/OpenAPI 能力快速转成命令行工… | 2026-05-19 |
+| 9 | [shefyYuri/grok-animus](https://github.com/shefyYuri/grok-animus) | 📈 +664 | ⭐ 664 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-05-20 |
+| 10 | [antoniolupetti/algebrica](https://github.com/antoniolupetti/algebrica) | 📈 +627 | ⭐ 627 | 未识别 | 这是一个AI 项目，关注该方向的工程实践。 | 2026-05-19 |
+| 11 | [KevRojo/Dulus](https://github.com/KevRojo/Dulus) | 📈 +620 | ⭐ 620 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-05-20 |
+| 12 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 📈 +422 | ⭐ 422 | Python | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-05-18 |
+| 13 | [r1n7aro/Locus](https://github.com/r1n7aro/Locus) | 📈 +416 | ⭐ 416 | Rust | 这是一个智能体项目，关注该方向的工程实践。 | 2026-05-19 |
+| 14 | [mrslimslim/gpt-image-canvas](https://github.com/mrslimslim/gpt-image-canvas) | 📈 +374 | ⭐ 374 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-05-19 |
+| 15 | [agentforce314/clawcodex](https://github.com/agentforce314/clawcodex) | 📈 +317 | ⭐ 317 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-05-20 |
+| 16 | [kerlos/pordee](https://github.com/kerlos/pordee) | 📈 +274 | ⭐ 274 | JavaScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-05-19 |
+| 17 | [LiuMengxuan04/shushu-internship-tool](https://github.com/LiuMengxuan04/shushu-internship-tool) | 📈 +247 | ⭐ 247 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-05-20 |
+| 18 | [Zhou-Shilin/Aether](https://github.com/Zhou-Shilin/Aether) | 📈 +244 | ⭐ 244 | Kotlin | 这是一个智能体项目，关注该方向的工程实践。 | 2026-05-17 |
+| 19 | [Evokoa/pgGraph](https://github.com/Evokoa/pgGraph) | 📈 +241 | ⭐ 241 | Rust | 这是一个智能体项目，关注该方向的工程实践。 | 2026-05-20 |
+| 20 | [leopiney/linus-torvalds-skills](https://github.com/leopiney/linus-torvalds-skills) | 📈 +223 | ⭐ 223 | 未识别 | 这是一个智能体项目，关注该方向的工程实践。 | 2026-05-19 |
 
 ## Project Details
 
 <details>
-<summary><strong>1. crynta/terax-ai</strong> · 📈 +3868 · ⭐ 3868 · TypeScript</summary>
+<summary><strong>1. crynta/terax-ai</strong> · 📈 +4032 · ⭐ 4032 · TypeScript</summary>
 
 - **Repository**: https://github.com/crynta/terax-ai
 - **Owner**: `crynta`
 - **Created**: `2026-04-21`
-- **Updated**: `2026-05-19`
+- **Updated**: `2026-05-20`
 - **Topics**: 智能体 / 人工智能 / code-editor / linux / macOS / reactjs
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -90,12 +90,12 @@
 </details>
 
 <details>
-<summary><strong>2. yaojingang/yao-open-prompts</strong> · 📈 +2164 · ⭐ 2164 · Python</summary>
+<summary><strong>2. yaojingang/yao-open-prompts</strong> · 📈 +2183 · ⭐ 2183 · Python</summary>
 
 - **Repository**: https://github.com/yaojingang/yao-open-prompts
 - **Owner**: `yaojingang`
 - **Created**: `2026-05-06`
-- **Updated**: `2026-05-19`
+- **Updated**: `2026-05-20`
 - **Topics**: 人工智能 / chinese-prompts / geo / prompt-engineering / prompts
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
@@ -103,12 +103,12 @@
 </details>
 
 <details>
-<summary><strong>3. openclaw/clawsweeper</strong> · 📈 +1657 · ⭐ 1657 · JavaScript</summary>
+<summary><strong>3. openclaw/clawsweeper</strong> · 📈 +1659 · ⭐ 1659 · JavaScript</summary>
 
 - **Repository**: https://github.com/openclaw/clawsweeper
 - **Owner**: `openclaw`
 - **Created**: `2026-04-23`
-- **Updated**: `2026-05-18`
+- **Updated**: `2026-05-20`
 - **Topics**: 人工智能 / bot / OpenClaw / review
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
@@ -116,12 +116,12 @@
 </details>
 
 <details>
-<summary><strong>4. Zafer-Liu/Data-Analysis-Agent</strong> · 📈 +1181 · ⭐ 1181 · Python</summary>
+<summary><strong>4. Zafer-Liu/Data-Analysis-Agent</strong> · 📈 +1186 · ⭐ 1186 · Python</summary>
 
 - **Repository**: https://github.com/Zafer-Liu/Data-Analysis-Agent
 - **Owner**: `Zafer-Liu`
 - **Created**: `2026-04-21`
-- **Updated**: `2026-05-19`
+- **Updated**: `2026-05-20`
 - **Topics**: 智能体 / 人工智能 / ai-tools / analysis / charts / datavisualization
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -129,12 +129,12 @@
 </details>
 
 <details>
-<summary><strong>5. opensquilla/opensquilla</strong> · 📈 +1062 · ⭐ 1062 · Python</summary>
+<summary><strong>5. opensquilla/opensquilla</strong> · 📈 +1162 · ⭐ 1162 · Python</summary>
 
 - **Repository**: https://github.com/opensquilla/opensquilla
 - **Owner**: `opensquilla`
 - **Created**: `2026-05-06`
-- **Updated**: `2026-05-19`
+- **Updated**: `2026-05-20`
 - **Topics**: 智能体 / 人工智能 / AI 智能体 / deep-learning / foundation-models / 大语言模型
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -142,25 +142,12 @@
 </details>
 
 <details>
-<summary><strong>6. oritera/Cairn</strong> · 📈 +1062 · ⭐ 1062 · Python</summary>
-
-- **Repository**: https://github.com/oritera/Cairn
-- **Owner**: `oritera`
-- **Created**: `2026-04-19`
-- **Updated**: `2026-05-19`
-- **Topics**: 人工智能 / AI 智能体 / ai-cybersecurity / ai-hacker / ai-hacking / blackbox-testing
-- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
-
-</details>
-
-<details>
-<summary><strong>7. future-agi/future-agi</strong> · 📈 +985 · ⭐ 985 · Python</summary>
+<summary><strong>6. future-agi/future-agi</strong> · 📈 +996 · ⭐ 996 · Python</summary>
 
 - **Repository**: https://github.com/future-agi/future-agi
 - **Owner**: `future-agi`
 - **Created**: `2026-04-23`
-- **Updated**: `2026-05-19`
+- **Updated**: `2026-05-20`
 - **Topics**: 人工智能 / ai-gateway / evals / 大语言模型 / observability / simulation
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -168,12 +155,12 @@
 </details>
 
 <details>
-<summary><strong>8. thClaws/thClaws</strong> · 📈 +942 · ⭐ 942 · Rust</summary>
+<summary><strong>7. thClaws/thClaws</strong> · 📈 +949 · ⭐ 949 · Rust</summary>
 
 - **Repository**: https://github.com/thClaws/thClaws
 - **Owner**: `thClaws`
 - **Created**: `2026-04-20`
-- **Updated**: `2026-05-19`
+- **Updated**: `2026-05-20`
 - **Topics**: agent-harness / agent-teams / 人工智能 / AI 智能体 / AI 智能体 / ai-assistant
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -181,20 +168,7 @@
 </details>
 
 <details>
-<summary><strong>9. xiaochong/hi-kid</strong> · 📈 +704 · ⭐ 704 · TypeScript</summary>
-
-- **Repository**: https://github.com/xiaochong/hi-kid
-- **Owner**: `xiaochong`
-- **Created**: `2026-04-19`
-- **Updated**: `2026-05-19`
-- **Topics**: 人工智能 / english-learning / kids-education / local-ai / offline-ai / speaking-practice
-- **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
-- **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
-
-</details>
-
-<details>
-<summary><strong>10. alash3al/stash</strong> · 📈 +697 · ⭐ 697 · Go</summary>
+<summary><strong>8. alash3al/stash</strong> · 📈 +697 · ⭐ 697 · Go</summary>
 
 - **Repository**: https://github.com/alash3al/stash
 - **Owner**: `alash3al`
@@ -207,12 +181,12 @@
 </details>
 
 <details>
-<summary><strong>11. shefyYuri/grok-animus</strong> · 📈 +626 · ⭐ 626 · Python</summary>
+<summary><strong>9. shefyYuri/grok-animus</strong> · 📈 +664 · ⭐ 664 · Python</summary>
 
 - **Repository**: https://github.com/shefyYuri/grok-animus
 - **Owner**: `shefyYuri`
 - **Created**: `2026-05-09`
-- **Updated**: `2026-05-19`
+- **Updated**: `2026-05-20`
 - **Topics**: 智能体 / 人工智能 / dreams / evolution / memory / Python
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -220,25 +194,12 @@
 </details>
 
 <details>
-<summary><strong>12. KevRojo/Dulus</strong> · 📈 +619 · ⭐ 619 · Python</summary>
-
-- **Repository**: https://github.com/KevRojo/Dulus
-- **Owner**: `KevRojo`
-- **Created**: `2026-05-05`
-- **Updated**: `2026-05-19`
-- **Topics**: 智能体 / 人工智能 / 助手 / claw / dulus / falcon
-- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
-
-</details>
-
-<details>
-<summary><strong>13. antoniolupetti/algebrica</strong> · 📈 +619 · ⭐ 619 · HTML</summary>
+<summary><strong>10. antoniolupetti/algebrica</strong> · 📈 +627 · ⭐ 627 · 未识别</summary>
 
 - **Repository**: https://github.com/antoniolupetti/algebrica
 - **Owner**: `antoniolupetti`
 - **Created**: `2026-04-24`
-- **Updated**: `2026-05-18`
+- **Updated**: `2026-05-19`
 - **Topics**: 人工智能 / mathematics / ml / nlp
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
@@ -246,7 +207,20 @@
 </details>
 
 <details>
-<summary><strong>14. ifixai-ai/iFixAi</strong> · 📈 +422 · ⭐ 422 · Python</summary>
+<summary><strong>11. KevRojo/Dulus</strong> · 📈 +620 · ⭐ 620 · Python</summary>
+
+- **Repository**: https://github.com/KevRojo/Dulus
+- **Owner**: `KevRojo`
+- **Created**: `2026-05-05`
+- **Updated**: `2026-05-20`
+- **Topics**: 智能体 / 人工智能 / 助手 / claw / dulus / falcon
+- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
+- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
+
+</details>
+
+<details>
+<summary><strong>12. ifixai-ai/iFixAi</strong> · 📈 +422 · ⭐ 422 · Python</summary>
 
 - **Repository**: https://github.com/ifixai-ai/iFixAi
 - **Owner**: `ifixai-ai`
@@ -259,7 +233,7 @@
 </details>
 
 <details>
-<summary><strong>15. r1n7aro/Locus</strong> · 📈 +413 · ⭐ 413 · Rust</summary>
+<summary><strong>13. r1n7aro/Locus</strong> · 📈 +416 · ⭐ 416 · Rust</summary>
 
 - **Repository**: https://github.com/r1n7aro/Locus
 - **Owner**: `r1n7aro`
@@ -272,7 +246,7 @@
 </details>
 
 <details>
-<summary><strong>16. mrslimslim/gpt-image-canvas</strong> · 📈 +372 · ⭐ 372 · TypeScript</summary>
+<summary><strong>14. mrslimslim/gpt-image-canvas</strong> · 📈 +374 · ⭐ 374 · TypeScript</summary>
 
 - **Repository**: https://github.com/mrslimslim/gpt-image-canvas
 - **Owner**: `mrslimslim`
@@ -285,25 +259,12 @@
 </details>
 
 <details>
-<summary><strong>17. simoncirstoiu/alice</strong> · 📈 +330 · ⭐ 330 · JavaScript</summary>
-
-- **Repository**: https://github.com/simoncirstoiu/alice
-- **Owner**: `simoncirstoiu`
-- **Created**: `2026-04-19`
-- **Updated**: `2026-05-17`
-- **Topics**: 人工智能 / ai-tools / annotation / computer-vision / dataset / frigate
-- **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
-- **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
-
-</details>
-
-<details>
-<summary><strong>18. agentforce314/clawcodex</strong> · 📈 +299 · ⭐ 299 · Python</summary>
+<summary><strong>15. agentforce314/clawcodex</strong> · 📈 +317 · ⭐ 317 · Python</summary>
 
 - **Repository**: https://github.com/agentforce314/clawcodex
 - **Owner**: `agentforce314`
 - **Created**: `2026-04-20`
-- **Updated**: `2026-05-19`
+- **Updated**: `2026-05-20`
 - **Topics**: 智能体 / 人工智能 / AI 智能体 / ai-coding / Claude / Claude Code
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -311,7 +272,7 @@
 </details>
 
 <details>
-<summary><strong>19. kerlos/pordee</strong> · 📈 +272 · ⭐ 272 · JavaScript</summary>
+<summary><strong>16. kerlos/pordee</strong> · 📈 +274 · ⭐ 274 · JavaScript</summary>
 
 - **Repository**: https://github.com/kerlos/pordee
 - **Owner**: `kerlos`
@@ -324,15 +285,54 @@
 </details>
 
 <details>
-<summary><strong>20. DioCrafts/OpenFoundry</strong> · 📈 +253 · ⭐ 253 · Go</summary>
+<summary><strong>17. LiuMengxuan04/shushu-internship-tool</strong> · 📈 +247 · ⭐ 247 · Python</summary>
 
-- **Repository**: https://github.com/DioCrafts/OpenFoundry
-- **Owner**: `DioCrafts`
-- **Created**: `2026-04-19`
+- **Repository**: https://github.com/LiuMengxuan04/shushu-internship-tool
+- **Owner**: `LiuMengxuan04`
+- **Created**: `2026-05-17`
+- **Updated**: `2026-05-20`
+- **Topics**: 人工智能 / AI 智能体 / 技能系统
+- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
+- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
+
+</details>
+
+<details>
+<summary><strong>18. Zhou-Shilin/Aether</strong> · 📈 +244 · ⭐ 244 · Kotlin</summary>
+
+- **Repository**: https://github.com/Zhou-Shilin/Aether
+- **Owner**: `Zhou-Shilin`
+- **Created**: `2026-04-25`
+- **Updated**: `2026-05-17`
+- **Topics**: 智能体 / 智能体 / 人工智能 / AI 智能体 / android-application / 大语言模型
+- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
+- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
+
+</details>
+
+<details>
+<summary><strong>19. Evokoa/pgGraph</strong> · 📈 +241 · ⭐ 241 · Rust</summary>
+
+- **Repository**: https://github.com/Evokoa/pgGraph
+- **Owner**: `Evokoa`
+- **Created**: `2026-05-13`
+- **Updated**: `2026-05-20`
+- **Topics**: 人工智能 / AI 智能体 / ai-agents-framework / graph / graph-database / pgrx
+- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
+- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
+
+</details>
+
+<details>
+<summary><strong>20. leopiney/linus-torvalds-skills</strong> · 📈 +223 · ⭐ 223 · 未识别</summary>
+
+- **Repository**: https://github.com/leopiney/linus-torvalds-skills
+- **Owner**: `leopiney`
+- **Created**: `2026-04-22`
 - **Updated**: `2026-05-19`
-- **Topics**: 人工智能 / analytics / 人工智能 / business-intelligence / data-engineering / data-pipelines
-- **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
-- **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
+- **Topics**: agent-skills / 人工智能 / AI 智能体 / Claude Code / cursor / linus-torvalds
+- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
+- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
 
 </details>
 
