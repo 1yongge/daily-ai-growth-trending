@@ -12,7 +12,7 @@
 
 | 更新时间 | 榜单数量 | 查询范围 |
 |---|---:|---|
-| `2026-05-28 13:14:26 UTC+8` | **20** | `topic:ai archived:false is:public created:>=2026-04-28 stars:>10` |
+| `2026-05-29 13:17:36 UTC+8` | **20** | `topic:ai archived:false is:public created:>=2026-04-29 stars:>10` |
 
 > [!NOTE]
 > 本榜单通过对比每日快照，计算最近 30 天的星标增长数量 ($\Delta Stars$) 进行排序，旨在发现处于【快速爆发期】的新项目。
@@ -21,7 +21,7 @@
 
 ### 🥇 Top 1 · [yaojingang/yao-open-prompts](https://github.com/yaojingang/yao-open-prompts)
 
-**本月涨星**: +2311 | **总星数**: 2311 | **Language**: Python | **Updated**: 2026-05-28
+**本月涨星**: +2317 | **总星数**: 2317 | **Language**: Python | **Updated**: 2026-05-29
 
 **项目简介**：这是一个AI 项目，关注该方向的工程实践。
 
@@ -31,7 +31,7 @@
 
 ### 🥈 Top 2 · [opensquilla/opensquilla](https://github.com/opensquilla/opensquilla)
 
-**本月涨星**: +2076 | **总星数**: 2076 | **Language**: Python | **Updated**: 2026-05-28
+**本月涨星**: +2084 | **总星数**: 2084 | **Language**: Python | **Updated**: 2026-05-29
 
 **项目简介**：这是一个智能体项目，关注该方向的工程实践。
 
@@ -41,7 +41,7 @@
 
 ### 🥉 Top 3 · [Helvesec/rmux](https://github.com/Helvesec/rmux)
 
-**本月涨星**: +1290 | **总星数**: 1290 | **Language**: Rust | **Updated**: 2026-05-28
+**本月涨星**: +1319 | **总星数**: 1319 | **Language**: Rust | **Updated**: 2026-05-29
 
 **项目简介**：这是一个智能体项目，关注该方向的工程实践。
 
@@ -53,36 +53,36 @@
 
 | # | Project | Growth | Total Stars | Language | 项目简介 | Updated |
 |---:|---|---:|---:|---|---|---|
-| 1 | [yaojingang/yao-open-prompts](https://github.com/yaojingang/yao-open-prompts) | 📈 +2311 | ⭐ 2311 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-05-28 |
-| 2 | [opensquilla/opensquilla](https://github.com/opensquilla/opensquilla) | 📈 +2076 | ⭐ 2076 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-05-28 |
-| 3 | [Helvesec/rmux](https://github.com/Helvesec/rmux) | 📈 +1290 | ⭐ 1290 | Rust | 这是一个智能体项目，关注该方向的工程实践。 | 2026-05-28 |
-| 4 | [KevRojo/Dulus](https://github.com/KevRojo/Dulus) | 📈 +708 | ⭐ 708 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-05-28 |
-| 5 | [mrslimslim/gpt-image-canvas](https://github.com/mrslimslim/gpt-image-canvas) | 📈 +581 | ⭐ 581 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-05-28 |
-| 6 | [LiuMengxuan04/shushu-internship-tool](https://github.com/LiuMengxuan04/shushu-internship-tool) | 📈 +572 | ⭐ 572 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-05-28 |
-| 7 | [UditAkhourii/adhd](https://github.com/UditAkhourii/adhd) | 📈 +377 | ⭐ 377 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-05-28 |
-| 8 | [basionwang-bot/HermesPet](https://github.com/basionwang-bot/HermesPet) | 📈 +338 | ⭐ 338 | Swift | 这是一个AI 项目，关注该方向的工程实践。 | 2026-05-28 |
-| 9 | [Evokoa/pgGraph](https://github.com/Evokoa/pgGraph) | 📈 +319 | ⭐ 319 | Rust | 这是一个智能体项目，关注该方向的工程实践。 | 2026-05-28 |
-| 10 | [rpamis/comet](https://github.com/rpamis/comet) | 📈 +312 | ⭐ 312 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-05-28 |
-| 11 | [seochecks-ai/slopless](https://github.com/seochecks-ai/slopless) | 📈 +297 | ⭐ 297 | TypeScript | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-05-27 |
-| 12 | [kerlos/pordee](https://github.com/kerlos/pordee) | 📈 +287 | ⭐ 287 | JavaScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-05-28 |
-| 13 | [ajsai47/backdoor](https://github.com/ajsai47/backdoor) | 📈 +261 | ⭐ 261 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-05-28 |
-| 14 | [chAng-L19/codex-redteam-mode](https://github.com/chAng-L19/codex-redteam-mode) | 📈 +251 | ⭐ 251 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-05-26 |
-| 15 | [gonemedia/aipointer](https://github.com/gonemedia/aipointer) | 📈 +237 | ⭐ 237 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-05-28 |
-| 16 | [entropyvortex/meta-llm-charter](https://github.com/entropyvortex/meta-llm-charter) | 📈 +236 | ⭐ 236 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-05-27 |
-| 17 | [leiting-eric/DailyBrief](https://github.com/leiting-eric/DailyBrief) | 📈 +197 | ⭐ 197 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-05-28 |
-| 18 | [capture0x/AdStrike](https://github.com/capture0x/AdStrike) | 📈 +191 | ⭐ 191 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-05-28 |
-| 19 | [jungang/alumnet](https://github.com/jungang/alumnet) | 📈 +191 | ⭐ 191 | TypeScript | 这是一个搜索与工具接入项目，关注该方向的工程实践。 | 2026-05-28 |
-| 20 | [lthoangg/OpenAgentd](https://github.com/lthoangg/OpenAgentd) | 📈 +185 | ⭐ 185 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-05-28 |
+| 1 | [yaojingang/yao-open-prompts](https://github.com/yaojingang/yao-open-prompts) | 📈 +2317 | ⭐ 2317 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-05-29 |
+| 2 | [opensquilla/opensquilla](https://github.com/opensquilla/opensquilla) | 📈 +2084 | ⭐ 2084 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-05-29 |
+| 3 | [Helvesec/rmux](https://github.com/Helvesec/rmux) | 📈 +1319 | ⭐ 1319 | Rust | 这是一个智能体项目，关注该方向的工程实践。 | 2026-05-29 |
+| 4 | [KevRojo/Dulus](https://github.com/KevRojo/Dulus) | 📈 +707 | ⭐ 707 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-05-29 |
+| 5 | [LiuMengxuan04/shushu-internship-tool](https://github.com/LiuMengxuan04/shushu-internship-tool) | 📈 +584 | ⭐ 584 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-05-29 |
+| 6 | [UditAkhourii/adhd](https://github.com/UditAkhourii/adhd) | 📈 +482 | ⭐ 482 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-05-29 |
+| 7 | [rpamis/comet](https://github.com/rpamis/comet) | 📈 +382 | ⭐ 382 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-05-29 |
+| 8 | [basionwang-bot/HermesPet](https://github.com/basionwang-bot/HermesPet) | 📈 +350 | ⭐ 350 | Swift | 这是一个AI 项目，关注该方向的工程实践。 | 2026-05-29 |
+| 9 | [Evokoa/pgGraph](https://github.com/Evokoa/pgGraph) | 📈 +333 | ⭐ 333 | Rust | 这是一个智能体项目，关注该方向的工程实践。 | 2026-05-29 |
+| 10 | [seochecks-ai/slopless](https://github.com/seochecks-ai/slopless) | 📈 +302 | ⭐ 302 | TypeScript | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-05-29 |
+| 11 | [kerlos/pordee](https://github.com/kerlos/pordee) | 📈 +288 | ⭐ 288 | JavaScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-05-28 |
+| 12 | [gonemedia/aipointer](https://github.com/gonemedia/aipointer) | 📈 +283 | ⭐ 283 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-05-29 |
+| 13 | [ajsai47/backdoor](https://github.com/ajsai47/backdoor) | 📈 +263 | ⭐ 263 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-05-28 |
+| 14 | [chAng-L19/codex-redteam-mode](https://github.com/chAng-L19/codex-redteam-mode) | 📈 +253 | ⭐ 253 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-05-28 |
+| 15 | [entropyvortex/meta-llm-charter](https://github.com/entropyvortex/meta-llm-charter) | 📈 +236 | ⭐ 236 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-05-27 |
+| 16 | [echo-loop/Echo-Loop](https://github.com/echo-loop/Echo-Loop) | 📈 +209 | ⭐ 209 | Dart | 这是一个AI 项目，关注该方向的工程实践。 | 2026-05-29 |
+| 17 | [capture0x/AdStrike](https://github.com/capture0x/AdStrike) | 📈 +201 | ⭐ 201 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-05-29 |
+| 18 | [leiting-eric/DailyBrief](https://github.com/leiting-eric/DailyBrief) | 📈 +201 | ⭐ 201 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-05-28 |
+| 19 | [jungang/alumnet](https://github.com/jungang/alumnet) | 📈 +194 | ⭐ 194 | TypeScript | 这是一个搜索与工具接入项目，关注该方向的工程实践。 | 2026-05-28 |
+| 20 | [vincelele/ai-fomo-skills](https://github.com/vincelele/ai-fomo-skills) | 📈 +186 | ⭐ 186 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-05-29 |
 
 ## Project Details
 
 <details>
-<summary><strong>1. yaojingang/yao-open-prompts</strong> · 📈 +2311 · ⭐ 2311 · Python</summary>
+<summary><strong>1. yaojingang/yao-open-prompts</strong> · 📈 +2317 · ⭐ 2317 · Python</summary>
 
 - **Repository**: https://github.com/yaojingang/yao-open-prompts
 - **Owner**: `yaojingang`
 - **Created**: `2026-05-06`
-- **Updated**: `2026-05-28`
+- **Updated**: `2026-05-29`
 - **Topics**: 人工智能 / chinese-prompts / geo / prompt-engineering / prompts
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
@@ -90,12 +90,12 @@
 </details>
 
 <details>
-<summary><strong>2. opensquilla/opensquilla</strong> · 📈 +2076 · ⭐ 2076 · Python</summary>
+<summary><strong>2. opensquilla/opensquilla</strong> · 📈 +2084 · ⭐ 2084 · Python</summary>
 
 - **Repository**: https://github.com/opensquilla/opensquilla
 - **Owner**: `opensquilla`
 - **Created**: `2026-05-06`
-- **Updated**: `2026-05-28`
+- **Updated**: `2026-05-29`
 - **Topics**: 智能体 / 人工智能 / AI 智能体 / deep-learning / foundation-models / 大语言模型
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -103,12 +103,12 @@
 </details>
 
 <details>
-<summary><strong>3. Helvesec/rmux</strong> · 📈 +1290 · ⭐ 1290 · Rust</summary>
+<summary><strong>3. Helvesec/rmux</strong> · 📈 +1319 · ⭐ 1319 · Rust</summary>
 
 - **Repository**: https://github.com/Helvesec/rmux
 - **Owner**: `Helvesec`
 - **Created**: `2026-05-15`
-- **Updated**: `2026-05-28`
+- **Updated**: `2026-05-29`
 - **Topics**: 智能体 / 人工智能 / 命令行 / linux / macOS / multiplexer
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -116,12 +116,12 @@
 </details>
 
 <details>
-<summary><strong>4. KevRojo/Dulus</strong> · 📈 +708 · ⭐ 708 · Python</summary>
+<summary><strong>4. KevRojo/Dulus</strong> · 📈 +707 · ⭐ 707 · Python</summary>
 
 - **Repository**: https://github.com/KevRojo/Dulus
 - **Owner**: `KevRojo`
 - **Created**: `2026-05-05`
-- **Updated**: `2026-05-28`
+- **Updated**: `2026-05-29`
 - **Topics**: 智能体 / 人工智能 / 助手 / claw / dulus / falcon
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -129,25 +129,12 @@
 </details>
 
 <details>
-<summary><strong>5. mrslimslim/gpt-image-canvas</strong> · 📈 +581 · ⭐ 581 · TypeScript</summary>
-
-- **Repository**: https://github.com/mrslimslim/gpt-image-canvas
-- **Owner**: `mrslimslim`
-- **Created**: `2026-04-28`
-- **Updated**: `2026-05-28`
-- **Topics**: 人工智能 / ai-tools / aiimagegenerator
-- **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
-- **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
-
-</details>
-
-<details>
-<summary><strong>6. LiuMengxuan04/shushu-internship-tool</strong> · 📈 +572 · ⭐ 572 · Python</summary>
+<summary><strong>5. LiuMengxuan04/shushu-internship-tool</strong> · 📈 +584 · ⭐ 584 · Python</summary>
 
 - **Repository**: https://github.com/LiuMengxuan04/shushu-internship-tool
 - **Owner**: `LiuMengxuan04`
 - **Created**: `2026-05-17`
-- **Updated**: `2026-05-28`
+- **Updated**: `2026-05-29`
 - **Topics**: 人工智能 / AI 智能体 / 技能系统
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -155,12 +142,12 @@
 </details>
 
 <details>
-<summary><strong>7. UditAkhourii/adhd</strong> · 📈 +377 · ⭐ 377 · TypeScript</summary>
+<summary><strong>6. UditAkhourii/adhd</strong> · 📈 +482 · ⭐ 482 · TypeScript</summary>
 
 - **Repository**: https://github.com/UditAkhourii/adhd
 - **Owner**: `UditAkhourii`
 - **Created**: `2026-05-25`
-- **Updated**: `2026-05-28`
+- **Updated**: `2026-05-29`
 - **Topics**: adhd / 智能体 / 人工智能 / AI 智能体 / brainstorm / chain-of-thought
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -168,38 +155,12 @@
 </details>
 
 <details>
-<summary><strong>8. basionwang-bot/HermesPet</strong> · 📈 +338 · ⭐ 338 · Swift</summary>
-
-- **Repository**: https://github.com/basionwang-bot/HermesPet
-- **Owner**: `basionwang-bot`
-- **Created**: `2026-05-15`
-- **Updated**: `2026-05-28`
-- **Topics**: 人工智能 / chatgpt / chinese / Claude / deepseek / desktop-app
-- **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
-- **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
-
-</details>
-
-<details>
-<summary><strong>9. Evokoa/pgGraph</strong> · 📈 +319 · ⭐ 319 · Rust</summary>
-
-- **Repository**: https://github.com/Evokoa/pgGraph
-- **Owner**: `Evokoa`
-- **Created**: `2026-05-13`
-- **Updated**: `2026-05-28`
-- **Topics**: 人工智能 / AI 智能体 / ai-agents-framework / graph / graph-database / pgrx
-- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
-
-</details>
-
-<details>
-<summary><strong>10. rpamis/comet</strong> · 📈 +312 · ⭐ 312 · TypeScript</summary>
+<summary><strong>7. rpamis/comet</strong> · 📈 +382 · ⭐ 382 · TypeScript</summary>
 
 - **Repository**: https://github.com/rpamis/comet
 - **Owner**: `rpamis`
 - **Created**: `2026-05-14`
-- **Updated**: `2026-05-28`
+- **Updated**: `2026-05-29`
 - **Topics**: 人工智能 / harness-engineering / sdd / 技能系统 / spec / spec-driven-development
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
@@ -207,12 +168,38 @@
 </details>
 
 <details>
-<summary><strong>11. seochecks-ai/slopless</strong> · 📈 +297 · ⭐ 297 · TypeScript</summary>
+<summary><strong>8. basionwang-bot/HermesPet</strong> · 📈 +350 · ⭐ 350 · Swift</summary>
+
+- **Repository**: https://github.com/basionwang-bot/HermesPet
+- **Owner**: `basionwang-bot`
+- **Created**: `2026-05-15`
+- **Updated**: `2026-05-29`
+- **Topics**: 人工智能 / chatgpt / chinese / Claude / deepseek / desktop-app
+- **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
+- **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
+
+</details>
+
+<details>
+<summary><strong>9. Evokoa/pgGraph</strong> · 📈 +333 · ⭐ 333 · Rust</summary>
+
+- **Repository**: https://github.com/Evokoa/pgGraph
+- **Owner**: `Evokoa`
+- **Created**: `2026-05-13`
+- **Updated**: `2026-05-29`
+- **Topics**: 人工智能 / AI 智能体 / ai-agents-framework / graph / graph-database / pgrx
+- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
+- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
+
+</details>
+
+<details>
+<summary><strong>10. seochecks-ai/slopless</strong> · 📈 +302 · ⭐ 302 · TypeScript</summary>
 
 - **Repository**: https://github.com/seochecks-ai/slopless
 - **Owner**: `seochecks-ai`
 - **Created**: `2026-05-16`
-- **Updated**: `2026-05-27`
+- **Updated**: `2026-05-29`
 - **Topics**: 人工智能 / 命令行 / lint / linter / 大语言模型 / markdown
 - **项目简介**: 这是一个自动化与效率工具项目，关注该方向的工程实践。
 - **适用场景**: 适合做自动化流程、命令行工具和研发提效
@@ -220,7 +207,7 @@
 </details>
 
 <details>
-<summary><strong>12. kerlos/pordee</strong> · 📈 +287 · ⭐ 287 · JavaScript</summary>
+<summary><strong>11. kerlos/pordee</strong> · 📈 +288 · ⭐ 288 · JavaScript</summary>
 
 - **Repository**: https://github.com/kerlos/pordee
 - **Owner**: `kerlos`
@@ -233,7 +220,20 @@
 </details>
 
 <details>
-<summary><strong>13. ajsai47/backdoor</strong> · 📈 +261 · ⭐ 261 · Python</summary>
+<summary><strong>12. gonemedia/aipointer</strong> · 📈 +283 · ⭐ 283 · TypeScript</summary>
+
+- **Repository**: https://github.com/gonemedia/aipointer
+- **Owner**: `gonemedia`
+- **Created**: `2026-05-13`
+- **Updated**: `2026-05-29`
+- **Topics**: 人工智能 / ai-assistant / ai-tools / aipointer / anthropic / cursor
+- **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
+- **适用场景**: 适合做本地部署、离线运行和私有化使用
+
+</details>
+
+<details>
+<summary><strong>13. ajsai47/backdoor</strong> · 📈 +263 · ⭐ 263 · Python</summary>
 
 - **Repository**: https://github.com/ajsai47/backdoor
 - **Owner**: `ajsai47`
@@ -246,12 +246,12 @@
 </details>
 
 <details>
-<summary><strong>14. chAng-L19/codex-redteam-mode</strong> · 📈 +251 · ⭐ 251 · Python</summary>
+<summary><strong>14. chAng-L19/codex-redteam-mode</strong> · 📈 +253 · ⭐ 253 · Python</summary>
 
 - **Repository**: https://github.com/chAng-L19/codex-redteam-mode
 - **Owner**: `chAng-L19`
 - **Created**: `2026-05-06`
-- **Updated**: `2026-05-26`
+- **Updated**: `2026-05-28`
 - **Topics**: 人工智能 / ai-hacking / hacking-tool / penetration-testing / red-team
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
@@ -259,20 +259,7 @@
 </details>
 
 <details>
-<summary><strong>15. gonemedia/aipointer</strong> · 📈 +237 · ⭐ 237 · TypeScript</summary>
-
-- **Repository**: https://github.com/gonemedia/aipointer
-- **Owner**: `gonemedia`
-- **Created**: `2026-05-13`
-- **Updated**: `2026-05-28`
-- **Topics**: 人工智能 / ai-assistant / ai-tools / aipointer / anthropic / cursor
-- **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
-- **适用场景**: 适合做本地部署、离线运行和私有化使用
-
-</details>
-
-<details>
-<summary><strong>16. entropyvortex/meta-llm-charter</strong> · 📈 +236 · ⭐ 236 · TypeScript</summary>
+<summary><strong>15. entropyvortex/meta-llm-charter</strong> · 📈 +236 · ⭐ 236 · TypeScript</summary>
 
 - **Repository**: https://github.com/entropyvortex/meta-llm-charter
 - **Owner**: `entropyvortex`
@@ -285,7 +272,33 @@
 </details>
 
 <details>
-<summary><strong>17. leiting-eric/DailyBrief</strong> · 📈 +197 · ⭐ 197 · TypeScript</summary>
+<summary><strong>16. echo-loop/Echo-Loop</strong> · 📈 +209 · ⭐ 209 · Dart</summary>
+
+- **Repository**: https://github.com/echo-loop/Echo-Loop
+- **Owner**: `echo-loop`
+- **Created**: `2026-05-07`
+- **Updated**: `2026-05-29`
+- **Topics**: 人工智能 / education / english-learning / flutter / language-learning / listening-practice
+- **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
+- **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
+
+</details>
+
+<details>
+<summary><strong>17. capture0x/AdStrike</strong> · 📈 +201 · ⭐ 201 · Python</summary>
+
+- **Repository**: https://github.com/capture0x/AdStrike
+- **Owner**: `capture0x`
+- **Created**: `2026-05-10`
+- **Updated**: `2026-05-29`
+- **Topics**: active-directory / active-directory-exploitation / active-directory-security / ad-agent / ad-attack / ad-attack-paths
+- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
+- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
+
+</details>
+
+<details>
+<summary><strong>18. leiting-eric/DailyBrief</strong> · 📈 +201 · ⭐ 201 · TypeScript</summary>
 
 - **Repository**: https://github.com/leiting-eric/DailyBrief
 - **Owner**: `leiting-eric`
@@ -298,20 +311,7 @@
 </details>
 
 <details>
-<summary><strong>18. capture0x/AdStrike</strong> · 📈 +191 · ⭐ 191 · Python</summary>
-
-- **Repository**: https://github.com/capture0x/AdStrike
-- **Owner**: `capture0x`
-- **Created**: `2026-05-10`
-- **Updated**: `2026-05-28`
-- **Topics**: active-directory / active-directory-exploitation / active-directory-security / ad-agent / ad-attack / ad-attack-paths
-- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
-
-</details>
-
-<details>
-<summary><strong>19. jungang/alumnet</strong> · 📈 +191 · ⭐ 191 · TypeScript</summary>
+<summary><strong>19. jungang/alumnet</strong> · 📈 +194 · ⭐ 194 · TypeScript</summary>
 
 - **Repository**: https://github.com/jungang/alumnet
 - **Owner**: `jungang`
@@ -324,15 +324,15 @@
 </details>
 
 <details>
-<summary><strong>20. lthoangg/OpenAgentd</strong> · 📈 +185 · ⭐ 185 · Python</summary>
+<summary><strong>20. vincelele/ai-fomo-skills</strong> · 📈 +186 · ⭐ 186 · Python</summary>
 
-- **Repository**: https://github.com/lthoangg/OpenAgentd
-- **Owner**: `lthoangg`
-- **Created**: `2026-04-30`
-- **Updated**: `2026-05-28`
-- **Topics**: 智能体 / 人工智能 / 大语言模型 / 多智能体 / self-hosted
-- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
+- **Repository**: https://github.com/vincelele/ai-fomo-skills
+- **Owner**: `vincelele`
+- **Created**: `2026-05-19`
+- **Updated**: `2026-05-29`
+- **Topics**: 人工智能 / codex / knowledge-management / personal-ai / 技能系统
+- **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
+- **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
 
 </details>
 
