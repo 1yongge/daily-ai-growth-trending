@@ -12,7 +12,7 @@
 
 | 更新时间 | 榜单数量 | 查询范围 |
 |---|---:|---|
-| `2026-06-07 13:44:30 UTC+8` | **20** | `topic:ai archived:false is:public created:>=2026-05-08 stars:>10` |
+| `2026-06-08 13:58:41 UTC+8` | **20** | `topic:ai archived:false is:public created:>=2026-05-09 stars:>10` |
 
 > [!NOTE]
 > 本榜单通过对比每日快照，计算最近 30 天的星标增长数量 ($\Delta Stars$) 进行排序，旨在发现处于【快速爆发期】的新项目。
@@ -21,7 +21,7 @@
 
 ### 🥇 Top 1 · [Helvesec/rmux](https://github.com/Helvesec/rmux)
 
-**本月涨星**: +1603 | **总星数**: 1603 | **Language**: Rust | **Updated**: 2026-06-07
+**本月涨星**: +1631 | **总星数**: 1631 | **Language**: Rust | **Updated**: 2026-06-08
 
 **项目简介**：这是一个智能体项目，关注该方向的工程实践。
 
@@ -31,7 +31,7 @@
 
 ### 🥈 Top 2 · [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack)
 
-**本月涨星**: +1209 | **总星数**: 1209 | **Language**: Rust | **Updated**: 2026-06-07
+**本月涨星**: +1216 | **总星数**: 1216 | **Language**: Rust | **Updated**: 2026-06-08
 
 **项目简介**：这是一个智能体项目，关注该方向的工程实践。
 
@@ -41,7 +41,7 @@
 
 ### 🥉 Top 3 · [LiuMengxuan04/shushu-internship-tool](https://github.com/LiuMengxuan04/shushu-internship-tool)
 
-**本月涨星**: +1162 | **总星数**: 1162 | **Language**: Python | **Updated**: 2026-06-07
+**本月涨星**: +1196 | **总星数**: 1196 | **Language**: Python | **Updated**: 2026-06-08
 
 **项目简介**：这是一个智能体项目，关注该方向的工程实践。
 
@@ -53,36 +53,36 @@
 
 | # | Project | Growth | Total Stars | Language | 项目简介 | Updated |
 |---:|---|---:|---:|---|---|---|
-| 1 | [Helvesec/rmux](https://github.com/Helvesec/rmux) | 📈 +1603 | ⭐ 1603 | Rust | 这是一个智能体项目，关注该方向的工程实践。 | 2026-06-07 |
-| 2 | [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) | 📈 +1209 | ⭐ 1209 | Rust | 这是一个智能体项目，关注该方向的工程实践。 | 2026-06-07 |
-| 3 | [LiuMengxuan04/shushu-internship-tool](https://github.com/LiuMengxuan04/shushu-internship-tool) | 📈 +1162 | ⭐ 1162 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-06-07 |
-| 4 | [boona13/image-extender](https://github.com/boona13/image-extender) | 📈 +935 | ⭐ 935 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-06-07 |
-| 5 | [rpamis/comet](https://github.com/rpamis/comet) | 📈 +810 | ⭐ 810 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-06-07 |
-| 6 | [UditAkhourii/adhd](https://github.com/UditAkhourii/adhd) | 📈 +772 | ⭐ 772 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-06-07 |
-| 7 | [code-yeongyu/lazycodex](https://github.com/code-yeongyu/lazycodex) | 📈 +629 | ⭐ 629 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-06-07 |
-| 8 | [microsoft/intelligent-terminal](https://github.com/microsoft/intelligent-terminal) | 📈 +623 | ⭐ 623 | C++ | 这是一个智能体项目，关注该方向的工程实践。 | 2026-06-07 |
-| 9 | [Purewhiter/mobilegym](https://github.com/Purewhiter/mobilegym) | 📈 +543 | ⭐ 543 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-06-07 |
-| 10 | [tastyeffectco/sandboxes](https://github.com/tastyeffectco/sandboxes) | 📈 +474 | ⭐ 474 | Go | 这是一个智能体项目，关注该方向的工程实践。 | 2026-06-07 |
-| 11 | [basionwang-bot/HermesPet](https://github.com/basionwang-bot/HermesPet) | 📈 +459 | ⭐ 459 | Swift | 这是一个AI 项目，关注该方向的工程实践。 | 2026-06-07 |
-| 12 | [Evokoa/pgGraph](https://github.com/Evokoa/pgGraph) | 📈 +385 | ⭐ 385 | Rust | 这是一个智能体项目，关注该方向的工程实践。 | 2026-06-07 |
-| 13 | [physics-dimension/PriceAI](https://github.com/physics-dimension/PriceAI) | 📈 +351 | ⭐ 351 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-06-07 |
-| 14 | [cellinlab/how-pi-agent-works](https://github.com/cellinlab/how-pi-agent-works) | 📈 +335 | ⭐ 335 | 未识别 | 这是一个智能体项目，关注该方向的工程实践。 | 2026-06-06 |
-| 15 | [cosmicstack-labs/mercury-agent-skills](https://github.com/cosmicstack-labs/mercury-agent-skills) | 📈 +322 | ⭐ 322 | JavaScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-06-07 |
-| 16 | [seochecks-ai/slopless](https://github.com/seochecks-ai/slopless) | 📈 +312 | ⭐ 312 | TypeScript | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-06-07 |
-| 17 | [vincelele/ai-fomo-skills](https://github.com/vincelele/ai-fomo-skills) | 📈 +307 | ⭐ 307 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-06-06 |
-| 18 | [PentesterFlow/agent](https://github.com/PentesterFlow/agent) | 📈 +303 | ⭐ 303 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-06-07 |
-| 19 | [johnbean393/KeyType](https://github.com/johnbean393/KeyType) | 📈 +276 | ⭐ 276 | Swift | 这是一个AI 项目，关注该方向的工程实践。 | 2026-06-06 |
-| 20 | [officecli/officedex](https://github.com/officecli/officedex) | 📈 +270 | ⭐ 270 | Go | 这是一个AI 项目，关注该方向的工程实践。 | 2026-06-07 |
+| 1 | [Helvesec/rmux](https://github.com/Helvesec/rmux) | 📈 +1631 | ⭐ 1631 | Rust | 这是一个智能体项目，关注该方向的工程实践。 | 2026-06-08 |
+| 2 | [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack) | 📈 +1216 | ⭐ 1216 | Rust | 这是一个智能体项目，关注该方向的工程实践。 | 2026-06-08 |
+| 3 | [LiuMengxuan04/shushu-internship-tool](https://github.com/LiuMengxuan04/shushu-internship-tool) | 📈 +1196 | ⭐ 1196 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-06-08 |
+| 4 | [boona13/image-extender](https://github.com/boona13/image-extender) | 📈 +947 | ⭐ 947 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-06-08 |
+| 5 | [rpamis/comet](https://github.com/rpamis/comet) | 📈 +883 | ⭐ 883 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-06-08 |
+| 6 | [UditAkhourii/adhd](https://github.com/UditAkhourii/adhd) | 📈 +781 | ⭐ 781 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-06-08 |
+| 7 | [microsoft/intelligent-terminal](https://github.com/microsoft/intelligent-terminal) | 📈 +723 | ⭐ 723 | C++ | 这是一个智能体项目，关注该方向的工程实践。 | 2026-06-08 |
+| 8 | [code-yeongyu/lazycodex](https://github.com/code-yeongyu/lazycodex) | 📈 +696 | ⭐ 696 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-06-08 |
+| 9 | [Purewhiter/mobilegym](https://github.com/Purewhiter/mobilegym) | 📈 +554 | ⭐ 554 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-06-08 |
+| 10 | [tastyeffectco/sandboxd](https://github.com/tastyeffectco/sandboxd) | 📈 +500 | ⭐ 500 | Go | 这是一个智能体项目，关注该方向的工程实践。 | 2026-06-08 |
+| 11 | [basionwang-bot/HermesPet](https://github.com/basionwang-bot/HermesPet) | 📈 +463 | ⭐ 463 | Swift | 这是一个AI 项目，关注该方向的工程实践。 | 2026-06-08 |
+| 12 | [beltromatti/get-it](https://github.com/beltromatti/get-it) | 📈 +394 | ⭐ 394 | JavaScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-06-08 |
+| 13 | [Evokoa/pgGraph](https://github.com/Evokoa/pgGraph) | 📈 +391 | ⭐ 391 | Rust | 这是一个智能体项目，关注该方向的工程实践。 | 2026-06-08 |
+| 14 | [amElnagdy/guard-skills](https://github.com/amElnagdy/guard-skills) | 📈 +348 | ⭐ 348 | 未识别 | 这是一个AI 项目，关注该方向的工程实践。 | 2026-06-08 |
+| 15 | [cellinlab/how-pi-agent-works](https://github.com/cellinlab/how-pi-agent-works) | 📈 +337 | ⭐ 337 | 未识别 | 这是一个智能体项目，关注该方向的工程实践。 | 2026-06-07 |
+| 16 | [cosmicstack-labs/mercury-agent-skills](https://github.com/cosmicstack-labs/mercury-agent-skills) | 📈 +334 | ⭐ 334 | JavaScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-06-08 |
+| 17 | [PentesterFlow/agent](https://github.com/PentesterFlow/agent) | 📈 +322 | ⭐ 322 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-06-08 |
+| 18 | [razr001/align-dev](https://github.com/razr001/align-dev) | 📈 +319 | ⭐ 319 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-06-08 |
+| 19 | [seochecks-ai/slopless](https://github.com/seochecks-ai/slopless) | 📈 +313 | ⭐ 313 | TypeScript | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-06-07 |
+| 20 | [vincelele/ai-fomo-skills](https://github.com/vincelele/ai-fomo-skills) | 📈 +307 | ⭐ 307 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-06-06 |
 
 ## Project Details
 
 <details>
-<summary><strong>1. Helvesec/rmux</strong> · 📈 +1603 · ⭐ 1603 · Rust</summary>
+<summary><strong>1. Helvesec/rmux</strong> · 📈 +1631 · ⭐ 1631 · Rust</summary>
 
 - **Repository**: https://github.com/Helvesec/rmux
 - **Owner**: `Helvesec`
 - **Created**: `2026-05-15`
-- **Updated**: `2026-06-07`
+- **Updated**: `2026-06-08`
 - **Topics**: 智能体 / 人工智能 / 命令行 / linux / macOS / multiplexer
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -90,12 +90,12 @@
 </details>
 
 <details>
-<summary><strong>2. gi-dellav/zerostack</strong> · 📈 +1209 · ⭐ 1209 · Rust</summary>
+<summary><strong>2. gi-dellav/zerostack</strong> · 📈 +1216 · ⭐ 1216 · Rust</summary>
 
 - **Repository**: https://github.com/gi-dellav/zerostack
 - **Owner**: `gi-dellav`
 - **Created**: `2026-05-12`
-- **Updated**: `2026-06-07`
+- **Updated**: `2026-06-08`
 - **Topics**: 智能体 / agentic-ai / agentic-coding / 智能体 / 人工智能 / Claude Code
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -103,12 +103,12 @@
 </details>
 
 <details>
-<summary><strong>3. LiuMengxuan04/shushu-internship-tool</strong> · 📈 +1162 · ⭐ 1162 · Python</summary>
+<summary><strong>3. LiuMengxuan04/shushu-internship-tool</strong> · 📈 +1196 · ⭐ 1196 · Python</summary>
 
 - **Repository**: https://github.com/LiuMengxuan04/shushu-internship-tool
 - **Owner**: `LiuMengxuan04`
 - **Created**: `2026-05-17`
-- **Updated**: `2026-06-07`
+- **Updated**: `2026-06-08`
 - **Topics**: 人工智能 / AI 智能体 / 技能系统
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -116,12 +116,12 @@
 </details>
 
 <details>
-<summary><strong>4. boona13/image-extender</strong> · 📈 +935 · ⭐ 935 · TypeScript</summary>
+<summary><strong>4. boona13/image-extender</strong> · 📈 +947 · ⭐ 947 · TypeScript</summary>
 
 - **Repository**: https://github.com/boona13/image-extender
 - **Owner**: `boona13`
 - **Created**: `2026-05-26`
-- **Updated**: `2026-06-07`
+- **Updated**: `2026-06-08`
 - **Topics**: 人工智能 / gemini / image-generation / nano-banana / Next.js / openrouter
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
@@ -129,12 +129,12 @@
 </details>
 
 <details>
-<summary><strong>5. rpamis/comet</strong> · 📈 +810 · ⭐ 810 · TypeScript</summary>
+<summary><strong>5. rpamis/comet</strong> · 📈 +883 · ⭐ 883 · TypeScript</summary>
 
 - **Repository**: https://github.com/rpamis/comet
 - **Owner**: `rpamis`
 - **Created**: `2026-05-14`
-- **Updated**: `2026-06-07`
+- **Updated**: `2026-06-08`
 - **Topics**: 人工智能 / harness-engineering / sdd / 技能系统 / spec / spec-driven-development
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
@@ -142,12 +142,12 @@
 </details>
 
 <details>
-<summary><strong>6. UditAkhourii/adhd</strong> · 📈 +772 · ⭐ 772 · TypeScript</summary>
+<summary><strong>6. UditAkhourii/adhd</strong> · 📈 +781 · ⭐ 781 · TypeScript</summary>
 
 - **Repository**: https://github.com/UditAkhourii/adhd
 - **Owner**: `UditAkhourii`
 - **Created**: `2026-05-25`
-- **Updated**: `2026-06-07`
+- **Updated**: `2026-06-08`
 - **Topics**: adhd / 智能体 / 人工智能 / AI 智能体 / brainstorm / chain-of-thought
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -155,25 +155,12 @@
 </details>
 
 <details>
-<summary><strong>7. code-yeongyu/lazycodex</strong> · 📈 +629 · ⭐ 629 · TypeScript</summary>
-
-- **Repository**: https://github.com/code-yeongyu/lazycodex
-- **Owner**: `code-yeongyu`
-- **Created**: `2026-05-25`
-- **Updated**: `2026-06-07`
-- **Topics**: 人工智能 / AI 智能体 / Claude / Claude Code / 命令行 / codex
-- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
-
-</details>
-
-<details>
-<summary><strong>8. microsoft/intelligent-terminal</strong> · 📈 +623 · ⭐ 623 · C++</summary>
+<summary><strong>7. microsoft/intelligent-terminal</strong> · 📈 +723 · ⭐ 723 · C++</summary>
 
 - **Repository**: https://github.com/microsoft/intelligent-terminal
 - **Owner**: `microsoft`
 - **Created**: `2026-05-18`
-- **Updated**: `2026-06-07`
+- **Updated**: `2026-06-08`
 - **Topics**: acp / 智能体 / agent-client-protocol / agentic-ai / 人工智能 / 命令行
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -181,12 +168,25 @@
 </details>
 
 <details>
-<summary><strong>9. Purewhiter/mobilegym</strong> · 📈 +543 · ⭐ 543 · TypeScript</summary>
+<summary><strong>8. code-yeongyu/lazycodex</strong> · 📈 +696 · ⭐ 696 · TypeScript</summary>
+
+- **Repository**: https://github.com/code-yeongyu/lazycodex
+- **Owner**: `code-yeongyu`
+- **Created**: `2026-05-25`
+- **Updated**: `2026-06-08`
+- **Topics**: 人工智能 / AI 智能体 / Claude / Claude Code / 命令行 / codex
+- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
+- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
+
+</details>
+
+<details>
+<summary><strong>9. Purewhiter/mobilegym</strong> · 📈 +554 · ⭐ 554 · TypeScript</summary>
 
 - **Repository**: https://github.com/Purewhiter/mobilegym
 - **Owner**: `Purewhiter`
 - **Created**: `2026-05-14`
-- **Updated**: `2026-06-07`
+- **Updated**: `2026-06-08`
 - **Topics**: 智能体 / 智能体 / 人工智能 / android / 自动化 / benchmark
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -194,25 +194,25 @@
 </details>
 
 <details>
-<summary><strong>10. tastyeffectco/sandboxes</strong> · 📈 +474 · ⭐ 474 · Go</summary>
+<summary><strong>10. tastyeffectco/sandboxd</strong> · 📈 +500 · ⭐ 500 · Go</summary>
 
-- **Repository**: https://github.com/tastyeffectco/sandboxes
+- **Repository**: https://github.com/tastyeffectco/sandboxd
 - **Owner**: `tastyeffectco`
 - **Created**: `2026-06-03`
-- **Updated**: `2026-06-07`
-- **Topics**: 人工智能 / AI 智能体 / dev-environment / docker / isolation / preview
+- **Updated**: `2026-06-08`
+- **Topics**: 人工智能 / AI 智能体 / dev-environment / docker / isolation / pinokio
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
 
 </details>
 
 <details>
-<summary><strong>11. basionwang-bot/HermesPet</strong> · 📈 +459 · ⭐ 459 · Swift</summary>
+<summary><strong>11. basionwang-bot/HermesPet</strong> · 📈 +463 · ⭐ 463 · Swift</summary>
 
 - **Repository**: https://github.com/basionwang-bot/HermesPet
 - **Owner**: `basionwang-bot`
 - **Created**: `2026-05-15`
-- **Updated**: `2026-06-07`
+- **Updated**: `2026-06-08`
 - **Topics**: 人工智能 / chatgpt / chinese / Claude / deepseek / desktop-app
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
@@ -220,12 +220,25 @@
 </details>
 
 <details>
-<summary><strong>12. Evokoa/pgGraph</strong> · 📈 +385 · ⭐ 385 · Rust</summary>
+<summary><strong>12. beltromatti/get-it</strong> · 📈 +394 · ⭐ 394 · JavaScript</summary>
+
+- **Repository**: https://github.com/beltromatti/get-it
+- **Owner**: `beltromatti`
+- **Created**: `2026-05-09`
+- **Updated**: `2026-06-08`
+- **Topics**: 智能体 / 人工智能 / codex / edtech / feynman-technique / flashcards
+- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
+- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
+
+</details>
+
+<details>
+<summary><strong>13. Evokoa/pgGraph</strong> · 📈 +391 · ⭐ 391 · Rust</summary>
 
 - **Repository**: https://github.com/Evokoa/pgGraph
 - **Owner**: `Evokoa`
 - **Created**: `2026-05-13`
-- **Updated**: `2026-06-07`
+- **Updated**: `2026-06-08`
 - **Topics**: 人工智能 / AI 智能体 / ai-agents-framework / graph / graph-database / pgrx
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -233,25 +246,25 @@
 </details>
 
 <details>
-<summary><strong>13. physics-dimension/PriceAI</strong> · 📈 +351 · ⭐ 351 · TypeScript</summary>
+<summary><strong>14. amElnagdy/guard-skills</strong> · 📈 +348 · ⭐ 348 · 未识别</summary>
 
-- **Repository**: https://github.com/physics-dimension/PriceAI
-- **Owner**: `physics-dimension`
-- **Created**: `2026-05-08`
-- **Updated**: `2026-06-07`
-- **Topics**: 人工智能 / ai-subscription / chatgpt / Claude / gemini / grok
+- **Repository**: https://github.com/amElnagdy/guard-skills
+- **Owner**: `amElnagdy`
+- **Created**: `2026-06-06`
+- **Updated**: `2026-06-08`
+- **Topics**: agent-skills / 人工智能 / Claude / Claude Code / code-review / codex
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
-- **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
+- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
 
 </details>
 
 <details>
-<summary><strong>14. cellinlab/how-pi-agent-works</strong> · 📈 +335 · ⭐ 335 · 未识别</summary>
+<summary><strong>15. cellinlab/how-pi-agent-works</strong> · 📈 +337 · ⭐ 337 · 未识别</summary>
 
 - **Repository**: https://github.com/cellinlab/how-pi-agent-works
 - **Owner**: `cellinlab`
 - **Created**: `2026-05-26`
-- **Updated**: `2026-06-06`
+- **Updated**: `2026-06-07`
 - **Topics**: 智能体 / 人工智能 / pi
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -259,12 +272,12 @@
 </details>
 
 <details>
-<summary><strong>15. cosmicstack-labs/mercury-agent-skills</strong> · 📈 +322 · ⭐ 322 · JavaScript</summary>
+<summary><strong>16. cosmicstack-labs/mercury-agent-skills</strong> · 📈 +334 · ⭐ 334 · JavaScript</summary>
 
 - **Repository**: https://github.com/cosmicstack-labs/mercury-agent-skills
 - **Owner**: `cosmicstack-labs`
 - **Created**: `2026-05-09`
-- **Updated**: `2026-06-07`
+- **Updated**: `2026-06-08`
 - **Topics**: 人工智能 / AI 智能体 / aiskills / 技能系统
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -272,7 +285,33 @@
 </details>
 
 <details>
-<summary><strong>16. seochecks-ai/slopless</strong> · 📈 +312 · ⭐ 312 · TypeScript</summary>
+<summary><strong>17. PentesterFlow/agent</strong> · 📈 +322 · ⭐ 322 · TypeScript</summary>
+
+- **Repository**: https://github.com/PentesterFlow/agent
+- **Owner**: `PentesterFlow`
+- **Created**: `2026-05-31`
+- **Updated**: `2026-06-08`
+- **Topics**: 人工智能 / AI 智能体 / bugbounty / penetration-testing / security-audit / security-automation
+- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
+- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
+
+</details>
+
+<details>
+<summary><strong>18. razr001/align-dev</strong> · 📈 +319 · ⭐ 319 · TypeScript</summary>
+
+- **Repository**: https://github.com/razr001/align-dev
+- **Owner**: `razr001`
+- **Created**: `2026-06-03`
+- **Updated**: `2026-06-08`
+- **Topics**: 人工智能 / Claude Code / codex / copilot / cursor / fronted
+- **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
+- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
+
+</details>
+
+<details>
+<summary><strong>19. seochecks-ai/slopless</strong> · 📈 +313 · ⭐ 313 · TypeScript</summary>
 
 - **Repository**: https://github.com/seochecks-ai/slopless
 - **Owner**: `seochecks-ai`
@@ -285,52 +324,13 @@
 </details>
 
 <details>
-<summary><strong>17. vincelele/ai-fomo-skills</strong> · 📈 +307 · ⭐ 307 · Python</summary>
+<summary><strong>20. vincelele/ai-fomo-skills</strong> · 📈 +307 · ⭐ 307 · Python</summary>
 
 - **Repository**: https://github.com/vincelele/ai-fomo-skills
 - **Owner**: `vincelele`
 - **Created**: `2026-05-19`
 - **Updated**: `2026-06-06`
 - **Topics**: 人工智能 / codex / knowledge-management / personal-ai / 技能系统
-- **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
-- **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
-
-</details>
-
-<details>
-<summary><strong>18. PentesterFlow/agent</strong> · 📈 +303 · ⭐ 303 · TypeScript</summary>
-
-- **Repository**: https://github.com/PentesterFlow/agent
-- **Owner**: `PentesterFlow`
-- **Created**: `2026-05-31`
-- **Updated**: `2026-06-07`
-- **Topics**: 人工智能 / AI 智能体 / bugbounty / penetration-testing / security-audit / security-automation
-- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
-
-</details>
-
-<details>
-<summary><strong>19. johnbean393/KeyType</strong> · 📈 +276 · ⭐ 276 · Swift</summary>
-
-- **Repository**: https://github.com/johnbean393/KeyType
-- **Owner**: `johnbean393`
-- **Created**: `2026-05-31`
-- **Updated**: `2026-06-06`
-- **Topics**: 人工智能 / ai-autocomplete / autocomplete / completions / cotabby / cotypist
-- **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
-- **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
-
-</details>
-
-<details>
-<summary><strong>20. officecli/officedex</strong> · 📈 +270 · ⭐ 270 · Go</summary>
-
-- **Repository**: https://github.com/officecli/officedex
-- **Owner**: `officecli`
-- **Created**: `2026-05-18`
-- **Updated**: `2026-06-07`
-- **Topics**: 人工智能 / desktop-app / document-generation / docx / golang / notion
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
 
