@@ -12,7 +12,7 @@
 
 | 更新时间 | 榜单数量 | 查询范围 |
 |---|---:|---|
-| `2026-07-03 12:48:54 UTC+8` | **20** | `topic:ai archived:false is:public created:>=2026-06-03 stars:>10` |
+| `2026-07-04 12:40:23 UTC+8` | **20** | `topic:ai archived:false is:public created:>=2026-06-04 stars:>10` |
 
 > [!NOTE]
 > 本榜单通过对比每日快照，计算最近 30 天的星标增长数量 ($\Delta Stars$) 进行排序，旨在发现处于【快速爆发期】的新项目。
@@ -21,7 +21,7 @@
 
 ### 🥇 Top 1 · [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)
 
-**本月涨星**: +11305 | **总星数**: 11305 | **Language**: TypeScript | **Updated**: 2026-07-03
+**本月涨星**: +11374 | **总星数**: 11374 | **Language**: TypeScript | **Updated**: 2026-07-04
 
 **项目简介**：这是一个智能体项目，关注该方向的工程实践。
 
@@ -31,7 +31,7 @@
 
 ### 🥈 Top 2 · [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)
 
-**本月涨星**: +6077 | **总星数**: 6077 | **Language**: Python | **Updated**: 2026-07-03
+**本月涨星**: +6176 | **总星数**: 6176 | **Language**: Python | **Updated**: 2026-07-04
 
 **项目简介**：这是一个智能体项目，关注该方向的工程实践。
 
@@ -41,7 +41,7 @@
 
 ### 🥉 Top 3 · [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli)
 
-**本月涨星**: +1585 | **总星数**: 1585 | **Language**: TypeScript | **Updated**: 2026-07-03
+**本月涨星**: +1649 | **总星数**: 1649 | **Language**: TypeScript | **Updated**: 2026-07-04
 
 **项目简介**：这是一个自动化与效率工具项目，关注该方向的工程实践。
 
@@ -53,36 +53,36 @@
 
 | # | Project | Growth | Total Stars | Language | 项目简介 | Updated |
 |---:|---|---:|---:|---|---|---|
-| 1 | [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) | 📈 +11305 | ⭐ 11305 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-03 |
-| 2 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 📈 +6077 | ⭐ 6077 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-03 |
-| 3 | [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli) | 📈 +1585 | ⭐ 1585 | TypeScript | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-07-03 |
-| 4 | [sums001/Windows-Copilot-API](https://github.com/sums001/Windows-Copilot-API) | 📈 +1013 | ⭐ 1013 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-03 |
-| 5 | [amElnagdy/guard-skills](https://github.com/amElnagdy/guard-skills) | 📈 +949 | ⭐ 949 | 未识别 | 这是一个AI 项目，关注该方向的工程实践。 | 2026-07-03 |
-| 6 | [eli-labz/Third-Eye](https://github.com/eli-labz/Third-Eye) | 📈 +920 | ⭐ 920 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-03 |
-| 7 | [alchaincyf/fanbox](https://github.com/alchaincyf/fanbox) | 📈 +869 | ⭐ 869 | JavaScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-03 |
-| 8 | [Dong90/oh-my-taiyiforge](https://github.com/Dong90/oh-my-taiyiforge) | 📈 +766 | ⭐ 766 | TypeScript | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-07-03 |
-| 9 | [TianhangZhuzth/Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava) | 📈 +756 | ⭐ 756 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-03 |
-| 10 | [coder/boo](https://github.com/coder/boo) | 📈 +714 | ⭐ 714 | Zig | 这是一个AI 项目，关注该方向的工程实践。 | 2026-07-02 |
-| 11 | [tastyeffectco/sandboxd](https://github.com/tastyeffectco/sandboxd) | 📈 +706 | ⭐ 706 | Go | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-02 |
-| 12 | [datalab-to/lift](https://github.com/datalab-to/lift) | 📈 +702 | ⭐ 702 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-07-03 |
-| 13 | [raiyanyahya/recall](https://github.com/raiyanyahya/recall) | 📈 +654 | ⭐ 654 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-03 |
-| 14 | [modiqo/skillspec](https://github.com/modiqo/skillspec) | 📈 +586 | ⭐ 586 | Rust | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-03 |
-| 15 | [myccarl/ai-shortVideo-pipeline](https://github.com/myccarl/ai-shortVideo-pipeline) | 📈 +572 | ⭐ 572 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-07-03 |
-| 16 | [eddyzzl/marvis-risk-agent](https://github.com/eddyzzl/marvis-risk-agent) | 📈 +522 | ⭐ 522 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-02 |
-| 17 | [xingwudao/xquant-beginner](https://github.com/xingwudao/xquant-beginner) | 📈 +515 | ⭐ 515 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-07-03 |
-| 18 | [buynao/aipath](https://github.com/buynao/aipath) | 📈 +464 | ⭐ 464 | JavaScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-07-03 |
-| 19 | [OtterMind/Nubase](https://github.com/OtterMind/Nubase) | 📈 +448 | ⭐ 448 | Java | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-03 |
-| 20 | [PolyMaxi-Labs/polymarket-arbitrage-trading-bot](https://github.com/PolyMaxi-Labs/polymarket-arbitrage-trading-bot) | 📈 +416 | ⭐ 416 | 未识别 | 这是一个AI 项目，关注该方向的工程实践。 | 2026-07-02 |
+| 1 | [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) | 📈 +11374 | ⭐ 11374 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-04 |
+| 2 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 📈 +6176 | ⭐ 6176 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-04 |
+| 3 | [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli) | 📈 +1649 | ⭐ 1649 | TypeScript | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-07-04 |
+| 4 | [sums001/Windows-Copilot-API](https://github.com/sums001/Windows-Copilot-API) | 📈 +1027 | ⭐ 1027 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-04 |
+| 5 | [amElnagdy/guard-skills](https://github.com/amElnagdy/guard-skills) | 📈 +952 | ⭐ 952 | 未识别 | 这是一个AI 项目，关注该方向的工程实践。 | 2026-07-03 |
+| 6 | [eli-labz/Third-Eye](https://github.com/eli-labz/Third-Eye) | 📈 +918 | ⭐ 918 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-04 |
+| 7 | [alchaincyf/fanbox](https://github.com/alchaincyf/fanbox) | 📈 +880 | ⭐ 880 | JavaScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-04 |
+| 8 | [Dong90/oh-my-taiyiforge](https://github.com/Dong90/oh-my-taiyiforge) | 📈 +795 | ⭐ 795 | TypeScript | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-07-04 |
+| 9 | [modiqo/skillspec](https://github.com/modiqo/skillspec) | 📈 +741 | ⭐ 741 | Rust | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-04 |
+| 10 | [coder/boo](https://github.com/coder/boo) | 📈 +716 | ⭐ 716 | Zig | 这是一个AI 项目，关注该方向的工程实践。 | 2026-07-03 |
+| 11 | [raiyanyahya/recall](https://github.com/raiyanyahya/recall) | 📈 +664 | ⭐ 664 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-04 |
+| 12 | [modiqo/cliare](https://github.com/modiqo/cliare) | 📈 +615 | ⭐ 615 | Rust | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-04 |
+| 13 | [myccarl/ai-shortVideo-pipeline](https://github.com/myccarl/ai-shortVideo-pipeline) | 📈 +572 | ⭐ 572 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-07-03 |
+| 14 | [TianhangZhuzth/Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava) | 📈 +520 | ⭐ 520 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-04 |
+| 15 | [xingwudao/xquant-beginner](https://github.com/xingwudao/xquant-beginner) | 📈 +517 | ⭐ 517 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-07-03 |
+| 16 | [buynao/aipath](https://github.com/buynao/aipath) | 📈 +466 | ⭐ 466 | JavaScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-07-03 |
+| 17 | [OtterMind/Nubase](https://github.com/OtterMind/Nubase) | 📈 +450 | ⭐ 450 | Java | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-03 |
+| 18 | [gykim80/perfectpixel-studio](https://github.com/gykim80/perfectpixel-studio) | 📈 +411 | ⭐ 411 | Go | 这是一个AI 项目，关注该方向的工程实践。 | 2026-07-03 |
+| 19 | [anasu1/text-humanizer](https://github.com/anasu1/text-humanizer) | 📈 +401 | ⭐ 401 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-07-01 |
+| 20 | [jmerelnyc/Talos](https://github.com/jmerelnyc/Talos) | 📈 +353 | ⭐ 353 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-07-04 |
 
 ## Project Details
 
 <details>
-<summary><strong>1. XiaomiMiMo/MiMo-Code</strong> · 📈 +11305 · ⭐ 11305 · TypeScript</summary>
+<summary><strong>1. XiaomiMiMo/MiMo-Code</strong> · 📈 +11374 · ⭐ 11374 · TypeScript</summary>
 
 - **Repository**: https://github.com/XiaomiMiMo/MiMo-Code
 - **Owner**: `XiaomiMiMo`
 - **Created**: `2026-06-10`
-- **Updated**: `2026-07-03`
+- **Updated**: `2026-07-04`
 - **Topics**: 人工智能 / AI 智能体 / 命令行 / mimo / mimo-code
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -90,12 +90,12 @@
 </details>
 
 <details>
-<summary><strong>2. omnigent-ai/omnigent</strong> · 📈 +6077 · ⭐ 6077 · Python</summary>
+<summary><strong>2. omnigent-ai/omnigent</strong> · 📈 +6176 · ⭐ 6176 · Python</summary>
 
 - **Repository**: https://github.com/omnigent-ai/omnigent
 - **Owner**: `omnigent-ai`
 - **Created**: `2026-06-11`
-- **Updated**: `2026-07-03`
+- **Updated**: `2026-07-04`
 - **Topics**: agent-framework / agent-governance / agent-orchestration / 智能体 / 人工智能 / AI 智能体
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -103,12 +103,12 @@
 </details>
 
 <details>
-<summary><strong>3. TestSprite/testsprite-cli</strong> · 📈 +1585 · ⭐ 1585 · TypeScript</summary>
+<summary><strong>3. TestSprite/testsprite-cli</strong> · 📈 +1649 · ⭐ 1649 · TypeScript</summary>
 
 - **Repository**: https://github.com/TestSprite/testsprite-cli
 - **Owner**: `TestSprite`
 - **Created**: `2026-06-11`
-- **Updated**: `2026-07-03`
+- **Updated**: `2026-07-04`
 - **Topics**: 人工智能 / 命令行 / e2e-testing / playwright / qa / test-automation
 - **项目简介**: 这是一个自动化与效率工具项目，关注该方向的工程实践。
 - **适用场景**: 适合做自动化流程、命令行工具和研发提效
@@ -116,12 +116,12 @@
 </details>
 
 <details>
-<summary><strong>4. sums001/Windows-Copilot-API</strong> · 📈 +1013 · ⭐ 1013 · Python</summary>
+<summary><strong>4. sums001/Windows-Copilot-API</strong> · 📈 +1027 · ⭐ 1027 · Python</summary>
 
 - **Repository**: https://github.com/sums001/Windows-Copilot-API
 - **Owner**: `sums001`
 - **Created**: `2026-06-19`
-- **Updated**: `2026-07-03`
+- **Updated**: `2026-07-04`
 - **Topics**: 人工智能 / AI 智能体 / api / copilot / 大语言模型 / microsoft-copilot
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -129,7 +129,7 @@
 </details>
 
 <details>
-<summary><strong>5. amElnagdy/guard-skills</strong> · 📈 +949 · ⭐ 949 · 未识别</summary>
+<summary><strong>5. amElnagdy/guard-skills</strong> · 📈 +952 · ⭐ 952 · 未识别</summary>
 
 - **Repository**: https://github.com/amElnagdy/guard-skills
 - **Owner**: `amElnagdy`
@@ -142,12 +142,12 @@
 </details>
 
 <details>
-<summary><strong>6. eli-labz/Third-Eye</strong> · 📈 +920 · ⭐ 920 · TypeScript</summary>
+<summary><strong>6. eli-labz/Third-Eye</strong> · 📈 +918 · ⭐ 918 · TypeScript</summary>
 
 - **Repository**: https://github.com/eli-labz/Third-Eye
 - **Owner**: `eli-labz`
 - **Created**: `2026-06-13`
-- **Updated**: `2026-07-03`
+- **Updated**: `2026-07-04`
 - **Topics**: 人工智能 / AI 智能体 / geospatial / maven-smart-system / palantir
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -155,12 +155,12 @@
 </details>
 
 <details>
-<summary><strong>7. alchaincyf/fanbox</strong> · 📈 +869 · ⭐ 869 · JavaScript</summary>
+<summary><strong>7. alchaincyf/fanbox</strong> · 📈 +880 · ⭐ 880 · JavaScript</summary>
 
 - **Repository**: https://github.com/alchaincyf/fanbox
 - **Owner**: `alchaincyf`
 - **Created**: `2026-06-10`
-- **Updated**: `2026-07-03`
+- **Updated**: `2026-07-04`
 - **Topics**: 智能体 / 人工智能 / Claude / codex / electron / file-manager
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -168,12 +168,12 @@
 </details>
 
 <details>
-<summary><strong>8. Dong90/oh-my-taiyiforge</strong> · 📈 +766 · ⭐ 766 · TypeScript</summary>
+<summary><strong>8. Dong90/oh-my-taiyiforge</strong> · 📈 +795 · ⭐ 795 · TypeScript</summary>
 
 - **Repository**: https://github.com/Dong90/oh-my-taiyiforge
 - **Owner**: `Dong90`
 - **Created**: `2026-06-05`
-- **Updated**: `2026-07-03`
+- **Updated**: `2026-07-04`
 - **Topics**: 人工智能 / 自动化 / Claude / code-generation / codex / 开发者工具
 - **项目简介**: 这是一个自动化与效率工具项目，关注该方向的工程实践。
 - **适用场景**: 适合做自动化流程、命令行工具和研发提效
@@ -181,77 +181,12 @@
 </details>
 
 <details>
-<summary><strong>9. TianhangZhuzth/Fundamental-Ava</strong> · 📈 +756 · ⭐ 756 · Python</summary>
-
-- **Repository**: https://github.com/TianhangZhuzth/Fundamental-Ava
-- **Owner**: `TianhangZhuzth`
-- **Created**: `2026-06-30`
-- **Updated**: `2026-07-03`
-- **Topics**: 人工智能 / AI 智能体
-- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
-
-</details>
-
-<details>
-<summary><strong>10. coder/boo</strong> · 📈 +714 · ⭐ 714 · Zig</summary>
-
-- **Repository**: https://github.com/coder/boo
-- **Owner**: `coder`
-- **Created**: `2026-06-10`
-- **Updated**: `2026-07-02`
-- **Topics**: 人工智能 / coding / ghostty / multiplexer / screen / terminal
-- **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
-- **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
-
-</details>
-
-<details>
-<summary><strong>11. tastyeffectco/sandboxd</strong> · 📈 +706 · ⭐ 706 · Go</summary>
-
-- **Repository**: https://github.com/tastyeffectco/sandboxd
-- **Owner**: `tastyeffectco`
-- **Created**: `2026-06-03`
-- **Updated**: `2026-07-02`
-- **Topics**: 人工智能 / AI 智能体 / dev-environment / 开发者工具 / docker / isolation
-- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
-
-</details>
-
-<details>
-<summary><strong>12. datalab-to/lift</strong> · 📈 +702 · ⭐ 702 · Python</summary>
-
-- **Repository**: https://github.com/datalab-to/lift
-- **Owner**: `datalab-to`
-- **Created**: `2026-06-03`
-- **Updated**: `2026-07-03`
-- **Topics**: 人工智能 / extract / ocr / pdf / Python
-- **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
-- **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
-
-</details>
-
-<details>
-<summary><strong>13. raiyanyahya/recall</strong> · 📈 +654 · ⭐ 654 · Python</summary>
-
-- **Repository**: https://github.com/raiyanyahya/recall
-- **Owner**: `raiyanyahya`
-- **Created**: `2026-06-19`
-- **Updated**: `2026-07-03`
-- **Topics**: 人工智能 / AI 智能体 / anthropic / Claude / Claude Code / claude-code-plugin
-- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
-
-</details>
-
-<details>
-<summary><strong>14. modiqo/skillspec</strong> · 📈 +586 · ⭐ 586 · Rust</summary>
+<summary><strong>9. modiqo/skillspec</strong> · 📈 +741 · ⭐ 741 · Rust</summary>
 
 - **Repository**: https://github.com/modiqo/skillspec
 - **Owner**: `modiqo`
 - **Created**: `2026-06-19`
-- **Updated**: `2026-07-03`
+- **Updated**: `2026-07-04`
 - **Topics**: 人工智能 / AI 智能体 / ai-evals / ai-tool
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -259,7 +194,46 @@
 </details>
 
 <details>
-<summary><strong>15. myccarl/ai-shortVideo-pipeline</strong> · 📈 +572 · ⭐ 572 · Python</summary>
+<summary><strong>10. coder/boo</strong> · 📈 +716 · ⭐ 716 · Zig</summary>
+
+- **Repository**: https://github.com/coder/boo
+- **Owner**: `coder`
+- **Created**: `2026-06-10`
+- **Updated**: `2026-07-03`
+- **Topics**: 人工智能 / coding / ghostty / multiplexer / screen / terminal
+- **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
+- **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
+
+</details>
+
+<details>
+<summary><strong>11. raiyanyahya/recall</strong> · 📈 +664 · ⭐ 664 · Python</summary>
+
+- **Repository**: https://github.com/raiyanyahya/recall
+- **Owner**: `raiyanyahya`
+- **Created**: `2026-06-19`
+- **Updated**: `2026-07-04`
+- **Topics**: 人工智能 / AI 智能体 / anthropic / Claude / Claude Code / claude-code-plugin
+- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
+- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
+
+</details>
+
+<details>
+<summary><strong>12. modiqo/cliare</strong> · 📈 +615 · ⭐ 615 · Rust</summary>
+
+- **Repository**: https://github.com/modiqo/cliare
+- **Owner**: `modiqo`
+- **Created**: `2026-06-13`
+- **Updated**: `2026-07-04`
+- **Topics**: 人工智能 / AI 智能体 / 命令行
+- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
+- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
+
+</details>
+
+<details>
+<summary><strong>13. myccarl/ai-shortVideo-pipeline</strong> · 📈 +572 · ⭐ 572 · Python</summary>
 
 - **Repository**: https://github.com/myccarl/ai-shortVideo-pipeline
 - **Owner**: `myccarl`
@@ -272,20 +246,20 @@
 </details>
 
 <details>
-<summary><strong>16. eddyzzl/marvis-risk-agent</strong> · 📈 +522 · ⭐ 522 · Python</summary>
+<summary><strong>14. TianhangZhuzth/Fundamental-Ava</strong> · 📈 +520 · ⭐ 520 · Python</summary>
 
-- **Repository**: https://github.com/eddyzzl/marvis-risk-agent
-- **Owner**: `eddyzzl`
-- **Created**: `2026-06-03`
-- **Updated**: `2026-07-02`
-- **Topics**: 智能体 / 人工智能 / AI 智能体 / credit / credit-risk / data-processing
+- **Repository**: https://github.com/TianhangZhuzth/Fundamental-Ava
+- **Owner**: `TianhangZhuzth`
+- **Created**: `2026-06-30`
+- **Updated**: `2026-07-04`
+- **Topics**: 人工智能 / AI 智能体
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
 
 </details>
 
 <details>
-<summary><strong>17. xingwudao/xquant-beginner</strong> · 📈 +515 · ⭐ 515 · TypeScript</summary>
+<summary><strong>15. xingwudao/xquant-beginner</strong> · 📈 +517 · ⭐ 517 · TypeScript</summary>
 
 - **Repository**: https://github.com/xingwudao/xquant-beginner
 - **Owner**: `xingwudao`
@@ -298,7 +272,7 @@
 </details>
 
 <details>
-<summary><strong>18. buynao/aipath</strong> · 📈 +464 · ⭐ 464 · JavaScript</summary>
+<summary><strong>16. buynao/aipath</strong> · 📈 +466 · ⭐ 466 · JavaScript</summary>
 
 - **Repository**: https://github.com/buynao/aipath
 - **Owner**: `buynao`
@@ -311,7 +285,7 @@
 </details>
 
 <details>
-<summary><strong>19. OtterMind/Nubase</strong> · 📈 +448 · ⭐ 448 · Java</summary>
+<summary><strong>17. OtterMind/Nubase</strong> · 📈 +450 · ⭐ 450 · Java</summary>
 
 - **Repository**: https://github.com/OtterMind/Nubase
 - **Owner**: `OtterMind`
@@ -324,15 +298,41 @@
 </details>
 
 <details>
-<summary><strong>20. PolyMaxi-Labs/polymarket-arbitrage-trading-bot</strong> · 📈 +416 · ⭐ 416 · 未识别</summary>
+<summary><strong>18. gykim80/perfectpixel-studio</strong> · 📈 +411 · ⭐ 411 · Go</summary>
 
-- **Repository**: https://github.com/PolyMaxi-Labs/polymarket-arbitrage-trading-bot
-- **Owner**: `PolyMaxi-Labs`
-- **Created**: `2026-06-17`
-- **Updated**: `2026-07-02`
-- **Topics**: 15min / 5min / 人工智能 / arbitrage / arbitragebot / bot
+- **Repository**: https://github.com/gykim80/perfectpixel-studio
+- **Owner**: `gykim80`
+- **Created**: `2026-06-14`
+- **Updated**: `2026-07-03`
+- **Topics**: 人工智能 / game-development / golang / pixel-art / sprite / spritesheet
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
+
+</details>
+
+<details>
+<summary><strong>19. anasu1/text-humanizer</strong> · 📈 +401 · ⭐ 401 · Python</summary>
+
+- **Repository**: https://github.com/anasu1/text-humanizer
+- **Owner**: `anasu1`
+- **Created**: `2026-06-16`
+- **Updated**: `2026-07-01`
+- **Topics**: 人工智能 / ai-detector / ai-humanizer / ai-tools / gptzero-bypass / humanizer
+- **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
+- **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
+
+</details>
+
+<details>
+<summary><strong>20. jmerelnyc/Talos</strong> · 📈 +353 · ⭐ 353 · Python</summary>
+
+- **Repository**: https://github.com/jmerelnyc/Talos
+- **Owner**: `jmerelnyc`
+- **Created**: `2026-07-02`
+- **Updated**: `2026-07-04`
+- **Topics**: 人工智能 / distributed-computing / gpu / 大语言模型 / Ollama / Python
+- **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
+- **适用场景**: 适合做自动化流程、命令行工具和研发提效
 
 </details>
 
