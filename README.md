@@ -12,7 +12,7 @@
 
 | 更新时间 | 榜单数量 | 查询范围 |
 |---|---:|---|
-| `2026-07-18 12:05:35 UTC+8` | **20** | `topic:ai archived:false is:public created:>=2026-06-18 stars:>10` |
+| `2026-07-19 12:26:11 UTC+8` | **20** | `topic:ai archived:false is:public created:>=2026-06-19 stars:>10` |
 
 > [!NOTE]
 > 本榜单通过对比每日快照，计算最近 30 天的星标增长数量 ($\Delta Stars$) 进行排序，旨在发现处于【快速爆发期】的新项目。
@@ -21,7 +21,7 @@
 
 ### 🥇 Top 1 · [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)
 
-**本月涨星**: +4904 | **总星数**: 4904 | **Language**: TypeScript | **Updated**: 2026-07-18
+**本月涨星**: +4949 | **总星数**: 4949 | **Language**: TypeScript | **Updated**: 2026-07-19
 
 **项目简介**：这是一个智能体项目，关注该方向的工程实践。
 
@@ -31,7 +31,7 @@
 
 ### 🥈 Top 2 · [synthetic-sciences/openscience](https://github.com/synthetic-sciences/openscience)
 
-**本月涨星**: +2554 | **总星数**: 2554 | **Language**: TypeScript | **Updated**: 2026-07-18
+**本月涨星**: +2580 | **总星数**: 2580 | **Language**: TypeScript | **Updated**: 2026-07-19
 
 **项目简介**：这是一个智能体项目，关注该方向的工程实践。
 
@@ -41,7 +41,7 @@
 
 ### 🥉 Top 3 · [sums001/Windows-Copilot-API](https://github.com/sums001/Windows-Copilot-API)
 
-**本月涨星**: +1137 | **总星数**: 1137 | **Language**: Python | **Updated**: 2026-07-18
+**本月涨星**: +1141 | **总星数**: 1141 | **Language**: Python | **Updated**: 2026-07-18
 
 **项目简介**：这是一个智能体项目，关注该方向的工程实践。
 
@@ -53,36 +53,36 @@
 
 | # | Project | Growth | Total Stars | Language | 项目简介 | Updated |
 |---:|---|---:|---:|---|---|---|
-| 1 | [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST) | 📈 +4904 | ⭐ 4904 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-18 |
-| 2 | [synthetic-sciences/openscience](https://github.com/synthetic-sciences/openscience) | 📈 +2554 | ⭐ 2554 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-18 |
-| 3 | [sums001/Windows-Copilot-API](https://github.com/sums001/Windows-Copilot-API) | 📈 +1137 | ⭐ 1137 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-18 |
-| 4 | [jmerelnyc/Talos](https://github.com/jmerelnyc/Talos) | 📈 +990 | ⭐ 990 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-07-17 |
-| 5 | [modiqo/skillspec](https://github.com/modiqo/skillspec) | 📈 +979 | ⭐ 979 | Rust | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-17 |
-| 6 | [raiyanyahya/recall](https://github.com/raiyanyahya/recall) | 📈 +710 | ⭐ 710 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-17 |
-| 7 | [William-Lu-stack/Flawless](https://github.com/William-Lu-stack/Flawless) | 📈 +709 | ⭐ 709 | Python | 这是一个搜索与工具接入项目，关注该方向的工程实践。 | 2026-07-18 |
+| 1 | [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST) | 📈 +4949 | ⭐ 4949 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-19 |
+| 2 | [synthetic-sciences/openscience](https://github.com/synthetic-sciences/openscience) | 📈 +2580 | ⭐ 2580 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-19 |
+| 3 | [sums001/Windows-Copilot-API](https://github.com/sums001/Windows-Copilot-API) | 📈 +1141 | ⭐ 1141 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-18 |
+| 4 | [modiqo/skillspec](https://github.com/modiqo/skillspec) | 📈 +993 | ⭐ 993 | Rust | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-18 |
+| 5 | [jmerelnyc/Talos](https://github.com/jmerelnyc/Talos) | 📈 +991 | ⭐ 991 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-07-19 |
+| 6 | [William-Lu-stack/Flawless](https://github.com/William-Lu-stack/Flawless) | 📈 +745 | ⭐ 745 | Python | 这是一个搜索与工具接入项目，关注该方向的工程实践。 | 2026-07-19 |
+| 7 | [raiyanyahya/recall](https://github.com/raiyanyahya/recall) | 📈 +711 | ⭐ 711 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-18 |
 | 8 | [axislab-top/Foundry](https://github.com/axislab-top/Foundry) | 📈 +523 | ⭐ 523 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-16 |
-| 9 | [Brain0-ai/brain0](https://github.com/Brain0-ai/brain0) | 📈 +452 | ⭐ 452 | Rust | 这是一个智能体项目，用于把 MCP/OpenAPI 能力快速转成命令行工… | 2026-07-18 |
-| 10 | [bkingfilm/lapian-notes](https://github.com/bkingfilm/lapian-notes) | 📈 +367 | ⭐ 367 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-07-18 |
-| 11 | [lemma-work/lemma-platform](https://github.com/lemma-work/lemma-platform) | 📈 +330 | ⭐ 330 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-07-18 |
-| 12 | [databufflabs/databuff](https://github.com/databufflabs/databuff) | 📈 +327 | ⭐ 327 | Java | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-18 |
-| 13 | [umputun/agterm](https://github.com/umputun/agterm) | 📈 +325 | ⭐ 325 | Swift | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-17 |
-| 14 | [QuantumByteOSS/quantumbyte](https://github.com/QuantumByteOSS/quantumbyte) | 📈 +324 | ⭐ 324 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-17 |
-| 15 | [Karovia/fullstack-ai-agent-roadmap](https://github.com/Karovia/fullstack-ai-agent-roadmap) | 📈 +321 | ⭐ 321 | 未识别 | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-17 |
-| 16 | [ik190/macos-chatgpt-overlay-bar](https://github.com/ik190/macos-chatgpt-overlay-bar) | 📈 +310 | ⭐ 310 | 未识别 | 这是一个AI 项目，关注该方向的工程实践。 | 2026-07-09 |
-| 17 | [jaredrhod/ai-memory-vault](https://github.com/jaredrhod/ai-memory-vault) | 📈 +301 | ⭐ 301 | 未识别 | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-17 |
-| 18 | [eli-labz/Godcoder](https://github.com/eli-labz/Godcoder) | 📈 +291 | ⭐ 291 | Rust | 这是一个搜索与工具接入项目，关注该方向的工程实践。 | 2026-07-17 |
-| 19 | [aipoch/open-science](https://github.com/aipoch/open-science) | 📈 +262 | ⭐ 262 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-18 |
-| 20 | [datagallery-lab/datafoundry](https://github.com/datagallery-lab/datafoundry) | 📈 +246 | ⭐ 246 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-18 |
+| 9 | [Brain0-ai/brain0](https://github.com/Brain0-ai/brain0) | 📈 +460 | ⭐ 460 | Rust | 这是一个智能体项目，用于把 MCP/OpenAPI 能力快速转成命令行工… | 2026-07-19 |
+| 10 | [bkingfilm/lapian-notes](https://github.com/bkingfilm/lapian-notes) | 📈 +371 | ⭐ 371 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-07-18 |
+| 11 | [lemma-work/lemma-platform](https://github.com/lemma-work/lemma-platform) | 📈 +331 | ⭐ 331 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-07-18 |
+| 12 | [QuantumByteOSS/quantumbyte](https://github.com/QuantumByteOSS/quantumbyte) | 📈 +328 | ⭐ 328 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-19 |
+| 13 | [umputun/agterm](https://github.com/umputun/agterm) | 📈 +327 | ⭐ 327 | Swift | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-18 |
+| 14 | [Karovia/fullstack-ai-agent-roadmap](https://github.com/Karovia/fullstack-ai-agent-roadmap) | 📈 +323 | ⭐ 323 | 未识别 | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-19 |
+| 15 | [ik190/macos-chatgpt-overlay-bar](https://github.com/ik190/macos-chatgpt-overlay-bar) | 📈 +310 | ⭐ 310 | 未识别 | 这是一个AI 项目，关注该方向的工程实践。 | 2026-07-09 |
+| 16 | [MIgHTy-alIeN/Trading-Bot](https://github.com/MIgHTy-alIeN/Trading-Bot) | 📈 +300 | ⭐ 300 | Solidity | 这是一个AI 项目，关注该方向的工程实践。 | 2026-07-19 |
+| 17 | [eli-labz/Godcoder](https://github.com/eli-labz/Godcoder) | 📈 +292 | ⭐ 292 | Rust | 这是一个搜索与工具接入项目，关注该方向的工程实践。 | 2026-07-19 |
+| 18 | [aipoch/open-science](https://github.com/aipoch/open-science) | 📈 +269 | ⭐ 269 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-19 |
+| 19 | [yuwen-cool/yuwen-publish-precheck](https://github.com/yuwen-cool/yuwen-publish-precheck) | 📈 +249 | ⭐ 249 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-07-19 |
+| 20 | [umacloud/umadev](https://github.com/umacloud/umadev) | 📈 +241 | ⭐ 241 | Rust | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-19 |
 
 ## Project Details
 
 <details>
-<summary><strong>1. elder-plinius/T3MP3ST</strong> · 📈 +4904 · ⭐ 4904 · TypeScript</summary>
+<summary><strong>1. elder-plinius/T3MP3ST</strong> · 📈 +4949 · ⭐ 4949 · TypeScript</summary>
 
 - **Repository**: https://github.com/elder-plinius/T3MP3ST
 - **Owner**: `elder-plinius`
 - **Created**: `2026-07-02`
-- **Updated**: `2026-07-18`
+- **Updated**: `2026-07-19`
 - **Topics**: 智能体 / 人工智能 / 多智能体 / offensive-security / redteam
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -90,12 +90,12 @@
 </details>
 
 <details>
-<summary><strong>2. synthetic-sciences/openscience</strong> · 📈 +2554 · ⭐ 2554 · TypeScript</summary>
+<summary><strong>2. synthetic-sciences/openscience</strong> · 📈 +2580 · ⭐ 2580 · TypeScript</summary>
 
 - **Repository**: https://github.com/synthetic-sciences/openscience
 - **Owner**: `synthetic-sciences`
 - **Created**: `2026-07-03`
-- **Updated**: `2026-07-18`
+- **Updated**: `2026-07-19`
 - **Topics**: 智能体 / 人工智能 / AI 智能体 / bun / 命令行 / co-scientist
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -103,7 +103,7 @@
 </details>
 
 <details>
-<summary><strong>3. sums001/Windows-Copilot-API</strong> · 📈 +1137 · ⭐ 1137 · Python</summary>
+<summary><strong>3. sums001/Windows-Copilot-API</strong> · 📈 +1141 · ⭐ 1141 · Python</summary>
 
 - **Repository**: https://github.com/sums001/Windows-Copilot-API
 - **Owner**: `sums001`
@@ -116,25 +116,12 @@
 </details>
 
 <details>
-<summary><strong>4. jmerelnyc/Talos</strong> · 📈 +990 · ⭐ 990 · Python</summary>
-
-- **Repository**: https://github.com/jmerelnyc/Talos
-- **Owner**: `jmerelnyc`
-- **Created**: `2026-07-02`
-- **Updated**: `2026-07-17`
-- **Topics**: 人工智能 / distributed-computing / gpu / 大语言模型 / Ollama / Python
-- **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
-- **适用场景**: 适合做自动化流程、命令行工具和研发提效
-
-</details>
-
-<details>
-<summary><strong>5. modiqo/skillspec</strong> · 📈 +979 · ⭐ 979 · Rust</summary>
+<summary><strong>4. modiqo/skillspec</strong> · 📈 +993 · ⭐ 993 · Rust</summary>
 
 - **Repository**: https://github.com/modiqo/skillspec
 - **Owner**: `modiqo`
 - **Created**: `2026-06-19`
-- **Updated**: `2026-07-17`
+- **Updated**: `2026-07-18`
 - **Topics**: 人工智能 / AI 智能体 / ai-evals / ai-tool
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -142,27 +129,40 @@
 </details>
 
 <details>
-<summary><strong>6. raiyanyahya/recall</strong> · 📈 +710 · ⭐ 710 · Python</summary>
+<summary><strong>5. jmerelnyc/Talos</strong> · 📈 +991 · ⭐ 991 · Python</summary>
 
-- **Repository**: https://github.com/raiyanyahya/recall
-- **Owner**: `raiyanyahya`
-- **Created**: `2026-06-19`
-- **Updated**: `2026-07-17`
-- **Topics**: 人工智能 / AI 智能体 / anthropic / Claude / Claude Code / claude-code-plugin
-- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
+- **Repository**: https://github.com/jmerelnyc/Talos
+- **Owner**: `jmerelnyc`
+- **Created**: `2026-07-02`
+- **Updated**: `2026-07-19`
+- **Topics**: 人工智能 / distributed-computing / gpu / 大语言模型 / Ollama / Python
+- **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
+- **适用场景**: 适合做自动化流程、命令行工具和研发提效
+
+</details>
+
+<details>
+<summary><strong>6. William-Lu-stack/Flawless</strong> · 📈 +745 · ⭐ 745 · Python</summary>
+
+- **Repository**: https://github.com/William-Lu-stack/Flawless
+- **Owner**: `William-Lu-stack`
+- **Created**: `2026-07-10`
+- **Updated**: `2026-07-19`
+- **Topics**: agenticops / 人工智能 / aiops / aisre / cloud / cloud-native
+- **项目简介**: 这是一个搜索与工具接入项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
 
 </details>
 
 <details>
-<summary><strong>7. William-Lu-stack/Flawless</strong> · 📈 +709 · ⭐ 709 · Python</summary>
+<summary><strong>7. raiyanyahya/recall</strong> · 📈 +711 · ⭐ 711 · Python</summary>
 
-- **Repository**: https://github.com/William-Lu-stack/Flawless
-- **Owner**: `William-Lu-stack`
-- **Created**: `2026-07-10`
+- **Repository**: https://github.com/raiyanyahya/recall
+- **Owner**: `raiyanyahya`
+- **Created**: `2026-06-19`
 - **Updated**: `2026-07-18`
-- **Topics**: agenticops / 人工智能 / aiops / aisre / cloud / cloud-native
-- **项目简介**: 这是一个搜索与工具接入项目，关注该方向的工程实践。
+- **Topics**: 人工智能 / AI 智能体 / anthropic / Claude / Claude Code / claude-code-plugin
+- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
 
 </details>
@@ -181,12 +181,12 @@
 </details>
 
 <details>
-<summary><strong>9. Brain0-ai/brain0</strong> · 📈 +452 · ⭐ 452 · Rust</summary>
+<summary><strong>9. Brain0-ai/brain0</strong> · 📈 +460 · ⭐ 460 · Rust</summary>
 
 - **Repository**: https://github.com/Brain0-ai/brain0
 - **Owner**: `Brain0-ai`
 - **Created**: `2026-07-02`
-- **Updated**: `2026-07-18`
+- **Updated**: `2026-07-19`
 - **Topics**: 人工智能 / AI 智能体 / attestation / audit / Claude / 命令行
 - **项目简介**: 这是一个智能体项目，用于把 MCP/OpenAPI 能力快速转成命令行工具。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -194,7 +194,7 @@
 </details>
 
 <details>
-<summary><strong>10. bkingfilm/lapian-notes</strong> · 📈 +367 · ⭐ 367 · TypeScript</summary>
+<summary><strong>10. bkingfilm/lapian-notes</strong> · 📈 +371 · ⭐ 371 · TypeScript</summary>
 
 - **Repository**: https://github.com/bkingfilm/lapian-notes
 - **Owner**: `bkingfilm`
@@ -207,7 +207,7 @@
 </details>
 
 <details>
-<summary><strong>11. lemma-work/lemma-platform</strong> · 📈 +330 · ⭐ 330 · Python</summary>
+<summary><strong>11. lemma-work/lemma-platform</strong> · 📈 +331 · ⭐ 331 · Python</summary>
 
 - **Repository**: https://github.com/lemma-work/lemma-platform
 - **Owner**: `lemma-work`
@@ -220,38 +220,12 @@
 </details>
 
 <details>
-<summary><strong>12. databufflabs/databuff</strong> · 📈 +327 · ⭐ 327 · Java</summary>
-
-- **Repository**: https://github.com/databufflabs/databuff
-- **Owner**: `databufflabs`
-- **Created**: `2026-06-18`
-- **Updated**: `2026-07-18`
-- **Topics**: 人工智能 / ai-native / aiops / apm / application-monitoring / devops
-- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
-
-</details>
-
-<details>
-<summary><strong>13. umputun/agterm</strong> · 📈 +325 · ⭐ 325 · Swift</summary>
-
-- **Repository**: https://github.com/umputun/agterm
-- **Owner**: `umputun`
-- **Created**: `2026-06-21`
-- **Updated**: `2026-07-17`
-- **Topics**: 人工智能 / AI 智能体 / libghostty / terminal
-- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
-
-</details>
-
-<details>
-<summary><strong>14. QuantumByteOSS/quantumbyte</strong> · 📈 +324 · ⭐ 324 · Python</summary>
+<summary><strong>12. QuantumByteOSS/quantumbyte</strong> · 📈 +328 · ⭐ 328 · Python</summary>
 
 - **Repository**: https://github.com/QuantumByteOSS/quantumbyte
 - **Owner**: `QuantumByteOSS`
 - **Created**: `2026-07-14`
-- **Updated**: `2026-07-17`
+- **Updated**: `2026-07-19`
 - **Topics**: 智能体 / 人工智能 / app-builder / code-generation / 大语言模型 / Next.js
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -259,12 +233,25 @@
 </details>
 
 <details>
-<summary><strong>15. Karovia/fullstack-ai-agent-roadmap</strong> · 📈 +321 · ⭐ 321 · 未识别</summary>
+<summary><strong>13. umputun/agterm</strong> · 📈 +327 · ⭐ 327 · Swift</summary>
+
+- **Repository**: https://github.com/umputun/agterm
+- **Owner**: `umputun`
+- **Created**: `2026-06-21`
+- **Updated**: `2026-07-18`
+- **Topics**: 人工智能 / AI 智能体 / libghostty / terminal
+- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
+- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
+
+</details>
+
+<details>
+<summary><strong>14. Karovia/fullstack-ai-agent-roadmap</strong> · 📈 +323 · ⭐ 323 · 未识别</summary>
 
 - **Repository**: https://github.com/Karovia/fullstack-ai-agent-roadmap
 - **Owner**: `Karovia`
 - **Created**: `2026-06-19`
-- **Updated**: `2026-07-17`
+- **Updated**: `2026-07-19`
 - **Topics**: 人工智能 / AI 智能体 / chinese / Claude / fastapi / fullstack
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -272,7 +259,7 @@
 </details>
 
 <details>
-<summary><strong>16. ik190/macos-chatgpt-overlay-bar</strong> · 📈 +310 · ⭐ 310 · 未识别</summary>
+<summary><strong>15. ik190/macos-chatgpt-overlay-bar</strong> · 📈 +310 · ⭐ 310 · 未识别</summary>
 
 - **Repository**: https://github.com/ik190/macos-chatgpt-overlay-bar
 - **Owner**: `ik190`
@@ -285,25 +272,25 @@
 </details>
 
 <details>
-<summary><strong>17. jaredrhod/ai-memory-vault</strong> · 📈 +301 · ⭐ 301 · 未识别</summary>
+<summary><strong>16. MIgHTy-alIeN/Trading-Bot</strong> · 📈 +300 · ⭐ 300 · Solidity</summary>
 
-- **Repository**: https://github.com/jaredrhod/ai-memory-vault
-- **Owner**: `jaredrhod`
-- **Created**: `2026-06-18`
-- **Updated**: `2026-07-17`
-- **Topics**: agent-memory / 人工智能 / AI 智能体 / ai-memory / anthropic / Claude
-- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
+- **Repository**: https://github.com/MIgHTy-alIeN/Trading-Bot
+- **Owner**: `MIgHTy-alIeN`
+- **Created**: `2026-07-17`
+- **Updated**: `2026-07-19`
+- **Topics**: 人工智能 / aitradingbot / bot / btc / Claude / eth
+- **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
+- **适用场景**: 适合做搜索增强、知识接入和工具编排
 
 </details>
 
 <details>
-<summary><strong>18. eli-labz/Godcoder</strong> · 📈 +291 · ⭐ 291 · Rust</summary>
+<summary><strong>17. eli-labz/Godcoder</strong> · 📈 +292 · ⭐ 292 · Rust</summary>
 
 - **Repository**: https://github.com/eli-labz/Godcoder
 - **Owner**: `eli-labz`
 - **Created**: `2026-06-27`
-- **Updated**: `2026-07-17`
+- **Updated**: `2026-07-19`
 - **Topics**: 人工智能 / 编程智能体 / desktop-app / 大语言模型 / 本地优先 / MCP
 - **项目简介**: 这是一个搜索与工具接入项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -311,12 +298,12 @@
 </details>
 
 <details>
-<summary><strong>19. aipoch/open-science</strong> · 📈 +262 · ⭐ 262 · TypeScript</summary>
+<summary><strong>18. aipoch/open-science</strong> · 📈 +269 · ⭐ 269 · TypeScript</summary>
 
 - **Repository**: https://github.com/aipoch/open-science
 - **Owner**: `aipoch`
 - **Created**: `2026-07-03`
-- **Updated**: `2026-07-18`
+- **Updated**: `2026-07-19`
 - **Topics**: 智能体 / 人工智能 / ai4science / biology / claude-science-free / open-science
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -324,13 +311,26 @@
 </details>
 
 <details>
-<summary><strong>20. datagallery-lab/datafoundry</strong> · 📈 +246 · ⭐ 246 · TypeScript</summary>
+<summary><strong>19. yuwen-cool/yuwen-publish-precheck</strong> · 📈 +249 · ⭐ 249 · Python</summary>
 
-- **Repository**: https://github.com/datagallery-lab/datafoundry
-- **Owner**: `datagallery-lab`
-- **Created**: `2026-06-18`
-- **Updated**: `2026-07-18`
-- **Topics**: ag-ui / agent-runtime / 人工智能 / AI 智能体 / data-analysis / data-sources
+- **Repository**: https://github.com/yuwen-cool/yuwen-publish-precheck
+- **Owner**: `yuwen-cool`
+- **Created**: `2026-07-15`
+- **Updated**: `2026-07-19`
+- **Topics**: agent-skills / 人工智能 / chinese / Claude / content-compliance / cursor
+- **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
+- **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
+
+</details>
+
+<details>
+<summary><strong>20. umacloud/umadev</strong> · 📈 +241 · ⭐ 241 · Rust</summary>
+
+- **Repository**: https://github.com/umacloud/umadev
+- **Owner**: `umacloud`
+- **Created**: `2026-06-19`
+- **Updated**: `2026-07-19`
+- **Topics**: 智能体 / 人工智能 / AI 智能体 / ai-coding / Claude Code / codex-cli
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
 
