@@ -12,7 +12,7 @@
 
 | 更新时间 | 榜单数量 | 查询范围 |
 |---|---:|---|
-| `2026-07-28 12:15:23 UTC+8` | **20** | `topic:ai archived:false is:public created:>=2026-06-28 stars:>10` |
+| `2026-07-29 12:17:35 UTC+8` | **20** | `topic:ai archived:false is:public created:>=2026-06-29 stars:>10` |
 
 > [!NOTE]
 > 本榜单通过对比每日快照，计算最近 30 天的星标增长数量 ($\Delta Stars$) 进行排序，旨在发现处于【快速爆发期】的新项目。
@@ -21,7 +21,7 @@
 
 ### 🥇 Top 1 · [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)
 
-**本月涨星**: +5264 | **总星数**: 5264 | **Language**: TypeScript | **Updated**: 2026-07-28
+**本月涨星**: +5277 | **总星数**: 5277 | **Language**: TypeScript | **Updated**: 2026-07-29
 
 **项目简介**：这是一个智能体项目，关注该方向的工程实践。
 
@@ -31,7 +31,7 @@
 
 ### 🥈 Top 2 · [synthetic-sciences/openscience](https://github.com/synthetic-sciences/openscience)
 
-**本月涨星**: +2895 | **总星数**: 2895 | **Language**: TypeScript | **Updated**: 2026-07-28
+**本月涨星**: +2918 | **总星数**: 2918 | **Language**: TypeScript | **Updated**: 2026-07-29
 
 **项目简介**：这是一个智能体项目，关注该方向的工程实践。
 
@@ -41,7 +41,7 @@
 
 ### 🥉 Top 3 · [penecho/penecho](https://github.com/penecho/penecho)
 
-**本月涨星**: +1745 | **总星数**: 1745 | **Language**: JavaScript | **Updated**: 2026-07-28
+**本月涨星**: +1769 | **总星数**: 1769 | **Language**: JavaScript | **Updated**: 2026-07-29
 
 **项目简介**：这是一个AI 项目，关注该方向的工程实践。
 
@@ -53,36 +53,36 @@
 
 | # | Project | Growth | Total Stars | Language | 项目简介 | Updated |
 |---:|---|---:|---:|---|---|---|
-| 1 | [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST) | 📈 +5264 | ⭐ 5264 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-28 |
-| 2 | [synthetic-sciences/openscience](https://github.com/synthetic-sciences/openscience) | 📈 +2895 | ⭐ 2895 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-28 |
-| 3 | [penecho/penecho](https://github.com/penecho/penecho) | 📈 +1745 | ⭐ 1745 | JavaScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-07-28 |
-| 4 | [MIgHTy-alIeN/MEV-Arbitrage-Bot](https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot) | 📈 +1521 | ⭐ 1521 | Solidity | 这是一个AI 项目，关注该方向的工程实践。 | 2026-07-28 |
-| 5 | [aipoch/open-science](https://github.com/aipoch/open-science) | 📈 +932 | ⭐ 932 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-28 |
+| 1 | [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST) | 📈 +5277 | ⭐ 5277 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-29 |
+| 2 | [synthetic-sciences/openscience](https://github.com/synthetic-sciences/openscience) | 📈 +2918 | ⭐ 2918 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-29 |
+| 3 | [penecho/penecho](https://github.com/penecho/penecho) | 📈 +1769 | ⭐ 1769 | JavaScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-07-29 |
+| 4 | [MIgHTy-alIeN/MEV-Arbitrage-Bot](https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot) | 📈 +1610 | ⭐ 1610 | Solidity | 这是一个AI 项目，关注该方向的工程实践。 | 2026-07-29 |
+| 5 | [aipoch/open-science](https://github.com/aipoch/open-science) | 📈 +949 | ⭐ 949 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-29 |
 | 6 | [jmerelnyc/Talos](https://github.com/jmerelnyc/Talos) | 📈 +891 | ⭐ 891 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-07-26 |
-| 7 | [William-Lu-stack/Flawless](https://github.com/William-Lu-stack/Flawless) | 📈 +855 | ⭐ 855 | Python | 这是一个搜索与工具接入项目，关注该方向的工程实践。 | 2026-07-28 |
-| 8 | [0xwilliamortiz/openclaude-improved](https://github.com/0xwilliamortiz/openclaude-improved) | 📈 +577 | ⭐ 577 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-28 |
-| 9 | [bytedoger/awesome-OpenPrice](https://github.com/bytedoger/awesome-OpenPrice) | 📈 +560 | ⭐ 560 | TypeScript | 这是一个AI 项目，用于整理和索引优质开源 AI 项目与基础设施。 | 2026-07-28 |
-| 10 | [bkingfilm/lapian-notes](https://github.com/bkingfilm/lapian-notes) | 📈 +466 | ⭐ 466 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-07-28 |
-| 11 | [Alisa0808/vox-director](https://github.com/Alisa0808/vox-director) | 📈 +459 | ⭐ 459 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-07-28 |
-| 12 | [Kritt-ai/open-kritt](https://github.com/Kritt-ai/open-kritt) | 📈 +432 | ⭐ 432 | JavaScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-27 |
-| 13 | [TencentCloud/Octop](https://github.com/TencentCloud/Octop) | 📈 +420 | ⭐ 420 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-28 |
-| 14 | [Brain0-ai/brain0](https://github.com/Brain0-ai/brain0) | 📈 +398 | ⭐ 398 | Rust | 这是一个智能体项目，用于把 MCP/OpenAPI 能力快速转成命令行工… | 2026-07-25 |
-| 15 | [yuwen-cool/yuwen-publish-precheck](https://github.com/yuwen-cool/yuwen-publish-precheck) | 📈 +392 | ⭐ 392 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-07-27 |
-| 16 | [syrizelink/OpenFic](https://github.com/syrizelink/OpenFic) | 📈 +373 | ⭐ 373 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-28 |
-| 17 | [runvendo/vendo](https://github.com/runvendo/vendo) | 📈 +337 | ⭐ 337 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-28 |
-| 18 | [KlaatAI/klaatcode](https://github.com/KlaatAI/klaatcode) | 📈 +321 | ⭐ 321 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-28 |
-| 19 | [deerwork-ai/deer-workflow](https://github.com/deerwork-ai/deer-workflow) | 📈 +265 | ⭐ 265 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-28 |
-| 20 | [EXXETA/exxperts](https://github.com/EXXETA/exxperts) | 📈 +239 | ⭐ 239 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-28 |
+| 7 | [William-Lu-stack/Flawless](https://github.com/William-Lu-stack/Flawless) | 📈 +856 | ⭐ 856 | Python | 这是一个搜索与工具接入项目，关注该方向的工程实践。 | 2026-07-28 |
+| 8 | [0xwilliamortiz/openclaude-improved](https://github.com/0xwilliamortiz/openclaude-improved) | 📈 +584 | ⭐ 584 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-29 |
+| 9 | [bytedoger/awesome-OpenPrice](https://github.com/bytedoger/awesome-OpenPrice) | 📈 +570 | ⭐ 570 | TypeScript | 这是一个AI 项目，用于整理和索引优质开源 AI 项目与基础设施。 | 2026-07-29 |
+| 10 | [TencentCloud/Octop](https://github.com/TencentCloud/Octop) | 📈 +536 | ⭐ 536 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-29 |
+| 11 | [bkingfilm/lapian-notes](https://github.com/bkingfilm/lapian-notes) | 📈 +502 | ⭐ 502 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-07-29 |
+| 12 | [Alisa0808/vox-director](https://github.com/Alisa0808/vox-director) | 📈 +479 | ⭐ 479 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-07-29 |
+| 13 | [Kritt-ai/open-kritt](https://github.com/Kritt-ai/open-kritt) | 📈 +440 | ⭐ 440 | JavaScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-29 |
+| 14 | [Brain0-ai/brain0](https://github.com/Brain0-ai/brain0) | 📈 +398 | ⭐ 398 | Rust | 这是一个智能体项目，用于把 MCP/OpenAPI 能力快速转成命令行工… | 2026-07-28 |
+| 15 | [yuwen-cool/yuwen-publish-precheck](https://github.com/yuwen-cool/yuwen-publish-precheck) | 📈 +397 | ⭐ 397 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-07-29 |
+| 16 | [KlaatAI/klaatcode](https://github.com/KlaatAI/klaatcode) | 📈 +349 | ⭐ 349 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-29 |
+| 17 | [runvendo/vendo](https://github.com/runvendo/vendo) | 📈 +343 | ⭐ 343 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-29 |
+| 18 | [deerwork-ai/deer-workflow](https://github.com/deerwork-ai/deer-workflow) | 📈 +328 | ⭐ 328 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-29 |
+| 19 | [EXXETA/exxperts](https://github.com/EXXETA/exxperts) | 📈 +240 | ⭐ 240 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-28 |
+| 20 | [barretlee/agent-pulse](https://github.com/barretlee/agent-pulse) | 📈 +225 | ⭐ 225 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-07-28 |
 
 ## Project Details
 
 <details>
-<summary><strong>1. elder-plinius/T3MP3ST</strong> · 📈 +5264 · ⭐ 5264 · TypeScript</summary>
+<summary><strong>1. elder-plinius/T3MP3ST</strong> · 📈 +5277 · ⭐ 5277 · TypeScript</summary>
 
 - **Repository**: https://github.com/elder-plinius/T3MP3ST
 - **Owner**: `elder-plinius`
 - **Created**: `2026-07-02`
-- **Updated**: `2026-07-28`
+- **Updated**: `2026-07-29`
 - **Topics**: 智能体 / 人工智能 / 多智能体 / offensive-security / redteam
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -90,12 +90,12 @@
 </details>
 
 <details>
-<summary><strong>2. synthetic-sciences/openscience</strong> · 📈 +2895 · ⭐ 2895 · TypeScript</summary>
+<summary><strong>2. synthetic-sciences/openscience</strong> · 📈 +2918 · ⭐ 2918 · TypeScript</summary>
 
 - **Repository**: https://github.com/synthetic-sciences/openscience
 - **Owner**: `synthetic-sciences`
 - **Created**: `2026-07-03`
-- **Updated**: `2026-07-28`
+- **Updated**: `2026-07-29`
 - **Topics**: 智能体 / 人工智能 / AI 智能体 / bun / 命令行 / co-scientist
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -103,12 +103,12 @@
 </details>
 
 <details>
-<summary><strong>3. penecho/penecho</strong> · 📈 +1745 · ⭐ 1745 · JavaScript</summary>
+<summary><strong>3. penecho/penecho</strong> · 📈 +1769 · ⭐ 1769 · JavaScript</summary>
 
 - **Repository**: https://github.com/penecho/penecho
 - **Owner**: `penecho`
 - **Created**: `2026-07-14`
-- **Updated**: `2026-07-28`
+- **Updated**: `2026-07-29`
 - **Topics**: 人工智能 / canvas / Claude / codex / education / handwriting
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
@@ -116,12 +116,12 @@
 </details>
 
 <details>
-<summary><strong>4. MIgHTy-alIeN/MEV-Arbitrage-Bot</strong> · 📈 +1521 · ⭐ 1521 · Solidity</summary>
+<summary><strong>4. MIgHTy-alIeN/MEV-Arbitrage-Bot</strong> · 📈 +1610 · ⭐ 1610 · Solidity</summary>
 
 - **Repository**: https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot
 - **Owner**: `MIgHTy-alIeN`
 - **Created**: `2026-07-17`
-- **Updated**: `2026-07-28`
+- **Updated**: `2026-07-29`
 - **Topics**: 人工智能 / aitradingbot / bot / btc / Claude / eth
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合做搜索增强、知识接入和工具编排
@@ -129,12 +129,12 @@
 </details>
 
 <details>
-<summary><strong>5. aipoch/open-science</strong> · 📈 +932 · ⭐ 932 · TypeScript</summary>
+<summary><strong>5. aipoch/open-science</strong> · 📈 +949 · ⭐ 949 · TypeScript</summary>
 
 - **Repository**: https://github.com/aipoch/open-science
 - **Owner**: `aipoch`
 - **Created**: `2026-07-03`
-- **Updated**: `2026-07-28`
+- **Updated**: `2026-07-29`
 - **Topics**: 智能体 / 人工智能 / AI 智能体 / ai-for-science / ai4s / ai4science
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -155,7 +155,7 @@
 </details>
 
 <details>
-<summary><strong>7. William-Lu-stack/Flawless</strong> · 📈 +855 · ⭐ 855 · Python</summary>
+<summary><strong>7. William-Lu-stack/Flawless</strong> · 📈 +856 · ⭐ 856 · Python</summary>
 
 - **Repository**: https://github.com/William-Lu-stack/Flawless
 - **Owner**: `William-Lu-stack`
@@ -168,12 +168,12 @@
 </details>
 
 <details>
-<summary><strong>8. 0xwilliamortiz/openclaude-improved</strong> · 📈 +577 · ⭐ 577 · TypeScript</summary>
+<summary><strong>8. 0xwilliamortiz/openclaude-improved</strong> · 📈 +584 · ⭐ 584 · TypeScript</summary>
 
 - **Repository**: https://github.com/0xwilliamortiz/openclaude-improved
 - **Owner**: `0xwilliamortiz`
 - **Created**: `2026-07-26`
-- **Updated**: `2026-07-28`
+- **Updated**: `2026-07-29`
 - **Topics**: agentic-ai / 人工智能 / AI 智能体 / ai-coding / ai-coding-agent / ai-coding-agents
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -181,12 +181,12 @@
 </details>
 
 <details>
-<summary><strong>9. bytedoger/awesome-OpenPrice</strong> · 📈 +560 · ⭐ 560 · TypeScript</summary>
+<summary><strong>9. bytedoger/awesome-OpenPrice</strong> · 📈 +570 · ⭐ 570 · TypeScript</summary>
 
 - **Repository**: https://github.com/bytedoger/awesome-OpenPrice
 - **Owner**: `bytedoger`
 - **Created**: `2026-07-16`
-- **Updated**: `2026-07-28`
+- **Updated**: `2026-07-29`
 - **Topics**: 人工智能 / ai-subscription / chatgpt / Claude / codex / cursor
 - **项目简介**: 这是一个AI 项目，用于整理和索引优质开源 AI 项目与基础设施。
 - **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
@@ -194,12 +194,25 @@
 </details>
 
 <details>
-<summary><strong>10. bkingfilm/lapian-notes</strong> · 📈 +466 · ⭐ 466 · TypeScript</summary>
+<summary><strong>10. TencentCloud/Octop</strong> · 📈 +536 · ⭐ 536 · Python</summary>
+
+- **Repository**: https://github.com/TencentCloud/Octop
+- **Owner**: `TencentCloud`
+- **Created**: `2026-07-08`
+- **Updated**: `2026-07-29`
+- **Topics**: 智能体 / agentic-ai / 人工智能 / AI 智能体 / AI 智能体 / 本地优先
+- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
+- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
+
+</details>
+
+<details>
+<summary><strong>11. bkingfilm/lapian-notes</strong> · 📈 +502 · ⭐ 502 · TypeScript</summary>
 
 - **Repository**: https://github.com/bkingfilm/lapian-notes
 - **Owner**: `bkingfilm`
 - **Created**: `2026-07-08`
-- **Updated**: `2026-07-28`
+- **Updated**: `2026-07-29`
 - **Topics**: 人工智能 / film-analysis / filmmaking / react / screenwriting / vite
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
@@ -207,12 +220,12 @@
 </details>
 
 <details>
-<summary><strong>11. Alisa0808/vox-director</strong> · 📈 +459 · ⭐ 459 · Python</summary>
+<summary><strong>12. Alisa0808/vox-director</strong> · 📈 +479 · ⭐ 479 · Python</summary>
 
 - **Repository**: https://github.com/Alisa0808/vox-director
 - **Owner**: `Alisa0808`
 - **Created**: `2026-07-10`
-- **Updated**: `2026-07-28`
+- **Updated**: `2026-07-29`
 - **Topics**: 人工智能 / ai-video / Claude Code / claude-skill / collage-video / explainer-video
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -220,26 +233,13 @@
 </details>
 
 <details>
-<summary><strong>12. Kritt-ai/open-kritt</strong> · 📈 +432 · ⭐ 432 · JavaScript</summary>
+<summary><strong>13. Kritt-ai/open-kritt</strong> · 📈 +440 · ⭐ 440 · JavaScript</summary>
 
 - **Repository**: https://github.com/Kritt-ai/open-kritt
 - **Owner**: `Kritt-ai`
 - **Created**: `2026-07-20`
-- **Updated**: `2026-07-27`
+- **Updated**: `2026-07-29`
 - **Topics**: 智能体 / 智能体 / 人工智能 / bug-bounty / bugbounty / bugbounty-tools
-- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
-
-</details>
-
-<details>
-<summary><strong>13. TencentCloud/Octop</strong> · 📈 +420 · ⭐ 420 · Python</summary>
-
-- **Repository**: https://github.com/TencentCloud/Octop
-- **Owner**: `TencentCloud`
-- **Created**: `2026-07-08`
-- **Updated**: `2026-07-28`
-- **Topics**: 智能体 / agentic-ai / 人工智能 / AI 智能体 / AI 智能体 / 本地优先
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
 
@@ -251,7 +251,7 @@
 - **Repository**: https://github.com/Brain0-ai/brain0
 - **Owner**: `Brain0-ai`
 - **Created**: `2026-07-02`
-- **Updated**: `2026-07-25`
+- **Updated**: `2026-07-28`
 - **Topics**: 人工智能 / AI 智能体 / attestation / audit / Claude / 命令行
 - **项目简介**: 这是一个智能体项目，用于把 MCP/OpenAPI 能力快速转成命令行工具。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -259,12 +259,12 @@
 </details>
 
 <details>
-<summary><strong>15. yuwen-cool/yuwen-publish-precheck</strong> · 📈 +392 · ⭐ 392 · Python</summary>
+<summary><strong>15. yuwen-cool/yuwen-publish-precheck</strong> · 📈 +397 · ⭐ 397 · Python</summary>
 
 - **Repository**: https://github.com/yuwen-cool/yuwen-publish-precheck
 - **Owner**: `yuwen-cool`
 - **Created**: `2026-07-15`
-- **Updated**: `2026-07-27`
+- **Updated**: `2026-07-29`
 - **Topics**: agent-skills / 人工智能 / chinese / Claude / content-compliance / cursor
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
@@ -272,38 +272,12 @@
 </details>
 
 <details>
-<summary><strong>16. syrizelink/OpenFic</strong> · 📈 +373 · ⭐ 373 · Python</summary>
-
-- **Repository**: https://github.com/syrizelink/OpenFic
-- **Owner**: `syrizelink`
-- **Created**: `2026-06-28`
-- **Updated**: `2026-07-28`
-- **Topics**: 智能体 / 人工智能 / ai-tools / cross-platform / fiction-writing / human-ai-collaboration
-- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
-
-</details>
-
-<details>
-<summary><strong>17. runvendo/vendo</strong> · 📈 +337 · ⭐ 337 · TypeScript</summary>
-
-- **Repository**: https://github.com/runvendo/vendo
-- **Owner**: `runvendo`
-- **Created**: `2026-06-30`
-- **Updated**: `2026-07-28`
-- **Topics**: 智能体 / 人工智能 / AI 智能体 / 自动化 / devtools / embedded-ai
-- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
-
-</details>
-
-<details>
-<summary><strong>18. KlaatAI/klaatcode</strong> · 📈 +321 · ⭐ 321 · TypeScript</summary>
+<summary><strong>16. KlaatAI/klaatcode</strong> · 📈 +349 · ⭐ 349 · TypeScript</summary>
 
 - **Repository**: https://github.com/KlaatAI/klaatcode
 - **Owner**: `KlaatAI`
 - **Created**: `2026-07-17`
-- **Updated**: `2026-07-28`
+- **Updated**: `2026-07-29`
 - **Topics**: agentic-ai / 人工智能 / AI 智能体 / ai-coding / ai-model / ai-tools
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -311,12 +285,25 @@
 </details>
 
 <details>
-<summary><strong>19. deerwork-ai/deer-workflow</strong> · 📈 +265 · ⭐ 265 · TypeScript</summary>
+<summary><strong>17. runvendo/vendo</strong> · 📈 +343 · ⭐ 343 · TypeScript</summary>
+
+- **Repository**: https://github.com/runvendo/vendo
+- **Owner**: `runvendo`
+- **Created**: `2026-06-30`
+- **Updated**: `2026-07-29`
+- **Topics**: 智能体 / 人工智能 / AI 智能体 / 自动化 / devtools / embedded-ai
+- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
+- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
+
+</details>
+
+<details>
+<summary><strong>18. deerwork-ai/deer-workflow</strong> · 📈 +328 · ⭐ 328 · TypeScript</summary>
 
 - **Repository**: https://github.com/deerwork-ai/deer-workflow
 - **Owner**: `deerwork-ai`
 - **Created**: `2026-07-26`
-- **Updated**: `2026-07-28`
+- **Updated**: `2026-07-29`
 - **Topics**: 智能体 / 人工智能 / AI 智能体 / AI 智能体 / ai-coding / bun
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -324,13 +311,26 @@
 </details>
 
 <details>
-<summary><strong>20. EXXETA/exxperts</strong> · 📈 +239 · ⭐ 239 · TypeScript</summary>
+<summary><strong>19. EXXETA/exxperts</strong> · 📈 +240 · ⭐ 240 · TypeScript</summary>
 
 - **Repository**: https://github.com/EXXETA/exxperts
 - **Owner**: `EXXETA`
 - **Created**: `2026-07-07`
 - **Updated**: `2026-07-28`
 - **Topics**: 智能体 / 人工智能 / 本地优先 / memory / TypeScript
+- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
+- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
+
+</details>
+
+<details>
+<summary><strong>20. barretlee/agent-pulse</strong> · 📈 +225 · ⭐ 225 · TypeScript</summary>
+
+- **Repository**: https://github.com/barretlee/agent-pulse
+- **Owner**: `barretlee`
+- **Created**: `2026-07-11`
+- **Updated**: `2026-07-28`
+- **Topics**: 人工智能 / AI 智能体 / ai-industry / ai-intelligence / ai-news / 人工智能
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
 
