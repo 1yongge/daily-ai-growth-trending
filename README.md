@@ -12,7 +12,7 @@
 
 | 更新时间 | 榜单数量 | 查询范围 |
 |---|---:|---|
-| `2026-08-21 10:25:04 UTC+8` | **20** | `topic:ai archived:false is:public created:>=2026-07-22 stars:>10` |
+| `2026-08-22 10:17:02 UTC+8` | **20** | `topic:ai archived:false is:public created:>=2026-07-23 stars:>10` |
 
 > [!NOTE]
 > 本榜单通过对比每日快照，计算最近 30 天的星标增长数量 ($\Delta Stars$) 进行排序，旨在发现处于【快速爆发期】的新项目。
@@ -21,17 +21,17 @@
 
 ### 🥇 Top 1 · [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)
 
-**本月涨星**: +16103 | **总星数**: 16103 | **Language**: Python | **Updated**: 2026-08-21
+**本月涨星**: +16640 | **总星数**: 16640 | **Language**: Python | **Updated**: 2026-08-22
 
 **项目简介**：这是一个AI 项目，关注该方向的工程实践。
 
 **适用场景**：适合关注 AI 新项目、产品形态和工程实现思路
 
-**标签**：agent-skill / 人工智能 / c2pa / Claude
+**标签**：agent-skill / 人工智能 / anthropic / c2pa
 
 ### 🥈 Top 2 · [yc-software/qm](https://github.com/yc-software/qm)
 
-**本月涨星**: +14013 | **总星数**: 14013 | **Language**: TypeScript | **Updated**: 2026-08-21
+**本月涨星**: +14045 | **总星数**: 14045 | **Language**: TypeScript | **Updated**: 2026-08-22
 
 **项目简介**：这是一个AI 项目，关注该方向的工程实践。
 
@@ -41,7 +41,7 @@
 
 ### 🥉 Top 3 · [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice)
 
-**本月涨星**: +3423 | **总星数**: 3423 | **Language**: TypeScript | **Updated**: 2026-08-21
+**本月涨星**: +3463 | **总星数**: 3463 | **Language**: TypeScript | **Updated**: 2026-08-22
 
 **项目简介**：这是一个AI 项目，关注该方向的工程实践。
 
@@ -53,49 +53,49 @@
 
 | # | Project | Growth | Total Stars | Language | 项目简介 | Updated |
 |---:|---|---:|---:|---|---|---|
-| 1 | [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | 📈 +16103 | ⭐ 16103 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-08-21 |
-| 2 | [yc-software/qm](https://github.com/yc-software/qm) | 📈 +14013 | ⭐ 14013 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-08-21 |
-| 3 | [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) | 📈 +3423 | ⭐ 3423 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-08-21 |
-| 4 | [Tiger3807861189/J-Space-Cognition-Suite-V3.6](https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6) | 📈 +2994 | ⭐ 2994 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-08-21 |
-| 5 | [ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness) | 📈 +1963 | ⭐ 1963 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-08-21 |
-| 6 | [fuxicodex/Fuxi](https://github.com/fuxicodex/Fuxi) | 📈 +1404 | ⭐ 1404 | HTML | 这是一个智能体项目，关注该方向的工程实践。 | 2026-08-21 |
-| 7 | [vercel-labs/eve-software-factory-template](https://github.com/vercel-labs/eve-software-factory-template) | 📈 +949 | ⭐ 949 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-08-20 |
-| 8 | [0xsline/awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) | 📈 +776 | ⭐ 776 | Python | 这是一个智能体项目，用于整理和索引优质开源 AI 项目与基础设施。 | 2026-08-21 |
-| 9 | [DrHazemAli/enterprise-system-design](https://github.com/DrHazemAli/enterprise-system-design) | 📈 +569 | ⭐ 569 | 未识别 | 这是一个AI 项目，关注该方向的工程实践。 | 2026-08-20 |
-| 10 | [bawadou/ai-data-extractor](https://github.com/bawadou/ai-data-extractor) | 📈 +528 | ⭐ 528 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-08-20 |
-| 11 | [deerwork-ai/deer-workflow](https://github.com/deerwork-ai/deer-workflow) | 📈 +482 | ⭐ 482 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-08-20 |
-| 12 | [vercel-labs/marketing-team-eve-template](https://github.com/vercel-labs/marketing-team-eve-template) | 📈 +450 | ⭐ 450 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-08-21 |
-| 13 | [fromleda/text-humanizer](https://github.com/fromleda/text-humanizer) | 📈 +445 | ⭐ 445 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-08-21 |
-| 14 | [pgrundev/pgbot](https://github.com/pgrundev/pgbot) | 📈 +398 | ⭐ 398 | Go | 这是一个AI 项目，关注该方向的工程实践。 | 2026-08-21 |
-| 15 | [i3T4AN/KADATH](https://github.com/i3T4AN/KADATH) | 📈 +343 | ⭐ 343 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-08-20 |
-| 16 | [starling-build/starling](https://github.com/starling-build/starling) | 📈 +326 | ⭐ 326 | Swift | 这是一个AI 项目，关注该方向的工程实践。 | 2026-08-19 |
-| 17 | [Shpigford/nurb](https://github.com/Shpigford/nurb) | 📈 +317 | ⭐ 317 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-08-20 |
-| 18 | [fuxiaoai/tidings-rss](https://github.com/fuxiaoai/tidings-rss) | 📈 +309 | ⭐ 309 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-08-21 |
-| 19 | [HELPMEEADICE/TE-Speed-MiniMaxH3-OSS](https://github.com/HELPMEEADICE/TE-Speed-MiniMaxH3-OSS) | 📈 +260 | ⭐ 260 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-08-21 |
-| 20 | [abcwyc/pi-agent-desktop](https://github.com/abcwyc/pi-agent-desktop) | 📈 +241 | ⭐ 241 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-08-20 |
+| 1 | [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | 📈 +16640 | ⭐ 16640 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-08-22 |
+| 2 | [yc-software/qm](https://github.com/yc-software/qm) | 📈 +14045 | ⭐ 14045 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-08-22 |
+| 3 | [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) | 📈 +3463 | ⭐ 3463 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-08-22 |
+| 4 | [ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness) | 📈 +1975 | ⭐ 1975 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-08-21 |
+| 5 | [fuxicodex/Fuxi](https://github.com/fuxicodex/Fuxi) | 📈 +1580 | ⭐ 1580 | HTML | 这是一个智能体项目，关注该方向的工程实践。 | 2026-08-22 |
+| 6 | [vercel-labs/eve-software-factory-template](https://github.com/vercel-labs/eve-software-factory-template) | 📈 +983 | ⭐ 983 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-08-21 |
+| 7 | [0xsline/awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) | 📈 +798 | ⭐ 798 | Python | 这是一个智能体项目，用于整理和索引优质开源 AI 项目与基础设施。 | 2026-08-22 |
+| 8 | [fromleda/text-humanizer](https://github.com/fromleda/text-humanizer) | 📈 +659 | ⭐ 659 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-08-22 |
+| 9 | [DrHazemAli/enterprise-system-design](https://github.com/DrHazemAli/enterprise-system-design) | 📈 +571 | ⭐ 571 | 未识别 | 这是一个AI 项目，关注该方向的工程实践。 | 2026-08-22 |
+| 10 | [pgrundev/pgbot](https://github.com/pgrundev/pgbot) | 📈 +558 | ⭐ 558 | Go | 这是一个AI 项目，关注该方向的工程实践。 | 2026-08-22 |
+| 11 | [bawadou/ai-data-extractor](https://github.com/bawadou/ai-data-extractor) | 📈 +537 | ⭐ 537 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-08-21 |
+| 12 | [deerwork-ai/deer-workflow](https://github.com/deerwork-ai/deer-workflow) | 📈 +482 | ⭐ 482 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-08-20 |
+| 13 | [vercel-labs/marketing-team-eve-template](https://github.com/vercel-labs/marketing-team-eve-template) | 📈 +452 | ⭐ 452 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-08-22 |
+| 14 | [i3T4AN/KADATH](https://github.com/i3T4AN/KADATH) | 📈 +341 | ⭐ 341 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-08-21 |
+| 15 | [Shpigford/nurb](https://github.com/Shpigford/nurb) | 📈 +335 | ⭐ 335 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-08-22 |
+| 16 | [starling-build/starling](https://github.com/starling-build/starling) | 📈 +327 | ⭐ 327 | Swift | 这是一个AI 项目，关注该方向的工程实践。 | 2026-08-21 |
+| 17 | [fuxiaoai/tidings-rss](https://github.com/fuxiaoai/tidings-rss) | 📈 +327 | ⭐ 327 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-08-22 |
+| 18 | [HELPMEEADICE/TE-Speed-MiniMaxH3-OSS](https://github.com/HELPMEEADICE/TE-Speed-MiniMaxH3-OSS) | 📈 +262 | ⭐ 262 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-08-21 |
+| 19 | [AIDevGTM/gtm-cofounder](https://github.com/AIDevGTM/gtm-cofounder) | 📈 +237 | ⭐ 237 | 未识别 | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-08-21 |
+| 20 | [Aaryanverma/graybox](https://github.com/Aaryanverma/graybox) | 📈 +227 | ⭐ 227 | Python | 这是一个搜索与工具接入项目，关注该方向的工程实践。 | 2026-08-21 |
 
 ## Project Details
 
 <details>
-<summary><strong>1. guillaumemeyer/watermarks-remover</strong> · 📈 +16103 · ⭐ 16103 · Python</summary>
+<summary><strong>1. guillaumemeyer/watermarks-remover</strong> · 📈 +16640 · ⭐ 16640 · Python</summary>
 
 - **Repository**: https://github.com/guillaumemeyer/watermarks-remover
 - **Owner**: `guillaumemeyer`
 - **Created**: `2026-08-11`
-- **Updated**: `2026-08-21`
-- **Topics**: agent-skill / 人工智能 / c2pa / Claude / provenance / synthid
+- **Updated**: `2026-08-22`
+- **Topics**: agent-skill / 人工智能 / anthropic / c2pa / chatgpt / Claude
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
 
 </details>
 
 <details>
-<summary><strong>2. yc-software/qm</strong> · 📈 +14013 · ⭐ 14013 · TypeScript</summary>
+<summary><strong>2. yc-software/qm</strong> · 📈 +14045 · ⭐ 14045 · TypeScript</summary>
 
 - **Repository**: https://github.com/yc-software/qm
 - **Owner**: `yc-software`
 - **Created**: `2026-07-29`
-- **Updated**: `2026-08-21`
+- **Updated**: `2026-08-22`
 - **Topics**: 人工智能 / 助手 / harness / qm
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -103,12 +103,12 @@
 </details>
 
 <details>
-<summary><strong>3. genspark-ai/genoffice</strong> · 📈 +3423 · ⭐ 3423 · TypeScript</summary>
+<summary><strong>3. genspark-ai/genoffice</strong> · 📈 +3463 · ⭐ 3463 · TypeScript</summary>
 
 - **Repository**: https://github.com/genspark-ai/genoffice
 - **Owner**: `genspark-ai`
 - **Created**: `2026-07-31`
-- **Updated**: `2026-08-21`
+- **Updated**: `2026-08-22`
 - **Topics**: 人工智能 / cross-platform / docx / electron / excel / linux
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -116,20 +116,7 @@
 </details>
 
 <details>
-<summary><strong>4. Tiger3807861189/J-Space-Cognition-Suite-V3.6</strong> · 📈 +2994 · ⭐ 2994 · Python</summary>
-
-- **Repository**: https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6
-- **Owner**: `Tiger3807861189`
-- **Created**: `2026-07-22`
-- **Updated**: `2026-08-21`
-- **Topics**: agent-skills / 人工智能 / AI 智能体 / AI 智能体 / Claude Code / codex
-- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
-
-</details>
-
-<details>
-<summary><strong>5. ShawnPana/phone-harness</strong> · 📈 +1963 · ⭐ 1963 · Python</summary>
+<summary><strong>4. ShawnPana/phone-harness</strong> · 📈 +1975 · ⭐ 1975 · Python</summary>
 
 - **Repository**: https://github.com/ShawnPana/phone-harness
 - **Owner**: `ShawnPana`
@@ -142,12 +129,12 @@
 </details>
 
 <details>
-<summary><strong>6. fuxicodex/Fuxi</strong> · 📈 +1404 · ⭐ 1404 · HTML</summary>
+<summary><strong>5. fuxicodex/Fuxi</strong> · 📈 +1580 · ⭐ 1580 · HTML</summary>
 
 - **Repository**: https://github.com/fuxicodex/Fuxi
 - **Owner**: `fuxicodex`
 - **Created**: `2026-08-04`
-- **Updated**: `2026-08-21`
+- **Updated**: `2026-08-22`
 - **Topics**: 智能体 / 人工智能 / AI 智能体 / ai-coding / 命令行 / code-assistant
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -155,12 +142,12 @@
 </details>
 
 <details>
-<summary><strong>7. vercel-labs/eve-software-factory-template</strong> · 📈 +949 · ⭐ 949 · TypeScript</summary>
+<summary><strong>6. vercel-labs/eve-software-factory-template</strong> · 📈 +983 · ⭐ 983 · TypeScript</summary>
 
 - **Repository**: https://github.com/vercel-labs/eve-software-factory-template
 - **Owner**: `vercel-labs`
 - **Created**: `2026-08-12`
-- **Updated**: `2026-08-20`
+- **Updated**: `2026-08-21`
 - **Topics**: 智能体 / 人工智能 / eve / vercel
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -168,12 +155,12 @@
 </details>
 
 <details>
-<summary><strong>8. 0xsline/awesome-deepseek-harness</strong> · 📈 +776 · ⭐ 776 · Python</summary>
+<summary><strong>7. 0xsline/awesome-deepseek-harness</strong> · 📈 +798 · ⭐ 798 · Python</summary>
 
 - **Repository**: https://github.com/0xsline/awesome-deepseek-harness
 - **Owner**: `0xsline`
 - **Created**: `2026-08-11`
-- **Updated**: `2026-08-21`
+- **Updated**: `2026-08-22`
 - **Topics**: 智能体 / 人工智能 / AI 智能体 / ai-tools / awesome / awesome-list
 - **项目简介**: 这是一个智能体项目，用于整理和索引优质开源 AI 项目与基础设施。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -181,12 +168,25 @@
 </details>
 
 <details>
-<summary><strong>9. DrHazemAli/enterprise-system-design</strong> · 📈 +569 · ⭐ 569 · 未识别</summary>
+<summary><strong>8. fromleda/text-humanizer</strong> · 📈 +659 · ⭐ 659 · Python</summary>
+
+- **Repository**: https://github.com/fromleda/text-humanizer
+- **Owner**: `fromleda`
+- **Created**: `2026-08-10`
+- **Updated**: `2026-08-22`
+- **Topics**: 人工智能 / ai-humanizer / gemini-api / gptzero / tehxt-humanization / text-humanizer
+- **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
+- **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
+
+</details>
+
+<details>
+<summary><strong>9. DrHazemAli/enterprise-system-design</strong> · 📈 +571 · ⭐ 571 · 未识别</summary>
 
 - **Repository**: https://github.com/DrHazemAli/enterprise-system-design
 - **Owner**: `DrHazemAli`
 - **Created**: `2026-08-12`
-- **Updated**: `2026-08-20`
+- **Updated**: `2026-08-22`
 - **Topics**: 人工智能 / ai-governance / ai-security / ai-systems / cloud-architecture / cloud-infrastructure
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合做学习资料、知识梳理和入门参考
@@ -194,12 +194,25 @@
 </details>
 
 <details>
-<summary><strong>10. bawadou/ai-data-extractor</strong> · 📈 +528 · ⭐ 528 · Python</summary>
+<summary><strong>10. pgrundev/pgbot</strong> · 📈 +558 · ⭐ 558 · Go</summary>
+
+- **Repository**: https://github.com/pgrundev/pgbot
+- **Owner**: `pgrundev`
+- **Created**: `2026-08-11`
+- **Updated**: `2026-08-22`
+- **Topics**: 人工智能 / data-analysis / database / postgres / postgresql / postgresql-database
+- **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
+- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
+
+</details>
+
+<details>
+<summary><strong>11. bawadou/ai-data-extractor</strong> · 📈 +537 · ⭐ 537 · Python</summary>
 
 - **Repository**: https://github.com/bawadou/ai-data-extractor
 - **Owner**: `bawadou`
 - **Created**: `2026-08-16`
-- **Updated**: `2026-08-20`
+- **Updated**: `2026-08-21`
 - **Topics**: 人工智能 / ai-data-extractor / Claude / cursor / cursor-ai / data-extraction
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合做自动化流程、命令行工具和研发提效
@@ -207,7 +220,7 @@
 </details>
 
 <details>
-<summary><strong>11. deerwork-ai/deer-workflow</strong> · 📈 +482 · ⭐ 482 · TypeScript</summary>
+<summary><strong>12. deerwork-ai/deer-workflow</strong> · 📈 +482 · ⭐ 482 · TypeScript</summary>
 
 - **Repository**: https://github.com/deerwork-ai/deer-workflow
 - **Owner**: `deerwork-ai`
@@ -220,12 +233,12 @@
 </details>
 
 <details>
-<summary><strong>12. vercel-labs/marketing-team-eve-template</strong> · 📈 +450 · ⭐ 450 · TypeScript</summary>
+<summary><strong>13. vercel-labs/marketing-team-eve-template</strong> · 📈 +452 · ⭐ 452 · TypeScript</summary>
 
 - **Repository**: https://github.com/vercel-labs/marketing-team-eve-template
 - **Owner**: `vercel-labs`
 - **Created**: `2026-07-26`
-- **Updated**: `2026-08-21`
+- **Updated**: `2026-08-22`
 - **Topics**: 人工智能 / eve / marketing / notion / resend / typefully
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -233,38 +246,12 @@
 </details>
 
 <details>
-<summary><strong>13. fromleda/text-humanizer</strong> · 📈 +445 · ⭐ 445 · Python</summary>
-
-- **Repository**: https://github.com/fromleda/text-humanizer
-- **Owner**: `fromleda`
-- **Created**: `2026-08-10`
-- **Updated**: `2026-08-21`
-- **Topics**: 人工智能 / ai-humanizer / gemini-api / gptzero / tehxt-humanization / text-humanizer
-- **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
-- **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
-
-</details>
-
-<details>
-<summary><strong>14. pgrundev/pgbot</strong> · 📈 +398 · ⭐ 398 · Go</summary>
-
-- **Repository**: https://github.com/pgrundev/pgbot
-- **Owner**: `pgrundev`
-- **Created**: `2026-08-11`
-- **Updated**: `2026-08-21`
-- **Topics**: 人工智能 / data-analysis / database / postgres / postgresql / postgresql-database
-- **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
-
-</details>
-
-<details>
-<summary><strong>15. i3T4AN/KADATH</strong> · 📈 +343 · ⭐ 343 · Python</summary>
+<summary><strong>14. i3T4AN/KADATH</strong> · 📈 +341 · ⭐ 341 · Python</summary>
 
 - **Repository**: https://github.com/i3T4AN/KADATH
 - **Owner**: `i3T4AN`
 - **Created**: `2026-08-08`
-- **Updated**: `2026-08-20`
+- **Updated**: `2026-08-21`
 - **Topics**: agent-evaluation-tools / agent-framework / agent-swarms / agentic-ai / 智能体 / 人工智能
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -272,25 +259,12 @@
 </details>
 
 <details>
-<summary><strong>16. starling-build/starling</strong> · 📈 +326 · ⭐ 326 · Swift</summary>
-
-- **Repository**: https://github.com/starling-build/starling
-- **Owner**: `starling-build`
-- **Created**: `2026-07-28`
-- **Updated**: `2026-08-19`
-- **Topics**: 人工智能 / compositor / desktop / desktop-environment / drm / flutter
-- **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
-- **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
-
-</details>
-
-<details>
-<summary><strong>17. Shpigford/nurb</strong> · 📈 +317 · ⭐ 317 · Python</summary>
+<summary><strong>15. Shpigford/nurb</strong> · 📈 +335 · ⭐ 335 · Python</summary>
 
 - **Repository**: https://github.com/Shpigford/nurb
 - **Owner**: `Shpigford`
 - **Created**: `2026-07-25`
-- **Updated**: `2026-08-20`
+- **Updated**: `2026-08-22`
 - **Topics**: 3d-printing / 人工智能 / cad
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -298,12 +272,25 @@
 </details>
 
 <details>
-<summary><strong>18. fuxiaoai/tidings-rss</strong> · 📈 +309 · ⭐ 309 · Python</summary>
+<summary><strong>16. starling-build/starling</strong> · 📈 +327 · ⭐ 327 · Swift</summary>
+
+- **Repository**: https://github.com/starling-build/starling
+- **Owner**: `starling-build`
+- **Created**: `2026-07-28`
+- **Updated**: `2026-08-21`
+- **Topics**: 人工智能 / compositor / desktop / desktop-environment / drm / flutter
+- **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
+- **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
+
+</details>
+
+<details>
+<summary><strong>17. fuxiaoai/tidings-rss</strong> · 📈 +327 · ⭐ 327 · Python</summary>
 
 - **Repository**: https://github.com/fuxiaoai/tidings-rss
 - **Owner**: `fuxiaoai`
 - **Created**: `2026-07-28`
-- **Updated**: `2026-08-21`
+- **Updated**: `2026-08-22`
 - **Topics**: 人工智能 / atom / json-feed / news / opml / research
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合做搜索增强、知识接入和工具编排
@@ -311,7 +298,7 @@
 </details>
 
 <details>
-<summary><strong>19. HELPMEEADICE/TE-Speed-MiniMaxH3-OSS</strong> · 📈 +260 · ⭐ 260 · Python</summary>
+<summary><strong>18. HELPMEEADICE/TE-Speed-MiniMaxH3-OSS</strong> · 📈 +262 · ⭐ 262 · Python</summary>
 
 - **Repository**: https://github.com/HELPMEEADICE/TE-Speed-MiniMaxH3-OSS
 - **Owner**: `HELPMEEADICE`
@@ -324,15 +311,28 @@
 </details>
 
 <details>
-<summary><strong>20. abcwyc/pi-agent-desktop</strong> · 📈 +241 · ⭐ 241 · TypeScript</summary>
+<summary><strong>19. AIDevGTM/gtm-cofounder</strong> · 📈 +237 · ⭐ 237 · 未识别</summary>
 
-- **Repository**: https://github.com/abcwyc/pi-agent-desktop
-- **Owner**: `abcwyc`
-- **Created**: `2026-07-22`
-- **Updated**: `2026-08-20`
-- **Topics**: 人工智能 / AI 智能体 / desktop-app / pi
-- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
+- **Repository**: https://github.com/AIDevGTM/gtm-cofounder
+- **Owner**: `AIDevGTM`
+- **Created**: `2026-07-24`
+- **Updated**: `2026-08-21`
+- **Topics**: agent-skills / 人工智能 / ai-founders / Claude / Claude Code / claude-skills
+- **项目简介**: 这是一个自动化与效率工具项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
+
+</details>
+
+<details>
+<summary><strong>20. Aaryanverma/graybox</strong> · 📈 +227 · ⭐ 227 · Python</summary>
+
+- **Repository**: https://github.com/Aaryanverma/graybox
+- **Owner**: `Aaryanverma`
+- **Created**: `2026-07-26`
+- **Updated**: `2026-08-21`
+- **Topics**: 人工智能 / brain / chat / 命令行 / graybox / lightweight
+- **项目简介**: 这是一个搜索与工具接入项目，关注该方向的工程实践。
+- **适用场景**: 适合做搜索增强、知识接入和工具编排
 
 </details>
 
