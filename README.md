@@ -12,7 +12,7 @@
 
 | 更新时间 | 榜单数量 | 查询范围 |
 |---|---:|---|
-| `2026-09-09 13:51:03 UTC+8` | **20** | `topic:ai archived:false is:public created:>=2026-08-10 stars:>10` |
+| `2026-09-10 13:46:05 UTC+8` | **20** | `topic:ai archived:false is:public created:>=2026-08-11 stars:>10` |
 
 > [!NOTE]
 > 本榜单通过对比每日快照，计算最近 30 天的星标增长数量 ($\Delta Stars$) 进行排序，旨在发现处于【快速爆发期】的新项目。
@@ -21,7 +21,7 @@
 
 ### 🥇 Top 1 · [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)
 
-**本月涨星**: +21437 | **总星数**: 21437 | **Language**: Python | **Updated**: 2026-09-09
+**本月涨星**: +21556 | **总星数**: 21556 | **Language**: Python | **Updated**: 2026-09-10
 
 **项目简介**：这是一个AI 项目，关注该方向的工程实践。
 
@@ -29,19 +29,9 @@
 
 **标签**：agent-skill / 人工智能 / anthropic / c2pa
 
-### 🥈 Top 2 · [vercel-labs/eve-software-factory-template](https://github.com/vercel-labs/eve-software-factory-template)
+### 🥈 Top 2 · [xzf-thu/VoiceMem](https://github.com/xzf-thu/VoiceMem)
 
-**本月涨星**: +1111 | **总星数**: 1111 | **Language**: TypeScript | **Updated**: 2026-09-09
-
-**项目简介**：这是一个智能体项目，关注该方向的工程实践。
-
-**适用场景**：适合做 AI 智能体、自动执行和多 Agent 协作
-
-**标签**：智能体 / 人工智能 / eve / vercel
-
-### 🥉 Top 3 · [xzf-thu/VoiceMem](https://github.com/xzf-thu/VoiceMem)
-
-**本月涨星**: +1048 | **总星数**: 1048 | **Language**: Python | **Updated**: 2026-09-09
+**本月涨星**: +1169 | **总星数**: 1169 | **Language**: Python | **Updated**: 2026-09-10
 
 **项目简介**：这是一个智能体项目，关注该方向的工程实践。
 
@@ -49,40 +39,50 @@
 
 **标签**：人工智能 / AI 智能体 / ai-tools / application
 
+### 🥉 Top 3 · [vercel-labs/eve-software-factory-template](https://github.com/vercel-labs/eve-software-factory-template)
+
+**本月涨星**: +1116 | **总星数**: 1116 | **Language**: TypeScript | **Updated**: 2026-09-10
+
+**项目简介**：这是一个智能体项目，关注该方向的工程实践。
+
+**适用场景**：适合做 AI 智能体、自动执行和多 Agent 协作
+
+**标签**：智能体 / 人工智能 / eve / vercel
+
 ## Top 20 Growth Overview
 
 | # | Project | Growth | Total Stars | Language | 项目简介 | Updated |
 |---:|---|---:|---:|---|---|---|
-| 1 | [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | 📈 +21437 | ⭐ 21437 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-09 |
-| 2 | [vercel-labs/eve-software-factory-template](https://github.com/vercel-labs/eve-software-factory-template) | 📈 +1111 | ⭐ 1111 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-09 |
-| 3 | [xzf-thu/VoiceMem](https://github.com/xzf-thu/VoiceMem) | 📈 +1048 | ⭐ 1048 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-09 |
-| 4 | [2akouwu/reverify](https://github.com/2akouwu/reverify) | 📈 +1044 | ⭐ 1044 | Python | 这是一个智能体项目，用于把 MCP/OpenAPI 能力快速转成命令行工… | 2026-09-09 |
-| 5 | [pgrundev/pgbot](https://github.com/pgrundev/pgbot) | 📈 +1029 | ⭐ 1029 | Go | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-09 |
-| 6 | [0xsline/awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) | 📈 +1024 | ⭐ 1024 | Python | 这是一个智能体项目，用于整理和索引优质开源 AI 项目与基础设施。 | 2026-09-09 |
-| 7 | [NxcoreAI/EverRoom](https://github.com/NxcoreAI/EverRoom) | 📈 +979 | ⭐ 979 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-09 |
-| 8 | [aminkheddache-dotcom/Ptero](https://github.com/aminkheddache-dotcom/Ptero) | 📈 +930 | ⭐ 930 | PHP | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-09-09 |
-| 9 | [hkqr/my-free-code](https://github.com/hkqr/my-free-code) | 📈 +632 | ⭐ 632 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-09 |
-| 10 | [DrHazemAli/enterprise-system-design](https://github.com/DrHazemAli/enterprise-system-design) | 📈 +595 | ⭐ 595 | 未识别 | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-09 |
+| 1 | [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | 📈 +21556 | ⭐ 21556 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-10 |
+| 2 | [xzf-thu/VoiceMem](https://github.com/xzf-thu/VoiceMem) | 📈 +1169 | ⭐ 1169 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-10 |
+| 3 | [vercel-labs/eve-software-factory-template](https://github.com/vercel-labs/eve-software-factory-template) | 📈 +1116 | ⭐ 1116 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-10 |
+| 4 | [2akouwu/reverify](https://github.com/2akouwu/reverify) | 📈 +1069 | ⭐ 1069 | Python | 这是一个智能体项目，用于把 MCP/OpenAPI 能力快速转成命令行工… | 2026-09-10 |
+| 5 | [pgrundev/pgbot](https://github.com/pgrundev/pgbot) | 📈 +1051 | ⭐ 1051 | Go | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-10 |
+| 6 | [0xsline/awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) | 📈 +1036 | ⭐ 1036 | Python | 这是一个智能体项目，用于整理和索引优质开源 AI 项目与基础设施。 | 2026-09-10 |
+| 7 | [NxcoreAI/EverRoom](https://github.com/NxcoreAI/EverRoom) | 📈 +1031 | ⭐ 1031 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-10 |
+| 8 | [aminkheddache-dotcom/Ptero](https://github.com/aminkheddache-dotcom/Ptero) | 📈 +1017 | ⭐ 1017 | PHP | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-09-10 |
+| 9 | [hkqr/my-free-code](https://github.com/hkqr/my-free-code) | 📈 +633 | ⭐ 633 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-09 |
+| 10 | [DrHazemAli/enterprise-system-design](https://github.com/DrHazemAli/enterprise-system-design) | 📈 +596 | ⭐ 596 | 未识别 | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-09 |
 | 11 | [bawadou/ai-data-extractor](https://github.com/bawadou/ai-data-extractor) | 📈 +555 | ⭐ 555 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-08 |
-| 12 | [Sidiora-Labs/LayerX-Network](https://github.com/Sidiora-Labs/LayerX-Network) | 📈 +373 | ⭐ 373 | Go | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-08 |
-| 13 | [sam70361/aora-bot](https://github.com/sam70361/aora-bot) | 📈 +360 | ⭐ 360 | JavaScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-09 |
-| 14 | [tabtin-ai/TabTin](https://github.com/tabtin-ai/TabTin) | 📈 +334 | ⭐ 334 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-09 |
-| 15 | [Merit-Systems/OpenInstinct](https://github.com/Merit-Systems/OpenInstinct) | 📈 +298 | ⭐ 298 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-08 |
-| 16 | [useagenthq/useagent](https://github.com/useagenthq/useagent) | 📈 +284 | ⭐ 284 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-09 |
-| 17 | [Dpro-at/Tel-Agent](https://github.com/Dpro-at/Tel-Agent) | 📈 +251 | ⭐ 251 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-09 |
-| 18 | [banmu123/LoomFlow](https://github.com/banmu123/LoomFlow) | 📈 +220 | ⭐ 220 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-08 |
-| 19 | [SeanEllyJames/deep-research-skill](https://github.com/SeanEllyJames/deep-research-skill) | 📈 +201 | ⭐ 201 | 未识别 | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-02 |
-| 20 | [zachahn/vomit](https://github.com/zachahn/vomit) | 📈 +193 | ⭐ 193 | Go | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-08 |
+| 12 | [Sidiora-Labs/LayerX-Network](https://github.com/Sidiora-Labs/LayerX-Network) | 📈 +373 | ⭐ 373 | Go | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-10 |
+| 13 | [sam70361/aora-bot](https://github.com/sam70361/aora-bot) | 📈 +365 | ⭐ 365 | JavaScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-09 |
+| 14 | [tabtin-ai/TabTin](https://github.com/tabtin-ai/TabTin) | 📈 +343 | ⭐ 343 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-09 |
+| 15 | [yudaprasetya007/routeVSCODE](https://github.com/yudaprasetya007/routeVSCODE) | 📈 +326 | ⭐ 326 | JavaScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-10 |
+| 16 | [Merit-Systems/OpenInstinct](https://github.com/Merit-Systems/OpenInstinct) | 📈 +301 | ⭐ 301 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-10 |
+| 17 | [useagenthq/useagent](https://github.com/useagenthq/useagent) | 📈 +284 | ⭐ 284 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-09 |
+| 18 | [Dpro-at/Tel-Agent](https://github.com/Dpro-at/Tel-Agent) | 📈 +278 | ⭐ 278 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-10 |
+| 19 | [banmu123/LoomFlow](https://github.com/banmu123/LoomFlow) | 📈 +222 | ⭐ 222 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-10 |
+| 20 | [SeanEllyJames/deep-research-skill](https://github.com/SeanEllyJames/deep-research-skill) | 📈 +201 | ⭐ 201 | 未识别 | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-02 |
 
 ## Project Details
 
 <details>
-<summary><strong>1. guillaumemeyer/watermarks-remover</strong> · 📈 +21437 · ⭐ 21437 · Python</summary>
+<summary><strong>1. guillaumemeyer/watermarks-remover</strong> · 📈 +21556 · ⭐ 21556 · Python</summary>
 
 - **Repository**: https://github.com/guillaumemeyer/watermarks-remover
 - **Owner**: `guillaumemeyer`
 - **Created**: `2026-08-11`
-- **Updated**: `2026-09-09`
+- **Updated**: `2026-09-10`
 - **Topics**: agent-skill / 人工智能 / anthropic / c2pa / chatgpt / Claude
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
@@ -90,25 +90,12 @@
 </details>
 
 <details>
-<summary><strong>2. vercel-labs/eve-software-factory-template</strong> · 📈 +1111 · ⭐ 1111 · TypeScript</summary>
-
-- **Repository**: https://github.com/vercel-labs/eve-software-factory-template
-- **Owner**: `vercel-labs`
-- **Created**: `2026-08-12`
-- **Updated**: `2026-09-09`
-- **Topics**: 智能体 / 人工智能 / eve / vercel
-- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
-
-</details>
-
-<details>
-<summary><strong>3. xzf-thu/VoiceMem</strong> · 📈 +1048 · ⭐ 1048 · Python</summary>
+<summary><strong>2. xzf-thu/VoiceMem</strong> · 📈 +1169 · ⭐ 1169 · Python</summary>
 
 - **Repository**: https://github.com/xzf-thu/VoiceMem
 - **Owner**: `xzf-thu`
 - **Created**: `2026-08-17`
-- **Updated**: `2026-09-09`
+- **Updated**: `2026-09-10`
 - **Topics**: 人工智能 / AI 智能体 / ai-tools / application / audio-streaming / genai
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -116,12 +103,25 @@
 </details>
 
 <details>
-<summary><strong>4. 2akouwu/reverify</strong> · 📈 +1044 · ⭐ 1044 · Python</summary>
+<summary><strong>3. vercel-labs/eve-software-factory-template</strong> · 📈 +1116 · ⭐ 1116 · TypeScript</summary>
+
+- **Repository**: https://github.com/vercel-labs/eve-software-factory-template
+- **Owner**: `vercel-labs`
+- **Created**: `2026-08-12`
+- **Updated**: `2026-09-10`
+- **Topics**: 智能体 / 人工智能 / eve / vercel
+- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
+- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
+
+</details>
+
+<details>
+<summary><strong>4. 2akouwu/reverify</strong> · 📈 +1069 · ⭐ 1069 · Python</summary>
 
 - **Repository**: https://github.com/2akouwu/reverify
 - **Owner**: `2akouwu`
 - **Created**: `2026-08-31`
-- **Updated**: `2026-09-09`
+- **Updated**: `2026-09-10`
 - **Topics**: 人工智能 / AI 智能体 / ai-coding / anti-hallucination / binary-analysis / context-engineering
 - **项目简介**: 这是一个智能体项目，用于把 MCP/OpenAPI 能力快速转成命令行工具。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -129,12 +129,12 @@
 </details>
 
 <details>
-<summary><strong>5. pgrundev/pgbot</strong> · 📈 +1029 · ⭐ 1029 · Go</summary>
+<summary><strong>5. pgrundev/pgbot</strong> · 📈 +1051 · ⭐ 1051 · Go</summary>
 
 - **Repository**: https://github.com/pgrundev/pgbot
 - **Owner**: `pgrundev`
 - **Created**: `2026-08-11`
-- **Updated**: `2026-09-09`
+- **Updated**: `2026-09-10`
 - **Topics**: 人工智能 / data-analysis / database / postgres / postgresql / postgresql-database
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -142,12 +142,12 @@
 </details>
 
 <details>
-<summary><strong>6. 0xsline/awesome-deepseek-harness</strong> · 📈 +1024 · ⭐ 1024 · Python</summary>
+<summary><strong>6. 0xsline/awesome-deepseek-harness</strong> · 📈 +1036 · ⭐ 1036 · Python</summary>
 
 - **Repository**: https://github.com/0xsline/awesome-deepseek-harness
 - **Owner**: `0xsline`
 - **Created**: `2026-08-11`
-- **Updated**: `2026-09-09`
+- **Updated**: `2026-09-10`
 - **Topics**: 智能体 / 人工智能 / AI 智能体 / ai-tools / awesome / awesome-list
 - **项目简介**: 这是一个智能体项目，用于整理和索引优质开源 AI 项目与基础设施。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -155,12 +155,12 @@
 </details>
 
 <details>
-<summary><strong>7. NxcoreAI/EverRoom</strong> · 📈 +979 · ⭐ 979 · TypeScript</summary>
+<summary><strong>7. NxcoreAI/EverRoom</strong> · 📈 +1031 · ⭐ 1031 · TypeScript</summary>
 
 - **Repository**: https://github.com/NxcoreAI/EverRoom
 - **Owner**: `NxcoreAI`
 - **Created**: `2026-08-14`
-- **Updated**: `2026-09-09`
+- **Updated**: `2026-09-10`
 - **Topics**: 人工智能 / editor / electron / knowledge / memory / notion
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
@@ -168,12 +168,12 @@
 </details>
 
 <details>
-<summary><strong>8. aminkheddache-dotcom/Ptero</strong> · 📈 +930 · ⭐ 930 · PHP</summary>
+<summary><strong>8. aminkheddache-dotcom/Ptero</strong> · 📈 +1017 · ⭐ 1017 · PHP</summary>
 
 - **Repository**: https://github.com/aminkheddache-dotcom/Ptero
 - **Owner**: `aminkheddache-dotcom`
 - **Created**: `2026-08-18`
-- **Updated**: `2026-09-09`
+- **Updated**: `2026-09-10`
 - **Topics**: 人工智能 / ai-chat / ai-platform / 开发者工具 / free-ai / javascript
 - **项目简介**: 这是一个自动化与效率工具项目，关注该方向的工程实践。
 - **适用场景**: 适合做自动化流程、命令行工具和研发提效
@@ -181,7 +181,7 @@
 </details>
 
 <details>
-<summary><strong>9. hkqr/my-free-code</strong> · 📈 +632 · ⭐ 632 · Python</summary>
+<summary><strong>9. hkqr/my-free-code</strong> · 📈 +633 · ⭐ 633 · Python</summary>
 
 - **Repository**: https://github.com/hkqr/my-free-code
 - **Owner**: `hkqr`
@@ -194,7 +194,7 @@
 </details>
 
 <details>
-<summary><strong>10. DrHazemAli/enterprise-system-design</strong> · 📈 +595 · ⭐ 595 · 未识别</summary>
+<summary><strong>10. DrHazemAli/enterprise-system-design</strong> · 📈 +596 · ⭐ 596 · 未识别</summary>
 
 - **Repository**: https://github.com/DrHazemAli/enterprise-system-design
 - **Owner**: `DrHazemAli`
@@ -225,7 +225,7 @@
 - **Repository**: https://github.com/Sidiora-Labs/LayerX-Network
 - **Owner**: `Sidiora-Labs`
 - **Created**: `2026-08-14`
-- **Updated**: `2026-09-08`
+- **Updated**: `2026-09-10`
 - **Topics**: 智能体 / 人工智能 / AI 智能体 / blockchain / model-context-protocol / monorepo
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -233,7 +233,7 @@
 </details>
 
 <details>
-<summary><strong>13. sam70361/aora-bot</strong> · 📈 +360 · ⭐ 360 · JavaScript</summary>
+<summary><strong>13. sam70361/aora-bot</strong> · 📈 +365 · ⭐ 365 · JavaScript</summary>
 
 - **Repository**: https://github.com/sam70361/aora-bot
 - **Owner**: `sam70361`
@@ -246,7 +246,7 @@
 </details>
 
 <details>
-<summary><strong>14. tabtin-ai/TabTin</strong> · 📈 +334 · ⭐ 334 · TypeScript</summary>
+<summary><strong>14. tabtin-ai/TabTin</strong> · 📈 +343 · ⭐ 343 · TypeScript</summary>
 
 - **Repository**: https://github.com/tabtin-ai/TabTin
 - **Owner**: `tabtin-ai`
@@ -259,12 +259,25 @@
 </details>
 
 <details>
-<summary><strong>15. Merit-Systems/OpenInstinct</strong> · 📈 +298 · ⭐ 298 · TypeScript</summary>
+<summary><strong>15. yudaprasetya007/routeVSCODE</strong> · 📈 +326 · ⭐ 326 · JavaScript</summary>
+
+- **Repository**: https://github.com/yudaprasetya007/routeVSCODE
+- **Owner**: `yudaprasetya007`
+- **Created**: `2026-09-10`
+- **Updated**: `2026-09-10`
+- **Topics**: 9router / 人工智能 / chatgpt / Claude / copilot / deepseek
+- **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
+- **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
+
+</details>
+
+<details>
+<summary><strong>16. Merit-Systems/OpenInstinct</strong> · 📈 +301 · ⭐ 301 · TypeScript</summary>
 
 - **Repository**: https://github.com/Merit-Systems/OpenInstinct
 - **Owner**: `Merit-Systems`
 - **Created**: `2026-08-25`
-- **Updated**: `2026-09-08`
+- **Updated**: `2026-09-10`
 - **Topics**: 智能体 / 人工智能 / AI 智能体 / imessage
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -272,7 +285,7 @@
 </details>
 
 <details>
-<summary><strong>16. useagenthq/useagent</strong> · 📈 +284 · ⭐ 284 · TypeScript</summary>
+<summary><strong>17. useagenthq/useagent</strong> · 📈 +284 · ⭐ 284 · TypeScript</summary>
 
 - **Repository**: https://github.com/useagenthq/useagent
 - **Owner**: `useagenthq`
@@ -285,12 +298,12 @@
 </details>
 
 <details>
-<summary><strong>17. Dpro-at/Tel-Agent</strong> · 📈 +251 · ⭐ 251 · Python</summary>
+<summary><strong>18. Dpro-at/Tel-Agent</strong> · 📈 +278 · ⭐ 278 · Python</summary>
 
 - **Repository**: https://github.com/Dpro-at/Tel-Agent
 - **Owner**: `Dpro-at`
 - **Created**: `2026-08-16`
-- **Updated**: `2026-09-09`
+- **Updated**: `2026-09-10`
 - **Topics**: 智能体 / agent-skills / agentic-ai / 人工智能 / phone / phone-number
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -298,12 +311,12 @@
 </details>
 
 <details>
-<summary><strong>18. banmu123/LoomFlow</strong> · 📈 +220 · ⭐ 220 · TypeScript</summary>
+<summary><strong>19. banmu123/LoomFlow</strong> · 📈 +222 · ⭐ 222 · TypeScript</summary>
 
 - **Repository**: https://github.com/banmu123/LoomFlow
 - **Owner**: `banmu123`
 - **Created**: `2026-08-12`
-- **Updated**: `2026-09-08`
+- **Updated**: `2026-09-10`
 - **Topics**: 人工智能 / AI 智能体 / AI 智能体 / 大语言模型 / low-code / Next.js
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -311,7 +324,7 @@
 </details>
 
 <details>
-<summary><strong>19. SeanEllyJames/deep-research-skill</strong> · 📈 +201 · ⭐ 201 · 未识别</summary>
+<summary><strong>20. SeanEllyJames/deep-research-skill</strong> · 📈 +201 · ⭐ 201 · 未识别</summary>
 
 - **Repository**: https://github.com/SeanEllyJames/deep-research-skill
 - **Owner**: `SeanEllyJames`
@@ -320,19 +333,6 @@
 - **Topics**: 人工智能 / AI 智能体 / Claude / Claude Code / deep-research / 大语言模型
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
-
-</details>
-
-<details>
-<summary><strong>20. zachahn/vomit</strong> · 📈 +193 · ⭐ 193 · Go</summary>
-
-- **Repository**: https://github.com/zachahn/vomit
-- **Owner**: `zachahn`
-- **Created**: `2026-08-15`
-- **Updated**: `2026-09-08`
-- **Topics**: 人工智能 / ai-tools / Claude Code
-- **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 编程、项目脚手架和开发工作台
 
 </details>
 
