@@ -12,7 +12,7 @@
 
 | 更新时间 | 榜单数量 | 查询范围 |
 |---|---:|---|
-| `2026-09-20 13:58:31 UTC+8` | **20** | `topic:ai archived:false is:public created:>=2026-08-21 stars:>10` |
+| `2026-09-21 14:05:11 UTC+8` | **20** | `topic:ai archived:false is:public created:>=2026-08-22 stars:>10` |
 
 > [!NOTE]
 > 本榜单通过对比每日快照，计算最近 30 天的星标增长数量 ($\Delta Stars$) 进行排序，旨在发现处于【快速爆发期】的新项目。
@@ -21,7 +21,7 @@
 
 ### 🥇 Top 1 · [shadcn-ui/lint](https://github.com/shadcn-ui/lint)
 
-**本月涨星**: +2180 | **总星数**: 2180 | **Language**: TypeScript | **Updated**: 2026-09-20
+**本月涨星**: +2238 | **总星数**: 2238 | **Language**: TypeScript | **Updated**: 2026-09-21
 
 **项目简介**：这是一个智能体项目，关注该方向的工程实践。
 
@@ -31,7 +31,7 @@
 
 ### 🥈 Top 2 · [jtydhr88/screenwriting-skills](https://github.com/jtydhr88/screenwriting-skills)
 
-**本月涨星**: +1277 | **总星数**: 1277 | **Language**: Python | **Updated**: 2026-09-20
+**本月涨星**: +1311 | **总星数**: 1311 | **Language**: Python | **Updated**: 2026-09-21
 
 **项目简介**：这是一个AI 项目，关注该方向的工程实践。
 
@@ -41,7 +41,7 @@
 
 ### 🥉 Top 3 · [2akouwu/reverify](https://github.com/2akouwu/reverify)
 
-**本月涨星**: +1232 | **总星数**: 1232 | **Language**: Python | **Updated**: 2026-09-20
+**本月涨星**: +1235 | **总星数**: 1235 | **Language**: Python | **Updated**: 2026-09-21
 
 **项目简介**：这是一个智能体项目，用于把 MCP/OpenAPI 能力快速转成命令行工具。
 
@@ -53,36 +53,36 @@
 
 | # | Project | Growth | Total Stars | Language | 项目简介 | Updated |
 |---:|---|---:|---:|---|---|---|
-| 1 | [shadcn-ui/lint](https://github.com/shadcn-ui/lint) | 📈 +2180 | ⭐ 2180 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-20 |
-| 2 | [jtydhr88/screenwriting-skills](https://github.com/jtydhr88/screenwriting-skills) | 📈 +1277 | ⭐ 1277 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-20 |
-| 3 | [2akouwu/reverify](https://github.com/2akouwu/reverify) | 📈 +1232 | ⭐ 1232 | Python | 这是一个智能体项目，用于把 MCP/OpenAPI 能力快速转成命令行工… | 2026-09-20 |
-| 4 | [crwdla/tokentab](https://github.com/crwdla/tokentab) | 📈 +1145 | ⭐ 1145 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-20 |
-| 5 | [unstablebuild/rune](https://github.com/unstablebuild/rune) | 📈 +1006 | ⭐ 1006 | Go | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-09-20 |
-| 6 | [kruzovic7/ai-data-extractor](https://github.com/kruzovic7/ai-data-extractor) | 📈 +840 | ⭐ 840 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-19 |
-| 7 | [Colafornia/short-video-generator-AI](https://github.com/Colafornia/short-video-generator-AI) | 📈 +748 | ⭐ 748 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-20 |
-| 8 | [hkqr/my-free-code](https://github.com/hkqr/my-free-code) | 📈 +638 | ⭐ 638 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-19 |
-| 9 | [devagrawal09/jev-review](https://github.com/devagrawal09/jev-review) | 📈 +366 | ⭐ 366 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-20 |
-| 10 | [Merit-Systems/OpenInstinct](https://github.com/Merit-Systems/OpenInstinct) | 📈 +344 | ⭐ 344 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-20 |
-| 11 | [useagenthq/useagent](https://github.com/useagenthq/useagent) | 📈 +309 | ⭐ 309 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-20 |
-| 12 | [XHToken/Spark-X2.5](https://github.com/XHToken/Spark-X2.5) | 📈 +290 | ⭐ 290 | 未识别 | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-20 |
-| 13 | [aimeoa/hanshuang-codex](https://github.com/aimeoa/hanshuang-codex) | 📈 +264 | ⭐ 264 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-20 |
-| 14 | [acryldev/acryl](https://github.com/acryldev/acryl) | 📈 +255 | ⭐ 255 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-20 |
-| 15 | [Vincent-Xi08/IntentRoute-AI](https://github.com/Vincent-Xi08/IntentRoute-AI) | 📈 +245 | ⭐ 245 | C# | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-20 |
-| 16 | [yudaprasetya007/routeVSCODE](https://github.com/yudaprasetya007/routeVSCODE) | 📈 +239 | ⭐ 239 | JavaScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-14 |
-| 17 | [yuyuanweb/ai-picture-editor](https://github.com/yuyuanweb/ai-picture-editor) | 📈 +207 | ⭐ 207 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-20 |
-| 18 | [Loopera-ai/loopera](https://github.com/Loopera-ai/loopera) | 📈 +205 | ⭐ 205 | 未识别 | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-16 |
-| 19 | [FankChen/tracecrate](https://github.com/FankChen/tracecrate) | 📈 +171 | ⭐ 171 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-20 |
-| 20 | [lakeday-org/perch](https://github.com/lakeday-org/perch) | 📈 +161 | ⭐ 161 | JavaScript | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-09-20 |
+| 1 | [shadcn-ui/lint](https://github.com/shadcn-ui/lint) | 📈 +2238 | ⭐ 2238 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-21 |
+| 2 | [jtydhr88/screenwriting-skills](https://github.com/jtydhr88/screenwriting-skills) | 📈 +1311 | ⭐ 1311 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-21 |
+| 3 | [2akouwu/reverify](https://github.com/2akouwu/reverify) | 📈 +1235 | ⭐ 1235 | Python | 这是一个智能体项目，用于把 MCP/OpenAPI 能力快速转成命令行工… | 2026-09-21 |
+| 4 | [crwdla/tokentab](https://github.com/crwdla/tokentab) | 📈 +1146 | ⭐ 1146 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-21 |
+| 5 | [unstablebuild/rune](https://github.com/unstablebuild/rune) | 📈 +1038 | ⭐ 1038 | Go | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-09-21 |
+| 6 | [kruzovic7/ai-data-extractor](https://github.com/kruzovic7/ai-data-extractor) | 📈 +842 | ⭐ 842 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-20 |
+| 7 | [Colafornia/short-video-generator-AI](https://github.com/Colafornia/short-video-generator-AI) | 📈 +750 | ⭐ 750 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-20 |
+| 8 | [hkqr/my-free-code](https://github.com/hkqr/my-free-code) | 📈 +639 | ⭐ 639 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-20 |
+| 9 | [pallavi-shekhar/ai-engineering-interview-questions-company-wise](https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise) | 📈 +566 | ⭐ 566 | Markdown | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-21 |
+| 10 | [devagrawal09/jev-review](https://github.com/devagrawal09/jev-review) | 📈 +425 | ⭐ 425 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-21 |
+| 11 | [Merit-Systems/OpenInstinct](https://github.com/Merit-Systems/OpenInstinct) | 📈 +347 | ⭐ 347 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-20 |
+| 12 | [useagenthq/useagent](https://github.com/useagenthq/useagent) | 📈 +311 | ⭐ 311 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-20 |
+| 13 | [XHToken/Spark-X2.5](https://github.com/XHToken/Spark-X2.5) | 📈 +296 | ⭐ 296 | 未识别 | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-21 |
+| 14 | [aimeoa/hanshuang-codex](https://github.com/aimeoa/hanshuang-codex) | 📈 +294 | ⭐ 294 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-21 |
+| 15 | [Vincent-Xi08/IntentRoute-AI](https://github.com/Vincent-Xi08/IntentRoute-AI) | 📈 +258 | ⭐ 258 | C# | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-21 |
+| 16 | [acryldev/acryl](https://github.com/acryldev/acryl) | 📈 +255 | ⭐ 255 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-21 |
+| 17 | [yudaprasetya007/routeVSCODE](https://github.com/yudaprasetya007/routeVSCODE) | 📈 +239 | ⭐ 239 | JavaScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-14 |
+| 18 | [yuyuanweb/ai-picture-editor](https://github.com/yuyuanweb/ai-picture-editor) | 📈 +223 | ⭐ 223 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-21 |
+| 19 | [Loopera-ai/loopera](https://github.com/Loopera-ai/loopera) | 📈 +207 | ⭐ 207 | 未识别 | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-21 |
+| 20 | [FankChen/tracecrate](https://github.com/FankChen/tracecrate) | 📈 +183 | ⭐ 183 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-21 |
 
 ## Project Details
 
 <details>
-<summary><strong>1. shadcn-ui/lint</strong> · 📈 +2180 · ⭐ 2180 · TypeScript</summary>
+<summary><strong>1. shadcn-ui/lint</strong> · 📈 +2238 · ⭐ 2238 · TypeScript</summary>
 
 - **Repository**: https://github.com/shadcn-ui/lint
 - **Owner**: `shadcn-ui`
 - **Created**: `2026-09-02`
-- **Updated**: `2026-09-20`
+- **Updated**: `2026-09-21`
 - **Topics**: 智能体 / 人工智能 / design / design-system / design-tools / shadcn
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -90,12 +90,12 @@
 </details>
 
 <details>
-<summary><strong>2. jtydhr88/screenwriting-skills</strong> · 📈 +1277 · ⭐ 1277 · Python</summary>
+<summary><strong>2. jtydhr88/screenwriting-skills</strong> · 📈 +1311 · ⭐ 1311 · Python</summary>
 
 - **Repository**: https://github.com/jtydhr88/screenwriting-skills
 - **Owner**: `jtydhr88`
 - **Created**: `2026-09-06`
-- **Updated**: `2026-09-20`
+- **Updated**: `2026-09-21`
 - **Topics**: 人工智能 / 技能系统
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -103,12 +103,12 @@
 </details>
 
 <details>
-<summary><strong>3. 2akouwu/reverify</strong> · 📈 +1232 · ⭐ 1232 · Python</summary>
+<summary><strong>3. 2akouwu/reverify</strong> · 📈 +1235 · ⭐ 1235 · Python</summary>
 
 - **Repository**: https://github.com/2akouwu/reverify
 - **Owner**: `2akouwu`
 - **Created**: `2026-08-31`
-- **Updated**: `2026-09-20`
+- **Updated**: `2026-09-21`
 - **Topics**: 人工智能 / AI 智能体 / ai-coding / anti-hallucination / binary-analysis / context-engineering
 - **项目简介**: 这是一个智能体项目，用于把 MCP/OpenAPI 能力快速转成命令行工具。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -116,12 +116,12 @@
 </details>
 
 <details>
-<summary><strong>4. crwdla/tokentab</strong> · 📈 +1145 · ⭐ 1145 · Python</summary>
+<summary><strong>4. crwdla/tokentab</strong> · 📈 +1146 · ⭐ 1146 · Python</summary>
 
 - **Repository**: https://github.com/crwdla/tokentab
 - **Owner**: `crwdla`
 - **Created**: `2026-09-07`
-- **Updated**: `2026-09-20`
+- **Updated**: `2026-09-21`
 - **Topics**: 人工智能 / ai-token-monitor / Claude Code / token-optimization / token-usage
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合做自动化流程、命令行工具和研发提效
@@ -129,12 +129,12 @@
 </details>
 
 <details>
-<summary><strong>5. unstablebuild/rune</strong> · 📈 +1006 · ⭐ 1006 · Go</summary>
+<summary><strong>5. unstablebuild/rune</strong> · 📈 +1038 · ⭐ 1038 · Go</summary>
 
 - **Repository**: https://github.com/unstablebuild/rune
 - **Owner**: `unstablebuild`
 - **Created**: `2026-09-10`
-- **Updated**: `2026-09-20`
+- **Updated**: `2026-09-21`
 - **Topics**: agent-orchestration / 人工智能 / 命令行 / coding-agents / developer-tool / devtools
 - **项目简介**: 这是一个自动化与效率工具项目，关注该方向的工程实践。
 - **适用场景**: 适合做自动化流程、命令行工具和研发提效
@@ -142,12 +142,12 @@
 </details>
 
 <details>
-<summary><strong>6. kruzovic7/ai-data-extractor</strong> · 📈 +840 · ⭐ 840 · Python</summary>
+<summary><strong>6. kruzovic7/ai-data-extractor</strong> · 📈 +842 · ⭐ 842 · Python</summary>
 
 - **Repository**: https://github.com/kruzovic7/ai-data-extractor
 - **Owner**: `kruzovic7`
 - **Created**: `2026-09-11`
-- **Updated**: `2026-09-19`
+- **Updated**: `2026-09-20`
 - **Topics**: 人工智能 / ai-data-extraction / Claude Code / cursor
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合做自动化流程、命令行工具和研发提效
@@ -155,7 +155,7 @@
 </details>
 
 <details>
-<summary><strong>7. Colafornia/short-video-generator-AI</strong> · 📈 +748 · ⭐ 748 · Python</summary>
+<summary><strong>7. Colafornia/short-video-generator-AI</strong> · 📈 +750 · ⭐ 750 · Python</summary>
 
 - **Repository**: https://github.com/Colafornia/short-video-generator-AI
 - **Owner**: `Colafornia`
@@ -168,12 +168,12 @@
 </details>
 
 <details>
-<summary><strong>8. hkqr/my-free-code</strong> · 📈 +638 · ⭐ 638 · Python</summary>
+<summary><strong>8. hkqr/my-free-code</strong> · 📈 +639 · ⭐ 639 · Python</summary>
 
 - **Repository**: https://github.com/hkqr/my-free-code
 - **Owner**: `hkqr`
 - **Created**: `2026-08-27`
-- **Updated**: `2026-09-19`
+- **Updated**: `2026-09-20`
 - **Topics**: 人工智能 / Claude Code / free-claude-api / multi-provider / multi-provider-llm
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -181,12 +181,25 @@
 </details>
 
 <details>
-<summary><strong>9. devagrawal09/jev-review</strong> · 📈 +366 · ⭐ 366 · TypeScript</summary>
+<summary><strong>9. pallavi-shekhar/ai-engineering-interview-questions-company-wise</strong> · 📈 +566 · ⭐ 566 · Markdown</summary>
+
+- **Repository**: https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise
+- **Owner**: `pallavi-shekhar`
+- **Created**: `2026-09-19`
+- **Updated**: `2026-09-21`
+- **Topics**: 人工智能 / ai-engineering / ai-engineering-interview / ai-interview / ai-interview-questions / company-wise-prep
+- **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
+- **适用场景**: 适合做学习资料、知识梳理和入门参考
+
+</details>
+
+<details>
+<summary><strong>10. devagrawal09/jev-review</strong> · 📈 +425 · ⭐ 425 · TypeScript</summary>
 
 - **Repository**: https://github.com/devagrawal09/jev-review
 - **Owner**: `devagrawal09`
 - **Created**: `2026-09-16`
-- **Updated**: `2026-09-20`
+- **Updated**: `2026-09-21`
 - **Topics**: 人工智能 / code-review / jev / typesafe-ai / TypeScript
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
@@ -194,7 +207,7 @@
 </details>
 
 <details>
-<summary><strong>10. Merit-Systems/OpenInstinct</strong> · 📈 +344 · ⭐ 344 · TypeScript</summary>
+<summary><strong>11. Merit-Systems/OpenInstinct</strong> · 📈 +347 · ⭐ 347 · TypeScript</summary>
 
 - **Repository**: https://github.com/Merit-Systems/OpenInstinct
 - **Owner**: `Merit-Systems`
@@ -207,7 +220,7 @@
 </details>
 
 <details>
-<summary><strong>11. useagenthq/useagent</strong> · 📈 +309 · ⭐ 309 · TypeScript</summary>
+<summary><strong>12. useagenthq/useagent</strong> · 📈 +311 · ⭐ 311 · TypeScript</summary>
 
 - **Repository**: https://github.com/useagenthq/useagent
 - **Owner**: `useagenthq`
@@ -220,12 +233,12 @@
 </details>
 
 <details>
-<summary><strong>12. XHToken/Spark-X2.5</strong> · 📈 +290 · ⭐ 290 · 未识别</summary>
+<summary><strong>13. XHToken/Spark-X2.5</strong> · 📈 +296 · ⭐ 296 · 未识别</summary>
 
 - **Repository**: https://github.com/XHToken/Spark-X2.5
 - **Owner**: `XHToken`
 - **Created**: `2026-08-24`
-- **Updated**: `2026-09-20`
+- **Updated**: `2026-09-21`
 - **Topics**: 智能体 / 人工智能 / AI 智能体 / ai-coding / ai-model / huggingface
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -233,12 +246,12 @@
 </details>
 
 <details>
-<summary><strong>13. aimeoa/hanshuang-codex</strong> · 📈 +264 · ⭐ 264 · Python</summary>
+<summary><strong>14. aimeoa/hanshuang-codex</strong> · 📈 +294 · ⭐ 294 · Python</summary>
 
 - **Repository**: https://github.com/aimeoa/hanshuang-codex
 - **Owner**: `aimeoa`
 - **Created**: `2026-09-06`
-- **Updated**: `2026-09-20`
+- **Updated**: `2026-09-21`
 - **Topics**: 人工智能 / codex / codex-cli / desktop-app / jailbreak / 大语言模型
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
@@ -246,25 +259,12 @@
 </details>
 
 <details>
-<summary><strong>14. acryldev/acryl</strong> · 📈 +255 · ⭐ 255 · TypeScript</summary>
-
-- **Repository**: https://github.com/acryldev/acryl
-- **Owner**: `acryldev`
-- **Created**: `2026-08-25`
-- **Updated**: `2026-09-20`
-- **Topics**: acryl / agent-context-relay / agentic / agentic-ai / agentic-coding / agentic-development-environment
-- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
-
-</details>
-
-<details>
-<summary><strong>15. Vincent-Xi08/IntentRoute-AI</strong> · 📈 +245 · ⭐ 245 · C#</summary>
+<summary><strong>15. Vincent-Xi08/IntentRoute-AI</strong> · 📈 +258 · ⭐ 258 · C#</summary>
 
 - **Repository**: https://github.com/Vincent-Xi08/IntentRoute-AI
 - **Owner**: `Vincent-Xi08`
 - **Created**: `2026-08-26`
-- **Updated**: `2026-09-20`
+- **Updated**: `2026-09-21`
 - **Topics**: 人工智能 / dotnet / network-routing / Ollama / 开源 / openai
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合做本地部署、离线运行和私有化使用
@@ -272,7 +272,20 @@
 </details>
 
 <details>
-<summary><strong>16. yudaprasetya007/routeVSCODE</strong> · 📈 +239 · ⭐ 239 · JavaScript</summary>
+<summary><strong>16. acryldev/acryl</strong> · 📈 +255 · ⭐ 255 · TypeScript</summary>
+
+- **Repository**: https://github.com/acryldev/acryl
+- **Owner**: `acryldev`
+- **Created**: `2026-08-25`
+- **Updated**: `2026-09-21`
+- **Topics**: acryl / agent-context-relay / agentic / agentic-ai / agentic-coding / agentic-development-environment
+- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
+- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
+
+</details>
+
+<details>
+<summary><strong>17. yudaprasetya007/routeVSCODE</strong> · 📈 +239 · ⭐ 239 · JavaScript</summary>
 
 - **Repository**: https://github.com/yudaprasetya007/routeVSCODE
 - **Owner**: `yudaprasetya007`
@@ -285,12 +298,12 @@
 </details>
 
 <details>
-<summary><strong>17. yuyuanweb/ai-picture-editor</strong> · 📈 +207 · ⭐ 207 · Python</summary>
+<summary><strong>18. yuyuanweb/ai-picture-editor</strong> · 📈 +223 · ⭐ 223 · Python</summary>
 
 - **Repository**: https://github.com/yuyuanweb/ai-picture-editor
 - **Owner**: `yuyuanweb`
 - **Created**: `2026-09-01`
-- **Updated**: `2026-09-20`
+- **Updated**: `2026-09-21`
 - **Topics**: 人工智能 / AI 智能体 / ai-image / async-queue / canvas-editor / fastapi
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -298,12 +311,12 @@
 </details>
 
 <details>
-<summary><strong>18. Loopera-ai/loopera</strong> · 📈 +205 · ⭐ 205 · 未识别</summary>
+<summary><strong>19. Loopera-ai/loopera</strong> · 📈 +207 · ⭐ 207 · 未识别</summary>
 
 - **Repository**: https://github.com/Loopera-ai/loopera
 - **Owner**: `Loopera-ai`
 - **Created**: `2026-09-08`
-- **Updated**: `2026-09-16`
+- **Updated**: `2026-09-21`
 - **Topics**: 人工智能 / AI 智能体 / quant
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -311,28 +324,15 @@
 </details>
 
 <details>
-<summary><strong>19. FankChen/tracecrate</strong> · 📈 +171 · ⭐ 171 · TypeScript</summary>
+<summary><strong>20. FankChen/tracecrate</strong> · 📈 +183 · ⭐ 183 · TypeScript</summary>
 
 - **Repository**: https://github.com/FankChen/tracecrate
 - **Owner**: `FankChen`
 - **Created**: `2026-09-10`
-- **Updated**: `2026-09-20`
+- **Updated**: `2026-09-21`
 - **Topics**: 人工智能 / AI 智能体 / Claude Code / codex / 开发者工具 / 本地优先
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
-
-</details>
-
-<details>
-<summary><strong>20. lakeday-org/perch</strong> · 📈 +161 · ⭐ 161 · JavaScript</summary>
-
-- **Repository**: https://github.com/lakeday-org/perch
-- **Owner**: `lakeday-org`
-- **Created**: `2026-09-16`
-- **Updated**: `2026-09-20`
-- **Topics**: 人工智能 / 命令行 / code-quality / code-review / devtools / linter
-- **项目简介**: 这是一个自动化与效率工具项目，关注该方向的工程实践。
-- **适用场景**: 适合做自动化流程、命令行工具和研发提效
 
 </details>
 
