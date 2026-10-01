@@ -12,7 +12,7 @@
 
 | 更新时间 | 榜单数量 | 查询范围 |
 |---|---:|---|
-| `2026-09-30 14:32:39 UTC+8` | **20** | `topic:ai archived:false is:public created:>=2026-08-31 stars:>10` |
+| `2026-10-01 15:05:52 UTC+8` | **20** | `topic:ai archived:false is:public created:>=2026-09-01 stars:>10` |
 
 > [!NOTE]
 > 本榜单通过对比每日快照，计算最近 30 天的星标增长数量 ($\Delta Stars$) 进行排序，旨在发现处于【快速爆发期】的新项目。
@@ -21,17 +21,17 @@
 
 ### 🥇 Top 1 · [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT)
 
-**本月涨星**: +3569 | **总星数**: 3569 | **Language**: TypeScript | **Updated**: 2026-09-30
+**本月涨星**: +4212 | **总星数**: 4212 | **Language**: TypeScript | **Updated**: 2026-10-01
 
 **项目简介**：这是一个搜索与工具接入项目，关注该方向的工程实践。
 
 **适用场景**：适合做搜索增强、知识接入和工具编排
 
-**标签**：人工智能 / 大语言模型 / MCP / news-aggregator
+**标签**：人工智能 / content-curation / 大语言模型 / MCP
 
 ### 🥈 Top 2 · [shadcn-ui/lint](https://github.com/shadcn-ui/lint)
 
-**本月涨星**: +2953 | **总星数**: 2953 | **Language**: TypeScript | **Updated**: 2026-09-30
+**本月涨星**: +2979 | **总星数**: 2979 | **Language**: TypeScript | **Updated**: 2026-10-01
 
 **项目简介**：这是一个智能体项目，关注该方向的工程实践。
 
@@ -41,7 +41,7 @@
 
 ### 🥉 Top 3 · [pallavi-shekhar/ai-engineering-interview-questions-company-wise](https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise)
 
-**本月涨星**: +1577 | **总星数**: 1577 | **Language**: Markdown | **Updated**: 2026-09-30
+**本月涨星**: +1601 | **总星数**: 1601 | **Language**: Markdown | **Updated**: 2026-10-01
 
 **项目简介**：这是一个AI 项目，关注该方向的工程实践。
 
@@ -53,23 +53,23 @@
 
 | # | Project | Growth | Total Stars | Language | 项目简介 | Updated |
 |---:|---|---:|---:|---|---|---|
-| 1 | [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) | 📈 +3569 | ⭐ 3569 | TypeScript | 这是一个搜索与工具接入项目，关注该方向的工程实践。 | 2026-09-30 |
-| 2 | [shadcn-ui/lint](https://github.com/shadcn-ui/lint) | 📈 +2953 | ⭐ 2953 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-30 |
-| 3 | [pallavi-shekhar/ai-engineering-interview-questions-company-wise](https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise) | 📈 +1577 | ⭐ 1577 | Markdown | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-30 |
-| 4 | [jtydhr88/screenwriting-skills](https://github.com/jtydhr88/screenwriting-skills) | 📈 +1463 | ⭐ 1463 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-30 |
-| 5 | [2akouwu/reverify](https://github.com/2akouwu/reverify) | 📈 +1251 | ⭐ 1251 | Python | 这是一个智能体项目，用于把 MCP/OpenAPI 能力快速转成命令行工… | 2026-09-30 |
-| 6 | [unstablebuild/rune](https://github.com/unstablebuild/rune) | 📈 +1213 | ⭐ 1213 | Go | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-09-30 |
-| 7 | [TypeLLM/TypeLLM](https://github.com/TypeLLM/TypeLLM) | 📈 +875 | ⭐ 875 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-30 |
-| 8 | [aimeoa/hanshuang-codex](https://github.com/aimeoa/hanshuang-codex) | 📈 +777 | ⭐ 777 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-30 |
-| 9 | [devagrawal09/jev-review](https://github.com/devagrawal09/jev-review) | 📈 +643 | ⭐ 643 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-30 |
-| 10 | [amitshekhariitbhu/ai-system-design](https://github.com/amitshekhariitbhu/ai-system-design) | 📈 +470 | ⭐ 470 | Markdown | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-30 |
-| 11 | [Loopera-ai/loopera](https://github.com/Loopera-ai/loopera) | 📈 +359 | ⭐ 359 | 未识别 | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-28 |
-| 12 | [lakeday-org/perch](https://github.com/lakeday-org/perch) | 📈 +315 | ⭐ 315 | JavaScript | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-09-30 |
-| 13 | [FankChen/tracecrate](https://github.com/FankChen/tracecrate) | 📈 +272 | ⭐ 272 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-30 |
-| 14 | [yuyuanweb/ai-picture-editor](https://github.com/yuyuanweb/ai-picture-editor) | 📈 +263 | ⭐ 263 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-30 |
-| 15 | [haplollc/ThinkingOrbs](https://github.com/haplollc/ThinkingOrbs) | 📈 +240 | ⭐ 240 | Swift | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-29 |
-| 16 | [liyupi/ai-model-world](https://github.com/liyupi/ai-model-world) | 📈 +207 | ⭐ 207 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-30 |
-| 17 | [isas1/skills](https://github.com/isas1/skills) | 📈 +200 | ⭐ 200 | 未识别 | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-29 |
+| 1 | [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) | 📈 +4212 | ⭐ 4212 | TypeScript | 这是一个搜索与工具接入项目，关注该方向的工程实践。 | 2026-10-01 |
+| 2 | [shadcn-ui/lint](https://github.com/shadcn-ui/lint) | 📈 +2979 | ⭐ 2979 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-10-01 |
+| 3 | [pallavi-shekhar/ai-engineering-interview-questions-company-wise](https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise) | 📈 +1601 | ⭐ 1601 | Markdown | 这是一个AI 项目，关注该方向的工程实践。 | 2026-10-01 |
+| 4 | [jtydhr88/screenwriting-skills](https://github.com/jtydhr88/screenwriting-skills) | 📈 +1470 | ⭐ 1470 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-10-01 |
+| 5 | [unstablebuild/rune](https://github.com/unstablebuild/rune) | 📈 +1218 | ⭐ 1218 | Go | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-10-01 |
+| 6 | [TypeLLM/TypeLLM](https://github.com/TypeLLM/TypeLLM) | 📈 +900 | ⭐ 900 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-10-01 |
+| 7 | [aimeoa/hanshuang-codex](https://github.com/aimeoa/hanshuang-codex) | 📈 +824 | ⭐ 824 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-10-01 |
+| 8 | [devagrawal09/jev-review](https://github.com/devagrawal09/jev-review) | 📈 +648 | ⭐ 648 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-10-01 |
+| 9 | [amitshekhariitbhu/ai-system-design](https://github.com/amitshekhariitbhu/ai-system-design) | 📈 +479 | ⭐ 479 | Markdown | 这是一个智能体项目，关注该方向的工程实践。 | 2026-10-01 |
+| 10 | [Loopera-ai/loopera](https://github.com/Loopera-ai/loopera) | 📈 +374 | ⭐ 374 | 未识别 | 这是一个智能体项目，关注该方向的工程实践。 | 2026-10-01 |
+| 11 | [lakeday-org/perch](https://github.com/lakeday-org/perch) | 📈 +332 | ⭐ 332 | JavaScript | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-10-01 |
+| 12 | [FankChen/tracecrate](https://github.com/FankChen/tracecrate) | 📈 +278 | ⭐ 278 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-10-01 |
+| 13 | [yuyuanweb/ai-picture-editor](https://github.com/yuyuanweb/ai-picture-editor) | 📈 +263 | ⭐ 263 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-09-30 |
+| 14 | [haplollc/ThinkingOrbs](https://github.com/haplollc/ThinkingOrbs) | 📈 +242 | ⭐ 242 | Swift | 这是一个AI 项目，关注该方向的工程实践。 | 2026-10-01 |
+| 15 | [liyupi/ai-model-world](https://github.com/liyupi/ai-model-world) | 📈 +208 | ⭐ 208 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-10-01 |
+| 16 | [isas1/skills](https://github.com/isas1/skills) | 📈 +199 | ⭐ 199 | 未识别 | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-30 |
+| 17 | [Xu123-Bob/Baize](https://github.com/Xu123-Bob/Baize) | 📈 +185 | ⭐ 185 | JavaScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-10-01 |
 | 18 | [yudaprasetya007/routeVSCODE](https://github.com/yudaprasetya007/routeVSCODE) | 📈 +170 | ⭐ 170 | JavaScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-09-29 |
 | 19 | [canivel/dynolab](https://github.com/canivel/dynolab) | 📈 +165 | ⭐ 165 | Swift | 这是一个搜索与工具接入项目，用于把 MCP/OpenAPI 能力快速转成… | 2026-09-29 |
 | 20 | [kraayenjon/awesome-jev](https://github.com/kraayenjon/awesome-jev) | 📈 +164 | ⭐ 164 | 未识别 | 这是一个智能体项目，用于整理和索引优质开源 AI 项目与基础设施。 | 2026-09-30 |
@@ -77,25 +77,25 @@
 ## Project Details
 
 <details>
-<summary><strong>1. KKKKhazix/AIHOT</strong> · 📈 +3569 · ⭐ 3569 · TypeScript</summary>
+<summary><strong>1. KKKKhazix/AIHOT</strong> · 📈 +4212 · ⭐ 4212 · TypeScript</summary>
 
 - **Repository**: https://github.com/KKKKhazix/AIHOT
 - **Owner**: `KKKKhazix`
 - **Created**: `2026-09-28`
-- **Updated**: `2026-09-30`
-- **Topics**: 人工智能 / 大语言模型 / MCP / news-aggregator / rss / self-hosted
+- **Updated**: `2026-10-01`
+- **Topics**: 人工智能 / content-curation / 大语言模型 / MCP / news-aggregator / rss
 - **项目简介**: 这是一个搜索与工具接入项目，关注该方向的工程实践。
 - **适用场景**: 适合做搜索增强、知识接入和工具编排
 
 </details>
 
 <details>
-<summary><strong>2. shadcn-ui/lint</strong> · 📈 +2953 · ⭐ 2953 · TypeScript</summary>
+<summary><strong>2. shadcn-ui/lint</strong> · 📈 +2979 · ⭐ 2979 · TypeScript</summary>
 
 - **Repository**: https://github.com/shadcn-ui/lint
 - **Owner**: `shadcn-ui`
 - **Created**: `2026-09-02`
-- **Updated**: `2026-09-30`
+- **Updated**: `2026-10-01`
 - **Topics**: 智能体 / 人工智能 / design / design-system / design-tools / shadcn
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -103,12 +103,12 @@
 </details>
 
 <details>
-<summary><strong>3. pallavi-shekhar/ai-engineering-interview-questions-company-wise</strong> · 📈 +1577 · ⭐ 1577 · Markdown</summary>
+<summary><strong>3. pallavi-shekhar/ai-engineering-interview-questions-company-wise</strong> · 📈 +1601 · ⭐ 1601 · Markdown</summary>
 
 - **Repository**: https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise
 - **Owner**: `pallavi-shekhar`
 - **Created**: `2026-09-19`
-- **Updated**: `2026-09-30`
+- **Updated**: `2026-10-01`
 - **Topics**: 人工智能 / ai-engineering / ai-engineering-interview / ai-interview / ai-interview-questions / company-wise-prep
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合做学习资料、知识梳理和入门参考
@@ -116,12 +116,12 @@
 </details>
 
 <details>
-<summary><strong>4. jtydhr88/screenwriting-skills</strong> · 📈 +1463 · ⭐ 1463 · Python</summary>
+<summary><strong>4. jtydhr88/screenwriting-skills</strong> · 📈 +1470 · ⭐ 1470 · Python</summary>
 
 - **Repository**: https://github.com/jtydhr88/screenwriting-skills
 - **Owner**: `jtydhr88`
 - **Created**: `2026-09-06`
-- **Updated**: `2026-09-30`
+- **Updated**: `2026-10-01`
 - **Topics**: 人工智能 / 技能系统
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -129,25 +129,12 @@
 </details>
 
 <details>
-<summary><strong>5. 2akouwu/reverify</strong> · 📈 +1251 · ⭐ 1251 · Python</summary>
-
-- **Repository**: https://github.com/2akouwu/reverify
-- **Owner**: `2akouwu`
-- **Created**: `2026-08-31`
-- **Updated**: `2026-09-30`
-- **Topics**: 人工智能 / AI 智能体 / ai-coding / anti-hallucination / binary-analysis / context-engineering
-- **项目简介**: 这是一个智能体项目，用于把 MCP/OpenAPI 能力快速转成命令行工具。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
-
-</details>
-
-<details>
-<summary><strong>6. unstablebuild/rune</strong> · 📈 +1213 · ⭐ 1213 · Go</summary>
+<summary><strong>5. unstablebuild/rune</strong> · 📈 +1218 · ⭐ 1218 · Go</summary>
 
 - **Repository**: https://github.com/unstablebuild/rune
 - **Owner**: `unstablebuild`
 - **Created**: `2026-09-10`
-- **Updated**: `2026-09-30`
+- **Updated**: `2026-10-01`
 - **Topics**: agent-orchestration / 人工智能 / 命令行 / coding-agents / developer-tool / devtools
 - **项目简介**: 这是一个自动化与效率工具项目，关注该方向的工程实践。
 - **适用场景**: 适合做自动化流程、命令行工具和研发提效
@@ -155,12 +142,12 @@
 </details>
 
 <details>
-<summary><strong>7. TypeLLM/TypeLLM</strong> · 📈 +875 · ⭐ 875 · Python</summary>
+<summary><strong>6. TypeLLM/TypeLLM</strong> · 📈 +900 · ⭐ 900 · Python</summary>
 
 - **Repository**: https://github.com/TypeLLM/TypeLLM
 - **Owner**: `TypeLLM`
 - **Created**: `2026-09-17`
-- **Updated**: `2026-09-30`
+- **Updated**: `2026-10-01`
 - **Topics**: 人工智能 / jev / 大语言模型 / types
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
@@ -168,12 +155,12 @@
 </details>
 
 <details>
-<summary><strong>8. aimeoa/hanshuang-codex</strong> · 📈 +777 · ⭐ 777 · Python</summary>
+<summary><strong>7. aimeoa/hanshuang-codex</strong> · 📈 +824 · ⭐ 824 · Python</summary>
 
 - **Repository**: https://github.com/aimeoa/hanshuang-codex
 - **Owner**: `aimeoa`
 - **Created**: `2026-09-06`
-- **Updated**: `2026-09-30`
+- **Updated**: `2026-10-01`
 - **Topics**: 人工智能 / codex / codex-cli / desktop-app / jailbreak / 大语言模型
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
@@ -181,12 +168,12 @@
 </details>
 
 <details>
-<summary><strong>9. devagrawal09/jev-review</strong> · 📈 +643 · ⭐ 643 · TypeScript</summary>
+<summary><strong>8. devagrawal09/jev-review</strong> · 📈 +648 · ⭐ 648 · TypeScript</summary>
 
 - **Repository**: https://github.com/devagrawal09/jev-review
 - **Owner**: `devagrawal09`
 - **Created**: `2026-09-16`
-- **Updated**: `2026-09-30`
+- **Updated**: `2026-10-01`
 - **Topics**: 人工智能 / code-review / jev / typesafe-ai / TypeScript
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
@@ -194,12 +181,12 @@
 </details>
 
 <details>
-<summary><strong>10. amitshekhariitbhu/ai-system-design</strong> · 📈 +470 · ⭐ 470 · Markdown</summary>
+<summary><strong>9. amitshekhariitbhu/ai-system-design</strong> · 📈 +479 · ⭐ 479 · Markdown</summary>
 
 - **Repository**: https://github.com/amitshekhariitbhu/ai-system-design
 - **Owner**: `amitshekhariitbhu`
 - **Created**: `2026-09-25`
-- **Updated**: `2026-09-30`
+- **Updated**: `2026-10-01`
 - **Topics**: 人工智能 / AI 智能体 / ai-engineering / ai-system / ai-system-design / ai-systems
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -207,12 +194,12 @@
 </details>
 
 <details>
-<summary><strong>11. Loopera-ai/loopera</strong> · 📈 +359 · ⭐ 359 · 未识别</summary>
+<summary><strong>10. Loopera-ai/loopera</strong> · 📈 +374 · ⭐ 374 · 未识别</summary>
 
 - **Repository**: https://github.com/Loopera-ai/loopera
 - **Owner**: `Loopera-ai`
 - **Created**: `2026-09-08`
-- **Updated**: `2026-09-28`
+- **Updated**: `2026-10-01`
 - **Topics**: 人工智能 / AI 智能体 / quant
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -220,12 +207,12 @@
 </details>
 
 <details>
-<summary><strong>12. lakeday-org/perch</strong> · 📈 +315 · ⭐ 315 · JavaScript</summary>
+<summary><strong>11. lakeday-org/perch</strong> · 📈 +332 · ⭐ 332 · JavaScript</summary>
 
 - **Repository**: https://github.com/lakeday-org/perch
 - **Owner**: `lakeday-org`
 - **Created**: `2026-09-16`
-- **Updated**: `2026-09-30`
+- **Updated**: `2026-10-01`
 - **Topics**: 人工智能 / 命令行 / code-quality / code-review / devtools / linter
 - **项目简介**: 这是一个自动化与效率工具项目，关注该方向的工程实践。
 - **适用场景**: 适合做自动化流程、命令行工具和研发提效
@@ -233,12 +220,12 @@
 </details>
 
 <details>
-<summary><strong>13. FankChen/tracecrate</strong> · 📈 +272 · ⭐ 272 · TypeScript</summary>
+<summary><strong>12. FankChen/tracecrate</strong> · 📈 +278 · ⭐ 278 · TypeScript</summary>
 
 - **Repository**: https://github.com/FankChen/tracecrate
 - **Owner**: `FankChen`
 - **Created**: `2026-09-10`
-- **Updated**: `2026-09-30`
+- **Updated**: `2026-10-01`
 - **Topics**: 人工智能 / AI 智能体 / Claude Code / codex / 开发者工具 / 本地优先
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -246,7 +233,7 @@
 </details>
 
 <details>
-<summary><strong>14. yuyuanweb/ai-picture-editor</strong> · 📈 +263 · ⭐ 263 · Python</summary>
+<summary><strong>13. yuyuanweb/ai-picture-editor</strong> · 📈 +263 · ⭐ 263 · Python</summary>
 
 - **Repository**: https://github.com/yuyuanweb/ai-picture-editor
 - **Owner**: `yuyuanweb`
@@ -259,12 +246,12 @@
 </details>
 
 <details>
-<summary><strong>15. haplollc/ThinkingOrbs</strong> · 📈 +240 · ⭐ 240 · Swift</summary>
+<summary><strong>14. haplollc/ThinkingOrbs</strong> · 📈 +242 · ⭐ 242 · Swift</summary>
 
 - **Repository**: https://github.com/haplollc/ThinkingOrbs
 - **Owner**: `haplollc`
 - **Created**: `2026-09-19`
-- **Updated**: `2026-09-29`
+- **Updated**: `2026-10-01`
 - **Topics**: 人工智能 / animation / ios / loading-indicator / spinner / swift
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -272,12 +259,12 @@
 </details>
 
 <details>
-<summary><strong>16. liyupi/ai-model-world</strong> · 📈 +207 · ⭐ 207 · TypeScript</summary>
+<summary><strong>15. liyupi/ai-model-world</strong> · 📈 +208 · ⭐ 208 · TypeScript</summary>
 
 - **Repository**: https://github.com/liyupi/ai-model-world
 - **Owner**: `liyupi`
 - **Created**: `2026-09-17`
-- **Updated**: `2026-09-30`
+- **Updated**: `2026-10-01`
 - **Topics**: 人工智能 / ai-models / benchmark / chinese / data-visualization / deepseek
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
@@ -285,15 +272,28 @@
 </details>
 
 <details>
-<summary><strong>17. isas1/skills</strong> · 📈 +200 · ⭐ 200 · 未识别</summary>
+<summary><strong>16. isas1/skills</strong> · 📈 +199 · ⭐ 199 · 未识别</summary>
 
 - **Repository**: https://github.com/isas1/skills
 - **Owner**: `isas1`
 - **Created**: `2026-09-19`
-- **Updated**: `2026-09-29`
+- **Updated**: `2026-09-30`
 - **Topics**: 人工智能 / aisummarizer / summarization / summarizer / summary / summary-generator
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
+
+</details>
+
+<details>
+<summary><strong>17. Xu123-Bob/Baize</strong> · 📈 +185 · ⭐ 185 · JavaScript</summary>
+
+- **Repository**: https://github.com/Xu123-Bob/Baize
+- **Owner**: `Xu123-Bob`
+- **Created**: `2026-09-12`
+- **Updated**: `2026-10-01`
+- **Topics**: 人工智能 / AI 智能体 / AI 智能体 / ai-coding
+- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
+- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
 
 </details>
 
