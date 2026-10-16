@@ -1,8 +1,8 @@
 {
-  "fetched_at_utc": "2026-10-15T05:45:01.430527+00:00",
-  "fetched_at_shanghai": "2026-10-15 13:45:01 UTC+8",
-  "query": "topic:ai archived:false is:public created:>=2026-09-15 stars:>10",
-  "total_count": 243,
+  "fetched_at_utc": "2026-10-16T05:42:10.285768+00:00",
+  "fetched_at_shanghai": "2026-10-16 13:42:10 UTC+8",
+  "query": "topic:ai archived:false is:public created:>=2026-09-16 stars:>10",
+  "total_count": 248,
   "top_n": 20,
   "items": [
     {
@@ -10,11 +10,11 @@
       "html_url": "https://github.com/KKKKhazix/AIHOT",
       "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
       "language": "TypeScript",
-      "stargazers_count": 7701,
-      "forks_count": 1851,
-      "open_issues_count": 2,
+      "stargazers_count": 7825,
+      "forks_count": 1882,
+      "open_issues_count": 1,
       "created_at": "2026-09-28T23:40:05Z",
-      "updated_at": "2026-10-15T05:32:23Z",
+      "updated_at": "2026-10-16T05:35:04Z",
       "topics": [
         "ai",
         "chinese",
@@ -30,18 +30,18 @@
         "typescript"
       ],
       "owner": "KKKKhazix",
-      "growth": 7701
+      "growth": 7825
     },
     {
       "full_name": "LosaLosSantos/aurelio-finance",
       "html_url": "https://github.com/LosaLosSantos/aurelio-finance",
       "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
       "language": "Python",
-      "stargazers_count": 3370,
-      "forks_count": 448,
-      "open_issues_count": 0,
+      "stargazers_count": 3673,
+      "forks_count": 495,
+      "open_issues_count": 1,
       "created_at": "2026-10-06T20:14:19Z",
-      "updated_at": "2026-10-14T22:32:58Z",
+      "updated_at": "2026-10-16T05:40:32Z",
       "topics": [
         "ai",
         "dividends",
@@ -59,18 +59,18 @@
         "wealth-management"
       ],
       "owner": "LosaLosSantos",
-      "growth": 3370
+      "growth": 3673
     },
     {
       "full_name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
       "html_url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
       "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
       "language": "Markdown",
-      "stargazers_count": 1747,
+      "stargazers_count": 1750,
       "forks_count": 175,
       "open_issues_count": 0,
       "created_at": "2026-09-19T04:14:43Z",
-      "updated_at": "2026-10-15T04:37:52Z",
+      "updated_at": "2026-10-15T23:58:46Z",
       "topics": [
         "ai",
         "ai-engineering",
@@ -84,40 +84,18 @@
         "questions-and-answers"
       ],
       "owner": "pallavi-shekhar",
-      "growth": 1747
-    },
-    {
-      "full_name": "yakuikai/tokentab",
-      "html_url": "https://github.com/yakuikai/tokentab",
-      "description": "Local-first CLI and web dashboard that reads Claude Code, Codex and Gemini CLI session logs and shows token usage and cost by model, project, day and activity. No account, no API key, nothing leaves your machine",
-      "language": "Python",
-      "stargazers_count": 1219,
-      "forks_count": 119,
-      "open_issues_count": 0,
-      "created_at": "2026-09-21T18:07:22Z",
-      "updated_at": "2026-10-15T05:44:23Z",
-      "topics": [
-        "ai",
-        "ai-token",
-        "ai-token-optimizer",
-        "claude-code",
-        "codex",
-        "python",
-        "token-usage"
-      ],
-      "owner": "yakuikai",
-      "growth": 1219
+      "growth": 1750
     },
     {
       "full_name": "Folkbench/folkbench",
       "html_url": "https://github.com/Folkbench/folkbench",
       "description": "AI API 中转站评测排行与切换工具：实测可用率、延迟与价格 · Open-source AI API relay benchmark, rankings & switcher for Claude Code / Codex",
       "language": "Rust",
-      "stargazers_count": 1076,
+      "stargazers_count": 1136,
       "forks_count": 8,
       "open_issues_count": 0,
       "created_at": "2026-10-02T09:50:45Z",
-      "updated_at": "2026-10-15T05:34:42Z",
+      "updated_at": "2026-10-16T05:41:54Z",
       "topics": [
         "ai",
         "api-relay",
@@ -135,63 +113,18 @@
         "tauri"
       ],
       "owner": "Folkbench",
-      "growth": 1076
-    },
-    {
-      "full_name": "zhuyansen/new-term-radar",
-      "html_url": "https://github.com/zhuyansen/new-term-radar",
-      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "language": "Python",
-      "stargazers_count": 975,
-      "forks_count": 388,
-      "open_issues_count": 3,
-      "created_at": "2026-10-12T07:11:01Z",
-      "updated_at": "2026-10-15T04:58:00Z",
-      "topics": [
-        "agent-skills",
-        "ai",
-        "aisa",
-        "claude-code",
-        "claude-skills",
-        "google-trends",
-        "keyword-research",
-        "mcp",
-        "mcp-server",
-        "seo",
-        "trends"
-      ],
-      "owner": "zhuyansen",
-      "growth": 975
-    },
-    {
-      "full_name": "TypeLLM/TypeLLM",
-      "html_url": "https://github.com/TypeLLM/TypeLLM",
-      "description": "TypeLLM: LLMs with type-safe generation",
-      "language": "Python",
-      "stargazers_count": 947,
-      "forks_count": 62,
-      "open_issues_count": 0,
-      "created_at": "2026-09-17T12:41:27Z",
-      "updated_at": "2026-10-15T04:38:53Z",
-      "topics": [
-        "ai",
-        "jev",
-        "llms",
-        "types"
-      ],
-      "owner": "TypeLLM",
-      "growth": 947
+      "growth": 1136
     },
     {
       "full_name": "deeplethe/solid-glass",
       "html_url": "https://github.com/deeplethe/solid-glass",
       "description": "A design system for AI applications. Material, physical, tactile, technical.",
       "language": "TypeScript",
-      "stargazers_count": 767,
-      "forks_count": 8,
-      "open_issues_count": 1,
+      "stargazers_count": 1111,
+      "forks_count": 16,
+      "open_issues_count": 3,
       "created_at": "2026-10-12T09:19:02Z",
-      "updated_at": "2026-10-15T05:43:58Z",
+      "updated_at": "2026-10-16T05:22:11Z",
       "topics": [
         "agent-ui",
         "ai",
@@ -206,18 +139,86 @@
         "theme"
       ],
       "owner": "deeplethe",
-      "growth": 767
+      "growth": 1111
+    },
+    {
+      "full_name": "zhuyansen/new-term-radar",
+      "html_url": "https://github.com/zhuyansen/new-term-radar",
+      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "language": "Python",
+      "stargazers_count": 1034,
+      "forks_count": 407,
+      "open_issues_count": 4,
+      "created_at": "2026-10-12T07:11:01Z",
+      "updated_at": "2026-10-16T05:31:29Z",
+      "topics": [
+        "agent-skills",
+        "ai",
+        "aisa",
+        "claude-code",
+        "claude-skills",
+        "google-trends",
+        "keyword-research",
+        "mcp",
+        "mcp-server",
+        "seo",
+        "trends"
+      ],
+      "owner": "zhuyansen",
+      "growth": 1034
+    },
+    {
+      "full_name": "TypeLLM/TypeLLM",
+      "html_url": "https://github.com/TypeLLM/TypeLLM",
+      "description": "TypeLLM: LLMs with type-safe generation",
+      "language": "Python",
+      "stargazers_count": 952,
+      "forks_count": 63,
+      "open_issues_count": 0,
+      "created_at": "2026-09-17T12:41:27Z",
+      "updated_at": "2026-10-16T05:40:32Z",
+      "topics": [
+        "ai",
+        "jev",
+        "llms",
+        "types"
+      ],
+      "owner": "TypeLLM",
+      "growth": 952
+    },
+    {
+      "full_name": "Tejashmakwana/motionmaxxing",
+      "html_url": "https://github.com/Tejashmakwana/motionmaxxing",
+      "description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
+      "language": "JavaScript",
+      "stargazers_count": 718,
+      "forks_count": 67,
+      "open_issues_count": 0,
+      "created_at": "2026-10-06T18:18:49Z",
+      "updated_at": "2026-10-16T05:28:47Z",
+      "topics": [
+        "agent-skills",
+        "ai",
+        "claude-code",
+        "gsap",
+        "hyperframes",
+        "motion-graphics",
+        "motionmaxxing",
+        "video"
+      ],
+      "owner": "Tejashmakwana",
+      "growth": 718
     },
     {
       "full_name": "devagrawal09/jev-review",
       "html_url": "https://github.com/devagrawal09/jev-review",
       "description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
       "language": "TypeScript",
-      "stargazers_count": 686,
+      "stargazers_count": 688,
       "forks_count": 45,
       "open_issues_count": 9,
       "created_at": "2026-09-16T21:45:36Z",
-      "updated_at": "2026-10-14T19:15:41Z",
+      "updated_at": "2026-10-16T04:11:51Z",
       "topics": [
         "ai",
         "code-review",
@@ -226,18 +227,18 @@
         "typescript"
       ],
       "owner": "devagrawal09",
-      "growth": 686
+      "growth": 688
     },
     {
       "full_name": "amitshekhariitbhu/ai-system-design",
       "html_url": "https://github.com/amitshekhariitbhu/ai-system-design",
       "description": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
       "language": "Markdown",
-      "stargazers_count": 670,
+      "stargazers_count": 672,
       "forks_count": 99,
       "open_issues_count": 0,
       "created_at": "2026-09-25T04:50:06Z",
-      "updated_at": "2026-10-14T03:25:04Z",
+      "updated_at": "2026-10-15T14:01:29Z",
       "topics": [
         "ai",
         "ai-agents",
@@ -251,18 +252,18 @@
         "system-design-interview"
       ],
       "owner": "amitshekhariitbhu",
-      "growth": 670
+      "growth": 672
     },
     {
       "full_name": "strands-labs/strands-decider",
       "html_url": "https://github.com/strands-labs/strands-decider",
       "description": "A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision.",
       "language": "Python",
-      "stargazers_count": 636,
-      "forks_count": 84,
-      "open_issues_count": 35,
+      "stargazers_count": 650,
+      "forks_count": 87,
+      "open_issues_count": 37,
       "created_at": "2026-09-29T16:36:38Z",
-      "updated_at": "2026-10-15T05:38:09Z",
+      "updated_at": "2026-10-16T03:00:29Z",
       "topics": [
         "ai",
         "machine-learning",
@@ -274,58 +275,18 @@
         "system-one-models"
       ],
       "owner": "strands-labs",
-      "growth": 636
-    },
-    {
-      "full_name": "agentvivekkumar/dontbemichael",
-      "html_url": "https://github.com/agentvivekkumar/dontbemichael",
-      "description": "A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents",
-      "language": "TypeScript",
-      "stargazers_count": 513,
-      "forks_count": 411,
-      "open_issues_count": 174,
-      "created_at": "2026-09-15T03:39:15Z",
-      "updated_at": "2026-10-15T05:44:25Z",
-      "topics": [
-        "agentic",
-        "ai"
-      ],
-      "owner": "agentvivekkumar",
-      "growth": 513
-    },
-    {
-      "full_name": "Tejashmakwana/motionmaxxing",
-      "html_url": "https://github.com/Tejashmakwana/motionmaxxing",
-      "description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
-      "language": "JavaScript",
-      "stargazers_count": 509,
-      "forks_count": 47,
-      "open_issues_count": 0,
-      "created_at": "2026-10-06T18:18:49Z",
-      "updated_at": "2026-10-15T05:33:52Z",
-      "topics": [
-        "agent-skills",
-        "ai",
-        "claude-code",
-        "gsap",
-        "hyperframes",
-        "motion-graphics",
-        "motionmaxxing",
-        "video"
-      ],
-      "owner": "Tejashmakwana",
-      "growth": 509
+      "growth": 650
     },
     {
       "full_name": "whirlchat/whirl",
       "html_url": "https://github.com/whirlchat/whirl",
       "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
       "language": "TypeScript",
-      "stargazers_count": 507,
+      "stargazers_count": 508,
       "forks_count": 48,
       "open_issues_count": 1,
       "created_at": "2026-10-02T13:50:42Z",
-      "updated_at": "2026-10-14T20:19:49Z",
+      "updated_at": "2026-10-15T15:11:23Z",
       "topics": [
         "ai",
         "ai-chat",
@@ -339,18 +300,18 @@
         "typescript"
       ],
       "owner": "whirlchat",
-      "growth": 507
+      "growth": 508
     },
     {
       "full_name": "strands-agents/box",
       "html_url": "https://github.com/strands-agents/box",
       "description": "Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood policies and credential injection that keeps secrets outside the agent. Written in Rust. Supports macOS on Apple silicon, with Linux support planned.",
       "language": "Rust",
-      "stargazers_count": 404,
+      "stargazers_count": 409,
       "forks_count": 20,
       "open_issues_count": 48,
       "created_at": "2026-10-02T20:34:08Z",
-      "updated_at": "2026-10-15T04:16:24Z",
+      "updated_at": "2026-10-16T03:43:07Z",
       "topics": [
         "agentic-ai",
         "agents",
@@ -374,7 +335,37 @@
         "zero-trust"
       ],
       "owner": "strands-agents",
-      "growth": 404
+      "growth": 409
+    },
+    {
+      "full_name": "thesysdev/open-intelligent-ui",
+      "html_url": "https://github.com/thesysdev/open-intelligent-ui",
+      "description": "An open-source take on ChatGPT's Intelligent UI: answers stream as interactive UI (maps, photos, charts, drawings and working tools). Built with OpenUI.",
+      "language": "TypeScript",
+      "stargazers_count": 395,
+      "forks_count": 30,
+      "open_issues_count": 27,
+      "created_at": "2026-10-08T05:37:45Z",
+      "updated_at": "2026-10-16T03:44:17Z",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "ai-ui",
+        "chat-ui",
+        "chatgpt",
+        "generative-ui",
+        "intelligent-ui",
+        "llm",
+        "nextjs",
+        "open-source",
+        "openui",
+        "react",
+        "streaming-ui",
+        "typescript"
+      ],
+      "owner": "thesysdev",
+      "growth": 395
     },
     {
       "full_name": "malevrigns/agent-jev",
@@ -397,15 +388,36 @@
       "growth": 386
     },
     {
+      "full_name": "datalab-to/indra",
+      "html_url": "https://github.com/datalab-to/indra",
+      "description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
+      "language": "Python",
+      "stargazers_count": 370,
+      "forks_count": 28,
+      "open_issues_count": 1,
+      "created_at": "2026-10-13T11:07:11Z",
+      "updated_at": "2026-10-16T05:40:41Z",
+      "topics": [
+        "ai",
+        "cpu",
+        "document-parsing",
+        "ocr",
+        "onnx",
+        "pdf"
+      ],
+      "owner": "datalab-to",
+      "growth": 370
+    },
+    {
       "full_name": "lakeday-org/perch",
       "html_url": "https://github.com/lakeday-org/perch",
       "description": "Semantic code linting with Decision Models",
       "language": "JavaScript",
       "stargazers_count": 353,
       "forks_count": 20,
-      "open_issues_count": 32,
+      "open_issues_count": 28,
       "created_at": "2026-09-16T04:55:38Z",
-      "updated_at": "2026-10-14T22:34:56Z",
+      "updated_at": "2026-10-16T03:52:02Z",
       "topics": [
         "ai",
         "cli",
@@ -424,11 +436,11 @@
       "html_url": "https://github.com/xop01/ai_goodpractice",
       "description": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
       "language": "Unknown",
-      "stargazers_count": 304,
+      "stargazers_count": 324,
       "forks_count": 0,
       "open_issues_count": 0,
       "created_at": "2026-10-02T11:01:25Z",
-      "updated_at": "2026-10-15T05:40:45Z",
+      "updated_at": "2026-10-16T05:08:33Z",
       "topics": [
         "ai",
         "ai-agent",
@@ -445,18 +457,18 @@
         "usage"
       ],
       "owner": "xop01",
-      "growth": 304
+      "growth": 324
     },
     {
       "full_name": "haplollc/ThinkingOrbs",
       "html_url": "https://github.com/haplollc/ThinkingOrbs",
       "description": "Dotted, honestly-3D loading indicators for AI and agent interfaces in SwiftUI. Nine hand-tuned designs, two tuned sizes.",
       "language": "Swift",
-      "stargazers_count": 266,
+      "stargazers_count": 267,
       "forks_count": 20,
       "open_issues_count": 0,
       "created_at": "2026-09-19T06:15:54Z",
-      "updated_at": "2026-10-14T10:48:56Z",
+      "updated_at": "2026-10-15T06:09:30Z",
       "topics": [
         "ai",
         "animation",
@@ -468,39 +480,18 @@
         "swiftui"
       ],
       "owner": "haplollc",
-      "growth": 266
-    },
-    {
-      "full_name": "datalab-to/indra",
-      "html_url": "https://github.com/datalab-to/indra",
-      "description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
-      "language": "Python",
-      "stargazers_count": 262,
-      "forks_count": 23,
-      "open_issues_count": 2,
-      "created_at": "2026-10-13T11:07:11Z",
-      "updated_at": "2026-10-15T05:29:35Z",
-      "topics": [
-        "ai",
-        "cpu",
-        "document-parsing",
-        "ocr",
-        "onnx",
-        "pdf"
-      ],
-      "owner": "datalab-to",
-      "growth": 262
+      "growth": 267
     },
     {
       "full_name": "liyupi/ai-model-world",
       "html_url": "https://github.com/liyupi/ai-model-world",
       "description": "AI 大模型世界，把 556 个大模型拟人化成像素小人的可视化站点。进来就能看到此刻谁最聪明、谁最会写代码、谁最便宜、谁刚发布，往下是国内与国外分区的厂商广场、完整的发布时间线和多维排行榜。搜索认模型名、厂商和能力，输入「多模态」会直接列出全部多模态模型。数据取自 Epoch AI、models.dev、LiveBench 与 Hugging Face，每小时自动同步，所有文案由真实数据生成，不调用任何 LLM。Next.js 静态导出，零后端。",
       "language": "TypeScript",
-      "stargazers_count": 232,
+      "stargazers_count": 236,
       "forks_count": 33,
-      "open_issues_count": 3,
+      "open_issues_count": 2,
       "created_at": "2026-09-17T03:12:17Z",
-      "updated_at": "2026-10-15T01:52:32Z",
+      "updated_at": "2026-10-16T05:25:50Z",
       "topics": [
         "ai",
         "ai-models",
@@ -522,7 +513,7 @@
         "typescript"
       ],
       "owner": "liyupi",
-      "growth": 232
+      "growth": 236
     },
     {
       "full_name": "weike-zhang/ai-novel-studio",
@@ -574,11 +565,11 @@
       "html_url": "https://github.com/Sidiora-Labs/centra-gideon-agent",
       "description": "The companion AI agent that learns, adapts and gets the work done no matter the task",
       "language": "Python",
-      "stargazers_count": 217,
+      "stargazers_count": 216,
       "forks_count": 33,
       "open_issues_count": 6,
       "created_at": "2026-09-17T06:29:39Z",
-      "updated_at": "2026-10-09T02:47:46Z",
+      "updated_at": "2026-10-16T03:25:18Z",
       "topics": [
         "agent",
         "agent-framework",
@@ -587,18 +578,18 @@
         "large-language-models"
       ],
       "owner": "Sidiora-Labs",
-      "growth": 217
+      "growth": 216
     },
     {
       "full_name": "BlenderGPT3D/blender-ai-addon",
       "html_url": "https://github.com/BlenderGPT3D/blender-ai-addon",
       "description": "Blender add-on: create and edit 3D models by chatting with AI - send text or an image, get working bpy code",
       "language": "Python",
-      "stargazers_count": 213,
+      "stargazers_count": 214,
       "forks_count": 0,
       "open_issues_count": 0,
       "created_at": "2026-10-09T08:34:03Z",
-      "updated_at": "2026-10-15T01:20:17Z",
+      "updated_at": "2026-10-15T14:39:00Z",
       "topics": [
         "3d-graphics",
         "ai",
@@ -612,18 +603,18 @@
         "python"
       ],
       "owner": "BlenderGPT3D",
-      "growth": 213
+      "growth": 214
     },
     {
       "full_name": "longsurf-ai/openchart",
       "html_url": "https://github.com/longsurf-ai/openchart",
       "description": "OSS trading workspace with your favorite agents",
       "language": "TypeScript",
-      "stargazers_count": 196,
-      "forks_count": 19,
-      "open_issues_count": 4,
+      "stargazers_count": 214,
+      "forks_count": 20,
+      "open_issues_count": 6,
       "created_at": "2026-10-05T16:16:41Z",
-      "updated_at": "2026-10-15T04:57:33Z",
+      "updated_at": "2026-10-16T05:29:03Z",
       "topics": [
         "agent",
         "agentic-trader",
@@ -642,40 +633,18 @@
         "trading-toolkits"
       ],
       "owner": "longsurf-ai",
-      "growth": 196
-    },
-    {
-      "full_name": "NuvexNetwork/nuvex-services",
-      "html_url": "https://github.com/NuvexNetwork/nuvex-services",
-      "description": "Off-chain services for Nuvex. This repository does not deploy programs and it is not a source of protocol truth.",
-      "language": "TypeScript",
-      "stargazers_count": 193,
-      "forks_count": 313,
-      "open_issues_count": 0,
-      "created_at": "2026-09-30T07:55:06Z",
-      "updated_at": "2026-10-14T20:06:44Z",
-      "topics": [
-        "ai",
-        "api",
-        "indexer",
-        "infra",
-        "off-chai",
-        "postgresql",
-        "solana"
-      ],
-      "owner": "NuvexNetwork",
-      "growth": 193
+      "growth": 214
     },
     {
       "full_name": "matank001/clodfarm",
       "html_url": "https://github.com/matank001/clodfarm",
       "description": "clodfarm (say it out loud): a farm of Claude Code agents. Plant a mission, they split it into sub-agents, open the work, and pace themselves on each account's real 5-hour and weekly usage. Steer it from the Claude app.",
       "language": "Python",
-      "stargazers_count": 192,
+      "stargazers_count": 196,
       "forks_count": 56,
       "open_issues_count": 5,
       "created_at": "2026-09-25T00:48:32Z",
-      "updated_at": "2026-10-14T22:21:28Z",
+      "updated_at": "2026-10-16T02:03:25Z",
       "topics": [
         "agent-orchestration",
         "ai",
@@ -699,18 +668,40 @@
         "subagents"
       ],
       "owner": "matank001",
-      "growth": 192
+      "growth": 196
+    },
+    {
+      "full_name": "NuvexNetwork/nuvex-services",
+      "html_url": "https://github.com/NuvexNetwork/nuvex-services",
+      "description": "Off-chain services for Nuvex. This repository does not deploy programs and it is not a source of protocol truth.",
+      "language": "TypeScript",
+      "stargazers_count": 196,
+      "forks_count": 313,
+      "open_issues_count": 0,
+      "created_at": "2026-09-30T07:55:06Z",
+      "updated_at": "2026-10-15T18:01:53Z",
+      "topics": [
+        "ai",
+        "api",
+        "indexer",
+        "infra",
+        "off-chai",
+        "postgresql",
+        "solana"
+      ],
+      "owner": "NuvexNetwork",
+      "growth": 196
     },
     {
       "full_name": "kraayenjon/awesome-jev",
       "html_url": "https://github.com/kraayenjon/awesome-jev",
       "description": "A curated list of Jev use cases, projects, SDKs, and resources. Jev is TypeSafe AI's System One model for fast, typed decisions in software — Choice, Score, and Noul with calibrated probabilities.",
       "language": "Unknown",
-      "stargazers_count": 187,
-      "forks_count": 41,
-      "open_issues_count": 15,
+      "stargazers_count": 190,
+      "forks_count": 44,
+      "open_issues_count": 17,
       "created_at": "2026-09-18T15:43:06Z",
-      "updated_at": "2026-10-15T00:29:31Z",
+      "updated_at": "2026-10-15T18:58:19Z",
       "topics": [
         "agents",
         "ai",
@@ -734,18 +725,64 @@
         "typesafe-ai"
       ],
       "owner": "kraayenjon",
-      "growth": 187
+      "growth": 190
+    },
+    {
+      "full_name": "Fazmin/AILearningGuide",
+      "html_url": "https://github.com/Fazmin/AILearningGuide",
+      "description": "Interactive desktop app with 51 labs covering ML fundamentals, transformers, RAG, agents, fine-tuning and quantization and more.",
+      "language": "TypeScript",
+      "stargazers_count": 188,
+      "forks_count": 10,
+      "open_issues_count": 2,
+      "created_at": "2026-10-05T02:29:23Z",
+      "updated_at": "2026-10-16T02:05:54Z",
+      "topics": [
+        "ai",
+        "ai-education",
+        "deep-learning",
+        "educational",
+        "educational-resources",
+        "educational-tool",
+        "generative-ai",
+        "interactive-learning",
+        "learning",
+        "llm",
+        "machine-learning",
+        "offline-first",
+        "onnx",
+        "transformers"
+      ],
+      "owner": "Fazmin",
+      "growth": 188
+    },
+    {
+      "full_name": "OmooLab/AnyImage",
+      "html_url": "https://github.com/OmooLab/AnyImage",
+      "description": "Fast image-guided structure building tools for Blender",
+      "language": "Python",
+      "stargazers_count": 184,
+      "forks_count": 7,
+      "open_issues_count": 0,
+      "created_at": "2026-09-19T12:08:35Z",
+      "updated_at": "2026-10-16T05:21:25Z",
+      "topics": [
+        "ai",
+        "blender"
+      ],
+      "owner": "OmooLab",
+      "growth": 184
     },
     {
       "full_name": "scarletkc/seiso",
       "html_url": "https://github.com/scarletkc/seiso",
       "description": "A Markdown convention and linter for project docs written by AI and read by humans and agents",
       "language": "Rust",
-      "stargazers_count": 184,
+      "stargazers_count": 183,
       "forks_count": 13,
       "open_issues_count": 18,
       "created_at": "2026-09-27T13:27:28Z",
-      "updated_at": "2026-10-13T08:12:46Z",
+      "updated_at": "2026-10-16T04:56:46Z",
       "topics": [
         "ai",
         "ai-agents",
@@ -769,35 +806,18 @@
         "technical-writing"
       ],
       "owner": "scarletkc",
-      "growth": 184
-    },
-    {
-      "full_name": "OmooLab/AnyImage",
-      "html_url": "https://github.com/OmooLab/AnyImage",
-      "description": "Fast image-guided structure building tools for Blender",
-      "language": "Python",
-      "stargazers_count": 180,
-      "forks_count": 7,
-      "open_issues_count": 0,
-      "created_at": "2026-09-19T12:08:35Z",
-      "updated_at": "2026-10-14T15:48:02Z",
-      "topics": [
-        "ai",
-        "blender"
-      ],
-      "owner": "OmooLab",
-      "growth": 180
+      "growth": 183
     },
     {
       "full_name": "lokicorvus/crosspet",
       "html_url": "https://github.com/lokicorvus/crosspet",
       "description": "跨 AI 桌宠：跟着你用的 AI 换形象、跟着 AI 的工作状态做动作",
       "language": "C#",
-      "stargazers_count": 165,
-      "forks_count": 12,
-      "open_issues_count": 5,
+      "stargazers_count": 175,
+      "forks_count": 13,
+      "open_issues_count": 6,
       "created_at": "2026-10-03T16:13:25Z",
-      "updated_at": "2026-10-15T04:10:49Z",
+      "updated_at": "2026-10-16T05:40:49Z",
       "topics": [
         "ai",
         "anime",
@@ -818,47 +838,18 @@
         "windows"
       ],
       "owner": "lokicorvus",
-      "growth": 165
-    },
-    {
-      "full_name": "Fazmin/AILearningGuide",
-      "html_url": "https://github.com/Fazmin/AILearningGuide",
-      "description": "Interactive desktop app with 51 labs covering ML fundamentals, transformers, RAG, agents, fine-tuning and quantization and more.",
-      "language": "TypeScript",
-      "stargazers_count": 164,
-      "forks_count": 8,
-      "open_issues_count": 1,
-      "created_at": "2026-10-05T02:29:23Z",
-      "updated_at": "2026-10-15T04:50:31Z",
-      "topics": [
-        "ai",
-        "ai-education",
-        "deep-learning",
-        "educational",
-        "educational-resources",
-        "educational-tool",
-        "generative-ai",
-        "interactive-learning",
-        "learning",
-        "llm",
-        "machine-learning",
-        "offline-first",
-        "onnx",
-        "transformers"
-      ],
-      "owner": "Fazmin",
-      "growth": 164
+      "growth": 175
     },
     {
       "full_name": "VinkyDev/vibestart",
       "html_url": "https://github.com/VinkyDev/vibestart",
       "description": "Compose a full-stack TypeScript stack and get a cutting-edge, verified project made for AI coding agents, with type safety, lint, and tests built in. | 自由组合全栈 TypeScript 技术栈，得到一个前沿、经过验证、为 AI 编码智能体打造的项目，内置类型安全、lint 与测试。",
       "language": "TypeScript",
-      "stargazers_count": 159,
+      "stargazers_count": 163,
       "forks_count": 9,
       "open_issues_count": 0,
       "created_at": "2026-10-04T02:36:55Z",
-      "updated_at": "2026-10-15T02:20:23Z",
+      "updated_at": "2026-10-16T02:13:52Z",
       "topics": [
         "ai",
         "ai-coding",
@@ -876,7 +867,29 @@
         "vite-plus"
       ],
       "owner": "VinkyDev",
-      "growth": 159
+      "growth": 163
+    },
+    {
+      "full_name": "wildminder/awesome-qwen-image",
+      "html_url": "https://github.com/wildminder/awesome-qwen-image",
+      "description": "Qwen-Image 2.1. Checkpoints, quants, prompt engines, LoRAs, and tooling",
+      "language": "Unknown",
+      "stargazers_count": 151,
+      "forks_count": 14,
+      "open_issues_count": 2,
+      "created_at": "2026-09-24T10:15:43Z",
+      "updated_at": "2026-10-15T19:34:59Z",
+      "topics": [
+        "ai",
+        "comfyui",
+        "comfyui-nodes",
+        "i2i",
+        "image",
+        "image-generation",
+        "t2i"
+      ],
+      "owner": "wildminder",
+      "growth": 151
     },
     {
       "full_name": "chelinho139/wow-ai",
@@ -897,37 +910,15 @@
       "growth": 147
     },
     {
-      "full_name": "wildminder/awesome-qwen-image",
-      "html_url": "https://github.com/wildminder/awesome-qwen-image",
-      "description": "Qwen-Image 2.1. Checkpoints, quants, prompt engines, LoRAs, and tooling",
-      "language": "Unknown",
-      "stargazers_count": 147,
-      "forks_count": 13,
-      "open_issues_count": 1,
-      "created_at": "2026-09-24T10:15:43Z",
-      "updated_at": "2026-10-14T23:13:59Z",
-      "topics": [
-        "ai",
-        "comfyui",
-        "comfyui-nodes",
-        "i2i",
-        "image",
-        "image-generation",
-        "t2i"
-      ],
-      "owner": "wildminder",
-      "growth": 147
-    },
-    {
       "full_name": "wousp112/justin-sun-alan-shao-ai-notes",
       "html_url": "https://github.com/wousp112/justin-sun-alan-shao-ai-notes",
       "description": "孙宇晨 × 邵艾伦 4 小时对谈：全文 + 精华 + 一键丢给 AI 的规划 prompt",
       "language": "Unknown",
-      "stargazers_count": 142,
+      "stargazers_count": 147,
       "forks_count": 12,
       "open_issues_count": 2,
       "created_at": "2026-10-09T06:01:01Z",
-      "updated_at": "2026-10-15T02:31:44Z",
+      "updated_at": "2026-10-16T03:41:37Z",
       "topics": [
         "ai",
         "ai-agents",
@@ -937,18 +928,74 @@
         "prompt-engineering"
       ],
       "owner": "wousp112",
-      "growth": 142
+      "growth": 147
+    },
+    {
+      "full_name": "thesnarkitecht/rembrandt",
+      "html_url": "https://github.com/thesnarkitecht/rembrandt",
+      "description": "A free photo editor. No account, no subscription, no tracking. RAW, masks and on-device AI for macOS, Windows and Linux. Self-hostable.",
+      "language": "C++",
+      "stargazers_count": 138,
+      "forks_count": 8,
+      "open_issues_count": 8,
+      "created_at": "2026-09-29T18:25:04Z",
+      "updated_at": "2026-10-16T04:48:22Z",
+      "topics": [
+        "ai",
+        "alternative",
+        "free",
+        "lightroom",
+        "linux",
+        "macos",
+        "omarchy",
+        "ondevice-ai",
+        "photo-editing",
+        "photo-gallery",
+        "photography",
+        "photos"
+      ],
+      "owner": "thesnarkitecht",
+      "growth": 138
+    },
+    {
+      "full_name": "Microqian2th/dsh-codex-effort-slider",
+      "html_url": "https://github.com/Microqian2th/dsh-codex-effort-slider",
+      "description": "Codex 风格的推理等级滑条（DeepSeek Harness 插件）：可拖动连续滑条 + 高档位渐变星尘特效",
+      "language": "JavaScript",
+      "stargazers_count": 125,
+      "forks_count": 5,
+      "open_issues_count": 4,
+      "created_at": "2026-10-04T12:33:41Z",
+      "updated_at": "2026-10-16T02:44:08Z",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "codex",
+        "deepseek",
+        "deepseek-ai",
+        "deepseek-harness",
+        "deepseek-plugin",
+        "deepseek-v4",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugin-desktop",
+        "effort-slider",
+        "llm",
+        "reasoning-effort"
+      ],
+      "owner": "Microqian2th",
+      "growth": 125
     },
     {
       "full_name": "savka777/jev-use",
       "html_url": "https://github.com/savka777/jev-use",
       "description": "Say it, and your Mac does it. A computer-use harness on Jev that reads the screen through Accessibility. Fast, no vision model",
       "language": "Swift",
-      "stargazers_count": 121,
+      "stargazers_count": 124,
       "forks_count": 19,
       "open_issues_count": 1,
       "created_at": "2026-09-19T14:05:35Z",
-      "updated_at": "2026-10-13T15:04:05Z",
+      "updated_at": "2026-10-16T00:24:53Z",
       "topics": [
         "accessibility",
         "ai",
@@ -963,7 +1010,7 @@
         "voice-control"
       ],
       "owner": "savka777",
-      "growth": 121
+      "growth": 124
     },
     {
       "full_name": "mizchi/jev-lint",
@@ -983,71 +1030,15 @@
       "growth": 119
     },
     {
-      "full_name": "Microqian2th/dsh-codex-effort-slider",
-      "html_url": "https://github.com/Microqian2th/dsh-codex-effort-slider",
-      "description": "Codex 风格的推理等级滑条（DeepSeek Harness 插件）：可拖动连续滑条 + 高档位渐变星尘特效",
-      "language": "JavaScript",
-      "stargazers_count": 118,
-      "forks_count": 5,
-      "open_issues_count": 5,
-      "created_at": "2026-10-04T12:33:41Z",
-      "updated_at": "2026-10-15T05:40:57Z",
-      "topics": [
-        "ai",
-        "ai-agents",
-        "codex",
-        "deepseek",
-        "deepseek-ai",
-        "deepseek-harness",
-        "deepseek-plugin",
-        "deepseek-v4",
-        "dsh",
-        "dsh-plugin",
-        "dsh-plugin-desktop",
-        "effort-slider",
-        "llm",
-        "reasoning-effort"
-      ],
-      "owner": "Microqian2th",
-      "growth": 118
-    },
-    {
-      "full_name": "thesnarkitecht/rembrandt",
-      "html_url": "https://github.com/thesnarkitecht/rembrandt",
-      "description": "A free photo editor. No account, no subscription, no tracking. RAW, masks and on-device AI for macOS, Windows and Linux. Self-hostable.",
-      "language": "C++",
-      "stargazers_count": 116,
-      "forks_count": 8,
-      "open_issues_count": 3,
-      "created_at": "2026-09-29T18:25:04Z",
-      "updated_at": "2026-10-15T04:34:06Z",
-      "topics": [
-        "ai",
-        "alternative",
-        "free",
-        "lightroom",
-        "linux",
-        "macos",
-        "omarchy",
-        "ondevice-ai",
-        "photo-editing",
-        "photo-gallery",
-        "photography",
-        "photos"
-      ],
-      "owner": "thesnarkitecht",
-      "growth": 116
-    },
-    {
       "full_name": "nidhi-singh02/agent-router",
       "html_url": "https://github.com/nidhi-singh02/agent-router",
       "description": "CLI that picks Cursor, Claude Code, Codex, or OpenCode + model/effort for a task, then launches it. Powered by Jev and Herdr",
       "language": "TypeScript",
-      "stargazers_count": 114,
+      "stargazers_count": 115,
       "forks_count": 15,
       "open_issues_count": 4,
       "created_at": "2026-09-17T09:55:56Z",
-      "updated_at": "2026-10-14T00:04:07Z",
+      "updated_at": "2026-10-16T02:32:20Z",
       "topics": [
         "agents",
         "ai",
@@ -1062,18 +1053,18 @@
         "model-routing"
       ],
       "owner": "nidhi-singh02",
-      "growth": 114
+      "growth": 115
     },
     {
       "full_name": "RoversX/ThinkTerm",
       "html_url": "https://github.com/RoversX/ThinkTerm",
       "description": "A modern terminal with a built-in multiplexer: close it and your sessions keep running. Run shells and tons of AI agents across your machines, then pick them up from desktop, browser, TUI and more. Written in Rust with no UI framework: interface drawn straight on the GPU. No Electron, GPUI or webview.",
       "language": "Rust",
-      "stargazers_count": 111,
+      "stargazers_count": 113,
       "forks_count": 8,
       "open_issues_count": 6,
       "created_at": "2026-10-01T13:32:20Z",
-      "updated_at": "2026-10-15T03:30:26Z",
+      "updated_at": "2026-10-15T20:53:55Z",
       "topics": [
         "agent",
         "agent-orchestration",
@@ -1096,7 +1087,61 @@
         "windows"
       ],
       "owner": "RoversX",
-      "growth": 111
+      "growth": 113
+    },
+    {
+      "full_name": "kyegomez/open-jev",
+      "html_url": "https://github.com/kyegomez/open-jev",
+      "description": "an open-source, from-first-principles reconstruction of the ideas behind TypeSafe AI's Jev, written in pytorch",
+      "language": "Python",
+      "stargazers_count": 109,
+      "forks_count": 22,
+      "open_issues_count": 0,
+      "created_at": "2026-09-21T00:13:17Z",
+      "updated_at": "2026-10-15T22:51:01Z",
+      "topics": [
+        "ai",
+        "anthropic",
+        "attention",
+        "chatgpt",
+        "claude",
+        "gpt",
+        "jev",
+        "transformers"
+      ],
+      "owner": "kyegomez",
+      "growth": 109
+    },
+    {
+      "full_name": "hanzohanzhe/Grandet",
+      "html_url": "https://github.com/hanzohanzhe/Grandet",
+      "description": "Find the cheapest API for any model and connect it from your AI agent: Grandet Skill and an anonymous MCP server, backed by listed prices from 1,800+ official, inference and relay providers on grandet.ai.",
+      "language": "JavaScript",
+      "stargazers_count": 108,
+      "forks_count": 0,
+      "open_issues_count": 2,
+      "created_at": "2026-10-05T06:50:33Z",
+      "updated_at": "2026-10-16T05:39:40Z",
+      "topics": [
+        "agent-skills",
+        "ai",
+        "ai-agents",
+        "api-credits",
+        "api-pricing",
+        "api-relay",
+        "claude-code",
+        "codex",
+        "developer-tools",
+        "free-api",
+        "free-tier",
+        "llm",
+        "llm-api",
+        "mcp",
+        "mcp-server",
+        "price-comparison"
+      ],
+      "owner": "hanzohanzhe",
+      "growth": 108
     },
     {
       "full_name": "mrtinkz/ai-charter",
@@ -1133,26 +1178,28 @@
       "growth": 108
     },
     {
-      "full_name": "kyegomez/open-jev",
-      "html_url": "https://github.com/kyegomez/open-jev",
-      "description": "an open-source, from-first-principles reconstruction of the ideas behind TypeSafe AI's Jev, written in pytorch",
-      "language": "Python",
+      "full_name": "ShadowSafin/Synapass",
+      "html_url": "https://github.com/ShadowSafin/Synapass",
+      "description": "AI inference gateway and control plane for multi-provider routing, policies, caching, tools, and observability.",
+      "language": "Go",
       "stargazers_count": 105,
-      "forks_count": 21,
+      "forks_count": 0,
       "open_issues_count": 0,
-      "created_at": "2026-09-21T00:13:17Z",
-      "updated_at": "2026-10-14T20:16:15Z",
+      "created_at": "2026-10-01T03:59:38Z",
+      "updated_at": "2026-10-15T15:21:05Z",
       "topics": [
         "ai",
-        "anthropic",
-        "attention",
-        "chatgpt",
-        "claude",
-        "gpt",
-        "jev",
-        "transformers"
+        "ai-gateway",
+        "api-gateway",
+        "inference",
+        "llm",
+        "llm-gateway",
+        "model-routing",
+        "multi-provider",
+        "openai-compatible",
+        "tool-calling"
       ],
-      "owner": "kyegomez",
+      "owner": "ShadowSafin",
       "growth": 105
     },
     {
@@ -1160,11 +1207,11 @@
       "html_url": "https://github.com/AppitStudio/awesome-jev",
       "description": "Curated Jev resources and runnable examples for typed AI decisions.",
       "language": "Python",
-      "stargazers_count": 104,
+      "stargazers_count": 105,
       "forks_count": 20,
-      "open_issues_count": 1,
+      "open_issues_count": 2,
       "created_at": "2026-09-18T17:56:36Z",
-      "updated_at": "2026-10-14T22:31:13Z",
+      "updated_at": "2026-10-16T05:41:03Z",
       "topics": [
         "ai",
         "awesome",
@@ -1175,7 +1222,7 @@
         "typesafe-ai"
       ],
       "owner": "AppitStudio",
-      "growth": 104
+      "growth": 105
     },
     {
       "full_name": "marcreichel/laya-php",
@@ -1211,40 +1258,15 @@
       "growth": 104
     },
     {
-      "full_name": "ShadowSafin/Synapass",
-      "html_url": "https://github.com/ShadowSafin/Synapass",
-      "description": "AI inference gateway and control plane for multi-provider routing, policies, caching, tools, and observability.",
-      "language": "Go",
-      "stargazers_count": 102,
-      "forks_count": 0,
-      "open_issues_count": 0,
-      "created_at": "2026-10-01T03:59:38Z",
-      "updated_at": "2026-10-15T05:32:24Z",
-      "topics": [
-        "ai",
-        "ai-gateway",
-        "api-gateway",
-        "inference",
-        "llm",
-        "llm-gateway",
-        "model-routing",
-        "multi-provider",
-        "openai-compatible",
-        "tool-calling"
-      ],
-      "owner": "ShadowSafin",
-      "growth": 102
-    },
-    {
       "full_name": "VictorButoi/FleXray",
       "html_url": "https://github.com/VictorButoi/FleXray",
       "description": "FleXray: Universal Clinical X-ray Segmentation",
       "language": "Python",
-      "stargazers_count": 99,
+      "stargazers_count": 101,
       "forks_count": 17,
       "open_issues_count": 1,
       "created_at": "2026-09-22T23:12:51Z",
-      "updated_at": "2026-10-14T09:25:58Z",
+      "updated_at": "2026-10-15T14:28:27Z",
       "topics": [
         "ai",
         "computer-vision",
@@ -1253,18 +1275,18 @@
         "segmentation"
       ],
       "owner": "VictorButoi",
-      "growth": 99
+      "growth": 101
     },
     {
       "full_name": "ufo-ai/ufo-core",
       "html_url": "https://github.com/ufo-ai/ufo-core",
       "description": "Agent operating system",
       "language": "Python",
-      "stargazers_count": 97,
+      "stargazers_count": 98,
       "forks_count": 12,
       "open_issues_count": 13,
       "created_at": "2026-09-27T07:25:44Z",
-      "updated_at": "2026-10-14T13:06:54Z",
+      "updated_at": "2026-10-15T18:05:24Z",
       "topics": [
         "ai",
         "ai-agent",
@@ -1282,18 +1304,18 @@
         "openclaw"
       ],
       "owner": "ufo-ai",
-      "growth": 97
+      "growth": 98
     },
     {
       "full_name": "rakesh0x/OpenCardboard",
       "html_url": "https://github.com/rakesh0x/OpenCardboard",
       "description": "OpenCardboard — local-first chat-to-edit AI video editor. Your footage never leaves your machine.",
       "language": "TypeScript",
-      "stargazers_count": 83,
-      "forks_count": 23,
+      "stargazers_count": 86,
+      "forks_count": 24,
       "open_issues_count": 1,
       "created_at": "2026-10-04T09:23:43Z",
-      "updated_at": "2026-10-14T14:09:12Z",
+      "updated_at": "2026-10-15T19:28:38Z",
       "topics": [
         "ai",
         "electron",
@@ -1302,18 +1324,39 @@
         "video-editor"
       ],
       "owner": "rakesh0x",
-      "growth": 83
+      "growth": 86
+    },
+    {
+      "full_name": "Bearisbug/Quilt",
+      "html_url": "https://github.com/Bearisbug/Quilt",
+      "description": "AI-native infinite-canvas design tool: describe an app, get multi-screen HTML designs on an infinite canvas, click through them as a prototype, and let your local coding agent read and write the canvas over MCP.",
+      "language": "TypeScript",
+      "stargazers_count": 80,
+      "forks_count": 2,
+      "open_issues_count": 0,
+      "created_at": "2026-09-20T08:55:29Z",
+      "updated_at": "2026-10-16T05:24:30Z",
+      "topics": [
+        "ai",
+        "claude",
+        "design-tool",
+        "infinite-canvas",
+        "mcp",
+        "prototyping"
+      ],
+      "owner": "Bearisbug",
+      "growth": 80
     },
     {
       "full_name": "LMTYdotcom/skills",
       "html_url": "https://github.com/LMTYdotcom/skills",
       "description": "Agent Skills for competitive GTM work - battlecards, win-loss, positioning, pricing, launches, deal prep and sales enablement. Installs into Claude Code, Codex, Copilot CLI, Cursor, Gemini CLI and any Agent Skills client. Works standalone; uses live evidence when LMTY is connected.",
       "language": "Python",
-      "stargazers_count": 79,
+      "stargazers_count": 80,
       "forks_count": 2,
       "open_issues_count": 0,
       "created_at": "2026-09-28T17:48:27Z",
-      "updated_at": "2026-10-15T01:52:28Z",
+      "updated_at": "2026-10-15T20:18:26Z",
       "topics": [
         "agent-skills",
         "ai",
@@ -1336,6 +1379,27 @@
         "win-loss-analysis"
       ],
       "owner": "LMTYdotcom",
+      "growth": 80
+    },
+    {
+      "full_name": "sharziki/semdecide",
+      "html_url": "https://github.com/sharziki/semdecide",
+      "description": "Typed semantic decisions for Unix pipelines and CI, powered by TypeSafe AI Jev.",
+      "language": "Python",
+      "stargazers_count": 79,
+      "forks_count": 10,
+      "open_issues_count": 0,
+      "created_at": "2026-09-16T17:24:18Z",
+      "updated_at": "2026-10-16T00:55:57Z",
+      "topics": [
+        "ai",
+        "ci",
+        "cli",
+        "jev",
+        "semantic",
+        "unix"
+      ],
+      "owner": "sharziki",
       "growth": 79
     },
     {
@@ -1370,27 +1434,6 @@
       "growth": 78
     },
     {
-      "full_name": "sharziki/semdecide",
-      "html_url": "https://github.com/sharziki/semdecide",
-      "description": "Typed semantic decisions for Unix pipelines and CI, powered by TypeSafe AI Jev.",
-      "language": "Python",
-      "stargazers_count": 78,
-      "forks_count": 10,
-      "open_issues_count": 0,
-      "created_at": "2026-09-16T17:24:18Z",
-      "updated_at": "2026-10-13T15:07:29Z",
-      "topics": [
-        "ai",
-        "ci",
-        "cli",
-        "jev",
-        "semantic",
-        "unix"
-      ],
-      "owner": "sharziki",
-      "growth": 78
-    },
-    {
       "full_name": "nalinbhardwaj/botscent",
       "html_url": "https://github.com/nalinbhardwaj/botscent",
       "description": "Botscent tells your site if an AI agent, not a person, is browsing it, and which one. 5 KB, MIT, 0 deps.",
@@ -1413,37 +1456,15 @@
       "growth": 76
     },
     {
-      "full_name": "BoyToy-Hub/RoBo-Sync-Studio",
-      "html_url": "https://github.com/BoyToy-Hub/RoBo-Sync-Studio",
-      "description": "Real-Time Synchronized AI Agentic Assistant for Roblox Studio Automation and Scripting 2026",
-      "language": "HTML",
-      "stargazers_count": 73,
-      "forks_count": 0,
-      "open_issues_count": 0,
-      "created_at": "2026-09-22T21:06:28Z",
-      "updated_at": "2026-10-15T02:56:57Z",
-      "topics": [
-        "ai",
-        "ai-agents",
-        "luau",
-        "luau-lang",
-        "roblox",
-        "roblox-script-lua",
-        "robloxstudio"
-      ],
-      "owner": "BoyToy-Hub",
-      "growth": 73
-    },
-    {
       "full_name": "Daniel987654321/roblox-studio-agent-bridge",
       "html_url": "https://github.com/Daniel987654321/roblox-studio-agent-bridge",
       "description": "Open Source Roblox Studio AI Coding Agent Tools 2026: 35 MCP Server Scripts for Safe Edits",
       "language": "HTML",
-      "stargazers_count": 72,
+      "stargazers_count": 73,
       "forks_count": 0,
       "open_issues_count": 0,
       "created_at": "2026-09-22T20:39:52Z",
-      "updated_at": "2026-10-15T01:14:55Z",
+      "updated_at": "2026-10-16T05:31:29Z",
       "topics": [
         "ai",
         "ai-agents",
@@ -1462,18 +1483,105 @@
         "typescript"
       ],
       "owner": "Daniel987654321",
-      "growth": 72
+      "growth": 73
+    },
+    {
+      "full_name": "yarik-contr/mcp-forge-studio-bridge",
+      "html_url": "https://github.com/yarik-contr/mcp-forge-studio-bridge",
+      "description": "AI-Powered Roblox Studio MCP Server 2026: Script, Terrain, Asset, Lighting & Two-Way Sync Assistant",
+      "language": "HTML",
+      "stargazers_count": 73,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "created_at": "2026-09-22T21:41:05Z",
+      "updated_at": "2026-10-16T02:50:55Z",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "antigravity",
+        "claude",
+        "claude-code",
+        "codex",
+        "cursor",
+        "game-development",
+        "gemini",
+        "luau",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "plugin",
+        "roblox",
+        "roblox-plugin",
+        "roblox-studio",
+        "typescript",
+        "weppy-roblox-mcp"
+      ],
+      "owner": "yarik-contr",
+      "growth": 73
+    },
+    {
+      "full_name": "BoyToy-Hub/RoBo-Sync-Studio",
+      "html_url": "https://github.com/BoyToy-Hub/RoBo-Sync-Studio",
+      "description": "Real-Time Synchronized AI Agentic Assistant for Roblox Studio Automation and Scripting 2026",
+      "language": "HTML",
+      "stargazers_count": 73,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "created_at": "2026-09-22T21:06:28Z",
+      "updated_at": "2026-10-16T05:22:41Z",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "luau",
+        "luau-lang",
+        "roblox",
+        "roblox-script-lua",
+        "robloxstudio"
+      ],
+      "owner": "BoyToy-Hub",
+      "growth": 73
+    },
+    {
+      "full_name": "pavlenkosa/wayvoice",
+      "html_url": "https://github.com/pavlenkosa/wayvoice",
+      "description": "Offline voice typing for Linux/Wayland. Press a hotkey, speak, and text appears in the active application. Local Whisper • GTK/libadwaita • No cloud required.",
+      "language": "Python",
+      "stargazers_count": 73,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "created_at": "2026-10-02T19:53:06Z",
+      "updated_at": "2026-10-15T22:13:09Z",
+      "topics": [
+        "accessibility",
+        "ai",
+        "dictation",
+        "faster-whisper",
+        "gnome",
+        "gtk4",
+        "libadwaita",
+        "linux",
+        "offline",
+        "offline-ai",
+        "offline-first",
+        "privacy",
+        "speech-to-text",
+        "voice-input",
+        "wayland",
+        "whisper"
+      ],
+      "owner": "pavlenkosa",
+      "growth": 73
     },
     {
       "full_name": "selfishprimate/seekter",
       "html_url": "https://github.com/selfishprimate/seekter",
       "description": "A job-search agent for Claude Code. It searches job sources every day, filters postings against your rules (location, visa, salary, sectors, seniority, language), fills application forms in your own Chrome, and keeps every application and skip as a markdown file you can read, grep and diff.",
       "language": "Python",
-      "stargazers_count": 71,
+      "stargazers_count": 72,
       "forks_count": 13,
       "open_issues_count": 0,
       "created_at": "2026-09-22T09:30:26Z",
-      "updated_at": "2026-10-15T02:21:18Z",
+      "updated_at": "2026-10-16T01:32:21Z",
       "topics": [
         "ai",
         "ai-agent",
@@ -1494,18 +1602,18 @@
         "skills"
       ],
       "owner": "selfishprimate",
-      "growth": 71
+      "growth": 72
     },
     {
       "full_name": "adamkhalile/luau-docs-oracle",
       "html_url": "https://github.com/adamkhalile/luau-docs-oracle",
       "description": "Best Roblox Luau Bug Checker and API Verifier 2026 DevForum MCP Tool",
       "language": "HTML",
-      "stargazers_count": 71,
+      "stargazers_count": 72,
       "forks_count": 0,
       "open_issues_count": 0,
       "created_at": "2026-09-22T20:49:29Z",
-      "updated_at": "2026-10-15T01:04:02Z",
+      "updated_at": "2026-10-16T02:03:49Z",
       "topics": [
         "ai",
         "ai-agents",
@@ -1529,6 +1637,26 @@
         "typescript"
       ],
       "owner": "adamkhalile",
+      "growth": 72
+    },
+    {
+      "full_name": "openspline/openspline",
+      "html_url": "https://github.com/openspline/openspline",
+      "description": "Give a face to your voice AI in 5 lines of code. Generate realtime avatar video connected to your voice AI locally",
+      "language": "Python",
+      "stargazers_count": 71,
+      "forks_count": 1,
+      "open_issues_count": 4,
+      "created_at": "2026-09-29T18:34:01Z",
+      "updated_at": "2026-10-16T04:45:59Z",
+      "topics": [
+        "ai",
+        "avatar",
+        "local-first",
+        "realtime",
+        "voiceai"
+      ],
+      "owner": "openspline",
       "growth": 71
     },
     {
@@ -1540,7 +1668,7 @@
       "forks_count": 1,
       "open_issues_count": 0,
       "created_at": "2026-10-13T03:36:43Z",
-      "updated_at": "2026-10-14T21:24:21Z",
+      "updated_at": "2026-10-15T17:39:30Z",
       "topics": [
         "ai",
         "cli",
@@ -1556,69 +1684,25 @@
       "growth": 71
     },
     {
-      "full_name": "yarik-contr/mcp-forge-studio-bridge",
-      "html_url": "https://github.com/yarik-contr/mcp-forge-studio-bridge",
-      "description": "AI-Powered Roblox Studio MCP Server 2026: Script, Terrain, Asset, Lighting & Two-Way Sync Assistant",
-      "language": "HTML",
-      "stargazers_count": 71,
-      "forks_count": 0,
-      "open_issues_count": 0,
-      "created_at": "2026-09-22T21:41:05Z",
-      "updated_at": "2026-10-15T05:28:57Z",
+      "full_name": "electric-capital/quest",
+      "html_url": "https://github.com/electric-capital/quest",
+      "description": "An open source, self-hosted, safety-focused AI workbench",
+      "language": "Python",
+      "stargazers_count": 70,
+      "forks_count": 5,
+      "open_issues_count": 14,
+      "created_at": "2026-09-21T17:04:22Z",
+      "updated_at": "2026-10-16T05:29:29Z",
       "topics": [
         "ai",
         "ai-agents",
-        "antigravity",
-        "claude",
-        "claude-code",
-        "codex",
-        "cursor",
-        "game-development",
-        "gemini",
-        "luau",
-        "mcp",
-        "mcp-server",
-        "model-context-protocol",
-        "plugin",
-        "roblox",
-        "roblox-plugin",
-        "roblox-studio",
-        "typescript",
-        "weppy-roblox-mcp"
+        "ai-governance",
+        "ai-security",
+        "harness",
+        "harness-ai"
       ],
-      "owner": "yarik-contr",
-      "growth": 71
-    },
-    {
-      "full_name": "pavlenkosa/wayvoice",
-      "html_url": "https://github.com/pavlenkosa/wayvoice",
-      "description": "Offline voice typing for Linux/Wayland. Press a hotkey, speak, and text appears in the active application. Local Whisper • GTK/libadwaita • No cloud required.",
-      "language": "Python",
-      "stargazers_count": 71,
-      "forks_count": 0,
-      "open_issues_count": 0,
-      "created_at": "2026-10-02T19:53:06Z",
-      "updated_at": "2026-10-14T03:30:29Z",
-      "topics": [
-        "accessibility",
-        "ai",
-        "dictation",
-        "faster-whisper",
-        "gnome",
-        "gtk4",
-        "libadwaita",
-        "linux",
-        "offline",
-        "offline-ai",
-        "offline-first",
-        "privacy",
-        "speech-to-text",
-        "voice-input",
-        "wayland",
-        "whisper"
-      ],
-      "owner": "pavlenkosa",
-      "growth": 71
+      "owner": "electric-capital",
+      "growth": 70
     },
     {
       "full_name": "adamenrem-jpg/Roblox-Live-Bridge-MCP",
@@ -1629,7 +1713,7 @@
       "forks_count": 0,
       "open_issues_count": 0,
       "created_at": "2026-09-22T20:48:12Z",
-      "updated_at": "2026-10-15T01:07:27Z",
+      "updated_at": "2026-10-16T02:21:35Z",
       "topics": [
         "ai",
         "docker",
@@ -1643,48 +1727,6 @@
       "growth": 70
     },
     {
-      "full_name": "Bearisbug/Quilt",
-      "html_url": "https://github.com/Bearisbug/Quilt",
-      "description": "AI-native infinite-canvas design tool: describe an app, get multi-screen HTML designs on an infinite canvas, click through them as a prototype, and let your local coding agent read and write the canvas over MCP.",
-      "language": "TypeScript",
-      "stargazers_count": 69,
-      "forks_count": 2,
-      "open_issues_count": 0,
-      "created_at": "2026-09-20T08:55:29Z",
-      "updated_at": "2026-10-15T05:33:09Z",
-      "topics": [
-        "ai",
-        "claude",
-        "design-tool",
-        "infinite-canvas",
-        "mcp",
-        "prototyping"
-      ],
-      "owner": "Bearisbug",
-      "growth": 69
-    },
-    {
-      "full_name": "electric-capital/quest",
-      "html_url": "https://github.com/electric-capital/quest",
-      "description": "An open source, self-hosted, safety-focused AI workbench",
-      "language": "Python",
-      "stargazers_count": 68,
-      "forks_count": 5,
-      "open_issues_count": 16,
-      "created_at": "2026-09-21T17:04:22Z",
-      "updated_at": "2026-10-15T04:24:43Z",
-      "topics": [
-        "ai",
-        "ai-agents",
-        "ai-governance",
-        "ai-security",
-        "harness",
-        "harness-ai"
-      ],
-      "owner": "electric-capital",
-      "growth": 68
-    },
-    {
       "full_name": "JamesBuciaIt3A/Agent-Forge",
       "html_url": "https://github.com/JamesBuciaIt3A/Agent-Forge",
       "description": "Foreman 2026: AI-Agnostic Build Playbook for Shipping Real Websites Fast",
@@ -1693,7 +1735,7 @@
       "forks_count": 0,
       "open_issues_count": 0,
       "created_at": "2026-09-22T19:51:51Z",
-      "updated_at": "2026-10-15T01:03:43Z",
+      "updated_at": "2026-10-16T02:03:11Z",
       "topics": [
         "agent",
         "agent-loop",
@@ -1713,6 +1755,60 @@
       ],
       "owner": "JamesBuciaIt3A",
       "growth": 68
+    },
+    {
+      "full_name": "Takamatsu-Hikaru/AI-Research-Guide",
+      "html_url": "https://github.com/Takamatsu-Hikaru/AI-Research-Guide",
+      "description": "AI 科研入门指南：大学选择、科研 60 问、入门项目、学习路线与论文卡片。A bilingual guide to getting started in AI research.",
+      "language": "JavaScript",
+      "stargazers_count": 67,
+      "forks_count": 3,
+      "open_issues_count": 0,
+      "created_at": "2026-10-05T03:32:47Z",
+      "updated_at": "2026-10-16T05:15:15Z",
+      "topics": [
+        "ai",
+        "chinese",
+        "education",
+        "getting-started",
+        "machine-learning",
+        "research"
+      ],
+      "owner": "Takamatsu-Hikaru",
+      "growth": 67
+    },
+    {
+      "full_name": "sebastianhaba/book-to-course-skill",
+      "html_url": "https://github.com/sebastianhaba/book-to-course-skill",
+      "description": "Claude skill that turns a book (EPUB, PDF, HTML, DOCX, Markdown) into an interactive beginner-friendly course: step-by-step lessons, animations, quizzes, chapter tests, flashcards and coding exercises checked by unit tests, with progress saved to files. Runs in the browser, or packaged as an Android APK or a Linux AppImage.",
+      "language": "Python",
+      "stargazers_count": 66,
+      "forks_count": 13,
+      "open_issues_count": 0,
+      "created_at": "2026-10-03T13:36:54Z",
+      "updated_at": "2026-10-15T07:37:44Z",
+      "topics": [
+        "ai",
+        "ai-skill",
+        "ai-skill-file",
+        "ai-skills",
+        "android",
+        "appimage",
+        "books",
+        "claude",
+        "claude-ai",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "course",
+        "course-materials",
+        "courses",
+        "hyperskill",
+        "learning",
+        "learning-by-doing"
+      ],
+      "owner": "sebastianhaba",
+      "growth": 66
     },
     {
       "full_name": "levy-street/pokemon-claude-red",
@@ -1741,39 +1837,6 @@
       "growth": 66
     },
     {
-      "full_name": "sebastianhaba/book-to-course-skill",
-      "html_url": "https://github.com/sebastianhaba/book-to-course-skill",
-      "description": "Claude skill that turns a book (EPUB, PDF, HTML, DOCX, Markdown) into an interactive beginner-friendly course: step-by-step lessons, animations, quizzes, chapter tests, flashcards and coding exercises checked by unit tests, with progress saved to files. Runs in the browser, or packaged as an Android APK or a Linux AppImage.",
-      "language": "Python",
-      "stargazers_count": 65,
-      "forks_count": 13,
-      "open_issues_count": 0,
-      "created_at": "2026-10-03T13:36:54Z",
-      "updated_at": "2026-10-13T13:13:08Z",
-      "topics": [
-        "ai",
-        "ai-skill",
-        "ai-skill-file",
-        "ai-skills",
-        "android",
-        "appimage",
-        "books",
-        "claude",
-        "claude-ai",
-        "claude-code",
-        "claude-skills",
-        "codex",
-        "course",
-        "course-materials",
-        "courses",
-        "hyperskill",
-        "learning",
-        "learning-by-doing"
-      ],
-      "owner": "sebastianhaba",
-      "growth": 65
-    },
-    {
       "full_name": "facebookresearch/swe-sweep",
       "html_url": "https://github.com/facebookresearch/swe-sweep",
       "description": "How many bugs can LMs find & fix in large codebases?",
@@ -1800,15 +1863,44 @@
       "growth": 63
     },
     {
+      "full_name": "tony3liu/eido",
+      "html_url": "https://github.com/tony3liu/eido",
+      "description": "AI coding agent workspace for macOS, built on Zed and pi. Native code editing and review, browser use, computer use, and global agent access controls.",
+      "language": "Rust",
+      "stargazers_count": 63,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "created_at": "2026-10-08T12:55:02Z",
+      "updated_at": "2026-10-15T23:55:19Z",
+      "topics": [
+        "ai",
+        "ai-assistant",
+        "browser-use",
+        "code-editor",
+        "code-review",
+        "coding-agent",
+        "computer-use",
+        "developer-tools",
+        "ide",
+        "macos",
+        "pi",
+        "rust",
+        "typescript",
+        "zed"
+      ],
+      "owner": "tony3liu",
+      "growth": 63
+    },
+    {
       "full_name": "andududu/jeview",
       "html_url": "https://github.com/andududu/jeview",
       "description": "An unofficial local visualizer for Jev (TypeSafe): a live view of every call your code makes. Not affiliated with TypeSafe AI.",
       "language": "JavaScript",
-      "stargazers_count": 62,
+      "stargazers_count": 63,
       "forks_count": 11,
       "open_issues_count": 1,
       "created_at": "2026-09-21T14:03:13Z",
-      "updated_at": "2026-10-13T12:28:10Z",
+      "updated_at": "2026-10-16T04:00:37Z",
       "topics": [
         "ai",
         "ai-agent",
@@ -1828,7 +1920,96 @@
         "visualizer"
       ],
       "owner": "andududu",
-      "growth": 62
+      "growth": 63
+    },
+    {
+      "full_name": "songshikang0111/awesome-REA-cases",
+      "html_url": "https://github.com/songshikang0111/awesome-REA-cases",
+      "description": "A curated collection of REA and AI-assisted reverse engineering cases, projects, and ideas. Updated every four hours.",
+      "language": "Python",
+      "stargazers_count": 63,
+      "forks_count": 11,
+      "open_issues_count": 0,
+      "created_at": "2026-10-12T04:52:44Z",
+      "updated_at": "2026-10-16T05:24:04Z",
+      "topics": [
+        "ai",
+        "awesome-list",
+        "rea",
+        "reverse-engineering"
+      ],
+      "owner": "songshikang0111",
+      "growth": 63
+    },
+    {
+      "full_name": "apenasdouglas/ai-motion-library",
+      "html_url": "https://github.com/apenasdouglas/ai-motion-library",
+      "description": "Biblioteca de Motion apenasdouglas: 24 efeitos de animação com o nome em português e o termo pra pedir pra IA. Receitas pra canal dark, tema escuro e claro, skill pro Claude Code. Motion graphics prompts in Portuguese.",
+      "language": "Unknown",
+      "stargazers_count": 63,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "created_at": "2026-10-14T13:13:47Z",
+      "updated_at": "2026-10-15T23:13:51Z",
+      "topics": [
+        "agent-skills",
+        "ai",
+        "animation",
+        "brasil",
+        "canal-dark",
+        "claude-code",
+        "claude-skills",
+        "easing",
+        "faceless-youtube",
+        "gsap",
+        "hyperframes",
+        "motion-design",
+        "motion-graphics",
+        "portugues",
+        "prompt-engineering",
+        "prompts",
+        "pt-br",
+        "remotion",
+        "video-editing",
+        "youtube"
+      ],
+      "owner": "apenasdouglas",
+      "growth": 63
+    },
+    {
+      "full_name": "datamllab/OpenEBFM",
+      "html_url": "https://github.com/datamllab/OpenEBFM",
+      "description": "Open-source code for training and scaling up energy-based foundation models.",
+      "language": "Python",
+      "stargazers_count": 60,
+      "forks_count": 4,
+      "open_issues_count": 0,
+      "created_at": "2026-09-21T01:49:37Z",
+      "updated_at": "2026-10-16T05:36:44Z",
+      "topics": [
+        "ai",
+        "climbmix",
+        "dclm",
+        "energy-based-generation",
+        "energy-based-language-models",
+        "energy-based-models",
+        "fine-tuning",
+        "fineweb",
+        "foundation-models",
+        "language-models",
+        "large-language-model",
+        "llm",
+        "post-training",
+        "pre-training",
+        "pretraining-model",
+        "reinforcement-learning",
+        "rl",
+        "scaling-law",
+        "scaling-laws",
+        "sft"
+      ],
+      "owner": "datamllab",
+      "growth": 60
     },
     {
       "full_name": "Hello-CTF/NexTerm",
@@ -1837,7 +2018,7 @@
       "language": "Go",
       "stargazers_count": 59,
       "forks_count": 11,
-      "open_issues_count": 0,
+      "open_issues_count": 5,
       "created_at": "2026-09-27T18:36:06Z",
       "updated_at": "2026-10-15T04:47:55Z",
       "topics": [
@@ -1893,7 +2074,7 @@
       "forks_count": 0,
       "open_issues_count": 0,
       "created_at": "2026-09-21T20:51:18Z",
-      "updated_at": "2026-10-15T01:06:53Z",
+      "updated_at": "2026-10-16T02:18:31Z",
       "topics": [
         "ai",
         "ai-agents",
@@ -1951,7 +2132,7 @@
       "forks_count": 0,
       "open_issues_count": 0,
       "created_at": "2026-09-21T20:43:14Z",
-      "updated_at": "2026-10-15T05:29:34Z",
+      "updated_at": "2026-10-16T05:31:16Z",
       "topics": [
         "ai",
         "finger-counter",
@@ -1976,7 +2157,7 @@
       "forks_count": 0,
       "open_issues_count": 0,
       "created_at": "2026-09-21T20:58:42Z",
-      "updated_at": "2026-10-15T01:07:44Z",
+      "updated_at": "2026-10-16T02:23:00Z",
       "topics": [
         "ai",
         "brain",
@@ -2000,7 +2181,7 @@
       "forks_count": 0,
       "open_issues_count": 0,
       "created_at": "2026-09-21T21:21:10Z",
-      "updated_at": "2026-10-15T01:19:22Z",
+      "updated_at": "2026-10-16T01:04:57Z",
       "topics": [
         "ai",
         "computer-vision",
@@ -2038,6 +2219,140 @@
       "growth": 56
     },
     {
+      "full_name": "ahmadluthfan421-star/Lithicsoft-Trainer-Forge",
+      "html_url": "https://github.com/ahmadluthfan421-star/Lithicsoft-Trainer-Forge",
+      "description": "Best Open Source Python AI Trainer Studio Kit 2026",
+      "language": "HTML",
+      "stargazers_count": 56,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "created_at": "2026-09-21T21:43:11Z",
+      "updated_at": "2026-10-16T01:07:57Z",
+      "topics": [
+        "ai",
+        "ai-models",
+        "automl",
+        "deep-learning",
+        "deep-nueral-networks",
+        "lithicsoft",
+        "machine-learning",
+        "trainer",
+        "trainer-studio",
+        "training",
+        "transfer-learning"
+      ],
+      "owner": "ahmadluthfan421-star",
+      "growth": 56
+    },
+    {
+      "full_name": "vbszbdrup/Pose-Angle-Coach",
+      "html_url": "https://github.com/vbszbdrup/Pose-Angle-Coach",
+      "description": "AI Posture Coach with OpenCV Pose Estimation 2026",
+      "language": "HTML",
+      "stargazers_count": 56,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "created_at": "2026-09-21T20:43:13Z",
+      "updated_at": "2026-10-16T05:12:23Z",
+      "topics": [
+        "ai",
+        "math",
+        "mediapipe",
+        "numpy",
+        "opencv",
+        "python3",
+        "time",
+        "trainer"
+      ],
+      "owner": "vbszbdrup",
+      "growth": 56
+    },
+    {
+      "full_name": "Ayush-6/AI-Studio-Setup",
+      "html_url": "https://github.com/Ayush-6/AI-Studio-Setup",
+      "description": "Open Source AI Trainer Studio Setup and Auto Update Tool 2026",
+      "language": "HTML",
+      "stargazers_count": 56,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "created_at": "2026-09-21T20:43:25Z",
+      "updated_at": "2026-10-16T05:25:56Z",
+      "topics": [
+        "ai",
+        "ai-models",
+        "deep-learning",
+        "deep-neural-networks",
+        "installer",
+        "lithicsoft",
+        "machine-learning",
+        "trainer",
+        "trainer-studio",
+        "training",
+        "transfer-learning",
+        "updater"
+      ],
+      "owner": "Ayush-6",
+      "growth": 56
+    },
+    {
+      "full_name": "ajwadpxgamer-dotcom/cs-aim-forge",
+      "html_url": "https://github.com/ajwadpxgamer-dotcom/cs-aim-forge",
+      "description": "Best Browser Aim Trainer for CS2 and Valorant Practice 2026",
+      "language": "HTML",
+      "stargazers_count": 56,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "created_at": "2026-09-21T21:06:26Z",
+      "updated_at": "2026-10-16T05:28:12Z",
+      "topics": [
+        "ai",
+        "aim",
+        "artificial-intelligence",
+        "cs",
+        "cs-aim-trainer",
+        "damian",
+        "damian-kita",
+        "damiankita",
+        "deepseek",
+        "game",
+        "games",
+        "html",
+        "kita",
+        "kita-damian",
+        "kitadamian",
+        "simulator",
+        "sztuczna-inteligencja",
+        "trainer"
+      ],
+      "owner": "ajwadpxgamer-dotcom",
+      "growth": 56
+    },
+    {
+      "full_name": "Thanathip55/AI-LiveStream-Series-Slides-Hub",
+      "html_url": "https://github.com/Thanathip55/AI-LiveStream-Series-Slides-Hub",
+      "description": "Microsoft AI LiveStream Series 2026: Ultimate PPT Resources for AI Trainers and Developers",
+      "language": "HTML",
+      "stargazers_count": 56,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "created_at": "2026-09-21T21:51:24Z",
+      "updated_at": "2026-10-16T01:13:59Z",
+      "topics": [
+        "ai",
+        "app",
+        "azure",
+        "chatbot",
+        "fox",
+        "live",
+        "pamela",
+        "series",
+        "tools",
+        "trainer"
+      ],
+      "owner": "Thanathip55",
+      "growth": 56
+    },
+    {
       "full_name": "tjayze/olympiad-problem-forge",
       "html_url": "https://github.com/tjayze/olympiad-problem-forge",
       "description": "Best Open-Source Math Olympiad Problem Generator 2026",
@@ -2046,7 +2361,7 @@
       "forks_count": 0,
       "open_issues_count": 0,
       "created_at": "2026-09-21T21:16:38Z",
-      "updated_at": "2026-10-15T01:14:15Z",
+      "updated_at": "2026-10-16T05:30:40Z",
       "topics": [
         "ai",
         "desktop-application",
@@ -2067,104 +2382,38 @@
       "growth": 56
     },
     {
-      "full_name": "Thanathip55/AI-LiveStream-Series-Slides-Hub",
-      "html_url": "https://github.com/Thanathip55/AI-LiveStream-Series-Slides-Hub",
-      "description": "Microsoft AI LiveStream Series 2026: Ultimate PPT Resources for AI Trainers and Developers",
-      "language": "HTML",
+      "full_name": "efim0v/brow",
+      "html_url": "https://github.com/efim0v/brow",
+      "description": "Claude Code usage and rate limits in the MacBook notch. Track the 5-hour and weekly limits of multiple Claude accounts at once, see when each resets, and sign in to each account in its own browser profile. macOS app for AI coding.",
+      "language": "Swift",
       "stargazers_count": 56,
-      "forks_count": 0,
-      "open_issues_count": 0,
-      "created_at": "2026-09-21T21:51:24Z",
-      "updated_at": "2026-10-15T04:21:49Z",
+      "forks_count": 1,
+      "open_issues_count": 7,
+      "created_at": "2026-10-04T21:14:52Z",
+      "updated_at": "2026-10-15T20:49:27Z",
       "topics": [
         "ai",
-        "app",
-        "azure",
-        "chatbot",
-        "fox",
-        "live",
-        "pamela",
-        "series",
-        "tools",
-        "trainer"
+        "ai-agents",
+        "ai-coding",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "claude-code-usage",
+        "coding-agents",
+        "developer-tools",
+        "llm",
+        "macos",
+        "macos-app",
+        "menubar",
+        "multi-account",
+        "notch",
+        "rate-limits",
+        "swift",
+        "swiftui",
+        "usage-monitor",
+        "usage-tracker"
       ],
-      "owner": "Thanathip55",
-      "growth": 56
-    },
-    {
-      "full_name": "ahmadluthfan421-star/Lithicsoft-Trainer-Forge",
-      "html_url": "https://github.com/ahmadluthfan421-star/Lithicsoft-Trainer-Forge",
-      "description": "Best Open Source Python AI Trainer Studio Kit 2026",
-      "language": "HTML",
-      "stargazers_count": 56,
-      "forks_count": 0,
-      "open_issues_count": 0,
-      "created_at": "2026-09-21T21:43:11Z",
-      "updated_at": "2026-10-15T01:22:12Z",
-      "topics": [
-        "ai",
-        "ai-models",
-        "automl",
-        "deep-learning",
-        "deep-nueral-networks",
-        "lithicsoft",
-        "machine-learning",
-        "trainer",
-        "trainer-studio",
-        "training",
-        "transfer-learning"
-      ],
-      "owner": "ahmadluthfan421-star",
-      "growth": 56
-    },
-    {
-      "full_name": "Ayush-6/AI-Studio-Setup",
-      "html_url": "https://github.com/Ayush-6/AI-Studio-Setup",
-      "description": "Open Source AI Trainer Studio Setup and Auto Update Tool 2026",
-      "language": "HTML",
-      "stargazers_count": 56,
-      "forks_count": 0,
-      "open_issues_count": 0,
-      "created_at": "2026-09-21T20:43:25Z",
-      "updated_at": "2026-10-15T03:10:43Z",
-      "topics": [
-        "ai",
-        "ai-models",
-        "deep-learning",
-        "deep-neural-networks",
-        "installer",
-        "lithicsoft",
-        "machine-learning",
-        "trainer",
-        "trainer-studio",
-        "training",
-        "transfer-learning",
-        "updater"
-      ],
-      "owner": "Ayush-6",
-      "growth": 56
-    },
-    {
-      "full_name": "vbszbdrup/Pose-Angle-Coach",
-      "html_url": "https://github.com/vbszbdrup/Pose-Angle-Coach",
-      "description": "AI Posture Coach with OpenCV Pose Estimation 2026",
-      "language": "HTML",
-      "stargazers_count": 56,
-      "forks_count": 0,
-      "open_issues_count": 0,
-      "created_at": "2026-09-21T20:43:13Z",
-      "updated_at": "2026-10-15T05:36:54Z",
-      "topics": [
-        "ai",
-        "math",
-        "mediapipe",
-        "numpy",
-        "opencv",
-        "python3",
-        "time",
-        "trainer"
-      ],
-      "owner": "vbszbdrup",
+      "owner": "efim0v",
       "growth": 56
     },
     {
@@ -2176,7 +2425,7 @@
       "forks_count": 0,
       "open_issues_count": 0,
       "created_at": "2026-09-21T21:06:12Z",
-      "updated_at": "2026-10-15T01:21:38Z",
+      "updated_at": "2026-10-16T01:07:41Z",
       "topics": [
         "ai",
         "aim",
@@ -2202,59 +2451,6 @@
       "growth": 56
     },
     {
-      "full_name": "ajwadpxgamer-dotcom/cs-aim-forge",
-      "html_url": "https://github.com/ajwadpxgamer-dotcom/cs-aim-forge",
-      "description": "Best Browser Aim Trainer for CS2 and Valorant Practice 2026",
-      "language": "HTML",
-      "stargazers_count": 56,
-      "forks_count": 0,
-      "open_issues_count": 0,
-      "created_at": "2026-09-21T21:06:26Z",
-      "updated_at": "2026-10-15T03:18:44Z",
-      "topics": [
-        "ai",
-        "aim",
-        "artificial-intelligence",
-        "cs",
-        "cs-aim-trainer",
-        "damian",
-        "damian-kita",
-        "damiankita",
-        "deepseek",
-        "game",
-        "games",
-        "html",
-        "kita",
-        "kita-damian",
-        "kitadamian",
-        "simulator",
-        "sztuczna-inteligencja",
-        "trainer"
-      ],
-      "owner": "ajwadpxgamer-dotcom",
-      "growth": 56
-    },
-    {
-      "full_name": "n3428093-rgb/rl-gym-forge",
-      "html_url": "https://github.com/n3428093-rgb/rl-gym-forge",
-      "description": "Open Source LLM Reinforcement Learning Framework for MLGym Environments 2026",
-      "language": "HTML",
-      "stargazers_count": 56,
-      "forks_count": 0,
-      "open_issues_count": 0,
-      "created_at": "2026-09-21T21:44:01Z",
-      "updated_at": "2026-10-15T01:05:52Z",
-      "topics": [
-        "ai",
-        "framework",
-        "gym",
-        "llm",
-        "trainer"
-      ],
-      "owner": "n3428093-rgb",
-      "growth": 56
-    },
-    {
       "full_name": "ozynautetu-create/FlowForge-Optima",
       "html_url": "https://github.com/ozynautetu-create/FlowForge-Optima",
       "description": "AdalFlow Alternative 2026: Auto-Optimize LLM Apps Without Code",
@@ -2263,7 +2459,7 @@
       "forks_count": 0,
       "open_issues_count": 0,
       "created_at": "2026-09-21T20:43:11Z",
-      "updated_at": "2026-10-15T01:20:12Z",
+      "updated_at": "2026-10-16T01:05:46Z",
       "topics": [
         "agent",
         "ai",
@@ -2290,74 +2486,24 @@
       "growth": 56
     },
     {
-      "full_name": "apenasdouglas/ai-motion-library",
-      "html_url": "https://github.com/apenasdouglas/ai-motion-library",
-      "description": "Biblioteca de Motion apenasdouglas: 24 efeitos de animação com o nome em português e o termo pra pedir pra IA. Receitas pra canal dark, tema escuro e claro, skill pro Claude Code. Motion graphics prompts in Portuguese.",
-      "language": "Unknown",
+      "full_name": "n3428093-rgb/rl-gym-forge",
+      "html_url": "https://github.com/n3428093-rgb/rl-gym-forge",
+      "description": "Open Source LLM Reinforcement Learning Framework for MLGym Environments 2026",
+      "language": "HTML",
       "stargazers_count": 56,
       "forks_count": 0,
       "open_issues_count": 0,
-      "created_at": "2026-10-14T13:13:47Z",
-      "updated_at": "2026-10-15T03:13:57Z",
-      "topics": [
-        "agent-skills",
-        "ai",
-        "animation",
-        "brasil",
-        "canal-dark",
-        "claude-code",
-        "claude-skills",
-        "easing",
-        "faceless-youtube",
-        "gsap",
-        "hyperframes",
-        "motion-design",
-        "motion-graphics",
-        "portugues",
-        "prompt-engineering",
-        "prompts",
-        "pt-br",
-        "remotion",
-        "video-editing",
-        "youtube"
-      ],
-      "owner": "apenasdouglas",
-      "growth": 56
-    },
-    {
-      "full_name": "efim0v/brow",
-      "html_url": "https://github.com/efim0v/brow",
-      "description": "Claude Code usage and rate limits in the MacBook notch. Track the 5-hour and weekly limits of multiple Claude accounts at once, see when each resets, and sign in to each account in its own browser profile. macOS app for AI coding.",
-      "language": "Swift",
-      "stargazers_count": 55,
-      "forks_count": 1,
-      "open_issues_count": 7,
-      "created_at": "2026-10-04T21:14:52Z",
-      "updated_at": "2026-10-14T23:37:02Z",
+      "created_at": "2026-09-21T21:44:01Z",
+      "updated_at": "2026-10-16T02:12:50Z",
       "topics": [
         "ai",
-        "ai-agents",
-        "ai-coding",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "claude-code-usage",
-        "coding-agents",
-        "developer-tools",
+        "framework",
+        "gym",
         "llm",
-        "macos",
-        "macos-app",
-        "menubar",
-        "multi-account",
-        "notch",
-        "rate-limits",
-        "swift",
-        "swiftui",
-        "usage-monitor",
-        "usage-tracker"
+        "trainer"
       ],
-      "owner": "efim0v",
-      "growth": 55
+      "owner": "n3428093-rgb",
+      "growth": 56
     },
     {
       "full_name": "Wranked1/DDNet-AI",
@@ -2380,28 +2526,6 @@
         "typescript"
       ],
       "owner": "Wranked1",
-      "growth": 54
-    },
-    {
-      "full_name": "csadigital/ai-writer",
-      "html_url": "https://github.com/csadigital/ai-writer",
-      "description": "✨ Multilingual AI product copy from images. Responsive writing studio, translation, accounts, credits and automatic setup with optional Docker MySQL.",
-      "language": "JavaScript",
-      "stargazers_count": 54,
-      "forks_count": 0,
-      "open_issues_count": 0,
-      "created_at": "2026-10-11T04:08:29Z",
-      "updated_at": "2026-10-12T09:54:05Z",
-      "topics": [
-        "ai",
-        "ecommerce",
-        "express",
-        "multilingual",
-        "nodejs",
-        "openai",
-        "product-description"
-      ],
-      "owner": "csadigital",
       "growth": 54
     },
     {
@@ -2438,7 +2562,7 @@
       "forks_count": 0,
       "open_issues_count": 0,
       "created_at": "2026-09-21T22:44:36Z",
-      "updated_at": "2026-10-15T01:00:50Z",
+      "updated_at": "2026-10-16T01:51:31Z",
       "topics": [
         "ai",
         "ai-models",
@@ -2456,32 +2580,6 @@
       "growth": 53
     },
     {
-      "full_name": "kayembemike/plugforge-embedded",
-      "html_url": "https://github.com/kayembemike/plugforge-embedded",
-      "description": "Pluggable AI Skill Framework for Embedded Linux Automation 2026",
-      "language": "HTML",
-      "stargazers_count": 53,
-      "forks_count": 0,
-      "open_issues_count": 0,
-      "created_at": "2026-09-21T22:08:17Z",
-      "updated_at": "2026-10-15T05:27:48Z",
-      "topics": [
-        "agent",
-        "ai",
-        "embedded",
-        "horse",
-        "linux",
-        "mcu",
-        "ritual-implement",
-        "rtos",
-        "rules",
-        "skills",
-        "trainer"
-      ],
-      "owner": "kayembemike",
-      "growth": 53
-    },
-    {
       "full_name": "yolinc02-star/learn-by-teaching-lab",
       "html_url": "https://github.com/yolinc02-star/learn-by-teaching-lab",
       "description": "Practical IT Teaching Hub 2026: Learn, Build and Share Real Skills",
@@ -2490,7 +2588,7 @@
       "forks_count": 0,
       "open_issues_count": 0,
       "created_at": "2026-09-21T21:52:22Z",
-      "updated_at": "2026-10-15T04:18:15Z",
+      "updated_at": "2026-10-16T01:08:38Z",
       "topics": [
         "ai",
         "analyst",
@@ -2546,96 +2644,29 @@
       "growth": 53
     },
     {
-      "full_name": "songshikang0111/awesome-REA-cases",
-      "html_url": "https://github.com/songshikang0111/awesome-REA-cases",
-      "description": "REA / AI 逆向案例合集：每天 6 次定时追踪公开案例，自动筛选、去重并更新。",
-      "language": "Python",
-      "stargazers_count": 53,
-      "forks_count": 8,
-      "open_issues_count": 0,
-      "created_at": "2026-10-12T04:52:44Z",
-      "updated_at": "2026-10-15T05:28:15Z",
-      "topics": [
-        "ai",
-        "awesome-list",
-        "rea",
-        "reverse-engineering"
-      ],
-      "owner": "songshikang0111",
-      "growth": 53
-    },
-    {
-      "full_name": "STEAM-DROPS/finetune-lab-notes",
-      "html_url": "https://github.com/STEAM-DROPS/finetune-lab-notes",
-      "description": "Fine-Tuning Transformers in 2026: Hands-On LLM Training, LoRA, and PEFT Guide",
+      "full_name": "kayembemike/plugforge-embedded",
+      "html_url": "https://github.com/kayembemike/plugforge-embedded",
+      "description": "Pluggable AI Skill Framework for Embedded Linux Automation 2026",
       "language": "HTML",
       "stargazers_count": 53,
       "forks_count": 0,
       "open_issues_count": 0,
-      "created_at": "2026-09-21T22:08:29Z",
-      "updated_at": "2026-10-15T01:04:58Z",
+      "created_at": "2026-09-21T22:08:17Z",
+      "updated_at": "2026-10-16T05:23:19Z",
       "topics": [
-        "accelerate",
+        "agent",
         "ai",
-        "datasets",
-        "evaluate",
-        "fine-tuning",
-        "huggingface",
-        "jupyter-notebook",
-        "nlp",
-        "python",
-        "tqdm",
-        "trainer",
-        "transformers"
-      ],
-      "owner": "STEAM-DROPS",
-      "growth": 53
-    },
-    {
-      "full_name": "gogogaga-png/XYZ-Vision-Spectra",
-      "html_url": "https://github.com/gogogaga-png/XYZ-Vision-Spectra",
-      "description": "Real-Time AI Vision Detection Toolkit for Image Video Webcam Screen 2026",
-      "language": "HTML",
-      "stargazers_count": 53,
-      "forks_count": 0,
-      "open_issues_count": 0,
-      "created_at": "2026-09-21T22:53:59Z",
-      "updated_at": "2026-10-15T02:58:44Z",
-      "topics": [
-        "ai",
-        "beta-testing",
-        "gradio",
-        "learning-exercise",
-        "trainer",
-        "ultralytics",
-        "vision",
-        "webui",
-        "yolo"
-      ],
-      "owner": "gogogaga-png",
-      "growth": 53
-    },
-    {
-      "full_name": "gman46336-cloud/NourishAI-Forge",
-      "html_url": "https://github.com/gman46336-cloud/NourishAI-Forge",
-      "description": "Best All-in-One AI Fitness Coach and Meal Planner App 2026",
-      "language": "HTML",
-      "stargazers_count": 53,
-      "forks_count": 0,
-      "open_issues_count": 0,
-      "created_at": "2026-09-21T22:02:13Z",
-      "updated_at": "2026-10-15T01:09:40Z",
-      "topics": [
-        "ai",
-        "chatbot",
-        "community",
-        "food",
-        "meal-planner",
-        "nutrition",
-        "social-media",
+        "embedded",
+        "horse",
+        "linux",
+        "mcu",
+        "ritual-implement",
+        "rtos",
+        "rules",
+        "skills",
         "trainer"
       ],
-      "owner": "gman46336-cloud",
+      "owner": "kayembemike",
       "growth": 53
     }
   ]
