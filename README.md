@@ -12,7 +12,7 @@
 
 | 更新时间 | 榜单数量 | 查询范围 |
 |---|---:|---|
-| `2026-10-25 13:51:45 UTC+8` | **20** | `topic:ai archived:false is:public created:>=2026-09-25 stars:>10` |
+| `2026-10-26 13:55:46 UTC+8` | **20** | `topic:ai archived:false is:public created:>=2026-09-26 stars:>10` |
 
 > [!NOTE]
 > 本榜单通过对比每日快照，计算最近 30 天的星标增长数量 ($\Delta Stars$) 进行排序，旨在发现处于【快速爆发期】的新项目。
@@ -21,7 +21,7 @@
 
 ### 🥇 Top 1 · [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT)
 
-**本月涨星**: +8558 | **总星数**: 8558 | **Language**: TypeScript | **Updated**: 2026-10-25
+**本月涨星**: +8623 | **总星数**: 8623 | **Language**: TypeScript | **Updated**: 2026-10-26
 
 **项目简介**：这是一个搜索与工具接入项目，关注该方向的工程实践。
 
@@ -31,7 +31,7 @@
 
 ### 🥈 Top 2 · [Folkbench/folkbench](https://github.com/Folkbench/folkbench)
 
-**本月涨星**: +3594 | **总星数**: 3594 | **Language**: Rust | **Updated**: 2026-10-25
+**本月涨星**: +3672 | **总星数**: 3672 | **Language**: Rust | **Updated**: 2026-10-26
 
 **项目简介**：这是一个AI 项目，关注该方向的工程实践。
 
@@ -41,7 +41,7 @@
 
 ### 🥉 Top 3 · [deeplethe/solid-glass](https://github.com/deeplethe/solid-glass)
 
-**本月涨星**: +2199 | **总星数**: 2199 | **Language**: TypeScript | **Updated**: 2026-10-25
+**本月涨星**: +2242 | **总星数**: 2242 | **Language**: TypeScript | **Updated**: 2026-10-26
 
 **项目简介**：这是一个智能体项目，关注该方向的工程实践。
 
@@ -53,36 +53,36 @@
 
 | # | Project | Growth | Total Stars | Language | 项目简介 | Updated |
 |---:|---|---:|---:|---|---|---|
-| 1 | [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) | 📈 +8558 | ⭐ 8558 | TypeScript | 这是一个搜索与工具接入项目，关注该方向的工程实践。 | 2026-10-25 |
-| 2 | [Folkbench/folkbench](https://github.com/Folkbench/folkbench) | 📈 +3594 | ⭐ 3594 | Rust | 这是一个AI 项目，关注该方向的工程实践。 | 2026-10-25 |
-| 3 | [deeplethe/solid-glass](https://github.com/deeplethe/solid-glass) | 📈 +2199 | ⭐ 2199 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-10-25 |
-| 4 | [zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar) | 📈 +1775 | ⭐ 1775 | Python | 这是一个搜索与工具接入项目，关注该方向的工程实践。 | 2026-10-25 |
-| 5 | [datalab-to/indra](https://github.com/datalab-to/indra) | 📈 +1042 | ⭐ 1042 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-10-25 |
-| 6 | [Tejashmakwana/motionmaxxing](https://github.com/Tejashmakwana/motionmaxxing) | 📈 +1033 | ⭐ 1033 | JavaScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-10-25 |
-| 7 | [thesysdev/open-intelligent-ui](https://github.com/thesysdev/open-intelligent-ui) | 📈 +812 | ⭐ 812 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-10-25 |
-| 8 | [amitshekhariitbhu/ai-system-design](https://github.com/amitshekhariitbhu/ai-system-design) | 📈 +745 | ⭐ 745 | Markdown | 这是一个智能体项目，关注该方向的工程实践。 | 2026-10-25 |
-| 9 | [hanzohanzhe/Grandet](https://github.com/hanzohanzhe/Grandet) | 📈 +744 | ⭐ 744 | JavaScript | 这是一个智能体项目，用于把 MCP/OpenAPI 能力快速转成命令行工… | 2026-10-25 |
-| 10 | [strands-labs/strands-decider](https://github.com/strands-labs/strands-decider) | 📈 +706 | ⭐ 706 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-10-25 |
-| 11 | [xop01/ai_goodpractice](https://github.com/xop01/ai_goodpractice) | 📈 +629 | ⭐ 629 | 未识别 | 这是一个智能体项目，关注该方向的工程实践。 | 2026-10-25 |
-| 12 | [Alejandros17487/ai-jailbreaks](https://github.com/Alejandros17487/ai-jailbreaks) | 📈 +535 | ⭐ 535 | 未识别 | 这是一个AI 项目，关注该方向的工程实践。 | 2026-10-25 |
-| 13 | [whirlchat/whirl](https://github.com/whirlchat/whirl) | 📈 +510 | ⭐ 510 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-10-23 |
-| 14 | [strands-agents/box](https://github.com/strands-agents/box) | 📈 +468 | ⭐ 468 | Rust | 这是一个智能体项目，关注该方向的工程实践。 | 2026-10-24 |
-| 15 | [songshikang0111/awesome-REA-cases](https://github.com/songshikang0111/awesome-REA-cases) | 📈 +333 | ⭐ 333 | Python | 这是一个学习资料与资源聚合项目，用于整理和索引优质开源 AI 项目与基础… | 2026-10-25 |
-| 16 | [FoShmily/ai-paper-system](https://github.com/FoShmily/ai-paper-system) | 📈 +326 | ⭐ 326 | 未识别 | 这是一个AI 项目，关注该方向的工程实践。 | 2026-10-25 |
-| 17 | [LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance) | 📈 +314 | ⭐ 314 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-10-25 |
-| 18 | [lokicorvus/crosspet](https://github.com/lokicorvus/crosspet) | 📈 +314 | ⭐ 314 | C# | 这是一个AI 项目，关注该方向的工程实践。 | 2026-10-25 |
-| 19 | [openspline/openspline](https://github.com/openspline/openspline) | 📈 +309 | ⭐ 309 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-10-25 |
-| 20 | [longsurf-ai/openchart](https://github.com/longsurf-ai/openchart) | 📈 +268 | ⭐ 268 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-10-24 |
+| 1 | [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) | 📈 +8623 | ⭐ 8623 | TypeScript | 这是一个搜索与工具接入项目，关注该方向的工程实践。 | 2026-10-26 |
+| 2 | [Folkbench/folkbench](https://github.com/Folkbench/folkbench) | 📈 +3672 | ⭐ 3672 | Rust | 这是一个AI 项目，关注该方向的工程实践。 | 2026-10-26 |
+| 3 | [deeplethe/solid-glass](https://github.com/deeplethe/solid-glass) | 📈 +2242 | ⭐ 2242 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-10-26 |
+| 4 | [zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar) | 📈 +1793 | ⭐ 1793 | Python | 这是一个搜索与工具接入项目，关注该方向的工程实践。 | 2026-10-26 |
+| 5 | [datalab-to/indra](https://github.com/datalab-to/indra) | 📈 +1095 | ⭐ 1095 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-10-26 |
+| 6 | [Tejashmakwana/motionmaxxing](https://github.com/Tejashmakwana/motionmaxxing) | 📈 +1048 | ⭐ 1048 | JavaScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-10-26 |
+| 7 | [thesysdev/open-intelligent-ui](https://github.com/thesysdev/open-intelligent-ui) | 📈 +835 | ⭐ 835 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-10-26 |
+| 8 | [hanzohanzhe/Grandet](https://github.com/hanzohanzhe/Grandet) | 📈 +792 | ⭐ 792 | JavaScript | 这是一个智能体项目，用于把 MCP/OpenAPI 能力快速转成命令行工… | 2026-10-26 |
+| 9 | [strands-labs/strands-decider](https://github.com/strands-labs/strands-decider) | 📈 +710 | ⭐ 710 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-10-26 |
+| 10 | [xop01/ai_goodpractice](https://github.com/xop01/ai_goodpractice) | 📈 +687 | ⭐ 687 | 未识别 | 这是一个智能体项目，关注该方向的工程实践。 | 2026-10-26 |
+| 11 | [whirlchat/whirl](https://github.com/whirlchat/whirl) | 📈 +510 | ⭐ 510 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-10-25 |
+| 12 | [Alejandros17487/ai-jailbreaks](https://github.com/Alejandros17487/ai-jailbreaks) | 📈 +487 | ⭐ 487 | 未识别 | 这是一个AI 项目，关注该方向的工程实践。 | 2026-10-26 |
+| 13 | [strands-agents/box](https://github.com/strands-agents/box) | 📈 +474 | ⭐ 474 | Rust | 这是一个智能体项目，关注该方向的工程实践。 | 2026-10-26 |
+| 14 | [junxchan54-maker/mcd-cn-assistant](https://github.com/junxchan54-maker/mcd-cn-assistant) | 📈 +395 | ⭐ 395 | 未识别 | 这是一个智能体项目，用于把 MCP/OpenAPI 能力快速转成命令行工… | 2026-10-26 |
+| 15 | [FoShmily/ai-paper-system](https://github.com/FoShmily/ai-paper-system) | 📈 +363 | ⭐ 363 | 未识别 | 这是一个AI 项目，关注该方向的工程实践。 | 2026-10-26 |
+| 16 | [songshikang0111/awesome-REA-cases](https://github.com/songshikang0111/awesome-REA-cases) | 📈 +341 | ⭐ 341 | Python | 这是一个学习资料与资源聚合项目，用于整理和索引优质开源 AI 项目与基础… | 2026-10-26 |
+| 17 | [lokicorvus/crosspet](https://github.com/lokicorvus/crosspet) | 📈 +330 | ⭐ 330 | C# | 这是一个AI 项目，关注该方向的工程实践。 | 2026-10-26 |
+| 18 | [openspline/openspline](https://github.com/openspline/openspline) | 📈 +323 | ⭐ 323 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-10-26 |
+| 19 | [LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance) | 📈 +322 | ⭐ 322 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-10-26 |
+| 20 | [longsurf-ai/openchart](https://github.com/longsurf-ai/openchart) | 📈 +271 | ⭐ 271 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-10-25 |
 
 ## Project Details
 
 <details>
-<summary><strong>1. KKKKhazix/AIHOT</strong> · 📈 +8558 · ⭐ 8558 · TypeScript</summary>
+<summary><strong>1. KKKKhazix/AIHOT</strong> · 📈 +8623 · ⭐ 8623 · TypeScript</summary>
 
 - **Repository**: https://github.com/KKKKhazix/AIHOT
 - **Owner**: `KKKKhazix`
 - **Created**: `2026-09-28`
-- **Updated**: `2026-10-25`
+- **Updated**: `2026-10-26`
 - **Topics**: 人工智能 / chinese / content-curation / daily-digest / docker-compose / 大语言模型
 - **项目简介**: 这是一个搜索与工具接入项目，关注该方向的工程实践。
 - **适用场景**: 适合做搜索增强、知识接入和工具编排
@@ -90,12 +90,12 @@
 </details>
 
 <details>
-<summary><strong>2. Folkbench/folkbench</strong> · 📈 +3594 · ⭐ 3594 · Rust</summary>
+<summary><strong>2. Folkbench/folkbench</strong> · 📈 +3672 · ⭐ 3672 · Rust</summary>
 
 - **Repository**: https://github.com/Folkbench/folkbench
 - **Owner**: `Folkbench`
 - **Created**: `2026-10-02`
-- **Updated**: `2026-10-25`
+- **Updated**: `2026-10-26`
 - **Topics**: 人工智能 / api-relay / api-relay-pricing / benchmark / benchmarks / Claude
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 编程、项目脚手架和开发工作台
@@ -103,12 +103,12 @@
 </details>
 
 <details>
-<summary><strong>3. deeplethe/solid-glass</strong> · 📈 +2199 · ⭐ 2199 · TypeScript</summary>
+<summary><strong>3. deeplethe/solid-glass</strong> · 📈 +2242 · ⭐ 2242 · TypeScript</summary>
 
 - **Repository**: https://github.com/deeplethe/solid-glass
 - **Owner**: `deeplethe`
 - **Created**: `2026-10-12`
-- **Updated**: `2026-10-25`
+- **Updated**: `2026-10-26`
 - **Topics**: agent-ui / 人工智能 / AI 智能体 / chat-ui / design-system / 大语言模型
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -116,12 +116,12 @@
 </details>
 
 <details>
-<summary><strong>4. zhuyansen/new-term-radar</strong> · 📈 +1775 · ⭐ 1775 · Python</summary>
+<summary><strong>4. zhuyansen/new-term-radar</strong> · 📈 +1793 · ⭐ 1793 · Python</summary>
 
 - **Repository**: https://github.com/zhuyansen/new-term-radar
 - **Owner**: `zhuyansen`
 - **Created**: `2026-10-12`
-- **Updated**: `2026-10-25`
+- **Updated**: `2026-10-26`
 - **Topics**: agent-skills / 人工智能 / aisa / Claude Code / claude-skills / google-trends
 - **项目简介**: 这是一个搜索与工具接入项目，关注该方向的工程实践。
 - **适用场景**: 适合做搜索增强、知识接入和工具编排
@@ -129,12 +129,12 @@
 </details>
 
 <details>
-<summary><strong>5. datalab-to/indra</strong> · 📈 +1042 · ⭐ 1042 · Python</summary>
+<summary><strong>5. datalab-to/indra</strong> · 📈 +1095 · ⭐ 1095 · Python</summary>
 
 - **Repository**: https://github.com/datalab-to/indra
 - **Owner**: `datalab-to`
 - **Created**: `2026-10-13`
-- **Updated**: `2026-10-25`
+- **Updated**: `2026-10-26`
 - **Topics**: 人工智能 / cpu / document-parsing / ocr / onnx / pdf
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
@@ -142,12 +142,12 @@
 </details>
 
 <details>
-<summary><strong>6. Tejashmakwana/motionmaxxing</strong> · 📈 +1033 · ⭐ 1033 · JavaScript</summary>
+<summary><strong>6. Tejashmakwana/motionmaxxing</strong> · 📈 +1048 · ⭐ 1048 · JavaScript</summary>
 
 - **Repository**: https://github.com/Tejashmakwana/motionmaxxing
 - **Owner**: `Tejashmakwana`
 - **Created**: `2026-10-06`
-- **Updated**: `2026-10-25`
+- **Updated**: `2026-10-26`
 - **Topics**: agent-skills / 人工智能 / Claude Code / gsap / hyperframes / motion-graphics
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -155,12 +155,12 @@
 </details>
 
 <details>
-<summary><strong>7. thesysdev/open-intelligent-ui</strong> · 📈 +812 · ⭐ 812 · TypeScript</summary>
+<summary><strong>7. thesysdev/open-intelligent-ui</strong> · 📈 +835 · ⭐ 835 · TypeScript</summary>
 
 - **Repository**: https://github.com/thesysdev/open-intelligent-ui
 - **Owner**: `thesysdev`
 - **Created**: `2026-10-08`
-- **Updated**: `2026-10-25`
+- **Updated**: `2026-10-26`
 - **Topics**: 智能体 / 人工智能 / AI 智能体 / ai-ui / chat-ui / chatgpt
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -168,25 +168,12 @@
 </details>
 
 <details>
-<summary><strong>8. amitshekhariitbhu/ai-system-design</strong> · 📈 +745 · ⭐ 745 · Markdown</summary>
-
-- **Repository**: https://github.com/amitshekhariitbhu/ai-system-design
-- **Owner**: `amitshekhariitbhu`
-- **Created**: `2026-09-25`
-- **Updated**: `2026-10-25`
-- **Topics**: 人工智能 / AI 智能体 / ai-engineering / ai-system / ai-system-design / ai-systems
-- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
-
-</details>
-
-<details>
-<summary><strong>9. hanzohanzhe/Grandet</strong> · 📈 +744 · ⭐ 744 · JavaScript</summary>
+<summary><strong>8. hanzohanzhe/Grandet</strong> · 📈 +792 · ⭐ 792 · JavaScript</summary>
 
 - **Repository**: https://github.com/hanzohanzhe/Grandet
 - **Owner**: `hanzohanzhe`
 - **Created**: `2026-10-05`
-- **Updated**: `2026-10-25`
+- **Updated**: `2026-10-26`
 - **Topics**: agent-skills / 人工智能 / AI 智能体 / api-credits / api-pricing / api-relay
 - **项目简介**: 这是一个智能体项目，用于把 MCP/OpenAPI 能力快速转成命令行工具。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -194,12 +181,12 @@
 </details>
 
 <details>
-<summary><strong>10. strands-labs/strands-decider</strong> · 📈 +706 · ⭐ 706 · Python</summary>
+<summary><strong>9. strands-labs/strands-decider</strong> · 📈 +710 · ⭐ 710 · Python</summary>
 
 - **Repository**: https://github.com/strands-labs/strands-decider
 - **Owner**: `strands-labs`
 - **Created**: `2026-09-29`
-- **Updated**: `2026-10-25`
+- **Updated**: `2026-10-26`
 - **Topics**: 人工智能 / machine-learning / natural-language-understanding / Python / strands-agents / strands-labs
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -207,12 +194,12 @@
 </details>
 
 <details>
-<summary><strong>11. xop01/ai_goodpractice</strong> · 📈 +629 · ⭐ 629 · 未识别</summary>
+<summary><strong>10. xop01/ai_goodpractice</strong> · 📈 +687 · ⭐ 687 · 未识别</summary>
 
 - **Repository**: https://github.com/xop01/ai_goodpractice
 - **Owner**: `xop01`
 - **Created**: `2026-10-02`
-- **Updated**: `2026-10-25`
+- **Updated**: `2026-10-26`
 - **Topics**: 人工智能 / AI 智能体 / AI 智能体 / ai-coding / ai-model / ai-safety
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -220,25 +207,12 @@
 </details>
 
 <details>
-<summary><strong>12. Alejandros17487/ai-jailbreaks</strong> · 📈 +535 · ⭐ 535 · 未识别</summary>
-
-- **Repository**: https://github.com/Alejandros17487/ai-jailbreaks
-- **Owner**: `Alejandros17487`
-- **Created**: `2026-10-21`
-- **Updated**: `2026-10-25`
-- **Topics**: 人工智能 / ai-safety / jailbreak / jailbreaking / privacy / safety
-- **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
-
-</details>
-
-<details>
-<summary><strong>13. whirlchat/whirl</strong> · 📈 +510 · ⭐ 510 · TypeScript</summary>
+<summary><strong>11. whirlchat/whirl</strong> · 📈 +510 · ⭐ 510 · TypeScript</summary>
 
 - **Repository**: https://github.com/whirlchat/whirl
 - **Owner**: `whirlchat`
 - **Created**: `2026-10-02`
-- **Updated**: `2026-10-23`
+- **Updated**: `2026-10-25`
 - **Topics**: 人工智能 / ai-chat / chat / convex / 大语言模型 / Next.js
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
@@ -246,12 +220,25 @@
 </details>
 
 <details>
-<summary><strong>14. strands-agents/box</strong> · 📈 +468 · ⭐ 468 · Rust</summary>
+<summary><strong>12. Alejandros17487/ai-jailbreaks</strong> · 📈 +487 · ⭐ 487 · 未识别</summary>
+
+- **Repository**: https://github.com/Alejandros17487/ai-jailbreaks
+- **Owner**: `Alejandros17487`
+- **Created**: `2026-10-21`
+- **Updated**: `2026-10-26`
+- **Topics**: 人工智能 / ai-safety / jailbreak / jailbreaking / privacy / safety
+- **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
+- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
+
+</details>
+
+<details>
+<summary><strong>13. strands-agents/box</strong> · 📈 +474 · ⭐ 474 · Rust</summary>
 
 - **Repository**: https://github.com/strands-agents/box
 - **Owner**: `strands-agents`
 - **Created**: `2026-10-02`
-- **Updated**: `2026-10-24`
+- **Updated**: `2026-10-26`
 - **Topics**: agentic-ai / 智能体 / 人工智能 / AI 智能体 / ai-safety / containment
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -259,25 +246,25 @@
 </details>
 
 <details>
-<summary><strong>15. songshikang0111/awesome-REA-cases</strong> · 📈 +333 · ⭐ 333 · Python</summary>
+<summary><strong>14. junxchan54-maker/mcd-cn-assistant</strong> · 📈 +395 · ⭐ 395 · 未识别</summary>
 
-- **Repository**: https://github.com/songshikang0111/awesome-REA-cases
-- **Owner**: `songshikang0111`
-- **Created**: `2026-10-12`
-- **Updated**: `2026-10-25`
-- **Topics**: 人工智能 / awesome-list / rea / 逆向分析
-- **项目简介**: 这是一个学习资料与资源聚合项目，用于整理和索引优质开源 AI 项目与基础设施。
-- **适用场景**: 适合做学习资料、知识梳理和入门参考
+- **Repository**: https://github.com/junxchan54-maker/mcd-cn-assistant
+- **Owner**: `junxchan54-maker`
+- **Created**: `2026-10-09`
+- **Updated**: `2026-10-26`
+- **Topics**: agent-skills / 人工智能 / AI 智能体 / 自动化 / Claude / Claude Code
+- **项目简介**: 这是一个智能体项目，用于把 MCP/OpenAPI 能力快速转成命令行工具。
+- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
 
 </details>
 
 <details>
-<summary><strong>16. FoShmily/ai-paper-system</strong> · 📈 +326 · ⭐ 326 · 未识别</summary>
+<summary><strong>15. FoShmily/ai-paper-system</strong> · 📈 +363 · ⭐ 363 · 未识别</summary>
 
 - **Repository**: https://github.com/FoShmily/ai-paper-system
 - **Owner**: `FoShmily`
 - **Created**: `2026-09-29`
-- **Updated**: `2026-10-25`
+- **Updated**: `2026-10-26`
 - **Topics**: 人工智能 / ai-humanizer / ai-ppt / aigc / deepseek / 大语言模型
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
@@ -285,25 +272,25 @@
 </details>
 
 <details>
-<summary><strong>17. LosaLosSantos/aurelio-finance</strong> · 📈 +314 · ⭐ 314 · Python</summary>
+<summary><strong>16. songshikang0111/awesome-REA-cases</strong> · 📈 +341 · ⭐ 341 · Python</summary>
 
-- **Repository**: https://github.com/LosaLosSantos/aurelio-finance
-- **Owner**: `LosaLosSantos`
-- **Created**: `2026-10-06`
-- **Updated**: `2026-10-25`
-- **Topics**: 人工智能 / dividends / etf / finance / financial-planning / fintech
-- **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
-- **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
+- **Repository**: https://github.com/songshikang0111/awesome-REA-cases
+- **Owner**: `songshikang0111`
+- **Created**: `2026-10-12`
+- **Updated**: `2026-10-26`
+- **Topics**: 人工智能 / awesome-list / rea / 逆向分析
+- **项目简介**: 这是一个学习资料与资源聚合项目，用于整理和索引优质开源 AI 项目与基础设施。
+- **适用场景**: 适合做学习资料、知识梳理和入门参考
 
 </details>
 
 <details>
-<summary><strong>18. lokicorvus/crosspet</strong> · 📈 +314 · ⭐ 314 · C#</summary>
+<summary><strong>17. lokicorvus/crosspet</strong> · 📈 +330 · ⭐ 330 · C#</summary>
 
 - **Repository**: https://github.com/lokicorvus/crosspet
 - **Owner**: `lokicorvus`
 - **Created**: `2026-10-03`
-- **Updated**: `2026-10-25`
+- **Updated**: `2026-10-26`
 - **Topics**: 人工智能 / anime / antigravity / chatgpt / Claude / Claude Code
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 编程、项目脚手架和开发工作台
@@ -311,12 +298,12 @@
 </details>
 
 <details>
-<summary><strong>19. openspline/openspline</strong> · 📈 +309 · ⭐ 309 · Python</summary>
+<summary><strong>18. openspline/openspline</strong> · 📈 +323 · ⭐ 323 · Python</summary>
 
 - **Repository**: https://github.com/openspline/openspline
 - **Owner**: `openspline`
 - **Created**: `2026-09-29`
-- **Updated**: `2026-10-25`
+- **Updated**: `2026-10-26`
 - **Topics**: 人工智能 / ai-avatar / avatar / elevenlabs / gemini / lip-sync
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合做本地部署、离线运行和私有化使用
@@ -324,12 +311,25 @@
 </details>
 
 <details>
-<summary><strong>20. longsurf-ai/openchart</strong> · 📈 +268 · ⭐ 268 · TypeScript</summary>
+<summary><strong>19. LosaLosSantos/aurelio-finance</strong> · 📈 +322 · ⭐ 322 · Python</summary>
+
+- **Repository**: https://github.com/LosaLosSantos/aurelio-finance
+- **Owner**: `LosaLosSantos`
+- **Created**: `2026-10-06`
+- **Updated**: `2026-10-26`
+- **Topics**: 人工智能 / dividends / etf / finance / financial-planning / fintech
+- **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
+- **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
+
+</details>
+
+<details>
+<summary><strong>20. longsurf-ai/openchart</strong> · 📈 +271 · ⭐ 271 · TypeScript</summary>
 
 - **Repository**: https://github.com/longsurf-ai/openchart
 - **Owner**: `longsurf-ai`
 - **Created**: `2026-10-05`
-- **Updated**: `2026-10-24`
+- **Updated**: `2026-10-25`
 - **Topics**: 智能体 / agentic-trader / 人工智能 / charting / charts / charts-js
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
