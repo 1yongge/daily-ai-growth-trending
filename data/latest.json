@@ -1,74 +1,20 @@
 {
-  "fetched_at_utc": "2026-11-11T07:39:27.408559+00:00",
-  "fetched_at_shanghai": "2026-11-11 15:39:27 UTC+8",
-  "query": "topic:ai archived:false is:public created:>=2026-10-12 stars:>10",
-  "total_count": 284,
+  "fetched_at_utc": "2026-11-12T08:08:13.902482+00:00",
+  "fetched_at_shanghai": "2026-11-12 16:08:13 UTC+8",
+  "query": "topic:ai archived:false is:public created:>=2026-10-13 stars:>10",
+  "total_count": 278,
   "top_n": 20,
   "items": [
-    {
-      "full_name": "zhuyansen/new-term-radar",
-      "html_url": "https://github.com/zhuyansen/new-term-radar",
-      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "language": "Python",
-      "stargazers_count": 2161,
-      "forks_count": 643,
-      "open_issues_count": 3,
-      "created_at": "2026-10-12T07:11:01Z",
-      "updated_at": "2026-11-11T07:27:56Z",
-      "topics": [
-        "agent-skills",
-        "ai",
-        "aisa",
-        "claude-code",
-        "claude-skills",
-        "deepseek-harness",
-        "dsh-plugin",
-        "google-trends",
-        "keyword-research",
-        "mcp",
-        "mcp-server",
-        "seo",
-        "trends"
-      ],
-      "owner": "zhuyansen",
-      "growth": 2161
-    },
-    {
-      "full_name": "deeplethe/solid-glass",
-      "html_url": "https://github.com/deeplethe/solid-glass",
-      "description": "A design system for AI applications. Material, physical, tactile, technical.",
-      "language": "TypeScript",
-      "stargazers_count": 2063,
-      "forks_count": 43,
-      "open_issues_count": 5,
-      "created_at": "2026-10-12T09:19:02Z",
-      "updated_at": "2026-11-11T06:59:56Z",
-      "topics": [
-        "agent-ui",
-        "ai",
-        "ai-agents",
-        "chat-ui",
-        "design-system",
-        "llm",
-        "react",
-        "shadcn",
-        "shadcn-ui",
-        "tailwindcss",
-        "theme"
-      ],
-      "owner": "deeplethe",
-      "growth": 2063
-    },
     {
       "full_name": "datalab-to/indra",
       "html_url": "https://github.com/datalab-to/indra",
       "description": "1M param OCR model - runs on CPU, 15x faster than tesseract, close to 1B+ param models in accuracy",
       "language": "Python",
-      "stargazers_count": 1756,
+      "stargazers_count": 1776,
       "forks_count": 181,
       "open_issues_count": 10,
       "created_at": "2026-10-13T11:07:11Z",
-      "updated_at": "2026-11-11T07:37:37Z",
+      "updated_at": "2026-11-12T06:03:22Z",
       "topics": [
         "ai",
         "cpu",
@@ -78,7 +24,7 @@
         "pdf"
       ],
       "owner": "datalab-to",
-      "growth": 1756
+      "growth": 1776
     },
     {
       "full_name": "huaxialucaicaizi/ai-startup-skills",
@@ -86,7 +32,7 @@
       "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
       "language": "Python",
       "stargazers_count": 924,
-      "forks_count": 64,
+      "forks_count": 65,
       "open_issues_count": 1,
       "created_at": "2026-10-22T10:23:29Z",
       "updated_at": "2026-11-10T05:00:29Z",
@@ -113,28 +59,28 @@
       "html_url": "https://github.com/sleepy-zone/ai-ref-library-cn",
       "description": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
       "language": "JavaScript",
-      "stargazers_count": 756,
-      "forks_count": 181,
+      "stargazers_count": 764,
+      "forks_count": 182,
       "open_issues_count": 0,
       "created_at": "2026-10-29T15:28:16Z",
-      "updated_at": "2026-11-11T04:00:34Z",
+      "updated_at": "2026-11-12T05:52:24Z",
       "topics": [
         "ai",
         "gpt"
       ],
       "owner": "sleepy-zone",
-      "growth": 756
+      "growth": 764
     },
     {
       "full_name": "hevnsnt/CVEngine",
       "html_url": "https://github.com/hevnsnt/CVEngine",
       "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
       "language": "Python",
-      "stargazers_count": 706,
-      "forks_count": 114,
-      "open_issues_count": 13,
+      "stargazers_count": 711,
+      "forks_count": 115,
+      "open_issues_count": 8,
       "created_at": "2026-10-24T22:34:43Z",
-      "updated_at": "2026-11-11T04:22:34Z",
+      "updated_at": "2026-11-12T01:45:26Z",
       "topics": [
         "ai",
         "attack-surface-management",
@@ -146,18 +92,18 @@
         "vulnerability-scanner"
       ],
       "owner": "hevnsnt",
-      "growth": 706
+      "growth": 711
     },
     {
       "full_name": "Alejandros17487/ai-jailbreaks",
       "html_url": "https://github.com/Alejandros17487/ai-jailbreaks",
       "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
       "language": "Unknown",
-      "stargazers_count": 434,
+      "stargazers_count": 438,
       "forks_count": 95,
       "open_issues_count": 3,
       "created_at": "2026-10-21T14:44:06Z",
-      "updated_at": "2026-11-11T05:56:08Z",
+      "updated_at": "2026-11-12T00:16:09Z",
       "topics": [
         "ai",
         "ai-safety",
@@ -168,90 +114,18 @@
         "security"
       ],
       "owner": "Alejandros17487",
-      "growth": 434
-    },
-    {
-      "full_name": "songshikang0111/awesome-REA-cases",
-      "html_url": "https://github.com/songshikang0111/awesome-REA-cases",
-      "description": "A curated collection of REA and AI-assisted reverse engineering cases, projects, and ideas. Updated every four hours.",
-      "language": "Python",
-      "stargazers_count": 426,
-      "forks_count": 68,
-      "open_issues_count": 3,
-      "created_at": "2026-10-12T04:52:44Z",
-      "updated_at": "2026-11-11T05:21:38Z",
-      "topics": [
-        "ai",
-        "awesome-list",
-        "rea",
-        "reverse-engineering"
-      ],
-      "owner": "songshikang0111",
-      "growth": 426
-    },
-    {
-      "full_name": "Innei/ryugi",
-      "html_url": "https://github.com/Innei/ryugi",
-      "description": "流儀 — a skills collection for coding agents and the artifacts workbench they design in: live artboards, commentable documents, HTML test benches, TDD builds",
-      "language": "JavaScript",
-      "stargazers_count": 399,
-      "forks_count": 16,
-      "open_issues_count": 4,
-      "created_at": "2026-10-19T10:05:43Z",
-      "updated_at": "2026-11-10T21:19:44Z",
-      "topics": [
-        "ai",
-        "ai-agents",
-        "artboard",
-        "artifacts",
-        "brainstorming",
-        "claude-code",
-        "codex",
-        "coding-agents",
-        "design-review",
-        "developer-tools",
-        "skills",
-        "tdd",
-        "workflow"
-      ],
-      "owner": "Innei",
-      "growth": 399
-    },
-    {
-      "full_name": "shipwords-dev/shipwords",
-      "html_url": "https://github.com/shipwords-dev/shipwords",
-      "description": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
-      "language": "TypeScript",
-      "stargazers_count": 366,
-      "forks_count": 230,
-      "open_issues_count": 0,
-      "created_at": "2026-10-28T06:35:51Z",
-      "updated_at": "2026-11-11T07:13:34Z",
-      "topics": [
-        "ai",
-        "cloudflare",
-        "cloudflare-workers",
-        "d1",
-        "react",
-        "saas-boilerplate",
-        "saas-starter",
-        "seo",
-        "stripe",
-        "tanstack-start"
-      ],
-      "owner": "shipwords-dev",
-      "growth": 366
+      "growth": 438
     },
     {
       "full_name": "JunWan666/astrbot-for-android",
       "html_url": "https://github.com/JunWan666/astrbot-for-android",
       "description": "在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。",
       "language": "Kotlin",
-      "stargazers_count": 364,
+      "stargazers_count": 370,
       "forks_count": 20,
       "open_issues_count": 4,
       "created_at": "2026-10-26T05:13:32Z",
-      "updated_at": "2026-11-11T05:17:22Z",
+      "updated_at": "2026-11-12T03:47:43Z",
       "topics": [
         "ai",
         "android",
@@ -269,18 +143,18 @@
         "ubuntu"
       ],
       "owner": "JunWan666",
-      "growth": 364
+      "growth": 370
     },
     {
       "full_name": "RabbittuX/purrge",
       "html_url": "https://github.com/RabbittuX/purrge",
       "description": "🐾 Purrge — macOS AI 磁盘清理工具，支持 Claude Code 和 Codex：空间不足时提醒，AI 逐项判断能清什么，你勾选确认后才清理",
       "language": "Python",
-      "stargazers_count": 358,
-      "forks_count": 32,
+      "stargazers_count": 368,
+      "forks_count": 36,
       "open_issues_count": 4,
       "created_at": "2026-10-20T14:35:55Z",
-      "updated_at": "2026-11-11T06:51:38Z",
+      "updated_at": "2026-11-12T07:13:06Z",
       "topics": [
         "ai",
         "claude-code",
@@ -289,18 +163,43 @@
         "macos"
       ],
       "owner": "RabbittuX",
-      "growth": 358
+      "growth": 368
+    },
+    {
+      "full_name": "shipwords-dev/shipwords",
+      "html_url": "https://github.com/shipwords-dev/shipwords",
+      "description": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
+      "language": "TypeScript",
+      "stargazers_count": 367,
+      "forks_count": 231,
+      "open_issues_count": 0,
+      "created_at": "2026-10-28T06:35:51Z",
+      "updated_at": "2026-11-12T07:44:31Z",
+      "topics": [
+        "ai",
+        "cloudflare",
+        "cloudflare-workers",
+        "d1",
+        "react",
+        "saas-boilerplate",
+        "saas-starter",
+        "seo",
+        "stripe",
+        "tanstack-start"
+      ],
+      "owner": "shipwords-dev",
+      "growth": 367
     },
     {
       "full_name": "0xCoach/TaoSheng",
       "html_url": "https://github.com/0xCoach/TaoSheng",
       "description": "涛声 TaoSheng：用一部安卓手机全天收音 → 转写 → 认人 → AI 整理成待办与记忆。无需硬件、无需账号，数据只在你手机里。",
       "language": "Kotlin",
-      "stargazers_count": 356,
-      "forks_count": 48,
-      "open_issues_count": 11,
+      "stargazers_count": 364,
+      "forks_count": 49,
+      "open_issues_count": 7,
       "created_at": "2026-10-24T03:39:54Z",
-      "updated_at": "2026-11-11T05:51:07Z",
+      "updated_at": "2026-11-12T07:34:39Z",
       "topics": [
         "ai",
         "android",
@@ -316,18 +215,39 @@
         "voiceprint"
       ],
       "owner": "0xCoach",
-      "growth": 356
+      "growth": 364
+    },
+    {
+      "full_name": "amitshekhariitbhu/forward-deployed-engineer-roadmap",
+      "html_url": "https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap",
+      "description": "Forward Deployed Engineer Roadmap - A step-by-step roadmap to become a Forward Deployed Engineer (FDE) in AI, with a blog for every topic.",
+      "language": "Markdown",
+      "stargazers_count": 341,
+      "forks_count": 50,
+      "open_issues_count": 0,
+      "created_at": "2026-10-30T09:01:03Z",
+      "updated_at": "2026-11-12T07:53:58Z",
+      "topics": [
+        "ai",
+        "fde",
+        "fde-interview",
+        "forward-deployed-engineer",
+        "forward-deployed-engineering",
+        "roadmap"
+      ],
+      "owner": "amitshekhariitbhu",
+      "growth": 341
     },
     {
       "full_name": "mrhlaingbwardev/agentic-hacking-skills",
       "html_url": "https://github.com/mrhlaingbwardev/agentic-hacking-skills",
       "description": "AI-Powered Web Security & Automation - Official bonus skills, agents & MCP configs for the 'Agentic Hacking' ebook (28 SKILL.md templates)",
       "language": "JavaScript",
-      "stargazers_count": 348,
-      "forks_count": 56,
-      "open_issues_count": 0,
+      "stargazers_count": 331,
+      "forks_count": 52,
+      "open_issues_count": 3,
       "created_at": "2026-11-01T04:00:04Z",
-      "updated_at": "2026-11-11T03:45:01Z",
+      "updated_at": "2026-11-12T04:12:42Z",
       "topics": [
         "agents",
         "ai",
@@ -341,46 +261,25 @@
         "web-security"
       ],
       "owner": "mrhlaingbwardev",
-      "growth": 348
-    },
-    {
-      "full_name": "amitshekhariitbhu/forward-deployed-engineer-roadmap",
-      "html_url": "https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap",
-      "description": "Forward Deployed Engineer Roadmap - A step-by-step roadmap to become a Forward Deployed Engineer (FDE) in AI, with a blog for every topic.",
-      "language": "Markdown",
-      "stargazers_count": 311,
-      "forks_count": 47,
-      "open_issues_count": 0,
-      "created_at": "2026-10-30T09:01:03Z",
-      "updated_at": "2026-11-11T07:28:01Z",
-      "topics": [
-        "ai",
-        "fde",
-        "fde-interview",
-        "forward-deployed-engineer",
-        "forward-deployed-engineering",
-        "roadmap"
-      ],
-      "owner": "amitshekhariitbhu",
-      "growth": 311
+      "growth": 331
     },
     {
       "full_name": "rtora/munorai",
       "html_url": "https://github.com/rtora/munorai",
       "description": "Supercharge the AI you already use. Greener. Better. Faster. Cheaper.",
       "language": "Unknown",
-      "stargazers_count": 306,
+      "stargazers_count": 307,
       "forks_count": 3,
       "open_issues_count": 0,
       "created_at": "2026-10-26T04:20:09Z",
-      "updated_at": "2026-11-10T21:45:53Z",
+      "updated_at": "2026-11-12T03:46:25Z",
       "topics": [
         "ai",
         "ai-agents",
         "developer-tools"
       ],
       "owner": "rtora",
-      "growth": 306
+      "growth": 307
     },
     {
       "full_name": "hhtower/price-comparison",
@@ -391,7 +290,7 @@
       "forks_count": 8,
       "open_issues_count": 0,
       "created_at": "2026-10-28T06:06:20Z",
-      "updated_at": "2026-11-11T07:01:49Z",
+      "updated_at": "2026-11-12T03:22:10Z",
       "topics": [
         "ai",
         "ai-assistants",
@@ -408,77 +307,15 @@
       "growth": 303
     },
     {
-      "full_name": "enmerasoftware/ai-design-check",
-      "html_url": "https://github.com/enmerasoftware/ai-design-check",
-      "description": "Design rules and a zero-dependency checker for interfaces built with AI coding agents, on the web and in SwiftUI and Jetpack Compose apps. English and Turkish.",
-      "language": "HTML",
-      "stargazers_count": 244,
-      "forks_count": 12,
-      "open_issues_count": 1,
-      "created_at": "2026-10-28T07:20:59Z",
-      "updated_at": "2026-11-10T23:09:53Z",
-      "topics": [
-        "agent-skill",
-        "ai",
-        "android",
-        "claude-code",
-        "design-rules",
-        "design-system",
-        "ios",
-        "jetpack-compose",
-        "lint",
-        "swiftui",
-        "tailwindcss",
-        "ui"
-      ],
-      "owner": "enmerasoftware",
-      "growth": 244
-    },
-    {
-      "full_name": "jaisurya-dev-art/rigby2d",
-      "html_url": "https://github.com/jaisurya-dev-art/rigby2d",
-      "description": "Open-source 2D skeletal animation editor for games and film. AutoRig layered PSDs, animate with meshes, IK and physics, lip-sync from audio, render video, export JSON/.skel. JavaScript, Rust, Godot and Unity runtimes. Built-in MCP server for AI assistants. Docs: rigby2d.com/docs",
-      "language": "JavaScript",
-      "stargazers_count": 221,
-      "forks_count": 25,
-      "open_issues_count": 0,
-      "created_at": "2026-10-13T07:54:59Z",
-      "updated_at": "2026-11-11T06:52:28Z",
-      "topics": [
-        "2d-animation",
-        "ai",
-        "animation",
-        "animation-editor",
-        "cocos-creator",
-        "defold",
-        "film",
-        "game-development",
-        "game-runtime",
-        "gdextension",
-        "godot-engine",
-        "javascript",
-        "lip-sync",
-        "mcp",
-        "psd",
-        "rigging",
-        "rust",
-        "skeletal-animation",
-        "unity-runtime",
-        "unity2d"
-      ],
-      "owner": "jaisurya-dev-art",
-      "growth": 221
-    },
-    {
       "full_name": "TIGER-AI-Lab/WebsiteBench",
       "html_url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
       "description": "Can AI agents rebuild websites through browser exploration?",
       "language": "Python",
-      "stargazers_count": 209,
+      "stargazers_count": 254,
       "forks_count": 37,
       "open_issues_count": 0,
       "created_at": "2026-11-04T12:58:50Z",
-      "updated_at": "2026-11-11T07:09:06Z",
+      "updated_at": "2026-11-12T06:50:16Z",
       "topics": [
         "agent-evaluation",
         "ai",
@@ -502,7 +339,89 @@
         "website-reconstruction"
       ],
       "owner": "TIGER-AI-Lab",
-      "growth": 209
+      "growth": 254
+    },
+    {
+      "full_name": "enmerasoftware/ai-design-check",
+      "html_url": "https://github.com/enmerasoftware/ai-design-check",
+      "description": "Design rules and a zero-dependency checker for interfaces built with AI coding agents, on the web and in SwiftUI and Jetpack Compose apps. English and Turkish.",
+      "language": "HTML",
+      "stargazers_count": 246,
+      "forks_count": 12,
+      "open_issues_count": 1,
+      "created_at": "2026-10-28T07:20:59Z",
+      "updated_at": "2026-11-12T05:10:33Z",
+      "topics": [
+        "agent-skill",
+        "ai",
+        "android",
+        "claude-code",
+        "design-rules",
+        "design-system",
+        "ios",
+        "jetpack-compose",
+        "lint",
+        "swiftui",
+        "tailwindcss",
+        "ui"
+      ],
+      "owner": "enmerasoftware",
+      "growth": 246
+    },
+    {
+      "full_name": "StashDock/StashDock",
+      "html_url": "https://github.com/StashDock/StashDock",
+      "description": "Your AI-native personal context library. Collect, organize and reuse context across AI conversations.",
+      "language": "HTML",
+      "stargazers_count": 237,
+      "forks_count": 6,
+      "open_issues_count": 0,
+      "created_at": "2026-10-19T11:22:38Z",
+      "updated_at": "2026-11-12T08:03:11Z",
+      "topics": [
+        "ai",
+        "context-library",
+        "local-first",
+        "mcp",
+        "productivity"
+      ],
+      "owner": "StashDock",
+      "growth": 237
+    },
+    {
+      "full_name": "jaisurya-dev-art/rigby2d",
+      "html_url": "https://github.com/jaisurya-dev-art/rigby2d",
+      "description": "Open-source 2D skeletal animation editor for games and film. AutoRig layered PSDs, animate with meshes, IK and physics, lip-sync from audio, render video, export JSON/.skel. JavaScript, Rust, Godot and Unity runtimes. Built-in MCP server for AI assistants. Docs: rigby2d.com/docs",
+      "language": "JavaScript",
+      "stargazers_count": 225,
+      "forks_count": 27,
+      "open_issues_count": 2,
+      "created_at": "2026-10-13T07:54:59Z",
+      "updated_at": "2026-11-12T07:38:20Z",
+      "topics": [
+        "2d-animation",
+        "ai",
+        "animation",
+        "animation-editor",
+        "cocos-creator",
+        "defold",
+        "film",
+        "game-development",
+        "game-runtime",
+        "gdextension",
+        "godot-engine",
+        "javascript",
+        "lip-sync",
+        "mcp",
+        "psd",
+        "rigging",
+        "rust",
+        "skeletal-animation",
+        "unity-runtime",
+        "unity2d"
+      ],
+      "owner": "jaisurya-dev-art",
+      "growth": 225
     },
     {
       "full_name": "lwh0630/TokenBar",
@@ -536,53 +455,6 @@
       "growth": 208
     },
     {
-      "full_name": "StashDock/StashDock",
-      "html_url": "https://github.com/StashDock/StashDock",
-      "description": "Your AI-native personal context library. Collect, organize and reuse context across AI conversations.",
-      "language": "HTML",
-      "stargazers_count": 205,
-      "forks_count": 6,
-      "open_issues_count": 0,
-      "created_at": "2026-10-19T11:22:38Z",
-      "updated_at": "2026-11-11T07:15:08Z",
-      "topics": [
-        "ai",
-        "context-library",
-        "local-first",
-        "mcp",
-        "productivity"
-      ],
-      "owner": "StashDock",
-      "growth": 205
-    },
-    {
-      "full_name": "junjamrk/OpenCinema",
-      "html_url": "https://github.com/junjamrk/OpenCinema",
-      "description": "The open-source video studio for AI agents. Plan, generate, and edit films on a local-first canvas with your own models and short drama video.",
-      "language": "TypeScript",
-      "stargazers_count": 204,
-      "forks_count": 5,
-      "open_issues_count": 4,
-      "created_at": "2026-10-12T08:58:24Z",
-      "updated_at": "2026-11-09T11:45:50Z",
-      "topics": [
-        "ai",
-        "ai-drama",
-        "ai-drama-generator",
-        "ai-video",
-        "ai-video-editing",
-        "open-source",
-        "opencinema",
-        "text-to-image",
-        "text-to-video-generation",
-        "text-to-voice",
-        "video-generation",
-        "workflow"
-      ],
-      "owner": "junjamrk",
-      "growth": 204
-    },
-    {
       "full_name": "gh9ko8y/graphmemory",
       "html_url": "https://github.com/gh9ko8y/graphmemory",
       "description": "Bitemporal AI memory system: six-variable decay, time-graded recall, TTL expiry, dedupe, competitive retrieval (Neo4j + PostgreSQL + Redis)",
@@ -612,11 +484,11 @@
       "html_url": "https://github.com/h9-tec/ai-roadmap-2026",
       "description": "AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources and a mini-project per layer",
       "language": "Unknown",
-      "stargazers_count": 191,
+      "stargazers_count": 193,
       "forks_count": 24,
       "open_issues_count": 0,
       "created_at": "2026-10-21T12:23:43Z",
-      "updated_at": "2026-11-08T13:37:33Z",
+      "updated_at": "2026-11-11T13:22:59Z",
       "topics": [
         "agents",
         "ai",
@@ -628,18 +500,18 @@
         "roadmap"
       ],
       "owner": "h9-tec",
-      "growth": 191
+      "growth": 193
     },
     {
       "full_name": "heterodoxin/AbliteratedOutTheBox",
       "html_url": "https://github.com/heterodoxin/AbliteratedOutTheBox",
       "description": "llama.cpp fork that abliterates at inference",
       "language": "C++",
-      "stargazers_count": 189,
+      "stargazers_count": 191,
       "forks_count": 17,
       "open_issues_count": 1,
       "created_at": "2026-10-21T21:54:10Z",
-      "updated_at": "2026-11-11T07:33:09Z",
+      "updated_at": "2026-11-12T04:22:34Z",
       "topics": [
         "abliteration",
         "ai",
@@ -649,7 +521,7 @@
         "llms"
       ],
       "owner": "heterodoxin",
-      "growth": 189
+      "growth": 191
     },
     {
       "full_name": "tavern-labs-ai/persona-ai-sdk",
@@ -679,11 +551,11 @@
       "html_url": "https://github.com/fanhuayishiy/ai-crew-pass",
       "description": "非人类员工｜九位 AI 同事的 3D 工牌领取处，中英文、透明 PNG 下载。微信公众号：风花AI实验室。",
       "language": "TypeScript",
-      "stargazers_count": 181,
-      "forks_count": 14,
+      "stargazers_count": 183,
+      "forks_count": 15,
       "open_issues_count": 0,
       "created_at": "2026-11-06T16:47:02Z",
-      "updated_at": "2026-11-11T06:13:02Z",
+      "updated_at": "2026-11-12T07:11:36Z",
       "topics": [
         "ai",
         "astro",
@@ -693,7 +565,7 @@
         "threejs"
       ],
       "owner": "fanhuayishiy",
-      "growth": 181
+      "growth": 183
     },
     {
       "full_name": "teraus111/web3-agent-kit-solana-trading",
@@ -727,11 +599,11 @@
       "html_url": "https://github.com/mankidev/codixel",
       "description": "Pixel art skill for Claude Code: how to make good pixel, animated game sprite out, effects etc.",
       "language": "JavaScript",
-      "stargazers_count": 160,
+      "stargazers_count": 161,
       "forks_count": 11,
       "open_issues_count": 0,
       "created_at": "2026-10-31T18:31:02Z",
-      "updated_at": "2026-11-11T01:37:18Z",
+      "updated_at": "2026-11-11T07:43:42Z",
       "topics": [
         "8bit",
         "agent-skills",
@@ -753,63 +625,18 @@
         "sprites"
       ],
       "owner": "mankidev",
-      "growth": 160
-    },
-    {
-      "full_name": "AbuZar-Ansarii/Ultron",
-      "html_url": "https://github.com/AbuZar-Ansarii/Ultron",
-      "description": "Autonomous desktop intelligence with MCU Ultron persona, mood-aware workspace orchestration, cyber security sentry, and full PC control.",
-      "language": "Python",
-      "stargazers_count": 157,
-      "forks_count": 47,
-      "open_issues_count": 0,
-      "created_at": "2026-10-18T10:02:59Z",
-      "updated_at": "2026-11-09T06:19:01Z",
-      "topics": [
-        "aegnts",
-        "ai",
-        "ai-agents",
-        "aitools",
-        "jarvis",
-        "jarvis-ai",
-        "jarvis-ai-assistant",
-        "reverse-enginnering",
-        "reverseengineering",
-        "ultron"
-      ],
-      "owner": "AbuZar-Ansarii",
-      "growth": 157
-    },
-    {
-      "full_name": "7sen1ot/ClawGod_Y",
-      "html_url": "https://github.com/7sen1ot/ClawGod_Y",
-      "description": "Claude Code “God Mode,” designed to let the model “breach the armor” (i.e., bypass restrictions).",
-      "language": "JavaScript",
-      "stargazers_count": 157,
-      "forks_count": 4,
-      "open_issues_count": 0,
-      "created_at": "2026-10-30T06:00:48Z",
-      "updated_at": "2026-11-11T04:45:08Z",
-      "topics": [
-        "ai",
-        "bugbounty",
-        "cladue-code",
-        "clawgod",
-        "pojia"
-      ],
-      "owner": "7sen1ot",
-      "growth": 157
+      "growth": 161
     },
     {
       "full_name": "Shaitrish/37studio",
       "html_url": "https://github.com/Shaitrish/37studio",
       "description": "Open-source AI alternative to Buffer and Opus Clip: Claude Code makes on-brand videos, posts them to 9 platforms and drafts replies. Self-hosted, your own keys.",
       "language": "Go",
-      "stargazers_count": 157,
-      "forks_count": 23,
+      "stargazers_count": 160,
+      "forks_count": 24,
       "open_issues_count": 0,
       "created_at": "2026-10-23T00:26:52Z",
-      "updated_at": "2026-11-11T06:13:41Z",
+      "updated_at": "2026-11-11T19:19:28Z",
       "topics": [
         "ai",
         "ai-agents",
@@ -826,6 +653,51 @@
         "video-editing"
       ],
       "owner": "Shaitrish",
+      "growth": 160
+    },
+    {
+      "full_name": "AbuZar-Ansarii/Ultron",
+      "html_url": "https://github.com/AbuZar-Ansarii/Ultron",
+      "description": "Autonomous desktop intelligence with MCU Ultron persona, mood-aware workspace orchestration, cyber security sentry, and full PC control.",
+      "language": "Python",
+      "stargazers_count": 158,
+      "forks_count": 47,
+      "open_issues_count": 0,
+      "created_at": "2026-10-18T10:02:59Z",
+      "updated_at": "2026-11-11T23:05:46Z",
+      "topics": [
+        "aegnts",
+        "ai",
+        "ai-agents",
+        "aitools",
+        "jarvis",
+        "jarvis-ai",
+        "jarvis-ai-assistant",
+        "reverse-enginnering",
+        "reverseengineering",
+        "ultron"
+      ],
+      "owner": "AbuZar-Ansarii",
+      "growth": 158
+    },
+    {
+      "full_name": "7sen1ot/ClawGod_Y",
+      "html_url": "https://github.com/7sen1ot/ClawGod_Y",
+      "description": "Claude Code “God Mode,” designed to let the model “breach the armor” (i.e., bypass restrictions).",
+      "language": "JavaScript",
+      "stargazers_count": 157,
+      "forks_count": 4,
+      "open_issues_count": 3,
+      "created_at": "2026-10-30T06:00:48Z",
+      "updated_at": "2026-11-12T07:23:51Z",
+      "topics": [
+        "ai",
+        "bugbounty",
+        "cladue-code",
+        "clawgod",
+        "pojia"
+      ],
+      "owner": "7sen1ot",
       "growth": 157
     },
     {
@@ -868,11 +740,11 @@
       "html_url": "https://github.com/drawthingsai/local-code-community",
       "description": " Source code of Local Code, a private AI agent for Mac, iPad and iPhone. Runs DeepSeek 4.1 on device, with Python, Node.js and a shell built into the app.",
       "language": "C",
-      "stargazers_count": 131,
+      "stargazers_count": 144,
       "forks_count": 10,
       "open_issues_count": 3,
       "created_at": "2026-10-21T18:58:08Z",
-      "updated_at": "2026-11-10T21:43:23Z",
+      "updated_at": "2026-11-12T06:45:47Z",
       "topics": [
         "ai",
         "ai-agent",
@@ -892,18 +764,37 @@
         "swift"
       ],
       "owner": "drawthingsai",
-      "growth": 131
+      "growth": 144
+    },
+    {
+      "full_name": "joeseesun/xnews",
+      "html_url": "https://github.com/joeseesun/xnews",
+      "description": "X News — overseas founder posts & AI videos, rewritten in Qiaomu Chinese",
+      "language": "HTML",
+      "stargazers_count": 129,
+      "forks_count": 16,
+      "open_issues_count": 0,
+      "created_at": "2026-11-05T16:42:40Z",
+      "updated_at": "2026-11-12T03:53:40Z",
+      "topics": [
+        "ai",
+        "cloudflare-workers",
+        "news",
+        "rss"
+      ],
+      "owner": "joeseesun",
+      "growth": 129
     },
     {
       "full_name": "7sen1ot/zcode2api",
       "html_url": "https://github.com/7sen1ot/zcode2api",
       "description": "ZCode(智谱、Zai）毒鸡蛋反代，优化免费账号并发重试问题，支持免费额度以及领取免费token。",
       "language": "Go",
-      "stargazers_count": 128,
+      "stargazers_count": 129,
       "forks_count": 10,
       "open_issues_count": 2,
       "created_at": "2026-10-29T17:21:04Z",
-      "updated_at": "2026-11-11T03:45:59Z",
+      "updated_at": "2026-11-11T16:04:58Z",
       "topics": [
         "ai",
         "free",
@@ -912,7 +803,7 @@
         "zcode"
       ],
       "owner": "7sen1ot",
-      "growth": 128
+      "growth": 129
     },
     {
       "full_name": "DKKD13/dsh-finance",
@@ -933,6 +824,41 @@
         "research"
       ],
       "owner": "DKKD13",
+      "growth": 126
+    },
+    {
+      "full_name": "KenKaiii/Roamies",
+      "html_url": "https://github.com/KenKaiii/Roamies",
+      "description": "Desktop creatures with an AI sidekick that lives on your screen. Talk to it, it remembers what you said you'd do, reminds you and points at things. Your choice of AI. Mac and Windows.",
+      "language": "JavaScript",
+      "stargazers_count": 126,
+      "forks_count": 41,
+      "open_issues_count": 11,
+      "created_at": "2026-10-28T19:27:45Z",
+      "updated_at": "2026-11-12T07:14:31Z",
+      "topics": [
+        "adhd",
+        "agentic-ai",
+        "ai",
+        "ai-agent",
+        "ai-assistant",
+        "anthropic",
+        "claude",
+        "desktop-app",
+        "desktop-pet",
+        "gemini",
+        "llm",
+        "macos",
+        "menu-bar",
+        "openai",
+        "pixel-art",
+        "rust",
+        "swift",
+        "tauri",
+        "voice-assistant",
+        "windows"
+      ],
+      "owner": "KenKaiii",
       "growth": 126
     },
     {
@@ -961,6 +887,51 @@
       "growth": 116
     },
     {
+      "full_name": "azrinaldi/opencode-free-bridge",
+      "html_url": "https://github.com/azrinaldi/opencode-free-bridge",
+      "description": "OpenAI-compatible bridge for OpenCode free-tier models — no account required",
+      "language": "JavaScript",
+      "stargazers_count": 112,
+      "forks_count": 22,
+      "open_issues_count": 1,
+      "created_at": "2026-10-13T07:49:01Z",
+      "updated_at": "2026-11-12T03:31:38Z",
+      "topics": [
+        "ai",
+        "bridge",
+        "deepseek",
+        "free",
+        "llm",
+        "muse-spark",
+        "nodejs",
+        "openai",
+        "opencode",
+        "proxy"
+      ],
+      "owner": "azrinaldi",
+      "growth": 112
+    },
+    {
+      "full_name": "plingjs/pling",
+      "html_url": "https://github.com/plingjs/pling",
+      "description": "Give every page a soul.",
+      "language": "TypeScript",
+      "stargazers_count": 112,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "created_at": "2026-10-29T08:42:32Z",
+      "updated_at": "2026-11-12T06:48:49Z",
+      "topics": [
+        "agent",
+        "agent-framework",
+        "agentic",
+        "agentic-workflow",
+        "ai"
+      ],
+      "owner": "plingjs",
+      "growth": 112
+    },
+    {
       "full_name": "HaozheH3/awesome-rea-games",
       "html_url": "https://github.com/HaozheH3/awesome-rea-games",
       "description": "A collection of game decompilations, recompilations, demos, ports",
@@ -982,40 +953,124 @@
       "growth": 111
     },
     {
-      "full_name": "azrinaldi/opencode-free-bridge",
-      "html_url": "https://github.com/azrinaldi/opencode-free-bridge",
-      "description": "OpenAI-compatible bridge for OpenCode free-tier models — no account required",
-      "language": "JavaScript",
-      "stargazers_count": 108,
-      "forks_count": 21,
-      "open_issues_count": 1,
-      "created_at": "2026-10-13T07:49:01Z",
-      "updated_at": "2026-11-11T06:31:26Z",
+      "full_name": "eyuputku57-ops/-CoreGold---Global-Virtual-Card-Platform-for-Media-Buying-AI-SaaS-Cross-Border-Payments",
+      "html_url": "https://github.com/eyuputku57-ops/-CoreGold---Global-Virtual-Card-Platform-for-Media-Buying-AI-SaaS-Cross-Border-Payments",
+      "description": "专为跨境电商独立站、海外广告投放（FB / TikTok / Google）及 AI SaaS 订阅量身打造的企业级 Visa / Mastercard 虚拟信用卡平台。支持 USDT 极速充值开卡、多卡隔离防关联、单商户锁定与自定义限额，解决拒付、风控与海外支付难题。",
+      "language": "Unknown",
+      "stargazers_count": 111,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "created_at": "2026-10-28T08:28:17Z",
+      "updated_at": "2026-11-12T07:57:07Z",
       "topics": [
         "ai",
-        "bridge",
-        "deepseek",
-        "free",
-        "llm",
-        "muse-spark",
-        "nodejs",
-        "openai",
-        "opencode",
-        "proxy"
+        "croegold",
+        "gpt"
       ],
-      "owner": "azrinaldi",
+      "owner": "eyuputku57-ops",
+      "growth": 111
+    },
+    {
+      "full_name": "gutrfgtd-cyber/CoreGold---Direct-Issue-Global-Virtual-Credit-Card-Infrastructure-Management-Console",
+      "html_url": "https://github.com/gutrfgtd-cyber/CoreGold---Direct-Issue-Global-Virtual-Credit-Card-Infrastructure-Management-Console",
+      "description": "直连国际清算网络的合规级 Visa / Mastercard 虚拟信用卡（VCC）管理后台。专注解决跨境出海投放封号、多店铺资金连环风控、AI 工具拒付及海外账单超支，支持 USDT 即充即开与全场景精细化额度隔离。",
+      "language": "Unknown",
+      "stargazers_count": 109,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "created_at": "2026-10-28T08:44:14Z",
+      "updated_at": "2026-11-12T07:56:44Z",
+      "topics": [
+        "ai",
+        "goregold",
+        "gpt"
+      ],
+      "owner": "gutrfgtd-cyber",
+      "growth": 109
+    },
+    {
+      "full_name": "tutkuma123-sys/CoreGold---Anti-Ban-Virtual-Card-Infrastructure-for-Media-Buyers-Cross-Border-Ops",
+      "html_url": "https://github.com/tutkuma123-sys/CoreGold---Anti-Ban-Virtual-Card-Infrastructure-for-Media-Buyers-Cross-Border-Ops",
+      "description": "专为高频投放与跨境电商设计的防封级 Visa / Mastercard 虚拟信用卡资产平台。直连一手中继清算网络，主打 0 预付门槛、单卡即时销毁、多卡段交叉轮换与账单 0 溢扣，专治 FB/TikTok 拒付封号与店铺资金风控。",
+      "language": "Unknown",
+      "stargazers_count": 108,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "created_at": "2026-10-28T08:55:45Z",
+      "updated_at": "2026-11-12T07:57:04Z",
+      "topics": [
+        "ai",
+        "coregold",
+        "gpt"
+      ],
+      "owner": "tutkuma123-sys",
       "growth": 108
+    },
+    {
+      "full_name": "fgsdg7590-sys/-CoreGold---Enterprise-Virtual-Visa-Mastercard-Infrastructure-for-Ad-Scaling-Cross-Border-Ops",
+      "html_url": "https://github.com/fgsdg7590-sys/-CoreGold---Enterprise-Virtual-Visa-Mastercard-Infrastructure-for-Ad-Scaling-Cross-Border-Ops",
+      "description": "告别 FB/TikTok 验资秒封与海外订阅拒付！专为跨境大推、独立站操盘手与出海团队打造的极速高通过率企业级 Visa / Mastercard 虚拟发卡工作台。USDT 充值即刻秒开、单卡独立预算熔断、一卡一号物理级防关联，把资金损耗压到极限，让每一分广告预算都花在刀刃上。  Markdown",
+      "language": "Unknown",
+      "stargazers_count": 107,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "created_at": "2026-10-28T09:30:26Z",
+      "updated_at": "2026-11-12T07:56:51Z",
+      "topics": [
+        "ai",
+        "coregold",
+        "gpt"
+      ],
+      "owner": "fgsdg7590-sys",
+      "growth": 107
+    },
+    {
+      "full_name": "beombeim-alt/CoreGold---Direct-Multi-Tenant-VCC-Clearing-Engine-for-Global-Ad-Scalers-Media-Agencies",
+      "html_url": "https://github.com/beombeim-alt/CoreGold---Direct-Multi-Tenant-VCC-Clearing-Engine-for-Global-Ad-Scalers-Media-Agencies",
+      "description": "直连海外一级银行清算网关的虚拟信用卡（VCC）批量发行与风控系统。主打 0 审核秒级批卡、动态发卡行 BIN 匹配、实时单卡交易熔断与残额秒级回流，专为跨境电商站群、多币种海外投放及大规模团队财务结算提供原生底层支持。",
+      "language": "Unknown",
+      "stargazers_count": 106,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "created_at": "2026-10-28T09:17:07Z",
+      "updated_at": "2026-11-12T07:57:10Z",
+      "topics": [
+        "ai",
+        "coregold",
+        "gpt"
+      ],
+      "owner": "beombeim-alt",
+      "growth": 106
+    },
+    {
+      "full_name": "dassamya860-netizen/-CoreGold---Virtual-Card-Gateway-for-Global-Media-SaaS",
+      "html_url": "https://github.com/dassamya860-netizen/-CoreGold---Virtual-Card-Gateway-for-Global-Media-SaaS",
+      "description": "直连海外一级银行清算网关的企业级 Visa / Mastercard 虚拟信用卡（VCC）平台。支持 USDT 极速充值即时批卡、多账号物理隔离、单卡商户指纹锁定与余额秒级回流，专治海外广告投放拒付、店铺连坐封禁及 SaaS 意外扣费。",
+      "language": "Unknown",
+      "stargazers_count": 105,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "created_at": "2026-10-28T09:59:32Z",
+      "updated_at": "2026-11-12T07:56:36Z",
+      "topics": [
+        "ai",
+        "coregold",
+        "culdesac",
+        "gpt"
+      ],
+      "owner": "dassamya860-netizen",
+      "growth": 105
     },
     {
       "full_name": "litmers-dev/litpage",
       "html_url": "https://github.com/litmers-dev/litpage",
       "description": "Open-source, self-hosted workspace for pages, databases and AI. One Node.js process with SQLite.",
       "language": "TypeScript",
-      "stargazers_count": 103,
+      "stargazers_count": 104,
       "forks_count": 47,
       "open_issues_count": 0,
       "created_at": "2026-10-23T03:39:35Z",
-      "updated_at": "2026-11-09T20:39:19Z",
+      "updated_at": "2026-11-12T01:05:43Z",
       "topics": [
         "ai",
         "block-editor",
@@ -1029,7 +1084,45 @@
         "workspace"
       ],
       "owner": "litmers-dev",
+      "growth": 104
+    },
+    {
+      "full_name": "jmarianodaa-ctrl/-CoreGold---Global-Virtual-Card-Gateway",
+      "html_url": "https://github.com/jmarianodaa-ctrl/-CoreGold---Global-Virtual-Card-Gateway",
+      "description": "直连海外一级银行清算网关的企业级 Visa / Mastercard 虚拟信用卡（VCC）发卡平台。主打纯净商业卡段、USDT 链上秒级入金、一户一卡物理级防关联、单商户指纹锁定与残额毫秒回拨，从底层支付架构彻底解决海外广告拒付、连带封号及订阅隐形扣费痛点。  Markdown",
+      "language": "Unknown",
+      "stargazers_count": 103,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "created_at": "2026-10-29T06:22:53Z",
+      "updated_at": "2026-11-12T07:56:10Z",
+      "topics": [
+        "ai",
+        "coregold",
+        "gemini",
+        "gtp"
+      ],
+      "owner": "jmarianodaa-ctrl",
       "growth": 103
+    },
+    {
+      "full_name": "somastllc/nlp-for-machine-learning-bootcamp",
+      "html_url": "https://github.com/somastllc/nlp-for-machine-learning-bootcamp",
+      "description": "NLP for Machine Learning Bootcamp.",
+      "language": "Unknown",
+      "stargazers_count": 102,
+      "forks_count": 9,
+      "open_issues_count": 0,
+      "created_at": "2026-10-20T19:48:09Z",
+      "updated_at": "2026-11-12T05:55:12Z",
+      "topics": [
+        "ai",
+        "bootcamp",
+        "machine-learning",
+        "nlp"
+      ],
+      "owner": "somastllc",
+      "growth": 102
     },
     {
       "full_name": "CCharlie-xiu/wuch-ai",
@@ -1060,113 +1153,59 @@
       "growth": 101
     },
     {
-      "full_name": "joeseesun/xnews",
-      "html_url": "https://github.com/joeseesun/xnews",
-      "description": "X News — overseas founder posts & AI videos, rewritten in Qiaomu Chinese",
+      "full_name": "NamtaoProductions/0rwx.com",
+      "html_url": "https://github.com/NamtaoProductions/0rwx.com",
+      "description": "",
       "language": "HTML",
-      "stargazers_count": 100,
+      "stargazers_count": 101,
       "forks_count": 11,
-      "open_issues_count": 0,
-      "created_at": "2026-11-05T16:42:40Z",
-      "updated_at": "2026-11-11T07:24:22Z",
+      "open_issues_count": 4,
+      "created_at": "2026-11-07T09:12:11Z",
+      "updated_at": "2026-11-11T21:38:54Z",
       "topics": [
         "ai",
-        "cloudflare-workers",
-        "news",
-        "rss"
+        "brainmade",
+        "framework",
+        "thinking"
       ],
-      "owner": "joeseesun",
-      "growth": 100
+      "owner": "NamtaoProductions",
+      "growth": 101
     },
     {
-      "full_name": "eyuputku57-ops/-CoreGold---Global-Virtual-Card-Platform-for-Media-Buying-AI-SaaS-Cross-Border-Payments",
-      "html_url": "https://github.com/eyuputku57-ops/-CoreGold---Global-Virtual-Card-Platform-for-Media-Buying-AI-SaaS-Cross-Border-Payments",
-      "description": "专为跨境电商独立站、海外广告投放（FB / TikTok / Google）及 AI SaaS 订阅量身打造的企业级 Visa / Mastercard 虚拟信用卡平台。支持 USDT 极速充值开卡、多卡隔离防关联、单商户锁定与自定义限额，解决拒付、风控与海外支付难题。",
+      "full_name": "cherchiobarbie931-rgb/-CoreGold---E-Com-Matrix-Card-Gateway",
+      "html_url": "https://github.com/cherchiobarbie931-rgb/-CoreGold---E-Com-Matrix-Card-Gateway",
+      "description": "专为跨境电商 Dropshipping 卖家、海外私域多账号操盘手与指纹环境基建打造的虚拟信用卡管理中枢。支持 USDT 极速充值即开、单卡商户指纹锁定、硬性预算阻断与余额秒级归集，从底层解决住宅代理 IP 采买、接码平台充值及海外店铺工具静默续费吞噬利润的痛点。",
       "language": "Unknown",
-      "stargazers_count": 98,
+      "stargazers_count": 99,
       "forks_count": 0,
       "open_issues_count": 0,
-      "created_at": "2026-10-28T08:28:17Z",
-      "updated_at": "2026-11-11T07:06:43Z",
+      "created_at": "2026-10-29T08:19:06Z",
+      "updated_at": "2026-11-12T07:56:30Z",
       "topics": [
         "ai",
-        "croegold",
-        "gpt"
+        "api",
+        "gpt",
+        "tiktok",
+        "vcc"
       ],
-      "owner": "eyuputku57-ops",
-      "growth": 98
+      "owner": "cherchiobarbie931-rgb",
+      "growth": 99
     },
     {
-      "full_name": "somastllc/nlp-for-machine-learning-bootcamp",
-      "html_url": "https://github.com/somastllc/nlp-for-machine-learning-bootcamp",
-      "description": "NLP for Machine Learning Bootcamp.",
-      "language": "Unknown",
-      "stargazers_count": 96,
-      "forks_count": 9,
-      "open_issues_count": 0,
-      "created_at": "2026-10-20T19:48:09Z",
-      "updated_at": "2026-11-11T06:34:24Z",
-      "topics": [
-        "ai",
-        "bootcamp",
-        "machine-learning",
-        "nlp"
-      ],
-      "owner": "somastllc",
-      "growth": 96
-    },
-    {
-      "full_name": "gutrfgtd-cyber/CoreGold---Direct-Issue-Global-Virtual-Credit-Card-Infrastructure-Management-Console",
-      "html_url": "https://github.com/gutrfgtd-cyber/CoreGold---Direct-Issue-Global-Virtual-Credit-Card-Infrastructure-Management-Console",
-      "description": "直连国际清算网络的合规级 Visa / Mastercard 虚拟信用卡（VCC）管理后台。专注解决跨境出海投放封号、多店铺资金连环风控、AI 工具拒付及海外账单超支，支持 USDT 即充即开与全场景精细化额度隔离。",
-      "language": "Unknown",
-      "stargazers_count": 96,
-      "forks_count": 0,
-      "open_issues_count": 0,
-      "created_at": "2026-10-28T08:44:14Z",
-      "updated_at": "2026-11-11T07:05:56Z",
-      "topics": [
-        "ai",
-        "goregold",
-        "gpt"
-      ],
-      "owner": "gutrfgtd-cyber",
-      "growth": 96
-    },
-    {
-      "full_name": "tutkuma123-sys/CoreGold---Anti-Ban-Virtual-Card-Infrastructure-for-Media-Buyers-Cross-Border-Ops",
-      "html_url": "https://github.com/tutkuma123-sys/CoreGold---Anti-Ban-Virtual-Card-Infrastructure-for-Media-Buyers-Cross-Border-Ops",
-      "description": "专为高频投放与跨境电商设计的防封级 Visa / Mastercard 虚拟信用卡资产平台。直连一手中继清算网络，主打 0 预付门槛、单卡即时销毁、多卡段交叉轮换与账单 0 溢扣，专治 FB/TikTok 拒付封号与店铺资金风控。",
-      "language": "Unknown",
-      "stargazers_count": 95,
-      "forks_count": 0,
-      "open_issues_count": 0,
-      "created_at": "2026-10-28T08:55:45Z",
-      "updated_at": "2026-11-11T07:06:16Z",
-      "topics": [
-        "ai",
-        "coregold",
-        "gpt"
-      ],
-      "owner": "tutkuma123-sys",
-      "growth": 95
-    },
-    {
-      "full_name": "fgsdg7590-sys/-CoreGold---Enterprise-Virtual-Visa-Mastercard-Infrastructure-for-Ad-Scaling-Cross-Border-Ops",
-      "html_url": "https://github.com/fgsdg7590-sys/-CoreGold---Enterprise-Virtual-Visa-Mastercard-Infrastructure-for-Ad-Scaling-Cross-Border-Ops",
-      "description": "告别 FB/TikTok 验资秒封与海外订阅拒付！专为跨境大推、独立站操盘手与出海团队打造的极速高通过率企业级 Visa / Mastercard 虚拟发卡工作台。USDT 充值即刻秒开、单卡独立预算熔断、一卡一号物理级防关联，把资金损耗压到极限，让每一分广告预算都花在刀刃上。  Markdown",
+      "full_name": "erickluna015kmparaviaje374-crypto/CoreGold---Anti-Link-Virtual-Card-Engine-for-Bulk-Account-Scaling",
+      "html_url": "https://github.com/erickluna015kmparaviaje374-crypto/CoreGold---Anti-Link-Virtual-Card-Engine-for-Bulk-Account-Scaling",
+      "description": "直击跨境矩阵运营中最致命的“支付指纹关联”痛点。专为多店铺站群、批量社媒投流号及矩阵测试团队打造的独立发卡中枢，单卡单号物理阻断关联，支持 USDT 随充随销、残额即时回流，彻底斩断账号连坐封禁链条。",
       "language": "Unknown",
       "stargazers_count": 94,
       "forks_count": 0,
       "open_issues_count": 0,
-      "created_at": "2026-10-28T09:30:26Z",
-      "updated_at": "2026-11-11T07:06:08Z",
+      "created_at": "2026-10-28T10:07:04Z",
+      "updated_at": "2026-11-11T11:29:39Z",
       "topics": [
         "ai",
-        "coregold",
-        "gpt"
+        "coregol"
       ],
-      "owner": "fgsdg7590-sys",
+      "owner": "erickluna015kmparaviaje374-crypto",
       "growth": 94
     },
     {
@@ -1205,110 +1244,107 @@
       "growth": 93
     },
     {
-      "full_name": "beombeim-alt/CoreGold---Direct-Multi-Tenant-VCC-Clearing-Engine-for-Global-Ad-Scalers-Media-Agencies",
-      "html_url": "https://github.com/beombeim-alt/CoreGold---Direct-Multi-Tenant-VCC-Clearing-Engine-for-Global-Ad-Scalers-Media-Agencies",
-      "description": "直连海外一级银行清算网关的虚拟信用卡（VCC）批量发行与风控系统。主打 0 审核秒级批卡、动态发卡行 BIN 匹配、实时单卡交易熔断与残额秒级回流，专为跨境电商站群、多币种海外投放及大规模团队财务结算提供原生底层支持。",
-      "language": "Unknown",
-      "stargazers_count": 93,
-      "forks_count": 0,
-      "open_issues_count": 0,
-      "created_at": "2026-10-28T09:17:07Z",
-      "updated_at": "2026-11-11T07:06:48Z",
-      "topics": [
-        "ai",
-        "coregold",
-        "gpt"
-      ],
-      "owner": "beombeim-alt",
-      "growth": 93
-    },
-    {
-      "full_name": "NamtaoProductions/0rwx.com",
-      "html_url": "https://github.com/NamtaoProductions/0rwx.com",
-      "description": "",
-      "language": "HTML",
-      "stargazers_count": 93,
-      "forks_count": 10,
-      "open_issues_count": 4,
-      "created_at": "2026-11-07T09:12:11Z",
-      "updated_at": "2026-11-11T05:40:53Z",
-      "topics": [
-        "ai",
-        "brainmade",
-        "framework",
-        "thinking"
-      ],
-      "owner": "NamtaoProductions",
-      "growth": 93
-    },
-    {
-      "full_name": "dassamya860-netizen/-CoreGold---Virtual-Card-Gateway-for-Global-Media-SaaS",
-      "html_url": "https://github.com/dassamya860-netizen/-CoreGold---Virtual-Card-Gateway-for-Global-Media-SaaS",
-      "description": "直连海外一级银行清算网关的企业级 Visa / Mastercard 虚拟信用卡（VCC）平台。支持 USDT 极速充值即时批卡、多账号物理隔离、单卡商户指纹锁定与余额秒级回流，专治海外广告投放拒付、店铺连坐封禁及 SaaS 意外扣费。",
+      "full_name": "thienkhiykinh2832-source/CoreGold---Beginner-Guide-to-Virtual-Cards-Subscribe-to-Global-Services-with-Ease",
+      "html_url": "https://github.com/thienkhiykinh2832-source/CoreGold---Beginner-Guide-to-Virtual-Cards-Subscribe-to-Global-Services-with-Ease",
+      "description": "小白新手零门槛实操指南：零海外银行卡、零信用审核，手把手教你使用企业级 Visa / Mastercard 虚拟信用卡秒级订阅海外服务与主流 AI 工具。支持 USDT 充值随用随开、原生美区账单地址自动匹配与余额随时提现回流，彻底摆脱国内双币卡频频拒付的烦恼。",
       "language": "Unknown",
       "stargazers_count": 92,
       "forks_count": 0,
       "open_issues_count": 0,
-      "created_at": "2026-10-28T09:59:32Z",
-      "updated_at": "2026-11-11T07:05:29Z",
+      "created_at": "2026-10-29T07:52:44Z",
+      "updated_at": "2026-11-12T07:56:53Z",
       "topics": [
         "ai",
         "coregold",
-        "culdesac",
-        "gpt"
+        "ustd",
+        "visa"
       ],
-      "owner": "dassamya860-netizen",
+      "owner": "thienkhiykinh2832-source",
       "growth": 92
     },
     {
-      "full_name": "jmarianodaa-ctrl/-CoreGold---Global-Virtual-Card-Gateway",
-      "html_url": "https://github.com/jmarianodaa-ctrl/-CoreGold---Global-Virtual-Card-Gateway",
-      "description": "直连海外一级银行清算网关的企业级 Visa / Mastercard 虚拟信用卡（VCC）发卡平台。主打纯净商业卡段、USDT 链上秒级入金、一户一卡物理级防关联、单商户指纹锁定与残额毫秒回拨，从底层支付架构彻底解决海外广告拒付、连带封号及订阅隐形扣费痛点。  Markdown",
+      "full_name": "tankfnmb-droid/CoreGold---3-Step-VCC-Setup-Quick-Start-Guide",
+      "html_url": "https://github.com/tankfnmb-droid/CoreGold---3-Step-VCC-Setup-Quick-Start-Guide",
+      "description": "🚀 CoreGold 纯小白极速上手指南（3 步搞定海外支付）",
       "language": "Unknown",
-      "stargazers_count": 90,
+      "stargazers_count": 91,
       "forks_count": 0,
       "open_issues_count": 0,
-      "created_at": "2026-10-29T06:22:53Z",
-      "updated_at": "2026-11-11T07:04:45Z",
+      "created_at": "2026-10-30T06:33:34Z",
+      "updated_at": "2026-11-12T07:56:38Z",
       "topics": [
         "ai",
         "coregold",
-        "gemini",
-        "gtp"
+        "gpt"
       ],
-      "owner": "jmarianodaa-ctrl",
-      "growth": 90
+      "owner": "tankfnmb-droid",
+      "growth": 91
     },
     {
-      "full_name": "cherchiobarbie931-rgb/-CoreGold---E-Com-Matrix-Card-Gateway",
-      "html_url": "https://github.com/cherchiobarbie931-rgb/-CoreGold---E-Com-Matrix-Card-Gateway",
-      "description": "专为跨境电商 Dropshipping 卖家、海外私域多账号操盘手与指纹环境基建打造的虚拟信用卡管理中枢。支持 USDT 极速充值即开、单卡商户指纹锁定、硬性预算阻断与余额秒级归集，从底层解决住宅代理 IP 采买、接码平台充值及海外店铺工具静默续费吞噬利润的痛点。",
+      "full_name": "bdmdakash348-crypto/CoreGold---Anti-Fraud-VCC-Protocol-Bypass-Stripe-Radars-Payment-Decline-on-OpenAI-Claude",
+      "html_url": "https://github.com/bdmdakash348-crypto/CoreGold---Anti-Fraud-VCC-Protocol-Bypass-Stripe-Radars-Payment-Decline-on-OpenAI-Claude",
+      "description": "为什么你的卡总在 OpenAI 被秒拒？Stripe 风控逆向与 CoreGold 硬核过风控指南",
       "language": "Unknown",
-      "stargazers_count": 86,
+      "stargazers_count": 89,
       "forks_count": 0,
       "open_issues_count": 0,
-      "created_at": "2026-10-29T08:19:06Z",
-      "updated_at": "2026-11-11T07:05:27Z",
+      "created_at": "2026-10-30T07:08:22Z",
+      "updated_at": "2026-11-12T07:56:50Z",
       "topics": [
         "ai",
-        "api",
-        "gpt",
-        "tiktok",
-        "vcc"
+        "coregold",
+        "gpt"
       ],
-      "owner": "cherchiobarbie931-rgb",
-      "growth": 86
+      "owner": "bdmdakash348-crypto",
+      "growth": 89
+    },
+    {
+      "full_name": "hossebmarup-wq/-coregold-ecommerce-pay",
+      "html_url": "https://github.com/hossebmarup-wq/-coregold-ecommerce-pay",
+      "description": "🛒 独立站/跨境卖家注意：别再拿国内双币卡给店铺采买埋雷了",
+      "language": "Unknown",
+      "stargazers_count": 88,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "created_at": "2026-10-30T07:54:40Z",
+      "updated_at": "2026-11-12T07:56:10Z",
+      "topics": [
+        "ai",
+        "coregold",
+        "shopify"
+      ],
+      "owner": "hossebmarup-wq",
+      "growth": 88
+    },
+    {
+      "full_name": "zeusolimpiano749-bot/coregold-payment-toolkit-Disposable-Virtual-Cards-for-Global-SaaS-Ad-Spend",
+      "html_url": "https://github.com/zeusolimpiano749-bot/coregold-payment-toolkit-Disposable-Virtual-Cards-for-Global-SaaS-Ad-Spend",
+      "description": "⚡ 拒绝订阅陷阱与拒付：用 CoreGold 随充随走的海外虚拟卡",
+      "language": "Unknown",
+      "stargazers_count": 87,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "created_at": "2026-10-30T07:31:11Z",
+      "updated_at": "2026-11-12T07:56:35Z",
+      "topics": [
+        "ai",
+        "coregold",
+        "gpt",
+        "saas"
+      ],
+      "owner": "zeusolimpiano749-bot",
+      "growth": 87
     },
     {
       "full_name": "SubmitGame/awesome-ai-game-dev-tools",
       "html_url": "https://github.com/SubmitGame/awesome-ai-game-dev-tools",
       "description": "Open-source AI tools for making games, and for decompiling, remixing and mashing up games you own. 100+ stars, active in the last year, refreshed daily.",
       "language": "Python",
-      "stargazers_count": 85,
+      "stargazers_count": 86,
       "forks_count": 5,
       "open_issues_count": 2,
       "created_at": "2026-10-13T04:40:40Z",
-      "updated_at": "2026-11-11T00:43:33Z",
+      "updated_at": "2026-11-12T06:00:14Z",
       "topics": [
         "ai",
         "ai-game",
@@ -1320,35 +1356,18 @@
         "reverse-engineering"
       ],
       "owner": "SubmitGame",
-      "growth": 85
-    },
-    {
-      "full_name": "erickluna015kmparaviaje374-crypto/CoreGold---Anti-Link-Virtual-Card-Engine-for-Bulk-Account-Scaling",
-      "html_url": "https://github.com/erickluna015kmparaviaje374-crypto/CoreGold---Anti-Link-Virtual-Card-Engine-for-Bulk-Account-Scaling",
-      "description": "直击跨境矩阵运营中最致命的“支付指纹关联”痛点。专为多店铺站群、批量社媒投流号及矩阵测试团队打造的独立发卡中枢，单卡单号物理阻断关联，支持 USDT 随充随销、残额即时回流，彻底斩断账号连坐封禁链条。",
-      "language": "Unknown",
-      "stargazers_count": 84,
-      "forks_count": 0,
-      "open_issues_count": 0,
-      "created_at": "2026-10-28T10:07:04Z",
-      "updated_at": "2026-11-11T06:48:18Z",
-      "topics": [
-        "ai",
-        "coregol"
-      ],
-      "owner": "erickluna015kmparaviaje374-crypto",
-      "growth": 84
+      "growth": 86
     },
     {
       "full_name": "ensignalp/kota",
       "html_url": "https://github.com/ensignalp/kota",
       "description": "AI kullanım limitleri GNOME üst panelinde — Claude, Codex, Gemini, Copilot, API bakiyeleri · AI usage limits in the GNOME top bar",
       "language": "Rust",
-      "stargazers_count": 83,
+      "stargazers_count": 86,
       "forks_count": 2,
       "open_issues_count": 1,
       "created_at": "2026-11-07T20:42:04Z",
-      "updated_at": "2026-11-10T10:58:58Z",
+      "updated_at": "2026-11-12T04:44:41Z",
       "topics": [
         "ai",
         "ai-usage",
@@ -1360,18 +1379,142 @@
         "usage-limits"
       ],
       "owner": "ensignalp",
+      "growth": 86
+    },
+    {
+      "full_name": "dsolobalani-bot/-coregold-saas-pass",
+      "html_url": "https://github.com/dsolobalani-bot/-coregold-saas-pass",
+      "description": "🛡️ 玩转海外 SaaS 试用：用 CoreGold 虚拟卡卡死所有“流氓扣费”",
+      "language": "Unknown",
+      "stargazers_count": 86,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "created_at": "2026-10-30T08:09:55Z",
+      "updated_at": "2026-11-12T07:55:06Z",
+      "topics": [
+        "ai",
+        "canva",
+        "coregold",
+        "saas"
+      ],
+      "owner": "dsolobalani-bot",
+      "growth": 86
+    },
+    {
+      "full_name": "youngkaherbert96-ship-it/coregold-quickstart-guide",
+      "html_url": "https://github.com/youngkaherbert96-ship-it/coregold-quickstart-guide",
+      "description": "⚡ 3 分钟极速开卡订阅指南：彻底搞定海外平台扣款被拒",
+      "language": "Unknown",
+      "stargazers_count": 85,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "created_at": "2026-10-30T08:45:53Z",
+      "updated_at": "2026-11-12T07:56:12Z",
+      "topics": [
+        "ai",
+        "coregold",
+        "tiktok",
+        "ustd"
+      ],
+      "owner": "youngkaherbert96-ship-it",
+      "growth": 85
+    },
+    {
+      "full_name": "simonice102-ctrl/coregold-payment-runbook",
+      "html_url": "https://github.com/simonice102-ctrl/coregold-payment-runbook",
+      "description": "📖 海外支付与绑卡避坑运行手册 (Runbook)",
+      "language": "Unknown",
+      "stargazers_count": 85,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "created_at": "2026-10-30T08:31:22Z",
+      "updated_at": "2026-11-12T07:55:05Z",
+      "topics": [
+        "ai",
+        "api",
+        "coregold",
+        "gemini",
+        "gemini-api"
+      ],
+      "owner": "simonice102-ctrl",
+      "growth": 85
+    },
+    {
+      "full_name": "xl03-bit/sm120-nvfp4-training",
+      "html_url": "https://github.com/xl03-bit/sm120-nvfp4-training",
+      "description": "Full NVFP4 training for GeForce RTX 50-series and RTX PRO 6000 Blackwell GPUs (SM120). Built on Infatoshi/nvfp4-sm120, with software stochastic rounding, random Hadamard transforms and six profiles for speed and memory. On one RTX 5060 Ti 16GB, validation loss fell over 2,048 full-parameter FineWeb updates of a 4.06B model.",
+      "language": "Python",
+      "stargazers_count": 84,
+      "forks_count": 12,
+      "open_issues_count": 0,
+      "created_at": "2026-11-02T07:39:56Z",
+      "updated_at": "2026-11-12T07:53:59Z",
+      "topics": [
+        "ai",
+        "ai-training",
+        "blackwell",
+        "cuda",
+        "deep-learning",
+        "fp4",
+        "gpu",
+        "graphics-card",
+        "low-precision-training",
+        "model-training",
+        "nvfp4",
+        "pytorch",
+        "sm120",
+        "triton"
+      ],
+      "owner": "xl03-bit",
+      "growth": 84
+    },
+    {
+      "full_name": "sahinmola5-rgb/coregold-vcc-terminal",
+      "html_url": "https://github.com/sahinmola5-rgb/coregold-vcc-terminal",
+      "description": "别再拿国内双币卡去肉身试探 Stripe Radar。 发卡行评分（Issuer Risk Score）一旦被标黑，换十次代理 IP 也是 0.05 秒秒拒。",
+      "language": "Unknown",
+      "stargazers_count": 83,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "created_at": "2026-10-31T07:11:33Z",
+      "updated_at": "2026-11-12T07:55:23Z",
+      "topics": [
+        "ai",
+        "api",
+        "coregol",
+        "openai"
+      ],
+      "owner": "sahinmola5-rgb",
       "growth": 83
+    },
+    {
+      "full_name": "keyshadougherty70-dev/coregold-reseller-api",
+      "html_url": "https://github.com/keyshadougherty70-dev/coregold-reseller-api",
+      "description": "⚡ 别找二手卡贩子了！号商与 API 中继站专属批量供卡底座",
+      "language": "Unknown",
+      "stargazers_count": 82,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "created_at": "2026-10-31T06:51:37Z",
+      "updated_at": "2026-11-12T07:55:21Z",
+      "topics": [
+        "ai",
+        "api",
+        "coregold"
+      ],
+      "owner": "keyshadougherty70-dev",
+      "growth": 82
     },
     {
       "full_name": "Limatura/tessera",
       "html_url": "https://github.com/Limatura/tessera",
       "description": "Self-hosted file and note sharing that cleans up after itself.",
       "language": "Rust",
-      "stargazers_count": 80,
+      "stargazers_count": 81,
       "forks_count": 3,
-      "open_issues_count": 17,
+      "open_issues_count": 20,
       "created_at": "2026-10-16T12:34:01Z",
-      "updated_at": "2026-11-11T06:58:34Z",
+      "updated_at": "2026-11-12T07:01:06Z",
       "topics": [
         "ai",
         "cli",
@@ -1394,25 +1537,44 @@
         "wetransfer-alternative"
       ],
       "owner": "Limatura",
+      "growth": 81
+    },
+    {
+      "full_name": "professorsolderin/project-lighthouse",
+      "html_url": "https://github.com/professorsolderin/project-lighthouse",
+      "description": "Project Lighthouse — shining AI on the pages history never read: transcriptions, deep reads and findings from the notebooks of Gauss, Riemann, Euler and more",
+      "language": "Python",
+      "stargazers_count": 80,
+      "forks_count": 5,
+      "open_issues_count": 1,
+      "created_at": "2026-11-09T10:41:21Z",
+      "updated_at": "2026-11-11T11:55:50Z",
+      "topics": [
+        "ai",
+        "history-of-science",
+        "manuscripts",
+        "mathematics"
+      ],
+      "owner": "professorsolderin",
       "growth": 80
     },
     {
-      "full_name": "thienkhiykinh2832-source/CoreGold---Beginner-Guide-to-Virtual-Cards-Subscribe-to-Global-Services-with-Ease",
-      "html_url": "https://github.com/thienkhiykinh2832-source/CoreGold---Beginner-Guide-to-Virtual-Cards-Subscribe-to-Global-Services-with-Ease",
-      "description": "小白新手零门槛实操指南：零海外银行卡、零信用审核，手把手教你使用企业级 Visa / Mastercard 虚拟信用卡秒级订阅海外服务与主流 AI 工具。支持 USDT 充值随用随开、原生美区账单地址自动匹配与余额随时提现回流，彻底摆脱国内双币卡频频拒付的烦恼。",
+      "full_name": "mdm309348-dotcom/coregold-adspend-engine-Enterprise-Ad-Billing-Virtual-Cards-for-Meta-TikTok-Google-Media-Buyers",
+      "html_url": "https://github.com/mdm309348-dotcom/coregold-adspend-engine-Enterprise-Ad-Billing-Virtual-Cards-for-Meta-TikTok-Google-Media-Buyers",
+      "description": "别拿主卡送人头！海外广告投手（Media Buyer）专属抗封扣费体系",
       "language": "Unknown",
       "stargazers_count": 80,
       "forks_count": 0,
       "open_issues_count": 0,
-      "created_at": "2026-10-29T07:52:44Z",
-      "updated_at": "2026-11-11T07:06:06Z",
+      "created_at": "2026-10-30T07:42:43Z",
+      "updated_at": "2026-11-12T07:35:27Z",
       "topics": [
         "ai",
         "coregold",
-        "ustd",
-        "visa"
+        "gpt",
+        "tiktok"
       ],
-      "owner": "thienkhiykinh2832-source",
+      "owner": "mdm309348-dotcom",
       "growth": 80
     },
     {
@@ -1437,22 +1599,41 @@
       "growth": 79
     },
     {
-      "full_name": "professorsolderin/project-lighthouse",
-      "html_url": "https://github.com/professorsolderin/project-lighthouse",
-      "description": "Project Lighthouse — shining AI on the pages history never read: transcriptions, deep reads and findings from the notebooks of Gauss, Riemann, Euler and more",
-      "language": "Python",
+      "full_name": "jailsonbronk21-sketch/deepseek-r1-failover-vcc",
+      "html_url": "https://github.com/jailsonbronk21-sketch/deepseek-r1-failover-vcc",
+      "description": "⚡ DeepSeek-R1 宕机备用指南：用 CoreGold 1 分钟拉起 Claude / OpenAI 逃生通道",
+      "language": "Unknown",
       "stargazers_count": 79,
-      "forks_count": 5,
-      "open_issues_count": 1,
-      "created_at": "2026-11-09T10:41:21Z",
-      "updated_at": "2026-11-11T03:46:17Z",
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "created_at": "2026-10-31T07:52:53Z",
+      "updated_at": "2026-11-12T07:57:51Z",
       "topics": [
         "ai",
-        "history-of-science",
-        "manuscripts",
-        "mathematics"
+        "api",
+        "ustd",
+        "vcc"
       ],
-      "owner": "professorsolderin",
+      "owner": "jailsonbronk21-sketch",
+      "growth": 79
+    },
+    {
+      "full_name": "davidcitahernandez-debug/computer-use-agent-vault",
+      "html_url": "https://github.com/davidcitahernandez-debug/computer-use-agent-vault",
+      "description": "🤖 敢让 AI 自己操作电脑？先给你的 Agent 挂上一道“支付沙箱",
+      "language": "Unknown",
+      "stargazers_count": 79,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "created_at": "2026-11-02T02:48:39Z",
+      "updated_at": "2026-11-12T07:57:40Z",
+      "topics": [
+        "agent",
+        "ai",
+        "claude",
+        "coregold"
+      ],
+      "owner": "davidcitahernandez-debug",
       "growth": 79
     },
     {
@@ -1491,22 +1672,24 @@
       "growth": 79
     },
     {
-      "full_name": "tankfnmb-droid/CoreGold---3-Step-VCC-Setup-Quick-Start-Guide",
-      "html_url": "https://github.com/tankfnmb-droid/CoreGold---3-Step-VCC-Setup-Quick-Start-Guide",
-      "description": "🚀 CoreGold 纯小白极速上手指南（3 步搞定海外支付）",
+      "full_name": "drophubsuporte-web/coregold-ai-runner",
+      "html_url": "https://github.com/drophubsuporte-web/coregold-ai-runner",
+      "description": "⚡ 别让支付卡死 AI 生产力！用 CoreGold 彻底解决 Cursor / Claude 充值风控",
       "language": "Unknown",
-      "stargazers_count": 78,
+      "stargazers_count": 77,
       "forks_count": 0,
       "open_issues_count": 0,
-      "created_at": "2026-10-30T06:33:34Z",
-      "updated_at": "2026-11-11T07:05:40Z",
+      "created_at": "2026-10-31T07:37:49Z",
+      "updated_at": "2026-11-12T07:56:10Z",
       "topics": [
         "ai",
+        "api",
         "coregold",
-        "gpt"
+        "openai",
+        "openai-api"
       ],
-      "owner": "tankfnmb-droid",
-      "growth": 78
+      "owner": "drophubsuporte-web",
+      "growth": 77
     },
     {
       "full_name": "waw666waw666/awesome-ai-relay-and-cards",
@@ -1531,256 +1714,94 @@
       "growth": 76
     },
     {
-      "full_name": "bdmdakash348-crypto/CoreGold---Anti-Fraud-VCC-Protocol-Bypass-Stripe-Radars-Payment-Decline-on-OpenAI-Claude",
-      "html_url": "https://github.com/bdmdakash348-crypto/CoreGold---Anti-Fraud-VCC-Protocol-Bypass-Stripe-Radars-Payment-Decline-on-OpenAI-Claude",
-      "description": "为什么你的卡总在 OpenAI 被秒拒？Stripe 风控逆向与 CoreGold 硬核过风控指南",
-      "language": "Unknown",
+      "full_name": "Ritrls/dream-arcade-demo",
+      "html_url": "https://github.com/Ritrls/dream-arcade-demo",
+      "description": "自然语言创造单位：RunningHub 生成属性、技能和素材，直接带入线路防守、口袋 RTS 和增量矿场。",
+      "language": "HTML",
       "stargazers_count": 76,
       "forks_count": 0,
       "open_issues_count": 0,
-      "created_at": "2026-10-30T07:08:22Z",
-      "updated_at": "2026-11-11T07:06:07Z",
+      "created_at": "2026-11-03T13:55:41Z",
+      "updated_at": "2026-11-12T07:54:01Z",
       "topics": [
         "ai",
-        "coregold",
-        "gpt"
+        "ai-game",
+        "browser-game",
+        "canvas",
+        "github-pages",
+        "javascript",
+        "runninghub"
       ],
-      "owner": "bdmdakash348-crypto",
+      "owner": "Ritrls",
       "growth": 76
     },
     {
-      "full_name": "zeusolimpiano749-bot/coregold-payment-toolkit-Disposable-Virtual-Cards-for-Global-SaaS-Ad-Spend",
-      "html_url": "https://github.com/zeusolimpiano749-bot/coregold-payment-toolkit-Disposable-Virtual-Cards-for-Global-SaaS-Ad-Spend",
-      "description": "⚡ 拒绝订阅陷阱与拒付：用 CoreGold 随充随走的海外虚拟卡",
+      "full_name": "montimazumder14-del/coregold-cloud-gpu-pay",
+      "html_url": "https://github.com/montimazumder14-del/coregold-cloud-gpu-pay",
+      "description": "别让支付掐死你的 GPU 算力！用 CoreGold 解决 Lambda Labs / RunPod 充值风控",
       "language": "Unknown",
       "stargazers_count": 75,
       "forks_count": 0,
       "open_issues_count": 0,
-      "created_at": "2026-10-30T07:31:11Z",
-      "updated_at": "2026-11-11T07:05:43Z",
+      "created_at": "2026-11-02T05:11:26Z",
+      "updated_at": "2026-11-12T07:56:11Z",
       "topics": [
         "ai",
         "coregold",
-        "gpt",
-        "saas"
+        "vcc",
+        "visa"
       ],
-      "owner": "zeusolimpiano749-bot",
+      "owner": "montimazumder14-del",
       "growth": 75
     },
     {
-      "full_name": "hossebmarup-wq/-coregold-ecommerce-pay",
-      "html_url": "https://github.com/hossebmarup-wq/-coregold-ecommerce-pay",
-      "description": "🛒 独立站/跨境卖家注意：别再拿国内双币卡给店铺采买埋雷了",
-      "language": "Unknown",
-      "stargazers_count": 75,
-      "forks_count": 0,
-      "open_issues_count": 0,
-      "created_at": "2026-10-30T07:54:40Z",
-      "updated_at": "2026-11-11T07:04:56Z",
-      "topics": [
-        "ai",
-        "coregold",
-        "shopify"
-      ],
-      "owner": "hossebmarup-wq",
-      "growth": 75
-    },
-    {
-      "full_name": "youngkaherbert96-ship-it/coregold-quickstart-guide",
-      "html_url": "https://github.com/youngkaherbert96-ship-it/coregold-quickstart-guide",
-      "description": "⚡ 3 分钟极速开卡订阅指南：彻底搞定海外平台扣款被拒",
+      "full_name": "tdelowar17-tech/coregold-agent-paygate",
+      "html_url": "https://github.com/tdelowar17-tech/coregold-agent-paygate",
+      "description": "⚡ 别让“幽灵退款”封掉你的生产力号！CoreGold 破解 2026 最新 AI 结算风控",
       "language": "Unknown",
       "stargazers_count": 73,
       "forks_count": 0,
       "open_issues_count": 0,
-      "created_at": "2026-10-30T08:45:53Z",
-      "updated_at": "2026-11-11T07:05:06Z",
+      "created_at": "2026-11-02T03:20:50Z",
+      "updated_at": "2026-11-12T07:55:26Z",
       "topics": [
         "ai",
+        "claude",
         "coregold",
-        "tiktok",
-        "ustd"
+        "visa"
       ],
-      "owner": "youngkaherbert96-ship-it",
+      "owner": "tdelowar17-tech",
       "growth": 73
     },
     {
-      "full_name": "dsolobalani-bot/-coregold-saas-pass",
-      "html_url": "https://github.com/dsolobalani-bot/-coregold-saas-pass",
-      "description": "🛡️ 玩转海外 SaaS 试用：用 CoreGold 虚拟卡卡死所有“流氓扣费”",
+      "full_name": "ruletascasiteveo1-bot/coregold-multimodal-pay",
+      "html_url": "https://github.com/ruletascasiteveo1-bot/coregold-multimodal-pay",
+      "description": "别让支付卡死生成式视频！用 CoreGold 解决 Sora / Runway / 顶流视频 AI 充值风控",
       "language": "Unknown",
-      "stargazers_count": 73,
-      "forks_count": 0,
-      "open_issues_count": 0,
-      "created_at": "2026-10-30T08:09:55Z",
-      "updated_at": "2026-11-11T07:04:30Z",
-      "topics": [
-        "ai",
-        "canva",
-        "coregold",
-        "saas"
-      ],
-      "owner": "dsolobalani-bot",
-      "growth": 73
-    },
-    {
-      "full_name": "simonice102-ctrl/coregold-payment-runbook",
-      "html_url": "https://github.com/simonice102-ctrl/coregold-payment-runbook",
-      "description": "📖 海外支付与绑卡避坑运行手册 (Runbook)",
-      "language": "Unknown",
-      "stargazers_count": 72,
-      "forks_count": 0,
-      "open_issues_count": 0,
-      "created_at": "2026-10-30T08:31:22Z",
-      "updated_at": "2026-11-11T07:04:28Z",
-      "topics": [
-        "ai",
-        "api",
-        "coregold",
-        "gemini",
-        "gemini-api"
-      ],
-      "owner": "simonice102-ctrl",
-      "growth": 72
-    },
-    {
-      "full_name": "plingjs/pling",
-      "html_url": "https://github.com/plingjs/pling",
-      "description": "Give every page a soul.",
-      "language": "TypeScript",
       "stargazers_count": 71,
       "forks_count": 0,
       "open_issues_count": 0,
-      "created_at": "2026-10-29T08:42:32Z",
-      "updated_at": "2026-11-11T07:34:27Z",
-      "topics": [
-        "agent",
-        "agent-framework",
-        "agentic",
-        "agentic-workflow",
-        "ai"
-      ],
-      "owner": "plingjs",
-      "growth": 71
-    },
-    {
-      "full_name": "robinebers/attentionmachine-skills",
-      "html_url": "https://github.com/robinebers/attentionmachine-skills",
-      "description": "Rob's skills to make you post every day without the hassle of editing. Turn raw recordings into finished Reels with the Claude or Codex you already have.",
-      "language": "JavaScript",
-      "stargazers_count": 70,
-      "forks_count": 13,
-      "open_issues_count": 0,
-      "created_at": "2026-10-12T06:06:51Z",
-      "updated_at": "2026-11-09T22:59:46Z",
+      "created_at": "2026-11-02T03:59:56Z",
+      "updated_at": "2026-11-12T07:55:20Z",
       "topics": [
         "ai",
-        "editing"
-      ],
-      "owner": "robinebers",
-      "growth": 70
-    },
-    {
-      "full_name": "sahinmola5-rgb/coregold-vcc-terminal",
-      "html_url": "https://github.com/sahinmola5-rgb/coregold-vcc-terminal",
-      "description": "别再拿国内双币卡去肉身试探 Stripe Radar。 发卡行评分（Issuer Risk Score）一旦被标黑，换十次代理 IP 也是 0.05 秒秒拒。",
-      "language": "Unknown",
-      "stargazers_count": 70,
-      "forks_count": 0,
-      "open_issues_count": 0,
-      "created_at": "2026-10-31T07:11:33Z",
-      "updated_at": "2026-11-11T07:04:56Z",
-      "topics": [
-        "ai",
-        "api",
-        "coregol",
-        "openai"
-      ],
-      "owner": "sahinmola5-rgb",
-      "growth": 70
-    },
-    {
-      "full_name": "KenKaiii/Roamies",
-      "html_url": "https://github.com/KenKaiii/Roamies",
-      "description": "Desktop creatures with an AI sidekick that lives on your screen. Talk to it, it remembers what you said you'd do, reminds you and points at things. Your choice of AI. Mac and Windows.",
-      "language": "JavaScript",
-      "stargazers_count": 70,
-      "forks_count": 24,
-      "open_issues_count": 6,
-      "created_at": "2026-10-28T19:27:45Z",
-      "updated_at": "2026-11-11T06:54:39Z",
-      "topics": [
-        "adhd",
-        "agentic-ai",
-        "ai",
-        "ai-agent",
-        "ai-assistant",
-        "anthropic",
-        "claude",
-        "desktop-app",
-        "desktop-pet",
-        "gemini",
-        "llm",
-        "macos",
-        "menu-bar",
-        "openai",
-        "pixel-art",
-        "rust",
-        "swift",
-        "tauri",
-        "voice-assistant",
-        "windows"
-      ],
-      "owner": "KenKaiii",
-      "growth": 70
-    },
-    {
-      "full_name": "keyshadougherty70-dev/coregold-reseller-api",
-      "html_url": "https://github.com/keyshadougherty70-dev/coregold-reseller-api",
-      "description": "⚡ 别找二手卡贩子了！号商与 API 中继站专属批量供卡底座",
-      "language": "Unknown",
-      "stargazers_count": 69,
-      "forks_count": 0,
-      "open_issues_count": 0,
-      "created_at": "2026-10-31T06:51:37Z",
-      "updated_at": "2026-11-11T07:04:57Z",
-      "topics": [
-        "ai",
-        "api",
-        "coregold"
-      ],
-      "owner": "keyshadougherty70-dev",
-      "growth": 69
-    },
-    {
-      "full_name": "mdm309348-dotcom/coregold-adspend-engine-Enterprise-Ad-Billing-Virtual-Cards-for-Meta-TikTok-Google-Media-Buyers",
-      "html_url": "https://github.com/mdm309348-dotcom/coregold-adspend-engine-Enterprise-Ad-Billing-Virtual-Cards-for-Meta-TikTok-Google-Media-Buyers",
-      "description": "别拿主卡送人头！海外广告投手（Media Buyer）专属抗封扣费体系",
-      "language": "Unknown",
-      "stargazers_count": 69,
-      "forks_count": 0,
-      "open_issues_count": 0,
-      "created_at": "2026-10-30T07:42:43Z",
-      "updated_at": "2026-11-11T06:49:41Z",
-      "topics": [
-        "ai",
+        "aiapi",
         "coregold",
-        "gpt",
-        "tiktok"
+        "midjourney"
       ],
-      "owner": "mdm309348-dotcom",
-      "growth": 69
+      "owner": "ruletascasiteveo1-bot",
+      "growth": 71
     },
     {
       "full_name": "bytedance/axion1_0",
       "html_url": "https://github.com/bytedance/axion1_0",
       "description": "Frontier-level agent capabilities with nothing more than high-quality data and a simple training recipe: 2 SFT + RL, no mid-training/DPO/OPD. Full recipe released.",
       "language": "Python",
-      "stargazers_count": 69,
+      "stargazers_count": 71,
       "forks_count": 6,
-      "open_issues_count": 3,
+      "open_issues_count": 4,
       "created_at": "2026-11-02T04:42:38Z",
-      "updated_at": "2026-11-11T04:04:14Z",
+      "updated_at": "2026-11-12T07:06:50Z",
       "topics": [
         "agent-skills",
         "agentic-ai",
@@ -1792,179 +1813,95 @@
         "multi-agent"
       ],
       "owner": "bytedance",
-      "growth": 69
+      "growth": 71
     },
     {
-      "full_name": "xl03-bit/sm120-nvfp4-training",
-      "html_url": "https://github.com/xl03-bit/sm120-nvfp4-training",
-      "description": "Full NVFP4 training for GeForce RTX 50-series and RTX PRO 6000 Blackwell GPUs (SM120). Built on Infatoshi/nvfp4-sm120, with software stochastic rounding, random Hadamard transforms and six profiles for speed and memory. On one RTX 5060 Ti 16GB, validation loss fell over 2,048 full-parameter FineWeb updates of a 4.06B model.",
-      "language": "Python",
-      "stargazers_count": 68,
-      "forks_count": 10,
-      "open_issues_count": 0,
-      "created_at": "2026-11-02T07:39:56Z",
-      "updated_at": "2026-11-11T07:17:53Z",
-      "topics": [
-        "ai",
-        "ai-training",
-        "blackwell",
-        "cuda",
-        "deep-learning",
-        "fp4",
-        "gpu",
-        "graphics-card",
-        "low-precision-training",
-        "model-training",
-        "nvfp4",
-        "pytorch",
-        "sm120",
-        "triton"
-      ],
-      "owner": "xl03-bit",
-      "growth": 68
-    },
-    {
-      "full_name": "jailsonbronk21-sketch/deepseek-r1-failover-vcc",
-      "html_url": "https://github.com/jailsonbronk21-sketch/deepseek-r1-failover-vcc",
-      "description": "⚡ DeepSeek-R1 宕机备用指南：用 CoreGold 1 分钟拉起 Claude / OpenAI 逃生通道",
+      "full_name": "jeger2019-collab/openai-o3-deepseek-billing-proxy",
+      "html_url": "https://github.com/jeger2019-collab/openai-o3-deepseek-billing-proxy",
+      "description": "深度推理时代 API 支付灾备：彻底搞定 o3-mini / Claude 3.7 扣费风控",
       "language": "Unknown",
-      "stargazers_count": 66,
+      "stargazers_count": 71,
       "forks_count": 0,
       "open_issues_count": 0,
-      "created_at": "2026-10-31T07:52:53Z",
-      "updated_at": "2026-11-11T07:07:16Z",
+      "created_at": "2026-11-02T05:46:53Z",
+      "updated_at": "2026-11-12T08:03:18Z",
       "topics": [
-        "ai",
-        "api",
-        "ustd",
-        "vcc"
-      ],
-      "owner": "jailsonbronk21-sketch",
-      "growth": 66
-    },
-    {
-      "full_name": "davidcitahernandez-debug/computer-use-agent-vault",
-      "html_url": "https://github.com/davidcitahernandez-debug/computer-use-agent-vault",
-      "description": "🤖 敢让 AI 自己操作电脑？先给你的 Agent 挂上一道“支付沙箱",
-      "language": "Unknown",
-      "stargazers_count": 66,
-      "forks_count": 0,
-      "open_issues_count": 0,
-      "created_at": "2026-11-02T02:48:39Z",
-      "updated_at": "2026-11-11T07:07:00Z",
-      "topics": [
-        "agent",
         "ai",
         "claude",
-        "coregold"
-      ],
-      "owner": "davidcitahernandez-debug",
-      "growth": 66
-    },
-    {
-      "full_name": "drophubsuporte-web/coregold-ai-runner",
-      "html_url": "https://github.com/drophubsuporte-web/coregold-ai-runner",
-      "description": "⚡ 别让支付卡死 AI 生产力！用 CoreGold 彻底解决 Cursor / Claude 充值风控",
-      "language": "Unknown",
-      "stargazers_count": 64,
-      "forks_count": 0,
-      "open_issues_count": 0,
-      "created_at": "2026-10-31T07:37:49Z",
-      "updated_at": "2026-11-11T07:05:04Z",
-      "topics": [
-        "ai",
-        "api",
         "coregold",
         "openai",
         "openai-api"
       ],
-      "owner": "drophubsuporte-web",
-      "growth": 64
+      "owner": "jeger2019-collab",
+      "growth": 71
     },
     {
-      "full_name": "playwolf719/glintab",
-      "html_url": "https://github.com/playwolf719/glintab",
-      "description": "阅读，从理解开始。  通过浏览器插件，用自己的 AI，在网页旁提炼重点、核对原文、继续追问。",
-      "language": "TypeScript",
-      "stargazers_count": 64,
-      "forks_count": 1,
-      "open_issues_count": 0,
-      "created_at": "2026-10-30T06:54:47Z",
-      "updated_at": "2026-11-11T04:24:08Z",
-      "topics": [
-        "ai",
-        "tools"
-      ],
-      "owner": "playwolf719",
-      "growth": 64
-    },
-    {
-      "full_name": "baiibayu/srouter",
-      "html_url": "https://github.com/baiibayu/srouter",
-      "description": "Never hit rate limits again. One OpenAI-compatible endpoint for 60+ providers & 1,200+ models — smart auto-fallback, prompt compression, 60-language dashboard. Plug into Claude Code, Cursor, Codex & more. Free, open-source, self-hosted.",
-      "language": "TypeScript",
-      "stargazers_count": 64,
-      "forks_count": 11,
-      "open_issues_count": 3,
-      "created_at": "2026-10-12T19:46:36Z",
-      "updated_at": "2026-11-11T02:07:14Z",
-      "topics": [
-        "ai",
-        "ai-agents",
-        "ai-gateway",
-        "api-gateway",
-        "claude-code",
-        "codex",
-        "cursor",
-        "docker",
-        "electron",
-        "free",
-        "i18n",
-        "llm",
-        "llm-router",
-        "nodejs",
-        "open-source",
-        "openai-compatible",
-        "prompt-compression",
-        "rate-limit",
-        "self-hosted",
-        "typescript"
-      ],
-      "owner": "baiibayu",
-      "growth": 64
-    },
-    {
-      "full_name": "Ritrls/dream-arcade-demo",
-      "html_url": "https://github.com/Ritrls/dream-arcade-demo",
-      "description": "自然语言创造单位：RunningHub 生成属性、技能和素材，直接带入线路防守、口袋 RTS 和增量矿场。",
-      "language": "HTML",
-      "stargazers_count": 63,
+      "full_name": "adinurlanova218-png/ai-payment-router-proxy",
+      "html_url": "https://github.com/adinurlanova218-png/ai-payment-router-proxy",
+      "description": "⚡ 别让支付打断生产力：AI API 与自动化 Agent 扣费避坑指南",
+      "language": "Unknown",
+      "stargazers_count": 70,
       "forks_count": 0,
       "open_issues_count": 0,
-      "created_at": "2026-11-03T13:55:41Z",
-      "updated_at": "2026-11-11T05:41:31Z",
+      "created_at": "2026-11-02T06:13:31Z",
+      "updated_at": "2026-11-12T07:57:14Z",
+      "topics": [
+        "agent",
+        "ai",
+        "coregold"
+      ],
+      "owner": "adinurlanova218-png",
+      "growth": 70
+    },
+    {
+      "full_name": "alanautofin-a11y/open-operator-payment-proxy",
+      "html_url": "https://github.com/alanautofin-a11y/open-operator-payment-proxy",
+      "description": "当 AI Agent 开始替你操作浏览器：为什么你的支付通道会瞬间瘫痪？",
+      "language": "Unknown",
+      "stargazers_count": 69,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "created_at": "2026-11-02T05:58:38Z",
+      "updated_at": "2026-11-12T07:57:15Z",
+      "topics": [
+        "agent",
+        "ai",
+        "coregold",
+        "openai"
+      ],
+      "owner": "alanautofin-a11y",
+      "growth": 69
+    },
+    {
+      "full_name": "ahmedaydinmustafa6767-sketch/claude-pro-subscription-guide",
+      "html_url": "https://github.com/ahmedaydinmustafa6767-sketch/claude-pro-subscription-guide",
+      "description": "⚡ 2026 最新实测：手把手教你用 CoreGold 3 分钟开通 Claude Pro / Team",
+      "language": "Unknown",
+      "stargazers_count": 68,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "created_at": "2026-11-02T06:26:00Z",
+      "updated_at": "2026-11-12T07:57:55Z",
       "topics": [
         "ai",
-        "ai-game",
-        "browser-game",
-        "canvas",
-        "github-pages",
-        "javascript",
-        "runninghub"
+        "api",
+        "clauclaude",
+        "coregold",
+        "openai"
       ],
-      "owner": "Ritrls",
-      "growth": 63
+      "owner": "ahmedaydinmustafa6767-sketch",
+      "growth": 68
     },
     {
       "full_name": "Yihua666666/dafeiyu-phone",
       "html_url": "https://github.com/Yihua666666/dafeiyu-phone",
       "description": "A tiny autonomous whale-girl living on an idle Android phone. DeepSeek + AutoX.js + ntfy.",
       "language": "JavaScript",
-      "stargazers_count": 63,
+      "stargazers_count": 66,
       "forks_count": 5,
       "open_issues_count": 0,
       "created_at": "2026-10-29T14:20:40Z",
-      "updated_at": "2026-11-11T01:40:00Z",
+      "updated_at": "2026-11-11T19:33:00Z",
       "topics": [
         "ai",
         "ai-agent",
@@ -1976,18 +1913,37 @@
         "whale-girl"
       ],
       "owner": "Yihua666666",
-      "growth": 63
+      "growth": 66
+    },
+    {
+      "full_name": "visitantexbox64-byte/cursor-pro-subscription-guide",
+      "html_url": "https://github.com/visitantexbox64-byte/cursor-pro-subscription-guide",
+      "description": "⚡ 2026 最新实测：手把手教你用 CoreGold 3 分钟开通 Cursor Pro / Business",
+      "language": "Unknown",
+      "stargazers_count": 65,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "created_at": "2026-11-03T08:12:40Z",
+      "updated_at": "2026-11-12T07:57:50Z",
+      "topics": [
+        "ai",
+        "chatgpt",
+        "cursor",
+        "gpt"
+      ],
+      "owner": "visitantexbox64-byte",
+      "growth": 65
     },
     {
       "full_name": "AbdulrahmanMasoud/comprende",
       "html_url": "https://github.com/AbdulrahmanMasoud/comprende",
       "description": "AI writes the code. Comprende makes sure you understand it ",
       "language": "JavaScript",
-      "stargazers_count": 63,
+      "stargazers_count": 65,
       "forks_count": 3,
-      "open_issues_count": 8,
+      "open_issues_count": 5,
       "created_at": "2026-10-22T12:35:23Z",
-      "updated_at": "2026-11-11T07:06:37Z",
+      "updated_at": "2026-11-12T00:21:10Z",
       "topics": [
         "ai",
         "claude",
@@ -1998,45 +1954,63 @@
         "vibecoding"
       ],
       "owner": "AbdulrahmanMasoud",
-      "growth": 63
+      "growth": 65
     },
     {
-      "full_name": "montimazumder14-del/coregold-cloud-gpu-pay",
-      "html_url": "https://github.com/montimazumder14-del/coregold-cloud-gpu-pay",
-      "description": "别让支付掐死你的 GPU 算力！用 CoreGold 解决 Lambda Labs / RunPod 充值风控",
+      "full_name": "playwolf719/glintab",
+      "html_url": "https://github.com/playwolf719/glintab",
+      "description": "阅读，从理解开始。  通过浏览器插件，用自己的 AI，在网页旁提炼重点、核对原文、继续追问。",
+      "language": "TypeScript",
+      "stargazers_count": 64,
+      "forks_count": 2,
+      "open_issues_count": 0,
+      "created_at": "2026-10-30T06:54:47Z",
+      "updated_at": "2026-11-12T02:03:12Z",
+      "topics": [
+        "ai",
+        "tools"
+      ],
+      "owner": "playwolf719",
+      "growth": 64
+    },
+    {
+      "full_name": "eragritchiegg15-beep/elevenlabs-voice-api-pay",
+      "html_url": "https://github.com/eragritchiegg15-beep/elevenlabs-voice-api-pay",
+      "description": "ElevenLabs 与海外 AI 拟真音频平台充值实战：CoreGold 商业虚拟卡破解 Stripe 大额扣费拦截与防滥用连坐。",
       "language": "Unknown",
       "stargazers_count": 62,
       "forks_count": 0,
       "open_issues_count": 0,
-      "created_at": "2026-11-02T05:11:26Z",
-      "updated_at": "2026-11-11T07:05:14Z",
+      "created_at": "2026-11-03T10:01:29Z",
+      "updated_at": "2026-11-12T07:58:18Z",
       "topics": [
         "ai",
-        "coregold",
-        "vcc",
-        "visa"
+        "api",
+        "chat",
+        "chatgpt",
+        "coregold"
       ],
-      "owner": "montimazumder14-del",
+      "owner": "eragritchiegg15-beep",
       "growth": 62
     },
     {
-      "full_name": "tdelowar17-tech/coregold-agent-paygate",
-      "html_url": "https://github.com/tdelowar17-tech/coregold-agent-paygate",
-      "description": "⚡ 别让“幽灵退款”封掉你的生产力号！CoreGold 破解 2026 最新 AI 结算风控",
+      "full_name": "raudhatulirfandta-droid/claude-code-billing-setup",
+      "html_url": "https://github.com/raudhatulirfandta-droid/claude-code-billing-setup",
+      "description": "Claude 3.7 混合思考与 Claude Code 终端免拒绑卡：用 CoreGold 商业卡破除 Anthropic 幽灵退款砍单。",
       "language": "Unknown",
-      "stargazers_count": 61,
+      "stargazers_count": 62,
       "forks_count": 0,
       "open_issues_count": 0,
-      "created_at": "2026-11-02T03:20:50Z",
-      "updated_at": "2026-11-11T07:04:58Z",
+      "created_at": "2026-11-03T08:42:54Z",
+      "updated_at": "2026-11-12T07:57:43Z",
       "topics": [
         "ai",
         "claude",
-        "coregold",
-        "visa"
+        "claude-code",
+        "coregold"
       ],
-      "owner": "tdelowar17-tech",
-      "growth": 61
+      "owner": "raudhatulirfandta-droid",
+      "growth": 62
     },
     {
       "full_name": "harshpreet931/harshpreet-hand",
@@ -2078,11 +2052,11 @@
       "html_url": "https://github.com/trustabl/agent-dashboard",
       "description": "Agent dashboard runs reliability scans, skills, and network access probes.",
       "language": "TypeScript",
-      "stargazers_count": 60,
+      "stargazers_count": 61,
       "forks_count": 50,
       "open_issues_count": 0,
       "created_at": "2026-10-19T01:29:58Z",
-      "updated_at": "2026-11-09T07:09:30Z",
+      "updated_at": "2026-11-11T18:14:01Z",
       "topics": [
         "adk",
         "agent-reliability",
@@ -2106,26 +2080,26 @@
         "vercel"
       ],
       "owner": "trustabl",
-      "growth": 60
+      "growth": 61
     },
     {
-      "full_name": "ruletascasiteveo1-bot/coregold-multimodal-pay",
-      "html_url": "https://github.com/ruletascasiteveo1-bot/coregold-multimodal-pay",
-      "description": "别让支付卡死生成式视频！用 CoreGold 解决 Sora / Runway / 顶流视频 AI 充值风控",
+      "full_name": "victorcuscahua1974-afk/ai-video-studio-billing-guard",
+      "html_url": "https://github.com/victorcuscahua1974-afk/ai-video-studio-billing-guard",
+      "description": "Sora、Runway Gen-3 与 Midjourney 大额订阅专属卡：防跨境风控拦截、多账号渲染连坐与忘记取消续费。",
       "language": "Unknown",
-      "stargazers_count": 59,
+      "stargazers_count": 60,
       "forks_count": 0,
       "open_issues_count": 0,
-      "created_at": "2026-11-02T03:59:56Z",
-      "updated_at": "2026-11-11T07:04:33Z",
+      "created_at": "2026-11-03T09:33:23Z",
+      "updated_at": "2026-11-11T11:31:59Z",
       "topics": [
         "ai",
-        "aiapi",
+        "bin",
         "coregold",
         "midjourney"
       ],
-      "owner": "ruletascasiteveo1-bot",
-      "growth": 59
+      "owner": "victorcuscahua1974-afk",
+      "growth": 60
     },
     {
       "full_name": "JoasASantos/Malvex",
@@ -2157,6 +2131,26 @@
       "growth": 59
     },
     {
+      "full_name": "leishifu666/lsf-website-design",
+      "html_url": "https://github.com/leishifu666/lsf-website-design",
+      "description": "LSF-网站设计基础版：参考创作、原创探索与独立评审，含 GPT 6 PRO、Claude Opus 5.5 和 DeepSeek V4.1 Flash 作品截图",
+      "language": "JavaScript",
+      "stargazers_count": 58,
+      "forks_count": 6,
+      "open_issues_count": 0,
+      "created_at": "2026-11-03T17:20:15Z",
+      "updated_at": "2026-11-11T18:35:16Z",
+      "topics": [
+        "agent-skills",
+        "ai",
+        "codex",
+        "deepseek",
+        "web-design"
+      ],
+      "owner": "leishifu666",
+      "growth": 58
+    },
+    {
       "full_name": "Eljot19/runic",
       "html_url": "https://github.com/Eljot19/runic",
       "description": "Runic macOS Menu Bar App for AI Usage Cost and Token Tracking",
@@ -2165,7 +2159,7 @@
       "forks_count": 0,
       "open_issues_count": 0,
       "created_at": "2026-10-22T20:09:30Z",
-      "updated_at": "2026-11-11T02:34:02Z",
+      "updated_at": "2026-11-12T05:40:33Z",
       "topics": [
         "ai",
         "anthropic",
@@ -2189,26 +2183,6 @@
         "usage-tracking"
       ],
       "owner": "Eljot19",
-      "growth": 58
-    },
-    {
-      "full_name": "jeger2019-collab/openai-o3-deepseek-billing-proxy",
-      "html_url": "https://github.com/jeger2019-collab/openai-o3-deepseek-billing-proxy",
-      "description": "深度推理时代 API 支付灾备：彻底搞定 o3-mini / Claude 3.7 扣费风控",
-      "language": "Unknown",
-      "stargazers_count": 58,
-      "forks_count": 0,
-      "open_issues_count": 0,
-      "created_at": "2026-11-02T05:46:53Z",
-      "updated_at": "2026-11-11T07:08:04Z",
-      "topics": [
-        "ai",
-        "claude",
-        "coregold",
-        "openai",
-        "openai-api"
-      ],
-      "owner": "jeger2019-collab",
       "growth": 58
     },
     {
@@ -2241,21 +2215,22 @@
       "growth": 57
     },
     {
-      "full_name": "adinurlanova218-png/ai-payment-router-proxy",
-      "html_url": "https://github.com/adinurlanova218-png/ai-payment-router-proxy",
-      "description": "⚡ 别让支付打断生产力：AI API 与自动化 Agent 扣费避坑指南",
+      "full_name": "sojibyyy6-lab/apple-pay-us-ai-subscription",
+      "html_url": "https://github.com/sojibyyy6-lab/apple-pay-us-ai-subscription",
+      "description": "Apple Pay 绑定美区虚拟卡指南：免风控订阅 ChatGPT、Claude 与海外 AI，破解无原生美卡难题。",
       "language": "Unknown",
       "stargazers_count": 57,
       "forks_count": 0,
       "open_issues_count": 0,
-      "created_at": "2026-11-02T06:13:31Z",
-      "updated_at": "2026-11-11T07:06:57Z",
+      "created_at": "2026-11-04T10:02:08Z",
+      "updated_at": "2026-11-12T08:00:42Z",
       "topics": [
-        "agent",
         "ai",
+        "api",
+        "appleid",
         "coregold"
       ],
-      "owner": "adinurlanova218-png",
+      "owner": "sojibyyy6-lab",
       "growth": 57
     },
     {
@@ -2282,71 +2257,42 @@
       "growth": 57
     },
     {
-      "full_name": "ahmedaydinmustafa6767-sketch/claude-pro-subscription-guide",
-      "html_url": "https://github.com/ahmedaydinmustafa6767-sketch/claude-pro-subscription-guide",
-      "description": "⚡ 2026 最新实测：手把手教你用 CoreGold 3 分钟开通 Claude Pro / Team",
+      "full_name": "kristofermeyer9-cloud/huggingface-pro-inference-pay",
+      "html_url": "https://github.com/kristofermeyer9-cloud/huggingface-pro-inference-pay",
+      "description": "Hugging Face Pro 与 Inference Endpoints 扣费指南：解决部署模型卡密拒付与弹性计费穿透。",
+      "language": "Unknown",
+      "stargazers_count": 57,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "created_at": "2026-11-04T10:50:39Z",
+      "updated_at": "2026-11-12T07:57:49Z",
+      "topics": [
+        "ai",
+        "chatgpt",
+        "coregold",
+        "huggingface"
+      ],
+      "owner": "kristofermeyer9-cloud",
+      "growth": 57
+    },
+    {
+      "full_name": "bazongotalato-cyber/deepseek-api-overseas-proxy",
+      "html_url": "https://github.com/bazongotalato-cyber/deepseek-api-overseas-proxy",
+      "description": "DeepSeek-R1 / V3 海外云端实例调用结算：CoreGold 虚拟卡解决第三方托管平台充值拒付与预算穿透。",
       "language": "Unknown",
       "stargazers_count": 56,
       "forks_count": 0,
       "open_issues_count": 0,
-      "created_at": "2026-11-02T06:26:00Z",
-      "updated_at": "2026-11-11T07:07:14Z",
+      "created_at": "2026-11-04T10:21:51Z",
+      "updated_at": "2026-11-12T07:57:47Z",
       "topics": [
         "ai",
         "api",
-        "clauclaude",
         "coregold",
-        "openai"
+        "deepseek"
       ],
-      "owner": "ahmedaydinmustafa6767-sketch",
+      "owner": "bazongotalato-cyber",
       "growth": 56
-    },
-    {
-      "full_name": "alanautofin-a11y/open-operator-payment-proxy",
-      "html_url": "https://github.com/alanautofin-a11y/open-operator-payment-proxy",
-      "description": "当 AI Agent 开始替你操作浏览器：为什么你的支付通道会瞬间瘫痪？",
-      "language": "Unknown",
-      "stargazers_count": 56,
-      "forks_count": 0,
-      "open_issues_count": 0,
-      "created_at": "2026-11-02T05:58:38Z",
-      "updated_at": "2026-11-11T07:06:58Z",
-      "topics": [
-        "agent",
-        "ai",
-        "coregold",
-        "openai"
-      ],
-      "owner": "alanautofin-a11y",
-      "growth": 56
-    },
-    {
-      "full_name": "pipedude/yahont-ce",
-      "html_url": "https://github.com/pipedude/yahont-ce",
-      "description": "Self-hosted AI-платформа с расширенными возможностями: RAG, агенты, веб-поиск, исследования, коннекторы, любые LLM и гибкие настройки",
-      "language": "Python",
-      "stargazers_count": 55,
-      "forks_count": 6,
-      "open_issues_count": 0,
-      "created_at": "2026-10-18T06:23:58Z",
-      "updated_at": "2026-11-08T14:04:28Z",
-      "topics": [
-        "ai",
-        "ai-agent",
-        "ai-assistant",
-        "ai-chat",
-        "chatgpt",
-        "enterprise-search",
-        "knowledge-base",
-        "llm",
-        "mcp",
-        "onyx",
-        "rag",
-        "self-hosted",
-        "yahont"
-      ],
-      "owner": "pipedude",
-      "growth": 55
     }
   ]
 }
