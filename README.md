@@ -12,7 +12,7 @@
 
 | 更新时间 | 榜单数量 | 查询范围 |
 |---|---:|---|
-| `2026-11-15 15:43:17 UTC+8` | **20** | `topic:ai archived:false is:public created:>=2026-10-16 stars:>10` |
+| `2026-11-16 15:49:23 UTC+8` | **20** | `topic:ai archived:false is:public created:>=2026-10-17 stars:>10` |
 
 > [!NOTE]
 > 本榜单通过对比每日快照，计算最近 30 天的星标增长数量 ($\Delta Stars$) 进行排序，旨在发现处于【快速爆发期】的新项目。
@@ -21,7 +21,7 @@
 
 ### 🥇 Top 1 · [huaxialucaicaizi/ai-startup-skills](https://github.com/huaxialucaicaizi/ai-startup-skills)
 
-**本月涨星**: +926 | **总星数**: 926 | **Language**: Python | **Updated**: 2026-11-14
+**本月涨星**: +928 | **总星数**: 928 | **Language**: Python | **Updated**: 2026-11-15
 
 **项目简介**：这是一个AI 项目，关注该方向的工程实践。
 
@@ -31,7 +31,7 @@
 
 ### 🥈 Top 2 · [sleepy-zone/ai-ref-library-cn](https://github.com/sleepy-zone/ai-ref-library-cn)
 
-**本月涨星**: +768 | **总星数**: 768 | **Language**: JavaScript | **Updated**: 2026-11-13
+**本月涨星**: +770 | **总星数**: 770 | **Language**: JavaScript | **Updated**: 2026-11-15
 
 **项目简介**：这是一个AI 项目，关注该方向的工程实践。
 
@@ -41,7 +41,7 @@
 
 ### 🥉 Top 3 · [hevnsnt/CVEngine](https://github.com/hevnsnt/CVEngine)
 
-**本月涨星**: +725 | **总星数**: 725 | **Language**: Python | **Updated**: 2026-11-15
+**本月涨星**: +738 | **总星数**: 738 | **Language**: Python | **Updated**: 2026-11-15
 
 **项目简介**：这是一个搜索与工具接入项目，用于把 MCP/OpenAPI 能力快速转成命令行工具。
 
@@ -53,36 +53,36 @@
 
 | # | Project | Growth | Total Stars | Language | 项目简介 | Updated |
 |---:|---|---:|---:|---|---|---|
-| 1 | [huaxialucaicaizi/ai-startup-skills](https://github.com/huaxialucaicaizi/ai-startup-skills) | 📈 +926 | ⭐ 926 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-11-14 |
-| 2 | [sleepy-zone/ai-ref-library-cn](https://github.com/sleepy-zone/ai-ref-library-cn) | 📈 +768 | ⭐ 768 | JavaScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-11-13 |
-| 3 | [hevnsnt/CVEngine](https://github.com/hevnsnt/CVEngine) | 📈 +725 | ⭐ 725 | Python | 这是一个搜索与工具接入项目，用于把 MCP/OpenAPI 能力快速转成… | 2026-11-15 |
-| 4 | [Topkiflare74/ai--manus2.0](https://github.com/Topkiflare74/ai--manus2.0) | 📈 +678 | ⭐ 678 | 未识别 | 这是一个智能体项目，关注该方向的工程实践。 | 2026-11-15 |
-| 5 | [trackboatwrightplan/GitHub-Copilot-app](https://github.com/trackboatwrightplan/GitHub-Copilot-app) | 📈 +672 | ⭐ 672 | 未识别 | 这是一个学习资料与资源聚合项目，关注该方向的工程实践。 | 2026-11-14 |
-| 6 | [TrapAccountant/GitHub-Copilot-app](https://github.com/TrapAccountant/GitHub-Copilot-app) | 📈 +670 | ⭐ 670 | 未识别 | 这是一个学习资料与资源聚合项目，关注该方向的工程实践。 | 2026-11-14 |
-| 7 | [topapothecarycanal/ai--manus2.0](https://github.com/topapothecarycanal/ai--manus2.0) | 📈 +666 | ⭐ 666 | 未识别 | 这是一个智能体项目，关注该方向的工程实践。 | 2026-11-14 |
-| 8 | [trackersnailgrip/GitHub-Copilot-app](https://github.com/trackersnailgrip/GitHub-Copilot-app) | 📈 +666 | ⭐ 666 | 未识别 | 这是一个学习资料与资源聚合项目，关注该方向的工程实践。 | 2026-11-14 |
-| 9 | [TradesmanRecord/GitHub-Copilot-app](https://github.com/TradesmanRecord/GitHub-Copilot-app) | 📈 +665 | ⭐ 665 | 未识别 | 这是一个学习资料与资源聚合项目，关注该方向的工程实践。 | 2026-11-14 |
-| 10 | [toppatronweave/GitHub-Copilot-app](https://github.com/toppatronweave/GitHub-Copilot-app) | 📈 +665 | ⭐ 665 | 未识别 | 这是一个学习资料与资源聚合项目，关注该方向的工程实践。 | 2026-11-14 |
-| 11 | [toppatronweave/ai--manus2.0](https://github.com/toppatronweave/ai--manus2.0) | 📈 +665 | ⭐ 665 | 未识别 | 这是一个智能体项目，关注该方向的工程实践。 | 2026-11-14 |
-| 12 | [TrapBladesmith/GitHub-Copilot-app](https://github.com/TrapBladesmith/GitHub-Copilot-app) | 📈 +664 | ⭐ 664 | 未识别 | 这是一个学习资料与资源聚合项目，关注该方向的工程实践。 | 2026-11-14 |
-| 13 | [TurquoiseConsultant/GitHub-Copilot-app](https://github.com/TurquoiseConsultant/GitHub-Copilot-app) | 📈 +664 | ⭐ 664 | 未识别 | 这是一个学习资料与资源聚合项目，关注该方向的工程实践。 | 2026-11-14 |
-| 14 | [TurkeyDesignate/GitHub-Copilot-app](https://github.com/TurkeyDesignate/GitHub-Copilot-app) | 📈 +664 | ⭐ 664 | 未识别 | 这是一个学习资料与资源聚合项目，关注该方向的工程实践。 | 2026-11-14 |
-| 15 | [Tealplesense/GitHub-Copilot-app](https://github.com/Tealplesense/GitHub-Copilot-app) | 📈 +663 | ⭐ 663 | 未识别 | 这是一个学习资料与资源聚合项目，关注该方向的工程实践。 | 2026-11-14 |
-| 16 | [WebBookkeeper/GitHub-Copilot-app](https://github.com/WebBookkeeper/GitHub-Copilot-app) | 📈 +663 | ⭐ 663 | 未识别 | 这是一个学习资料与资源聚合项目，关注该方向的工程实践。 | 2026-11-14 |
-| 17 | [topconstableinlet67/ai--manus2.0](https://github.com/topconstableinlet67/ai--manus2.0) | 📈 +663 | ⭐ 663 | 未识别 | 这是一个智能体项目，关注该方向的工程实践。 | 2026-11-14 |
-| 18 | [topconstableinlet67/GitHub-Copilot-app](https://github.com/topconstableinlet67/GitHub-Copilot-app) | 📈 +661 | ⭐ 661 | 未识别 | 这是一个学习资料与资源聚合项目，关注该方向的工程实践。 | 2026-11-14 |
-| 19 | [unitsenseimonitor/GitHub-Copilot-app](https://github.com/unitsenseimonitor/GitHub-Copilot-app) | 📈 +661 | ⭐ 661 | 未识别 | 这是一个学习资料与资源聚合项目，关注该方向的工程实践。 | 2026-11-14 |
-| 20 | [Trapkrostride/GitHub-Copilot-app](https://github.com/Trapkrostride/GitHub-Copilot-app) | 📈 +660 | ⭐ 660 | 未识别 | 这是一个学习资料与资源聚合项目，关注该方向的工程实践。 | 2026-11-14 |
+| 1 | [huaxialucaicaizi/ai-startup-skills](https://github.com/huaxialucaicaizi/ai-startup-skills) | 📈 +928 | ⭐ 928 | Python | 这是一个AI 项目，关注该方向的工程实践。 | 2026-11-15 |
+| 2 | [sleepy-zone/ai-ref-library-cn](https://github.com/sleepy-zone/ai-ref-library-cn) | 📈 +770 | ⭐ 770 | JavaScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-11-15 |
+| 3 | [hevnsnt/CVEngine](https://github.com/hevnsnt/CVEngine) | 📈 +738 | ⭐ 738 | Python | 这是一个搜索与工具接入项目，用于把 MCP/OpenAPI 能力快速转成… | 2026-11-15 |
+| 4 | [YellowLaborerMarket/Gemini-Config-Checker-](https://github.com/YellowLaborerMarket/Gemini-Config-Checker-) | 📈 +474 | ⭐ 474 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-16 |
+| 5 | [weightcashiercupola/Gemini-Config-Checker-](https://github.com/weightcashiercupola/Gemini-Config-Checker-) | 📈 +473 | ⭐ 473 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-15 |
+| 6 | [WingDataVacuum/Gemini-Config-Checker-](https://github.com/WingDataVacuum/Gemini-Config-Checker-) | 📈 +473 | ⭐ 473 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-15 |
+| 7 | [TypeTyrantScheme/Gemini-Config-Checker-](https://github.com/TypeTyrantScheme/Gemini-Config-Checker-) | 📈 +473 | ⭐ 473 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-15 |
+| 8 | [weldbladesmithwharf/Gemini-Config-Checker-](https://github.com/weldbladesmithwharf/Gemini-Config-Checker-) | 📈 +473 | ⭐ 473 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-15 |
+| 9 | [Violetnyudress/Gemini-Config-Checker-](https://github.com/Violetnyudress/Gemini-Config-Checker-) | 📈 +473 | ⭐ 473 | Go | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-15 |
+| 10 | [WinnerSpecialist/Gemini-Config-Checker-](https://github.com/WinnerSpecialist/Gemini-Config-Checker-) | 📈 +473 | ⭐ 473 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-15 |
+| 11 | [Visionbeyondtrack/Gemini-Config-Checker-](https://github.com/Visionbeyondtrack/Gemini-Config-Checker-) | 📈 +473 | ⭐ 473 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-15 |
+| 12 | [TurtleReside/Gemini-Config-Checker-](https://github.com/TurtleReside/Gemini-Config-Checker-) | 📈 +473 | ⭐ 473 | Go | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-15 |
+| 13 | [WindGatorRise37/Gemini-Config-Checker-](https://github.com/WindGatorRise37/Gemini-Config-Checker-) | 📈 +473 | ⭐ 473 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-15 |
+| 14 | [VortexHostFeel/Gemini-Config-Checker-](https://github.com/VortexHostFeel/Gemini-Config-Checker-) | 📈 +473 | ⭐ 473 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-15 |
+| 15 | [VisionWormStudio/Gemini-Config-Checker-](https://github.com/VisionWormStudio/Gemini-Config-Checker-) | 📈 +473 | ⭐ 473 | Go | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-15 |
+| 16 | [WestLocksmithSpout/Gemini-Config-Checker-](https://github.com/WestLocksmithSpout/Gemini-Config-Checker-) | 📈 +473 | ⭐ 473 | Go | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-15 |
+| 17 | [WireProvostPucker/Gemini-Config-Checker-](https://github.com/WireProvostPucker/Gemini-Config-Checker-) | 📈 +473 | ⭐ 473 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-15 |
+| 18 | [TrooperFilter/Gemini-Config-Checker-](https://github.com/TrooperFilter/Gemini-Config-Checker-) | 📈 +473 | ⭐ 473 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-15 |
+| 19 | [wisemeadowlarkspike/Gemini-Config-Checker-](https://github.com/wisemeadowlarkspike/Gemini-Config-Checker-) | 📈 +473 | ⭐ 473 | Go | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-15 |
+| 20 | [Watchlespeed/Gemini-Config-Checker-](https://github.com/Watchlespeed/Gemini-Config-Checker-) | 📈 +473 | ⭐ 473 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-15 |
 
 ## Project Details
 
 <details>
-<summary><strong>1. huaxialucaicaizi/ai-startup-skills</strong> · 📈 +926 · ⭐ 926 · Python</summary>
+<summary><strong>1. huaxialucaicaizi/ai-startup-skills</strong> · 📈 +928 · ⭐ 928 · Python</summary>
 
 - **Repository**: https://github.com/huaxialucaicaizi/ai-startup-skills
 - **Owner**: `huaxialucaicaizi`
 - **Created**: `2026-10-22`
-- **Updated**: `2026-11-14`
+- **Updated**: `2026-11-15`
 - **Topics**: agent-skills / 人工智能 / business-plan / Claude Code / codex / cursor
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -90,12 +90,12 @@
 </details>
 
 <details>
-<summary><strong>2. sleepy-zone/ai-ref-library-cn</strong> · 📈 +768 · ⭐ 768 · JavaScript</summary>
+<summary><strong>2. sleepy-zone/ai-ref-library-cn</strong> · 📈 +770 · ⭐ 770 · JavaScript</summary>
 
 - **Repository**: https://github.com/sleepy-zone/ai-ref-library-cn
 - **Owner**: `sleepy-zone`
 - **Created**: `2026-10-29`
-- **Updated**: `2026-11-13`
+- **Updated**: `2026-11-15`
 - **Topics**: 人工智能 / gpt
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
@@ -103,7 +103,7 @@
 </details>
 
 <details>
-<summary><strong>3. hevnsnt/CVEngine</strong> · 📈 +725 · ⭐ 725 · Python</summary>
+<summary><strong>3. hevnsnt/CVEngine</strong> · 📈 +738 · ⭐ 738 · Python</summary>
 
 - **Repository**: https://github.com/hevnsnt/CVEngine
 - **Owner**: `hevnsnt`
@@ -116,223 +116,223 @@
 </details>
 
 <details>
-<summary><strong>4. Topkiflare74/ai--manus2.0</strong> · 📈 +678 · ⭐ 678 · 未识别</summary>
+<summary><strong>4. YellowLaborerMarket/Gemini-Config-Checker-</strong> · 📈 +474 · ⭐ 474 · Makefile</summary>
 
-- **Repository**: https://github.com/Topkiflare74/ai--manus2.0
-- **Owner**: `Topkiflare74`
-- **Created**: `2026-11-14`
+- **Repository**: https://github.com/YellowLaborerMarket/Gemini-Config-Checker-
+- **Owner**: `YellowLaborerMarket`
+- **Created**: `2026-11-15`
+- **Updated**: `2026-11-16`
+- **Topics**: 人工智能 / ai-search / aichecker / chatgpt / 命令行 / config-checker
+- **项目简介**: 这是一个自动化与效率工具项目，关注该方向的工程实践。
+- **适用场景**: 适合做自动化流程、命令行工具和研发提效
+
+</details>
+
+<details>
+<summary><strong>5. weightcashiercupola/Gemini-Config-Checker-</strong> · 📈 +473 · ⭐ 473 · Makefile</summary>
+
+- **Repository**: https://github.com/weightcashiercupola/Gemini-Config-Checker-
+- **Owner**: `weightcashiercupola`
+- **Created**: `2026-11-15`
 - **Updated**: `2026-11-15`
-- **Topics**: 人工智能 / AI 智能体 / ai-sdk / anthropic / chatbot / function-calling
-- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
+- **Topics**: 人工智能 / ai-search / aichecker / chatgpt / 命令行 / config-checker
+- **项目简介**: 这是一个自动化与效率工具项目，关注该方向的工程实践。
+- **适用场景**: 适合做自动化流程、命令行工具和研发提效
 
 </details>
 
 <details>
-<summary><strong>5. trackboatwrightplan/GitHub-Copilot-app</strong> · 📈 +672 · ⭐ 672 · 未识别</summary>
+<summary><strong>6. WingDataVacuum/Gemini-Config-Checker-</strong> · 📈 +473 · ⭐ 473 · Makefile</summary>
 
-- **Repository**: https://github.com/trackboatwrightplan/GitHub-Copilot-app
-- **Owner**: `trackboatwrightplan`
-- **Created**: `2026-11-14`
-- **Updated**: `2026-11-14`
-- **Topics**: adminlte / agent-skills / 人工智能 / awesome / chatgpt / copilot
-- **项目简介**: 这是一个学习资料与资源聚合项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
-
-</details>
-
-<details>
-<summary><strong>6. TrapAccountant/GitHub-Copilot-app</strong> · 📈 +670 · ⭐ 670 · 未识别</summary>
-
-- **Repository**: https://github.com/TrapAccountant/GitHub-Copilot-app
-- **Owner**: `TrapAccountant`
-- **Created**: `2026-11-14`
-- **Updated**: `2026-11-14`
-- **Topics**: adminlte / agent-skills / 人工智能 / awesome / chatgpt / copilot
-- **项目简介**: 这是一个学习资料与资源聚合项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
+- **Repository**: https://github.com/WingDataVacuum/Gemini-Config-Checker-
+- **Owner**: `WingDataVacuum`
+- **Created**: `2026-11-15`
+- **Updated**: `2026-11-15`
+- **Topics**: 人工智能 / ai-search / aichecker / chatgpt / 命令行 / config-checker
+- **项目简介**: 这是一个自动化与效率工具项目，关注该方向的工程实践。
+- **适用场景**: 适合做自动化流程、命令行工具和研发提效
 
 </details>
 
 <details>
-<summary><strong>7. topapothecarycanal/ai--manus2.0</strong> · 📈 +666 · ⭐ 666 · 未识别</summary>
+<summary><strong>7. TypeTyrantScheme/Gemini-Config-Checker-</strong> · 📈 +473 · ⭐ 473 · Makefile</summary>
 
-- **Repository**: https://github.com/topapothecarycanal/ai--manus2.0
-- **Owner**: `topapothecarycanal`
-- **Created**: `2026-11-14`
-- **Updated**: `2026-11-14`
-- **Topics**: 人工智能 / AI 智能体 / ai-sdk / anthropic / chatbot / function-calling
-- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
-
-</details>
-
-<details>
-<summary><strong>8. trackersnailgrip/GitHub-Copilot-app</strong> · 📈 +666 · ⭐ 666 · 未识别</summary>
-
-- **Repository**: https://github.com/trackersnailgrip/GitHub-Copilot-app
-- **Owner**: `trackersnailgrip`
-- **Created**: `2026-11-14`
-- **Updated**: `2026-11-14`
-- **Topics**: adminlte / agent-skills / 人工智能 / awesome / chatgpt / copilot
-- **项目简介**: 这是一个学习资料与资源聚合项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
+- **Repository**: https://github.com/TypeTyrantScheme/Gemini-Config-Checker-
+- **Owner**: `TypeTyrantScheme`
+- **Created**: `2026-11-15`
+- **Updated**: `2026-11-15`
+- **Topics**: 人工智能 / ai-search / aichecker / chatgpt / 命令行 / config-checker
+- **项目简介**: 这是一个自动化与效率工具项目，关注该方向的工程实践。
+- **适用场景**: 适合做自动化流程、命令行工具和研发提效
 
 </details>
 
 <details>
-<summary><strong>9. TradesmanRecord/GitHub-Copilot-app</strong> · 📈 +665 · ⭐ 665 · 未识别</summary>
+<summary><strong>8. weldbladesmithwharf/Gemini-Config-Checker-</strong> · 📈 +473 · ⭐ 473 · Makefile</summary>
 
-- **Repository**: https://github.com/TradesmanRecord/GitHub-Copilot-app
-- **Owner**: `TradesmanRecord`
-- **Created**: `2026-11-14`
-- **Updated**: `2026-11-14`
-- **Topics**: adminlte / agent-skills / 人工智能 / awesome / chatgpt / copilot
-- **项目简介**: 这是一个学习资料与资源聚合项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
-
-</details>
-
-<details>
-<summary><strong>10. toppatronweave/GitHub-Copilot-app</strong> · 📈 +665 · ⭐ 665 · 未识别</summary>
-
-- **Repository**: https://github.com/toppatronweave/GitHub-Copilot-app
-- **Owner**: `toppatronweave`
-- **Created**: `2026-11-14`
-- **Updated**: `2026-11-14`
-- **Topics**: adminlte / agent-skills / 人工智能 / awesome / chatgpt / copilot
-- **项目简介**: 这是一个学习资料与资源聚合项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
+- **Repository**: https://github.com/weldbladesmithwharf/Gemini-Config-Checker-
+- **Owner**: `weldbladesmithwharf`
+- **Created**: `2026-11-15`
+- **Updated**: `2026-11-15`
+- **Topics**: 人工智能 / ai-search / aichecker / chatgpt / 命令行 / config-checker
+- **项目简介**: 这是一个自动化与效率工具项目，关注该方向的工程实践。
+- **适用场景**: 适合做自动化流程、命令行工具和研发提效
 
 </details>
 
 <details>
-<summary><strong>11. toppatronweave/ai--manus2.0</strong> · 📈 +665 · ⭐ 665 · 未识别</summary>
+<summary><strong>9. Violetnyudress/Gemini-Config-Checker-</strong> · 📈 +473 · ⭐ 473 · Go</summary>
 
-- **Repository**: https://github.com/toppatronweave/ai--manus2.0
-- **Owner**: `toppatronweave`
-- **Created**: `2026-11-14`
-- **Updated**: `2026-11-14`
-- **Topics**: 人工智能 / AI 智能体 / ai-sdk / anthropic / chatbot / function-calling
-- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
-
-</details>
-
-<details>
-<summary><strong>12. TrapBladesmith/GitHub-Copilot-app</strong> · 📈 +664 · ⭐ 664 · 未识别</summary>
-
-- **Repository**: https://github.com/TrapBladesmith/GitHub-Copilot-app
-- **Owner**: `TrapBladesmith`
-- **Created**: `2026-11-14`
-- **Updated**: `2026-11-14`
-- **Topics**: adminlte / agent-skills / 人工智能 / awesome / chatgpt / copilot
-- **项目简介**: 这是一个学习资料与资源聚合项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
+- **Repository**: https://github.com/Violetnyudress/Gemini-Config-Checker-
+- **Owner**: `Violetnyudress`
+- **Created**: `2026-11-15`
+- **Updated**: `2026-11-15`
+- **Topics**: 人工智能 / ai-search / aichecker / chatgpt / 命令行 / config-checker
+- **项目简介**: 这是一个自动化与效率工具项目，关注该方向的工程实践。
+- **适用场景**: 适合做自动化流程、命令行工具和研发提效
 
 </details>
 
 <details>
-<summary><strong>13. TurquoiseConsultant/GitHub-Copilot-app</strong> · 📈 +664 · ⭐ 664 · 未识别</summary>
+<summary><strong>10. WinnerSpecialist/Gemini-Config-Checker-</strong> · 📈 +473 · ⭐ 473 · Makefile</summary>
 
-- **Repository**: https://github.com/TurquoiseConsultant/GitHub-Copilot-app
-- **Owner**: `TurquoiseConsultant`
-- **Created**: `2026-11-14`
-- **Updated**: `2026-11-14`
-- **Topics**: adminlte / agent-skills / 人工智能 / awesome / chatgpt / copilot
-- **项目简介**: 这是一个学习资料与资源聚合项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
-
-</details>
-
-<details>
-<summary><strong>14. TurkeyDesignate/GitHub-Copilot-app</strong> · 📈 +664 · ⭐ 664 · 未识别</summary>
-
-- **Repository**: https://github.com/TurkeyDesignate/GitHub-Copilot-app
-- **Owner**: `TurkeyDesignate`
-- **Created**: `2026-11-14`
-- **Updated**: `2026-11-14`
-- **Topics**: adminlte / agent-skills / 人工智能 / awesome / chatgpt / copilot
-- **项目简介**: 这是一个学习资料与资源聚合项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
+- **Repository**: https://github.com/WinnerSpecialist/Gemini-Config-Checker-
+- **Owner**: `WinnerSpecialist`
+- **Created**: `2026-11-15`
+- **Updated**: `2026-11-15`
+- **Topics**: 人工智能 / ai-search / aichecker / chatgpt / 命令行 / config-checker
+- **项目简介**: 这是一个自动化与效率工具项目，关注该方向的工程实践。
+- **适用场景**: 适合做自动化流程、命令行工具和研发提效
 
 </details>
 
 <details>
-<summary><strong>15. Tealplesense/GitHub-Copilot-app</strong> · 📈 +663 · ⭐ 663 · 未识别</summary>
+<summary><strong>11. Visionbeyondtrack/Gemini-Config-Checker-</strong> · 📈 +473 · ⭐ 473 · Makefile</summary>
 
-- **Repository**: https://github.com/Tealplesense/GitHub-Copilot-app
-- **Owner**: `Tealplesense`
-- **Created**: `2026-11-14`
-- **Updated**: `2026-11-14`
-- **Topics**: adminlte / agent-skills / 人工智能 / awesome / chatgpt / copilot
-- **项目简介**: 这是一个学习资料与资源聚合项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
-
-</details>
-
-<details>
-<summary><strong>16. WebBookkeeper/GitHub-Copilot-app</strong> · 📈 +663 · ⭐ 663 · 未识别</summary>
-
-- **Repository**: https://github.com/WebBookkeeper/GitHub-Copilot-app
-- **Owner**: `WebBookkeeper`
-- **Created**: `2026-11-14`
-- **Updated**: `2026-11-14`
-- **Topics**: adminlte / agent-skills / 人工智能 / awesome / chatgpt / copilot
-- **项目简介**: 这是一个学习资料与资源聚合项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
+- **Repository**: https://github.com/Visionbeyondtrack/Gemini-Config-Checker-
+- **Owner**: `Visionbeyondtrack`
+- **Created**: `2026-11-15`
+- **Updated**: `2026-11-15`
+- **Topics**: 人工智能 / ai-search / aichecker / chatgpt / 命令行 / config-checker
+- **项目简介**: 这是一个自动化与效率工具项目，关注该方向的工程实践。
+- **适用场景**: 适合做自动化流程、命令行工具和研发提效
 
 </details>
 
 <details>
-<summary><strong>17. topconstableinlet67/ai--manus2.0</strong> · 📈 +663 · ⭐ 663 · 未识别</summary>
+<summary><strong>12. TurtleReside/Gemini-Config-Checker-</strong> · 📈 +473 · ⭐ 473 · Go</summary>
 
-- **Repository**: https://github.com/topconstableinlet67/ai--manus2.0
-- **Owner**: `topconstableinlet67`
-- **Created**: `2026-11-14`
-- **Updated**: `2026-11-14`
-- **Topics**: 人工智能 / AI 智能体 / ai-sdk / anthropic / chatbot / function-calling
-- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
-
-</details>
-
-<details>
-<summary><strong>18. topconstableinlet67/GitHub-Copilot-app</strong> · 📈 +661 · ⭐ 661 · 未识别</summary>
-
-- **Repository**: https://github.com/topconstableinlet67/GitHub-Copilot-app
-- **Owner**: `topconstableinlet67`
-- **Created**: `2026-11-14`
-- **Updated**: `2026-11-14`
-- **Topics**: adminlte / agent-skills / 人工智能 / awesome / chatgpt / copilot
-- **项目简介**: 这是一个学习资料与资源聚合项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
+- **Repository**: https://github.com/TurtleReside/Gemini-Config-Checker-
+- **Owner**: `TurtleReside`
+- **Created**: `2026-11-15`
+- **Updated**: `2026-11-15`
+- **Topics**: 人工智能 / ai-search / aichecker / chatgpt / 命令行 / config-checker
+- **项目简介**: 这是一个自动化与效率工具项目，关注该方向的工程实践。
+- **适用场景**: 适合做自动化流程、命令行工具和研发提效
 
 </details>
 
 <details>
-<summary><strong>19. unitsenseimonitor/GitHub-Copilot-app</strong> · 📈 +661 · ⭐ 661 · 未识别</summary>
+<summary><strong>13. WindGatorRise37/Gemini-Config-Checker-</strong> · 📈 +473 · ⭐ 473 · Makefile</summary>
 
-- **Repository**: https://github.com/unitsenseimonitor/GitHub-Copilot-app
-- **Owner**: `unitsenseimonitor`
-- **Created**: `2026-11-14`
-- **Updated**: `2026-11-14`
-- **Topics**: adminlte / agent-skills / 人工智能 / awesome / chatgpt / copilot
-- **项目简介**: 这是一个学习资料与资源聚合项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
+- **Repository**: https://github.com/WindGatorRise37/Gemini-Config-Checker-
+- **Owner**: `WindGatorRise37`
+- **Created**: `2026-11-15`
+- **Updated**: `2026-11-15`
+- **Topics**: 人工智能 / ai-search / aichecker / chatgpt / 命令行 / config-checker
+- **项目简介**: 这是一个自动化与效率工具项目，关注该方向的工程实践。
+- **适用场景**: 适合做自动化流程、命令行工具和研发提效
 
 </details>
 
 <details>
-<summary><strong>20. Trapkrostride/GitHub-Copilot-app</strong> · 📈 +660 · ⭐ 660 · 未识别</summary>
+<summary><strong>14. VortexHostFeel/Gemini-Config-Checker-</strong> · 📈 +473 · ⭐ 473 · Makefile</summary>
 
-- **Repository**: https://github.com/Trapkrostride/GitHub-Copilot-app
-- **Owner**: `Trapkrostride`
-- **Created**: `2026-11-14`
-- **Updated**: `2026-11-14`
-- **Topics**: adminlte / agent-skills / 人工智能 / awesome / chatgpt / copilot
-- **项目简介**: 这是一个学习资料与资源聚合项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
+- **Repository**: https://github.com/VortexHostFeel/Gemini-Config-Checker-
+- **Owner**: `VortexHostFeel`
+- **Created**: `2026-11-15`
+- **Updated**: `2026-11-15`
+- **Topics**: 人工智能 / ai-search / aichecker / chatgpt / 命令行 / config-checker
+- **项目简介**: 这是一个自动化与效率工具项目，关注该方向的工程实践。
+- **适用场景**: 适合做自动化流程、命令行工具和研发提效
+
+</details>
+
+<details>
+<summary><strong>15. VisionWormStudio/Gemini-Config-Checker-</strong> · 📈 +473 · ⭐ 473 · Go</summary>
+
+- **Repository**: https://github.com/VisionWormStudio/Gemini-Config-Checker-
+- **Owner**: `VisionWormStudio`
+- **Created**: `2026-11-15`
+- **Updated**: `2026-11-15`
+- **Topics**: 人工智能 / ai-search / aichecker / chatgpt / 命令行 / config-checker
+- **项目简介**: 这是一个自动化与效率工具项目，关注该方向的工程实践。
+- **适用场景**: 适合做自动化流程、命令行工具和研发提效
+
+</details>
+
+<details>
+<summary><strong>16. WestLocksmithSpout/Gemini-Config-Checker-</strong> · 📈 +473 · ⭐ 473 · Go</summary>
+
+- **Repository**: https://github.com/WestLocksmithSpout/Gemini-Config-Checker-
+- **Owner**: `WestLocksmithSpout`
+- **Created**: `2026-11-15`
+- **Updated**: `2026-11-15`
+- **Topics**: 人工智能 / ai-search / aichecker / chatgpt / 命令行 / config-checker
+- **项目简介**: 这是一个自动化与效率工具项目，关注该方向的工程实践。
+- **适用场景**: 适合做自动化流程、命令行工具和研发提效
+
+</details>
+
+<details>
+<summary><strong>17. WireProvostPucker/Gemini-Config-Checker-</strong> · 📈 +473 · ⭐ 473 · Makefile</summary>
+
+- **Repository**: https://github.com/WireProvostPucker/Gemini-Config-Checker-
+- **Owner**: `WireProvostPucker`
+- **Created**: `2026-11-15`
+- **Updated**: `2026-11-15`
+- **Topics**: 人工智能 / ai-search / aichecker / chatgpt / 命令行 / config-checker
+- **项目简介**: 这是一个自动化与效率工具项目，关注该方向的工程实践。
+- **适用场景**: 适合做自动化流程、命令行工具和研发提效
+
+</details>
+
+<details>
+<summary><strong>18. TrooperFilter/Gemini-Config-Checker-</strong> · 📈 +473 · ⭐ 473 · Makefile</summary>
+
+- **Repository**: https://github.com/TrooperFilter/Gemini-Config-Checker-
+- **Owner**: `TrooperFilter`
+- **Created**: `2026-11-15`
+- **Updated**: `2026-11-15`
+- **Topics**: 人工智能 / ai-search / aichecker / chatgpt / 命令行 / config-checker
+- **项目简介**: 这是一个自动化与效率工具项目，关注该方向的工程实践。
+- **适用场景**: 适合做自动化流程、命令行工具和研发提效
+
+</details>
+
+<details>
+<summary><strong>19. wisemeadowlarkspike/Gemini-Config-Checker-</strong> · 📈 +473 · ⭐ 473 · Go</summary>
+
+- **Repository**: https://github.com/wisemeadowlarkspike/Gemini-Config-Checker-
+- **Owner**: `wisemeadowlarkspike`
+- **Created**: `2026-11-15`
+- **Updated**: `2026-11-15`
+- **Topics**: 人工智能 / ai-search / aichecker / chatgpt / 命令行 / config-checker
+- **项目简介**: 这是一个自动化与效率工具项目，关注该方向的工程实践。
+- **适用场景**: 适合做自动化流程、命令行工具和研发提效
+
+</details>
+
+<details>
+<summary><strong>20. Watchlespeed/Gemini-Config-Checker-</strong> · 📈 +473 · ⭐ 473 · Makefile</summary>
+
+- **Repository**: https://github.com/Watchlespeed/Gemini-Config-Checker-
+- **Owner**: `Watchlespeed`
+- **Created**: `2026-11-15`
+- **Updated**: `2026-11-15`
+- **Topics**: 人工智能 / ai-search / aichecker / chatgpt / 命令行 / config-checker
+- **项目简介**: 这是一个自动化与效率工具项目，关注该方向的工程实践。
+- **适用场景**: 适合做自动化流程、命令行工具和研发提效
 
 </details>
 
