@@ -12,7 +12,7 @@
 
 | 更新时间 | 榜单数量 | 查询范围 |
 |---|---:|---|
-| `2026-11-23 16:50:22 UTC+8` | **20** | `topic:ai archived:false is:public created:>=2026-10-24 stars:>10` |
+| `2026-11-24 18:47:27 UTC+8` | **20** | `topic:ai archived:false is:public created:>=2026-10-25 stars:>10` |
 
 > [!NOTE]
 > 本榜单通过对比每日快照，计算最近 30 天的星标增长数量 ($\Delta Stars$) 进行排序，旨在发现处于【快速爆发期】的新项目。
@@ -21,7 +21,7 @@
 
 ### 🥇 Top 1 · [vercel-labs/ui](https://github.com/vercel-labs/ui)
 
-**本月涨星**: +6606 | **总星数**: 6606 | **Language**: TypeScript | **Updated**: 2026-11-23
+**本月涨星**: +7008 | **总星数**: 7008 | **Language**: TypeScript | **Updated**: 2026-11-24
 
 **项目简介**：这是一个智能体项目，关注该方向的工程实践。
 
@@ -31,7 +31,7 @@
 
 ### 🥈 Top 2 · [XinaTian/MROffice](https://github.com/XinaTian/MROffice)
 
-**本月涨星**: +2537 | **总星数**: 2537 | **Language**: TypeScript | **Updated**: 2026-11-23
+**本月涨星**: +3461 | **总星数**: 3461 | **Language**: TypeScript | **Updated**: 2026-11-24
 
 **项目简介**：这是一个智能体项目，用于把 MCP/OpenAPI 能力快速转成命令行工具。
 
@@ -41,7 +41,7 @@
 
 ### 🥉 Top 3 · [sleepy-zone/ai-ref-library-cn](https://github.com/sleepy-zone/ai-ref-library-cn)
 
-**本月涨星**: +792 | **总星数**: 792 | **Language**: JavaScript | **Updated**: 2026-11-22
+**本月涨星**: +794 | **总星数**: 794 | **Language**: JavaScript | **Updated**: 2026-11-23
 
 **项目简介**：这是一个AI 项目，关注该方向的工程实践。
 
@@ -53,36 +53,36 @@
 
 | # | Project | Growth | Total Stars | Language | 项目简介 | Updated |
 |---:|---|---:|---:|---|---|---|
-| 1 | [vercel-labs/ui](https://github.com/vercel-labs/ui) | 📈 +6606 | ⭐ 6606 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-11-23 |
-| 2 | [XinaTian/MROffice](https://github.com/XinaTian/MROffice) | 📈 +2537 | ⭐ 2537 | TypeScript | 这是一个智能体项目，用于把 MCP/OpenAPI 能力快速转成命令行工… | 2026-11-23 |
-| 3 | [sleepy-zone/ai-ref-library-cn](https://github.com/sleepy-zone/ai-ref-library-cn) | 📈 +792 | ⭐ 792 | JavaScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-11-22 |
-| 4 | [hevnsnt/CVEngine](https://github.com/hevnsnt/CVEngine) | 📈 +749 | ⭐ 749 | Python | 这是一个搜索与工具接入项目，用于把 MCP/OpenAPI 能力快速转成… | 2026-11-23 |
-| 5 | [interfere-inc/landmines](https://github.com/interfere-inc/landmines) | 📈 +710 | ⭐ 710 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-11-23 |
-| 6 | [TIGER-AI-Lab/WebsiteBench](https://github.com/TIGER-AI-Lab/WebsiteBench) | 📈 +666 | ⭐ 666 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-11-23 |
-| 7 | [amitshekhariitbhu/forward-deployed-engineer-roadmap](https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap) | 📈 +582 | ⭐ 582 | Markdown | 这是一个AI 项目，关注该方向的工程实践。 | 2026-11-23 |
-| 8 | [beiwocaishijia/gezhi-sheets](https://github.com/beiwocaishijia/gezhi-sheets) | 📈 +564 | ⭐ 564 | JavaScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-11-23 |
-| 9 | [YellowLaborerMarket/Gemini-Config-Checker-](https://github.com/YellowLaborerMarket/Gemini-Config-Checker-) | 📈 +469 | ⭐ 469 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-23 |
-| 10 | [weightcashiercupola/Gemini-Config-Checker-](https://github.com/weightcashiercupola/Gemini-Config-Checker-) | 📈 +468 | ⭐ 468 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-23 |
-| 11 | [TypeTyrantScheme/Gemini-Config-Checker-](https://github.com/TypeTyrantScheme/Gemini-Config-Checker-) | 📈 +467 | ⭐ 467 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-23 |
-| 12 | [WingDataVacuum/Gemini-Config-Checker-](https://github.com/WingDataVacuum/Gemini-Config-Checker-) | 📈 +467 | ⭐ 467 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-23 |
-| 13 | [WinnerSpecialist/Gemini-Config-Checker-](https://github.com/WinnerSpecialist/Gemini-Config-Checker-) | 📈 +467 | ⭐ 467 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-23 |
-| 14 | [Violetnyudress/Gemini-Config-Checker-](https://github.com/Violetnyudress/Gemini-Config-Checker-) | 📈 +467 | ⭐ 467 | Go | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-23 |
-| 15 | [Visionbeyondtrack/Gemini-Config-Checker-](https://github.com/Visionbeyondtrack/Gemini-Config-Checker-) | 📈 +467 | ⭐ 467 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-23 |
-| 16 | [weldbladesmithwharf/Gemini-Config-Checker-](https://github.com/weldbladesmithwharf/Gemini-Config-Checker-) | 📈 +467 | ⭐ 467 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-23 |
-| 17 | [WireProvostPucker/Gemini-Config-Checker-](https://github.com/WireProvostPucker/Gemini-Config-Checker-) | 📈 +467 | ⭐ 467 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-23 |
-| 18 | [TurtleReside/Gemini-Config-Checker-](https://github.com/TurtleReside/Gemini-Config-Checker-) | 📈 +467 | ⭐ 467 | Go | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-23 |
-| 19 | [VortexHostFeel/Gemini-Config-Checker-](https://github.com/VortexHostFeel/Gemini-Config-Checker-) | 📈 +467 | ⭐ 467 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-23 |
-| 20 | [WindGatorRise37/Gemini-Config-Checker-](https://github.com/WindGatorRise37/Gemini-Config-Checker-) | 📈 +467 | ⭐ 467 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-23 |
+| 1 | [vercel-labs/ui](https://github.com/vercel-labs/ui) | 📈 +7008 | ⭐ 7008 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-11-24 |
+| 2 | [XinaTian/MROffice](https://github.com/XinaTian/MROffice) | 📈 +3461 | ⭐ 3461 | TypeScript | 这是一个智能体项目，用于把 MCP/OpenAPI 能力快速转成命令行工… | 2026-11-24 |
+| 3 | [sleepy-zone/ai-ref-library-cn](https://github.com/sleepy-zone/ai-ref-library-cn) | 📈 +794 | ⭐ 794 | JavaScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-11-23 |
+| 4 | [interfere-inc/landmines](https://github.com/interfere-inc/landmines) | 📈 +777 | ⭐ 777 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-11-24 |
+| 5 | [TIGER-AI-Lab/WebsiteBench](https://github.com/TIGER-AI-Lab/WebsiteBench) | 📈 +704 | ⭐ 704 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-11-24 |
+| 6 | [amitshekhariitbhu/forward-deployed-engineer-roadmap](https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap) | 📈 +605 | ⭐ 605 | Markdown | 这是一个AI 项目，关注该方向的工程实践。 | 2026-11-24 |
+| 7 | [beiwocaishijia/gezhi-sheets](https://github.com/beiwocaishijia/gezhi-sheets) | 📈 +604 | ⭐ 604 | JavaScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-11-24 |
+| 8 | [thesysdev/opendashboards](https://github.com/thesysdev/opendashboards) | 📈 +480 | ⭐ 480 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-11-24 |
+| 9 | [YellowLaborerMarket/Gemini-Config-Checker-](https://github.com/YellowLaborerMarket/Gemini-Config-Checker-) | 📈 +467 | ⭐ 467 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-23 |
+| 10 | [weightcashiercupola/Gemini-Config-Checker-](https://github.com/weightcashiercupola/Gemini-Config-Checker-) | 📈 +465 | ⭐ 465 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-23 |
+| 11 | [WingDataVacuum/Gemini-Config-Checker-](https://github.com/WingDataVacuum/Gemini-Config-Checker-) | 📈 +464 | ⭐ 464 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-23 |
+| 12 | [TypeTyrantScheme/Gemini-Config-Checker-](https://github.com/TypeTyrantScheme/Gemini-Config-Checker-) | 📈 +464 | ⭐ 464 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-23 |
+| 13 | [WinnerSpecialist/Gemini-Config-Checker-](https://github.com/WinnerSpecialist/Gemini-Config-Checker-) | 📈 +464 | ⭐ 464 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-23 |
+| 14 | [Violetnyudress/Gemini-Config-Checker-](https://github.com/Violetnyudress/Gemini-Config-Checker-) | 📈 +464 | ⭐ 464 | Go | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-23 |
+| 15 | [weldbladesmithwharf/Gemini-Config-Checker-](https://github.com/weldbladesmithwharf/Gemini-Config-Checker-) | 📈 +464 | ⭐ 464 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-23 |
+| 16 | [WindGatorRise37/Gemini-Config-Checker-](https://github.com/WindGatorRise37/Gemini-Config-Checker-) | 📈 +464 | ⭐ 464 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-23 |
+| 17 | [Visionbeyondtrack/Gemini-Config-Checker-](https://github.com/Visionbeyondtrack/Gemini-Config-Checker-) | 📈 +464 | ⭐ 464 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-23 |
+| 18 | [TurtleReside/Gemini-Config-Checker-](https://github.com/TurtleReside/Gemini-Config-Checker-) | 📈 +464 | ⭐ 464 | Go | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-23 |
+| 19 | [WireProvostPucker/Gemini-Config-Checker-](https://github.com/WireProvostPucker/Gemini-Config-Checker-) | 📈 +464 | ⭐ 464 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-23 |
+| 20 | [VortexHostFeel/Gemini-Config-Checker-](https://github.com/VortexHostFeel/Gemini-Config-Checker-) | 📈 +464 | ⭐ 464 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-23 |
 
 ## Project Details
 
 <details>
-<summary><strong>1. vercel-labs/ui</strong> · 📈 +6606 · ⭐ 6606 · TypeScript</summary>
+<summary><strong>1. vercel-labs/ui</strong> · 📈 +7008 · ⭐ 7008 · TypeScript</summary>
 
 - **Repository**: https://github.com/vercel-labs/ui
 - **Owner**: `vercel-labs`
 - **Created**: `2026-10-26`
-- **Updated**: `2026-11-23`
+- **Updated**: `2026-11-24`
 - **Topics**: accessibility / 智能体 / 智能体 / 人工智能 / aria / behaviors
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -90,12 +90,12 @@
 </details>
 
 <details>
-<summary><strong>2. XinaTian/MROffice</strong> · 📈 +2537 · ⭐ 2537 · TypeScript</summary>
+<summary><strong>2. XinaTian/MROffice</strong> · 📈 +3461 · ⭐ 3461 · TypeScript</summary>
 
 - **Repository**: https://github.com/XinaTian/MROffice
 - **Owner**: `XinaTian`
 - **Created**: `2026-11-10`
-- **Updated**: `2026-11-23`
+- **Updated**: `2026-11-24`
 - **Topics**: 人工智能 / AI 智能体 / Claude Code / codex / copilot / cursor
 - **项目简介**: 这是一个智能体项目，用于把 MCP/OpenAPI 能力快速转成命令行工具。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -103,12 +103,12 @@
 </details>
 
 <details>
-<summary><strong>3. sleepy-zone/ai-ref-library-cn</strong> · 📈 +792 · ⭐ 792 · JavaScript</summary>
+<summary><strong>3. sleepy-zone/ai-ref-library-cn</strong> · 📈 +794 · ⭐ 794 · JavaScript</summary>
 
 - **Repository**: https://github.com/sleepy-zone/ai-ref-library-cn
 - **Owner**: `sleepy-zone`
 - **Created**: `2026-10-29`
-- **Updated**: `2026-11-22`
+- **Updated**: `2026-11-23`
 - **Topics**: 人工智能 / gpt
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
@@ -116,25 +116,12 @@
 </details>
 
 <details>
-<summary><strong>4. hevnsnt/CVEngine</strong> · 📈 +749 · ⭐ 749 · Python</summary>
-
-- **Repository**: https://github.com/hevnsnt/CVEngine
-- **Owner**: `hevnsnt`
-- **Created**: `2026-10-24`
-- **Updated**: `2026-11-23`
-- **Topics**: 人工智能 / attack-surface-management / bbot / cybersecurity / MCP / nmap
-- **项目简介**: 这是一个搜索与工具接入项目，用于把 MCP/OpenAPI 能力快速转成命令行工具。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
-
-</details>
-
-<details>
-<summary><strong>5. interfere-inc/landmines</strong> · 📈 +710 · ⭐ 710 · TypeScript</summary>
+<summary><strong>4. interfere-inc/landmines</strong> · 📈 +777 · ⭐ 777 · TypeScript</summary>
 
 - **Repository**: https://github.com/interfere-inc/landmines
 - **Owner**: `interfere-inc`
 - **Created**: `2026-10-28`
-- **Updated**: `2026-11-23`
+- **Updated**: `2026-11-24`
 - **Topics**: 智能体 / 人工智能 / lint / oxlint / oxlint-plugin / testing
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -142,12 +129,12 @@
 </details>
 
 <details>
-<summary><strong>6. TIGER-AI-Lab/WebsiteBench</strong> · 📈 +666 · ⭐ 666 · Python</summary>
+<summary><strong>5. TIGER-AI-Lab/WebsiteBench</strong> · 📈 +704 · ⭐ 704 · Python</summary>
 
 - **Repository**: https://github.com/TIGER-AI-Lab/WebsiteBench
 - **Owner**: `TIGER-AI-Lab`
 - **Created**: `2026-11-04`
-- **Updated**: `2026-11-23`
+- **Updated**: `2026-11-24`
 - **Topics**: agent-evaluation / 人工智能 / AI 智能体 / benchmark / benchmarking / browser-automation
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -155,12 +142,12 @@
 </details>
 
 <details>
-<summary><strong>7. amitshekhariitbhu/forward-deployed-engineer-roadmap</strong> · 📈 +582 · ⭐ 582 · Markdown</summary>
+<summary><strong>6. amitshekhariitbhu/forward-deployed-engineer-roadmap</strong> · 📈 +605 · ⭐ 605 · Markdown</summary>
 
 - **Repository**: https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap
 - **Owner**: `amitshekhariitbhu`
 - **Created**: `2026-10-30`
-- **Updated**: `2026-11-23`
+- **Updated**: `2026-11-24`
 - **Topics**: 人工智能 / fde / fde-interview / forward-deployed-engineer / forward-deployed-engineering / roadmap
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
@@ -168,12 +155,12 @@
 </details>
 
 <details>
-<summary><strong>8. beiwocaishijia/gezhi-sheets</strong> · 📈 +564 · ⭐ 564 · JavaScript</summary>
+<summary><strong>7. beiwocaishijia/gezhi-sheets</strong> · 📈 +604 · ⭐ 604 · JavaScript</summary>
 
 - **Repository**: https://github.com/beiwocaishijia/gezhi-sheets
 - **Owner**: `beiwocaishijia`
 - **Created**: `2026-11-09`
-- **Updated**: `2026-11-23`
+- **Updated**: `2026-11-24`
 - **Topics**: 人工智能 / deepseek / javascript / kimi / qwen / spreadsheet
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
@@ -181,7 +168,20 @@
 </details>
 
 <details>
-<summary><strong>9. YellowLaborerMarket/Gemini-Config-Checker-</strong> · 📈 +469 · ⭐ 469 · Makefile</summary>
+<summary><strong>8. thesysdev/opendashboards</strong> · 📈 +480 · ⭐ 480 · TypeScript</summary>
+
+- **Repository**: https://github.com/thesysdev/opendashboards
+- **Owner**: `thesysdev`
+- **Created**: `2026-11-06`
+- **Updated**: `2026-11-24`
+- **Topics**: 人工智能 / analytics / Claude / dashboard / dashboards
+- **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
+- **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
+
+</details>
+
+<details>
+<summary><strong>9. YellowLaborerMarket/Gemini-Config-Checker-</strong> · 📈 +467 · ⭐ 467 · Makefile</summary>
 
 - **Repository**: https://github.com/YellowLaborerMarket/Gemini-Config-Checker-
 - **Owner**: `YellowLaborerMarket`
@@ -194,7 +194,7 @@
 </details>
 
 <details>
-<summary><strong>10. weightcashiercupola/Gemini-Config-Checker-</strong> · 📈 +468 · ⭐ 468 · Makefile</summary>
+<summary><strong>10. weightcashiercupola/Gemini-Config-Checker-</strong> · 📈 +465 · ⭐ 465 · Makefile</summary>
 
 - **Repository**: https://github.com/weightcashiercupola/Gemini-Config-Checker-
 - **Owner**: `weightcashiercupola`
@@ -207,20 +207,7 @@
 </details>
 
 <details>
-<summary><strong>11. TypeTyrantScheme/Gemini-Config-Checker-</strong> · 📈 +467 · ⭐ 467 · Makefile</summary>
-
-- **Repository**: https://github.com/TypeTyrantScheme/Gemini-Config-Checker-
-- **Owner**: `TypeTyrantScheme`
-- **Created**: `2026-11-15`
-- **Updated**: `2026-11-23`
-- **Topics**: 人工智能 / ai-search / aichecker / chatgpt / 命令行 / config-checker
-- **项目简介**: 这是一个自动化与效率工具项目，关注该方向的工程实践。
-- **适用场景**: 适合做自动化流程、命令行工具和研发提效
-
-</details>
-
-<details>
-<summary><strong>12. WingDataVacuum/Gemini-Config-Checker-</strong> · 📈 +467 · ⭐ 467 · Makefile</summary>
+<summary><strong>11. WingDataVacuum/Gemini-Config-Checker-</strong> · 📈 +464 · ⭐ 464 · Makefile</summary>
 
 - **Repository**: https://github.com/WingDataVacuum/Gemini-Config-Checker-
 - **Owner**: `WingDataVacuum`
@@ -233,7 +220,20 @@
 </details>
 
 <details>
-<summary><strong>13. WinnerSpecialist/Gemini-Config-Checker-</strong> · 📈 +467 · ⭐ 467 · Makefile</summary>
+<summary><strong>12. TypeTyrantScheme/Gemini-Config-Checker-</strong> · 📈 +464 · ⭐ 464 · Makefile</summary>
+
+- **Repository**: https://github.com/TypeTyrantScheme/Gemini-Config-Checker-
+- **Owner**: `TypeTyrantScheme`
+- **Created**: `2026-11-15`
+- **Updated**: `2026-11-23`
+- **Topics**: 人工智能 / ai-search / aichecker / chatgpt / 命令行 / config-checker
+- **项目简介**: 这是一个自动化与效率工具项目，关注该方向的工程实践。
+- **适用场景**: 适合做自动化流程、命令行工具和研发提效
+
+</details>
+
+<details>
+<summary><strong>13. WinnerSpecialist/Gemini-Config-Checker-</strong> · 📈 +464 · ⭐ 464 · Makefile</summary>
 
 - **Repository**: https://github.com/WinnerSpecialist/Gemini-Config-Checker-
 - **Owner**: `WinnerSpecialist`
@@ -246,7 +246,7 @@
 </details>
 
 <details>
-<summary><strong>14. Violetnyudress/Gemini-Config-Checker-</strong> · 📈 +467 · ⭐ 467 · Go</summary>
+<summary><strong>14. Violetnyudress/Gemini-Config-Checker-</strong> · 📈 +464 · ⭐ 464 · Go</summary>
 
 - **Repository**: https://github.com/Violetnyudress/Gemini-Config-Checker-
 - **Owner**: `Violetnyudress`
@@ -259,20 +259,7 @@
 </details>
 
 <details>
-<summary><strong>15. Visionbeyondtrack/Gemini-Config-Checker-</strong> · 📈 +467 · ⭐ 467 · Makefile</summary>
-
-- **Repository**: https://github.com/Visionbeyondtrack/Gemini-Config-Checker-
-- **Owner**: `Visionbeyondtrack`
-- **Created**: `2026-11-15`
-- **Updated**: `2026-11-23`
-- **Topics**: 人工智能 / ai-search / aichecker / chatgpt / 命令行 / config-checker
-- **项目简介**: 这是一个自动化与效率工具项目，关注该方向的工程实践。
-- **适用场景**: 适合做自动化流程、命令行工具和研发提效
-
-</details>
-
-<details>
-<summary><strong>16. weldbladesmithwharf/Gemini-Config-Checker-</strong> · 📈 +467 · ⭐ 467 · Makefile</summary>
+<summary><strong>15. weldbladesmithwharf/Gemini-Config-Checker-</strong> · 📈 +464 · ⭐ 464 · Makefile</summary>
 
 - **Repository**: https://github.com/weldbladesmithwharf/Gemini-Config-Checker-
 - **Owner**: `weldbladesmithwharf`
@@ -285,10 +272,10 @@
 </details>
 
 <details>
-<summary><strong>17. WireProvostPucker/Gemini-Config-Checker-</strong> · 📈 +467 · ⭐ 467 · Makefile</summary>
+<summary><strong>16. WindGatorRise37/Gemini-Config-Checker-</strong> · 📈 +464 · ⭐ 464 · Makefile</summary>
 
-- **Repository**: https://github.com/WireProvostPucker/Gemini-Config-Checker-
-- **Owner**: `WireProvostPucker`
+- **Repository**: https://github.com/WindGatorRise37/Gemini-Config-Checker-
+- **Owner**: `WindGatorRise37`
 - **Created**: `2026-11-15`
 - **Updated**: `2026-11-23`
 - **Topics**: 人工智能 / ai-search / aichecker / chatgpt / 命令行 / config-checker
@@ -298,7 +285,20 @@
 </details>
 
 <details>
-<summary><strong>18. TurtleReside/Gemini-Config-Checker-</strong> · 📈 +467 · ⭐ 467 · Go</summary>
+<summary><strong>17. Visionbeyondtrack/Gemini-Config-Checker-</strong> · 📈 +464 · ⭐ 464 · Makefile</summary>
+
+- **Repository**: https://github.com/Visionbeyondtrack/Gemini-Config-Checker-
+- **Owner**: `Visionbeyondtrack`
+- **Created**: `2026-11-15`
+- **Updated**: `2026-11-23`
+- **Topics**: 人工智能 / ai-search / aichecker / chatgpt / 命令行 / config-checker
+- **项目简介**: 这是一个自动化与效率工具项目，关注该方向的工程实践。
+- **适用场景**: 适合做自动化流程、命令行工具和研发提效
+
+</details>
+
+<details>
+<summary><strong>18. TurtleReside/Gemini-Config-Checker-</strong> · 📈 +464 · ⭐ 464 · Go</summary>
 
 - **Repository**: https://github.com/TurtleReside/Gemini-Config-Checker-
 - **Owner**: `TurtleReside`
@@ -311,10 +311,10 @@
 </details>
 
 <details>
-<summary><strong>19. VortexHostFeel/Gemini-Config-Checker-</strong> · 📈 +467 · ⭐ 467 · Makefile</summary>
+<summary><strong>19. WireProvostPucker/Gemini-Config-Checker-</strong> · 📈 +464 · ⭐ 464 · Makefile</summary>
 
-- **Repository**: https://github.com/VortexHostFeel/Gemini-Config-Checker-
-- **Owner**: `VortexHostFeel`
+- **Repository**: https://github.com/WireProvostPucker/Gemini-Config-Checker-
+- **Owner**: `WireProvostPucker`
 - **Created**: `2026-11-15`
 - **Updated**: `2026-11-23`
 - **Topics**: 人工智能 / ai-search / aichecker / chatgpt / 命令行 / config-checker
@@ -324,10 +324,10 @@
 </details>
 
 <details>
-<summary><strong>20. WindGatorRise37/Gemini-Config-Checker-</strong> · 📈 +467 · ⭐ 467 · Makefile</summary>
+<summary><strong>20. VortexHostFeel/Gemini-Config-Checker-</strong> · 📈 +464 · ⭐ 464 · Makefile</summary>
 
-- **Repository**: https://github.com/WindGatorRise37/Gemini-Config-Checker-
-- **Owner**: `WindGatorRise37`
+- **Repository**: https://github.com/VortexHostFeel/Gemini-Config-Checker-
+- **Owner**: `VortexHostFeel`
 - **Created**: `2026-11-15`
 - **Updated**: `2026-11-23`
 - **Topics**: 人工智能 / ai-search / aichecker / chatgpt / 命令行 / config-checker
