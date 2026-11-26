@@ -12,26 +12,16 @@
 
 | 更新时间 | 榜单数量 | 查询范围 |
 |---|---:|---|
-| `2026-11-25 17:43:00 UTC+8` | **20** | `topic:ai archived:false is:public created:>=2026-10-26 stars:>10` |
+| `2026-11-26 17:19:23 UTC+8` | **20** | `topic:ai archived:false is:public created:>=2026-10-27 stars:>10` |
 
 > [!NOTE]
 > 本榜单通过对比每日快照，计算最近 30 天的星标增长数量 ($\Delta Stars$) 进行排序，旨在发现处于【快速爆发期】的新项目。
 
 ## Top 3 Growth Highlights
 
-### 🥇 Top 1 · [vercel-labs/ui](https://github.com/vercel-labs/ui)
+### 🥇 Top 1 · [XinaTian/MROffice](https://github.com/XinaTian/MROffice)
 
-**本月涨星**: +7357 | **总星数**: 7357 | **Language**: TypeScript | **Updated**: 2026-11-25
-
-**项目简介**：这是一个智能体项目，关注该方向的工程实践。
-
-**适用场景**：适合做 AI 智能体、自动执行和多 Agent 协作
-
-**标签**：accessibility / 智能体 / 智能体 / 人工智能
-
-### 🥈 Top 2 · [XinaTian/MROffice](https://github.com/XinaTian/MROffice)
-
-**本月涨星**: +4384 | **总星数**: 4384 | **Language**: TypeScript | **Updated**: 2026-11-25
+**本月涨星**: +5105 | **总星数**: 5105 | **Language**: TypeScript | **Updated**: 2026-11-26
 
 **项目简介**：这是一个智能体项目，用于把 MCP/OpenAPI 能力快速转成命令行工具。
 
@@ -39,63 +29,60 @@
 
 **标签**：人工智能 / AI 智能体 / Claude Code / codex
 
-### 🥉 Top 3 · [sleepy-zone/ai-ref-library-cn](https://github.com/sleepy-zone/ai-ref-library-cn)
+### 🥈 Top 2 · [opensetlabs/openset-llm](https://github.com/opensetlabs/openset-llm)
 
-**本月涨星**: +794 | **总星数**: 794 | **Language**: JavaScript | **Updated**: 2026-11-23
+**本月涨星**: +1236 | **总星数**: 1236 | **Language**: C++ | **Updated**: 2026-11-26
 
 **项目简介**：这是一个AI 项目，关注该方向的工程实践。
 
 **适用场景**：适合关注 AI 新项目、产品形态和工程实现思路
 
-**标签**：人工智能 / gpt
+**标签**：人工智能 / avx512 / cpu-inference / edge-ai
+
+### 🥉 Top 3 · [interfere-inc/landmines](https://github.com/interfere-inc/landmines)
+
+**本月涨星**: +818 | **总星数**: 818 | **Language**: TypeScript | **Updated**: 2026-11-26
+
+**项目简介**：这是一个智能体项目，关注该方向的工程实践。
+
+**适用场景**：适合做 AI 智能体、自动执行和多 Agent 协作
+
+**标签**：智能体 / 人工智能 / lint / oxlint
 
 ## Top 20 Growth Overview
 
 | # | Project | Growth | Total Stars | Language | 项目简介 | Updated |
 |---:|---|---:|---:|---|---|---|
-| 1 | [vercel-labs/ui](https://github.com/vercel-labs/ui) | 📈 +7357 | ⭐ 7357 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-11-25 |
-| 2 | [XinaTian/MROffice](https://github.com/XinaTian/MROffice) | 📈 +4384 | ⭐ 4384 | TypeScript | 这是一个智能体项目，用于把 MCP/OpenAPI 能力快速转成命令行工… | 2026-11-25 |
-| 3 | [sleepy-zone/ai-ref-library-cn](https://github.com/sleepy-zone/ai-ref-library-cn) | 📈 +794 | ⭐ 794 | JavaScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-11-23 |
-| 4 | [interfere-inc/landmines](https://github.com/interfere-inc/landmines) | 📈 +789 | ⭐ 789 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-11-25 |
-| 5 | [TIGER-AI-Lab/WebsiteBench](https://github.com/TIGER-AI-Lab/WebsiteBench) | 📈 +737 | ⭐ 737 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-11-25 |
-| 6 | [amitshekhariitbhu/forward-deployed-engineer-roadmap](https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap) | 📈 +625 | ⭐ 625 | Markdown | 这是一个AI 项目，关注该方向的工程实践。 | 2026-11-25 |
+| 1 | [XinaTian/MROffice](https://github.com/XinaTian/MROffice) | 📈 +5105 | ⭐ 5105 | TypeScript | 这是一个智能体项目，用于把 MCP/OpenAPI 能力快速转成命令行工… | 2026-11-26 |
+| 2 | [opensetlabs/openset-llm](https://github.com/opensetlabs/openset-llm) | 📈 +1236 | ⭐ 1236 | C++ | 这是一个AI 项目，关注该方向的工程实践。 | 2026-11-26 |
+| 3 | [interfere-inc/landmines](https://github.com/interfere-inc/landmines) | 📈 +818 | ⭐ 818 | TypeScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-11-26 |
+| 4 | [sleepy-zone/ai-ref-library-cn](https://github.com/sleepy-zone/ai-ref-library-cn) | 📈 +798 | ⭐ 798 | JavaScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-11-26 |
+| 5 | [TIGER-AI-Lab/WebsiteBench](https://github.com/TIGER-AI-Lab/WebsiteBench) | 📈 +780 | ⭐ 780 | Python | 这是一个智能体项目，关注该方向的工程实践。 | 2026-11-26 |
+| 6 | [amitshekhariitbhu/forward-deployed-engineer-roadmap](https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap) | 📈 +642 | ⭐ 642 | Markdown | 这是一个AI 项目，关注该方向的工程实践。 | 2026-11-26 |
 | 7 | [beiwocaishijia/gezhi-sheets](https://github.com/beiwocaishijia/gezhi-sheets) | 📈 +604 | ⭐ 604 | JavaScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-11-24 |
-| 8 | [thesysdev/opendashboards](https://github.com/thesysdev/opendashboards) | 📈 +492 | ⭐ 492 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-11-25 |
-| 9 | [KenKaiii/Roamies](https://github.com/KenKaiii/Roamies) | 📈 +464 | ⭐ 464 | JavaScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-11-24 |
+| 8 | [thesysdev/opendashboards](https://github.com/thesysdev/opendashboards) | 📈 +501 | ⭐ 501 | TypeScript | 这是一个AI 项目，关注该方向的工程实践。 | 2026-11-26 |
+| 9 | [KenKaiii/Roamies](https://github.com/KenKaiii/Roamies) | 📈 +473 | ⭐ 473 | JavaScript | 这是一个智能体项目，关注该方向的工程实践。 | 2026-11-26 |
 | 10 | [YellowLaborerMarket/Gemini-Config-Checker-](https://github.com/YellowLaborerMarket/Gemini-Config-Checker-) | 📈 +454 | ⭐ 454 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-24 |
 | 11 | [weightcashiercupola/Gemini-Config-Checker-](https://github.com/weightcashiercupola/Gemini-Config-Checker-) | 📈 +452 | ⭐ 452 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-24 |
 | 12 | [WingDataVacuum/Gemini-Config-Checker-](https://github.com/WingDataVacuum/Gemini-Config-Checker-) | 📈 +451 | ⭐ 451 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-24 |
 | 13 | [TypeTyrantScheme/Gemini-Config-Checker-](https://github.com/TypeTyrantScheme/Gemini-Config-Checker-) | 📈 +451 | ⭐ 451 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-24 |
 | 14 | [WinnerSpecialist/Gemini-Config-Checker-](https://github.com/WinnerSpecialist/Gemini-Config-Checker-) | 📈 +451 | ⭐ 451 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-24 |
 | 15 | [Violetnyudress/Gemini-Config-Checker-](https://github.com/Violetnyudress/Gemini-Config-Checker-) | 📈 +451 | ⭐ 451 | Go | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-24 |
-| 16 | [Visionbeyondtrack/Gemini-Config-Checker-](https://github.com/Visionbeyondtrack/Gemini-Config-Checker-) | 📈 +451 | ⭐ 451 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-24 |
-| 17 | [WireProvostPucker/Gemini-Config-Checker-](https://github.com/WireProvostPucker/Gemini-Config-Checker-) | 📈 +451 | ⭐ 451 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-24 |
-| 18 | [TurtleReside/Gemini-Config-Checker-](https://github.com/TurtleReside/Gemini-Config-Checker-) | 📈 +451 | ⭐ 451 | Go | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-24 |
-| 19 | [weldbladesmithwharf/Gemini-Config-Checker-](https://github.com/weldbladesmithwharf/Gemini-Config-Checker-) | 📈 +451 | ⭐ 451 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-24 |
-| 20 | [WindGatorRise37/Gemini-Config-Checker-](https://github.com/WindGatorRise37/Gemini-Config-Checker-) | 📈 +451 | ⭐ 451 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-24 |
+| 16 | [VortexHostFeel/Gemini-Config-Checker-](https://github.com/VortexHostFeel/Gemini-Config-Checker-) | 📈 +451 | ⭐ 451 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-24 |
+| 17 | [WindGatorRise37/Gemini-Config-Checker-](https://github.com/WindGatorRise37/Gemini-Config-Checker-) | 📈 +451 | ⭐ 451 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-24 |
+| 18 | [WireProvostPucker/Gemini-Config-Checker-](https://github.com/WireProvostPucker/Gemini-Config-Checker-) | 📈 +451 | ⭐ 451 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-24 |
+| 19 | [Visionbeyondtrack/Gemini-Config-Checker-](https://github.com/Visionbeyondtrack/Gemini-Config-Checker-) | 📈 +451 | ⭐ 451 | Makefile | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-24 |
+| 20 | [VisionWormStudio/Gemini-Config-Checker-](https://github.com/VisionWormStudio/Gemini-Config-Checker-) | 📈 +451 | ⭐ 451 | Go | 这是一个自动化与效率工具项目，关注该方向的工程实践。 | 2026-11-24 |
 
 ## Project Details
 
 <details>
-<summary><strong>1. vercel-labs/ui</strong> · 📈 +7357 · ⭐ 7357 · TypeScript</summary>
-
-- **Repository**: https://github.com/vercel-labs/ui
-- **Owner**: `vercel-labs`
-- **Created**: `2026-10-26`
-- **Updated**: `2026-11-25`
-- **Topics**: accessibility / 智能体 / 智能体 / 人工智能 / aria / behaviors
-- **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
-- **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
-
-</details>
-
-<details>
-<summary><strong>2. XinaTian/MROffice</strong> · 📈 +4384 · ⭐ 4384 · TypeScript</summary>
+<summary><strong>1. XinaTian/MROffice</strong> · 📈 +5105 · ⭐ 5105 · TypeScript</summary>
 
 - **Repository**: https://github.com/XinaTian/MROffice
 - **Owner**: `XinaTian`
 - **Created**: `2026-11-10`
-- **Updated**: `2026-11-25`
+- **Updated**: `2026-11-26`
 - **Topics**: 人工智能 / AI 智能体 / Claude Code / codex / copilot / cursor
 - **项目简介**: 这是一个智能体项目，用于把 MCP/OpenAPI 能力快速转成命令行工具。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -103,25 +90,25 @@
 </details>
 
 <details>
-<summary><strong>3. sleepy-zone/ai-ref-library-cn</strong> · 📈 +794 · ⭐ 794 · JavaScript</summary>
+<summary><strong>2. opensetlabs/openset-llm</strong> · 📈 +1236 · ⭐ 1236 · C++</summary>
 
-- **Repository**: https://github.com/sleepy-zone/ai-ref-library-cn
-- **Owner**: `sleepy-zone`
-- **Created**: `2026-10-29`
-- **Updated**: `2026-11-23`
-- **Topics**: 人工智能 / gpt
+- **Repository**: https://github.com/opensetlabs/openset-llm
+- **Owner**: `opensetlabs`
+- **Created**: `2026-11-13`
+- **Updated**: `2026-11-26`
+- **Topics**: 人工智能 / avx512 / cpu-inference / edge-ai / gguf / inference-engine
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
 
 </details>
 
 <details>
-<summary><strong>4. interfere-inc/landmines</strong> · 📈 +789 · ⭐ 789 · TypeScript</summary>
+<summary><strong>3. interfere-inc/landmines</strong> · 📈 +818 · ⭐ 818 · TypeScript</summary>
 
 - **Repository**: https://github.com/interfere-inc/landmines
 - **Owner**: `interfere-inc`
 - **Created**: `2026-10-28`
-- **Updated**: `2026-11-25`
+- **Updated**: `2026-11-26`
 - **Topics**: 智能体 / 人工智能 / lint / oxlint / oxlint-plugin / testing
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -129,12 +116,25 @@
 </details>
 
 <details>
-<summary><strong>5. TIGER-AI-Lab/WebsiteBench</strong> · 📈 +737 · ⭐ 737 · Python</summary>
+<summary><strong>4. sleepy-zone/ai-ref-library-cn</strong> · 📈 +798 · ⭐ 798 · JavaScript</summary>
+
+- **Repository**: https://github.com/sleepy-zone/ai-ref-library-cn
+- **Owner**: `sleepy-zone`
+- **Created**: `2026-10-29`
+- **Updated**: `2026-11-26`
+- **Topics**: 人工智能 / gpt
+- **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
+- **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
+
+</details>
+
+<details>
+<summary><strong>5. TIGER-AI-Lab/WebsiteBench</strong> · 📈 +780 · ⭐ 780 · Python</summary>
 
 - **Repository**: https://github.com/TIGER-AI-Lab/WebsiteBench
 - **Owner**: `TIGER-AI-Lab`
 - **Created**: `2026-11-04`
-- **Updated**: `2026-11-25`
+- **Updated**: `2026-11-26`
 - **Topics**: agent-evaluation / 人工智能 / AI 智能体 / benchmark / benchmarking / browser-automation
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -142,12 +142,12 @@
 </details>
 
 <details>
-<summary><strong>6. amitshekhariitbhu/forward-deployed-engineer-roadmap</strong> · 📈 +625 · ⭐ 625 · Markdown</summary>
+<summary><strong>6. amitshekhariitbhu/forward-deployed-engineer-roadmap</strong> · 📈 +642 · ⭐ 642 · Markdown</summary>
 
 - **Repository**: https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap
 - **Owner**: `amitshekhariitbhu`
 - **Created**: `2026-10-30`
-- **Updated**: `2026-11-25`
+- **Updated**: `2026-11-26`
 - **Topics**: 人工智能 / fde / fde-interview / forward-deployed-engineer / forward-deployed-engineering / roadmap
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
@@ -168,12 +168,12 @@
 </details>
 
 <details>
-<summary><strong>8. thesysdev/opendashboards</strong> · 📈 +492 · ⭐ 492 · TypeScript</summary>
+<summary><strong>8. thesysdev/opendashboards</strong> · 📈 +501 · ⭐ 501 · TypeScript</summary>
 
 - **Repository**: https://github.com/thesysdev/opendashboards
 - **Owner**: `thesysdev`
 - **Created**: `2026-11-06`
-- **Updated**: `2026-11-25`
+- **Updated**: `2026-11-26`
 - **Topics**: 人工智能 / analytics / Claude / dashboard / dashboards
 - **项目简介**: 这是一个AI 项目，关注该方向的工程实践。
 - **适用场景**: 适合关注 AI 新项目、产品形态和工程实现思路
@@ -181,12 +181,12 @@
 </details>
 
 <details>
-<summary><strong>9. KenKaiii/Roamies</strong> · 📈 +464 · ⭐ 464 · JavaScript</summary>
+<summary><strong>9. KenKaiii/Roamies</strong> · 📈 +473 · ⭐ 473 · JavaScript</summary>
 
 - **Repository**: https://github.com/KenKaiii/Roamies
 - **Owner**: `KenKaiii`
 - **Created**: `2026-10-28`
-- **Updated**: `2026-11-24`
+- **Updated**: `2026-11-26`
 - **Topics**: adhd / agentic-ai / 人工智能 / AI 智能体 / ai-assistant / anthropic
 - **项目简介**: 这是一个智能体项目，关注该方向的工程实践。
 - **适用场景**: 适合做 AI 智能体、自动执行和多 Agent 协作
@@ -272,10 +272,10 @@
 </details>
 
 <details>
-<summary><strong>16. Visionbeyondtrack/Gemini-Config-Checker-</strong> · 📈 +451 · ⭐ 451 · Makefile</summary>
+<summary><strong>16. VortexHostFeel/Gemini-Config-Checker-</strong> · 📈 +451 · ⭐ 451 · Makefile</summary>
 
-- **Repository**: https://github.com/Visionbeyondtrack/Gemini-Config-Checker-
-- **Owner**: `Visionbeyondtrack`
+- **Repository**: https://github.com/VortexHostFeel/Gemini-Config-Checker-
+- **Owner**: `VortexHostFeel`
 - **Created**: `2026-11-15`
 - **Updated**: `2026-11-24`
 - **Topics**: 人工智能 / ai-search / aichecker / chatgpt / 命令行 / config-checker
@@ -285,7 +285,20 @@
 </details>
 
 <details>
-<summary><strong>17. WireProvostPucker/Gemini-Config-Checker-</strong> · 📈 +451 · ⭐ 451 · Makefile</summary>
+<summary><strong>17. WindGatorRise37/Gemini-Config-Checker-</strong> · 📈 +451 · ⭐ 451 · Makefile</summary>
+
+- **Repository**: https://github.com/WindGatorRise37/Gemini-Config-Checker-
+- **Owner**: `WindGatorRise37`
+- **Created**: `2026-11-15`
+- **Updated**: `2026-11-24`
+- **Topics**: 人工智能 / ai-search / aichecker / chatgpt / 命令行 / config-checker
+- **项目简介**: 这是一个自动化与效率工具项目，关注该方向的工程实践。
+- **适用场景**: 适合做自动化流程、命令行工具和研发提效
+
+</details>
+
+<details>
+<summary><strong>18. WireProvostPucker/Gemini-Config-Checker-</strong> · 📈 +451 · ⭐ 451 · Makefile</summary>
 
 - **Repository**: https://github.com/WireProvostPucker/Gemini-Config-Checker-
 - **Owner**: `WireProvostPucker`
@@ -298,10 +311,10 @@
 </details>
 
 <details>
-<summary><strong>18. TurtleReside/Gemini-Config-Checker-</strong> · 📈 +451 · ⭐ 451 · Go</summary>
+<summary><strong>19. Visionbeyondtrack/Gemini-Config-Checker-</strong> · 📈 +451 · ⭐ 451 · Makefile</summary>
 
-- **Repository**: https://github.com/TurtleReside/Gemini-Config-Checker-
-- **Owner**: `TurtleReside`
+- **Repository**: https://github.com/Visionbeyondtrack/Gemini-Config-Checker-
+- **Owner**: `Visionbeyondtrack`
 - **Created**: `2026-11-15`
 - **Updated**: `2026-11-24`
 - **Topics**: 人工智能 / ai-search / aichecker / chatgpt / 命令行 / config-checker
@@ -311,23 +324,10 @@
 </details>
 
 <details>
-<summary><strong>19. weldbladesmithwharf/Gemini-Config-Checker-</strong> · 📈 +451 · ⭐ 451 · Makefile</summary>
+<summary><strong>20. VisionWormStudio/Gemini-Config-Checker-</strong> · 📈 +451 · ⭐ 451 · Go</summary>
 
-- **Repository**: https://github.com/weldbladesmithwharf/Gemini-Config-Checker-
-- **Owner**: `weldbladesmithwharf`
-- **Created**: `2026-11-15`
-- **Updated**: `2026-11-24`
-- **Topics**: 人工智能 / ai-search / aichecker / chatgpt / 命令行 / config-checker
-- **项目简介**: 这是一个自动化与效率工具项目，关注该方向的工程实践。
-- **适用场景**: 适合做自动化流程、命令行工具和研发提效
-
-</details>
-
-<details>
-<summary><strong>20. WindGatorRise37/Gemini-Config-Checker-</strong> · 📈 +451 · ⭐ 451 · Makefile</summary>
-
-- **Repository**: https://github.com/WindGatorRise37/Gemini-Config-Checker-
-- **Owner**: `WindGatorRise37`
+- **Repository**: https://github.com/VisionWormStudio/Gemini-Config-Checker-
+- **Owner**: `VisionWormStudio`
 - **Created**: `2026-11-15`
 - **Updated**: `2026-11-24`
 - **Topics**: 人工智能 / ai-search / aichecker / chatgpt / 命令行 / config-checker
